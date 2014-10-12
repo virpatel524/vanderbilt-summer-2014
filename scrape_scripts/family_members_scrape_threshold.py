@@ -1,4 +1,4 @@
-# same scraper as before but this time it uses the threshold definitions to determine
+# same scraper as before but this time it uses the threshold definitions to determine which species should be included
 
 import urllib
 import re
@@ -68,7 +68,7 @@ def scrape(name):
 
 def scrapeall():
 
-    fle = open("mirna.txt","r")
+    fle = open("mirviewer_families_list.txt","r")
     mirna = fle.readlines()
     holder = []
     for i in mirna:
@@ -88,6 +88,7 @@ def scrapeall():
 
 
 scrapeddata = scrapeall()
+print scrapeddata
 
 def threshold(scrapedata,num):
     homfam = []

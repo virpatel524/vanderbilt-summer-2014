@@ -68,7 +68,7 @@ def scrape(name):
 
 def scrapeall():
 
-    fle = open("mirviewer_families_list.txt","r")
+    fle = open("new_copies.txt","r")
     mirna = fle.readlines()
     holder = []
     for i in mirna:

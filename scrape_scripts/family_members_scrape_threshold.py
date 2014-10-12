@@ -102,7 +102,7 @@ def threshold(scrapedata,num):
         for homo in scrapeddata[key]:
             famem = ""
             for species in homo:
-                if float(species[-1]) >= float(num) and species[0]!="xtr":
+                if float(species[-1]) >= float(num):
                     if species!= homo[-1]:
                         famem += species[0]+"|miRviewer:"+species[1]+" "
                     else:

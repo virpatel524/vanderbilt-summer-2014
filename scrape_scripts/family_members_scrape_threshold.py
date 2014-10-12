@@ -1,4 +1,7 @@
 # same scraper as before but this time it uses the threshold definitions to determine which species should be included
+# just enter the percent conservations you want in line 114
+# this data comes from mirviewer
+# the mirviewer families can be found in mirviewer_families_list.txt (this directory)
 
 import urllib
 import re
@@ -68,10 +71,12 @@ def scrape(name):
 
 def scrapeall():
 
-    fle = open("new_copies.txt","r")
+    fle = open("mirviewer_families_list.txt","r")
     mirna = fle.readlines()
     holder = []
     for i in mirna:
+        if i[0] == "#":
+            continue
         holder.append(i.split("\n")[0])
     main2homo = {}
 
@@ -110,11 +115,8 @@ def threshold(scrapedata,num):
 def filewrite(scrapeddata):
     for i in [.5,.6,.75,.8,.85,.95,1.0]:
         temp = threshold(scrapeddata,i)
-        fle = open("fams/"+str(int(i*100))+"fams.txt","w")
-
-        for i in temp:
-            if i!= "":
-                fle.write(i+"\n")
+        temp = [item for item in temp if item != '']
+        print temp
 
 
 

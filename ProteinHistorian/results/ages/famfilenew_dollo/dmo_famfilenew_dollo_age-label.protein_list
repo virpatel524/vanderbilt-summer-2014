@@ -1,0 +1,83 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+dmo-bantam	Bilateria
+dmo-let-7	Bilateria
+dmo-mir-1	Bilateria
+dmo-mir-10	Bilateria
+dmo-mir-100	Eumetazoa
+dmo-mir-11	Endopterygota
+dmo-mir-12	Protostomia
+dmo-mir-124	Bilateria
+dmo-mir-125	Bilateria
+dmo-mir-133	Bilateria
+dmo-mir-13a	Neoptera
+dmo-mir-13b-1	Brachycera
+dmo-mir-13b-2	Brachycera
+dmo-mir-14	Neoptera
+dmo-mir-184	Bilateria
+dmo-mir-210	Bilateria
+dmo-mir-219	Bilateria
+dmo-mir-263a	Arthropoda
+dmo-mir-274	Endopterygota
+dmo-mir-275	Arthropoda
+dmo-mir-276a	Brachycera
+dmo-mir-276b	Brachycera
+dmo-mir-277	Bilateria
+dmo-mir-278	Bilateria
+dmo-mir-279	Protostomia
+dmo-mir-280	Drosophila
+dmo-mir-281-1	Diptera
+dmo-mir-281-2	Diptera
+dmo-mir-282	Endopterygota
+dmo-mir-283	Ecdysozoa
+dmo-mir-284	Brachycera
+dmo-mir-285	Arthropoda
+dmo-mir-286	Diptera
+dmo-mir-287	Drosophila
+dmo-mir-288	Brachycera
+dmo-mir-2a-1	Bilateria
+dmo-mir-2a-2	Bilateria
+dmo-mir-2b	Bilateria
+dmo-mir-2c	Bilateria
+dmo-mir-3	Drosophila
+dmo-mir-304	Drosophila
+dmo-mir-305	Arthropoda
+dmo-mir-306	Endopterygota
+dmo-mir-307	Ecdysozoa
+dmo-mir-308	Endopterygota
+dmo-mir-309	Diptera
+dmo-mir-313	Drosophila
+dmo-mir-314	Brachycera
+dmo-mir-315	Bilateria
+dmo-mir-316	Neoptera
+dmo-mir-317	Arthropoda
+dmo-mir-318	Drosophila
+dmo-mir-31a	Bilateria
+dmo-mir-31b	Bilateria
+dmo-mir-33	Bilateria
+dmo-mir-34	Bilateria
+dmo-mir-4	Drosophila
+dmo-mir-5	Drosophila
+dmo-mir-6-1	Brachycera
+dmo-mir-6-2	Brachycera
+dmo-mir-6-3	Brachycera
+dmo-mir-7	Bilateria
+dmo-mir-79	Bilateria
+dmo-mir-8	Bilateria
+dmo-mir-87	Bilateria
+dmo-mir-92a	Bilateria
+dmo-mir-92b	Bilateria
+dmo-mir-9a	Bilateria
+dmo-mir-9b	Bilateria
+dmo-mir-9c	Endopterygota
+dmo-mir-iab-4	Arthropoda

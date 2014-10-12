@@ -1,0 +1,118 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+dvi-bantam	Bilateria
+dvi-let-7	Bilateria
+dvi-mir-1	Bilateria
+dvi-mir-10	Bilateria
+dvi-mir-100	Eumetazoa
+dvi-mir-1000	Neoptera
+dvi-mir-1002	Drosophila
+dvi-mir-1006	Drosophila
+dvi-mir-1010	Drosophila
+dvi-mir-11	Endopterygota
+dvi-mir-12	Protostomia
+dvi-mir-124	Bilateria
+dvi-mir-125	Bilateria
+dvi-mir-133	Bilateria
+dvi-mir-137	Bilateria
+dvi-mir-13a	Neoptera
+dvi-mir-13b-1	Brachycera
+dvi-mir-13b-2	Brachycera
+dvi-mir-14	Neoptera
+dvi-mir-184	Bilateria
+dvi-mir-190	Bilateria
+dvi-mir-210	Bilateria
+dvi-mir-219	Bilateria
+dvi-mir-252	Ecdysozoa
+dvi-mir-263a	Arthropoda
+dvi-mir-263b	Arthropoda
+dvi-mir-274	Endopterygota
+dvi-mir-275	Arthropoda
+dvi-mir-276a	Brachycera
+dvi-mir-276b	Brachycera
+dvi-mir-277	Bilateria
+dvi-mir-278	Bilateria
+dvi-mir-279	Protostomia
+dvi-mir-280	Drosophila
+dvi-mir-281-1	Diptera
+dvi-mir-281-2	Diptera
+dvi-mir-282	Endopterygota
+dvi-mir-283	Ecdysozoa
+dvi-mir-284	Brachycera
+dvi-mir-285	Arthropoda
+dvi-mir-286	Diptera
+dvi-mir-287	Drosophila
+dvi-mir-288	Brachycera
+dvi-mir-2a-1	Bilateria
+dvi-mir-2a-2	Bilateria
+dvi-mir-2b	Bilateria
+dvi-mir-2c	Bilateria
+dvi-mir-3	Drosophila
+dvi-mir-304	Drosophila
+dvi-mir-305	Arthropoda
+dvi-mir-306	Endopterygota
+dvi-mir-307	Ecdysozoa
+dvi-mir-308	Endopterygota
+dvi-mir-309	Diptera
+dvi-mir-310	Drosophila
+dvi-mir-311	Drosophila
+dvi-mir-313	Drosophila
+dvi-mir-314	Brachycera
+dvi-mir-315a	virilis_group
+dvi-mir-316	Neoptera
+dvi-mir-317	Arthropoda
+dvi-mir-318	Drosophila
+dvi-mir-31a	Bilateria
+dvi-mir-31b	Bilateria
+dvi-mir-33	Bilateria
+dvi-mir-34	Bilateria
+dvi-mir-4	Drosophila
+dvi-mir-5	Drosophila
+dvi-mir-6-1	Brachycera
+dvi-mir-6-2	Brachycera
+dvi-mir-6-3	Brachycera
+dvi-mir-7	Bilateria
+dvi-mir-79	Bilateria
+dvi-mir-8	Bilateria
+dvi-mir-87	Bilateria
+dvi-mir-927	Neoptera
+dvi-mir-929	Neoptera
+dvi-mir-92a	Bilateria
+dvi-mir-92b	Bilateria
+dvi-mir-932	Endopterygota
+dvi-mir-956	Drosophila
+dvi-mir-957	Diptera
+dvi-mir-958	Drosophila
+dvi-mir-965	Mandibulata
+dvi-mir-968	Drosophila
+dvi-mir-969	Drosophila
+dvi-mir-970	Endopterygota
+dvi-mir-971	Neoptera
+dvi-mir-973	Drosophila
+dvi-mir-974-1	virilis_group
+dvi-mir-974-2	virilis_group
+dvi-mir-980	Endopterygota
+dvi-mir-981	Bilateria
+dvi-mir-987	Drosophila
+dvi-mir-988	Diptera
+dvi-mir-989	Endopterygota
+dvi-mir-993	Protostomia
+dvi-mir-995	Drosophila
+dvi-mir-996	Neoptera
+dvi-mir-998	Endopterygota
+dvi-mir-999	Diptera
+dvi-mir-9a	Bilateria
+dvi-mir-9b	Bilateria
+dvi-mir-9c	Endopterygota
+dvi-mir-iab-4	Arthropoda
+dvi-mir-iab-8	Endopterygota

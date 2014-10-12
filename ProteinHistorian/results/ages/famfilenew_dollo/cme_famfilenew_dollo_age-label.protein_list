@@ -1,0 +1,124 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+cme-MIR156a	Embryophyta
+cme-MIR156b	Embryophyta
+cme-MIR156c	Embryophyta
+cme-MIR156d	Tracheophyta
+cme-MIR156e	Mesangiospermae
+cme-MIR156f	Mesangiospermae
+cme-MIR156g	Mesangiospermae
+cme-MIR156h	Mesangiospermae
+cme-MIR156i	Mesangiospermae
+cme-MIR156j	Mesangiospermae
+cme-MIR159a	Spermatophyta
+cme-MIR159b	Spermatophyta
+cme-MIR160a	Embryophyta
+cme-MIR160b	Embryophyta
+cme-MIR160c	Embryophyta
+cme-MIR160d	Embryophyta
+cme-MIR162	Spermatophyta
+cme-MIR164a	Magnoliophyta
+cme-MIR164b	Magnoliophyta
+cme-MIR164c	Mesangiospermae
+cme-MIR164d	Mesangiospermae
+cme-MIR166a	Embryophyta
+cme-MIR166b	Embryophyta
+cme-MIR166c	Embryophyta
+cme-MIR166d	Embryophyta
+cme-MIR166e	Embryophyta
+cme-MIR166f	Embryophyta
+cme-MIR166g	Embryophyta
+cme-MIR166h	Embryophyta
+cme-MIR166i	Embryophyta
+cme-MIR167a	Mesangiospermae
+cme-MIR167b	Mesangiospermae
+cme-MIR167c	Mesangiospermae
+cme-MIR167d	Mesangiospermae
+cme-MIR167e	Mesangiospermae
+cme-MIR167f	Mesangiospermae
+cme-MIR168	Magnoliophyta
+cme-MIR169a	Magnoliophyta
+cme-MIR169b	Magnoliophyta
+cme-MIR169c	Magnoliophyta
+cme-MIR169d	Mesangiospermae
+cme-MIR169e	Mesangiospermae
+cme-MIR169f	Mesangiospermae
+cme-MIR169g	Mesangiospermae
+cme-MIR169h	Mesangiospermae
+cme-MIR169i	Mesangiospermae
+cme-MIR169j	Mesangiospermae
+cme-MIR169k	Mesangiospermae
+cme-MIR169l	Mesangiospermae
+cme-MIR169m	Mesangiospermae
+cme-MIR169n	Mesangiospermae
+cme-MIR169o	Mesangiospermae
+cme-MIR169p	Mesangiospermae
+cme-MIR169q	Mesangiospermae
+cme-MIR169r	Mesangiospermae
+cme-MIR169s	Pentapetalae
+cme-MIR171a	Embryophyta
+cme-MIR171b	Embryophyta
+cme-MIR171c	Tracheophyta
+cme-MIR171d	Tracheophyta
+cme-MIR171e	Mesangiospermae
+cme-MIR171f	Mesangiospermae
+cme-MIR171g	Mesangiospermae
+cme-MIR171h	Mesangiospermae
+cme-MIR171i	Mesangiospermae
+cme-MIR172a	Mesangiospermae
+cme-MIR172b	Mesangiospermae
+cme-MIR172c	Mesangiospermae
+cme-MIR172d	Mesangiospermae
+cme-MIR172e	Mesangiospermae
+cme-MIR172f	Mesangiospermae
+cme-MIR2111a	rosids
+cme-MIR2111b	rosids
+cme-MIR319a	Embryophyta
+cme-MIR319b	Embryophyta
+cme-MIR319c	Embryophyta
+cme-MIR319d	Embryophyta
+cme-MIR390a	Embryophyta
+cme-MIR390b	Embryophyta
+cme-MIR390c	Embryophyta
+cme-MIR390d	fabids
+cme-MIR393a	Mesangiospermae
+cme-MIR393b	Mesangiospermae
+cme-MIR393c	Mesangiospermae
+cme-MIR394a	Mesangiospermae
+cme-MIR394b	Mesangiospermae
+cme-MIR395a	Mesangiospermae
+cme-MIR395b	Mesangiospermae
+cme-MIR395c	Mesangiospermae
+cme-MIR395d	Mesangiospermae
+cme-MIR395e	Mesangiospermae
+cme-MIR395f	Mesangiospermae
+cme-MIR396a	Spermatophyta
+cme-MIR396b	Spermatophyta
+cme-MIR396c	Spermatophyta
+cme-MIR396d	Magnoliophyta
+cme-MIR396e	Magnoliophyta
+cme-MIR397	Spermatophyta
+cme-MIR398a	Mesangiospermae
+cme-MIR398b	Mesangiospermae
+cme-MIR399a	Mesangiospermae
+cme-MIR399b	Mesangiospermae
+cme-MIR399c	Mesangiospermae
+cme-MIR399d	Mesangiospermae
+cme-MIR399e	Mesangiospermae
+cme-MIR399f	Mesangiospermae
+cme-MIR399g	Mesangiospermae
+cme-MIR408	Spermatophyta
+cme-MIR477b	Embryophyta
+cme-MIR530a	Mesangiospermae
+cme-MIR530b	Mesangiospermae
+cme-MIR828	Magnoliophyta

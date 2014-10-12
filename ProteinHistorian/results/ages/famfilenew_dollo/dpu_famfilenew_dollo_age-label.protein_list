@@ -1,0 +1,50 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+dpu-bantam	Bilateria
+dpu-mir-1	Bilateria
+dpu-mir-10	Bilateria
+dpu-mir-100	Eumetazoa
+dpu-mir-12	Protostomia
+dpu-mir-124	Bilateria
+dpu-mir-133	Bilateria
+dpu-mir-137	Bilateria
+dpu-mir-153	Bilateria
+dpu-mir-2-1	Ecdysozoa
+dpu-mir-2-2	Ecdysozoa
+dpu-mir-219	Bilateria
+dpu-mir-252a	Bilateria
+dpu-mir-252b	Bilateria
+dpu-mir-263a	Arthropoda
+dpu-mir-263b	Arthropoda
+dpu-mir-275	Arthropoda
+dpu-mir-276	Arthropoda
+dpu-mir-278	Bilateria
+dpu-mir-279a	Ecdysozoa
+dpu-mir-281	Bilateria
+dpu-mir-283	Ecdysozoa
+dpu-mir-285	Arthropoda
+dpu-mir-307	Ecdysozoa
+dpu-mir-31	Bilateria
+dpu-mir-315	Bilateria
+dpu-mir-317	Arthropoda
+dpu-mir-33	Bilateria
+dpu-mir-34	Bilateria
+dpu-mir-7	Bilateria
+dpu-mir-71	Bilateria
+dpu-mir-8	Bilateria
+dpu-mir-9	Bilateria
+dpu-mir-92	Bilateria
+dpu-mir-965	Mandibulata
+dpu-mir-981	Bilateria
+dpu-mir-993	Protostomia
+dpu-mir-iab-4	Arthropoda

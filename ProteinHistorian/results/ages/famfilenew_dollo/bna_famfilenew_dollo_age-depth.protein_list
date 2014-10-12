@@ -1,0 +1,94 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+bna-MIR1140	1
+bna-MIR156a	15
+bna-MIR156b	15
+bna-MIR156c	15
+bna-MIR156d	14
+bna-MIR156e	10
+bna-MIR156f	10
+bna-MIR156g	10
+bna-MIR159	14
+bna-MIR160a	15
+bna-MIR160b	15
+bna-MIR160c	15
+bna-MIR160d	15
+bna-MIR161	3
+bna-MIR162a	10
+bna-MIR164a	11
+bna-MIR164b	11
+bna-MIR164c	10
+bna-MIR164d	10
+bna-MIR166a	15
+bna-MIR166b	15
+bna-MIR166c	15
+bna-MIR166d	15
+bna-MIR166e	15
+bna-MIR166f	15
+bna-MIR167a	10
+bna-MIR167b	10
+bna-MIR167c	10
+bna-MIR167d	10
+bna-MIR168a	10
+bna-MIR168b	10
+bna-MIR169a	11
+bna-MIR169b	11
+bna-MIR169c	11
+bna-MIR169d	10
+bna-MIR169e	10
+bna-MIR169f	10
+bna-MIR169g	10
+bna-MIR169h	10
+bna-MIR169i	10
+bna-MIR169j	10
+bna-MIR169k	10
+bna-MIR169l	10
+bna-MIR169m	10
+bna-MIR169n	10
+bna-MIR171a	15
+bna-MIR171b	15
+bna-MIR171c	14
+bna-MIR171d	14
+bna-MIR171e	10
+bna-MIR171f	10
+bna-MIR171g	10
+bna-MIR172a	10
+bna-MIR172b	10
+bna-MIR172c	10
+bna-MIR172d	10
+bna-MIR2111a	6
+bna-MIR2111b	6
+bna-MIR2111c	6
+bna-MIR2111d	6
+bna-MIR390a	15
+bna-MIR390b	15
+bna-MIR390c	15
+bna-MIR393	11
+bna-MIR394a	10
+bna-MIR394b	10
+bna-MIR395a	10
+bna-MIR395b	10
+bna-MIR395c	10
+bna-MIR395d	10
+bna-MIR395e	10
+bna-MIR395f	10
+bna-MIR396a	12
+bna-MIR397a	11
+bna-MIR397b	11
+bna-MIR399a	10
+bna-MIR399b	10
+bna-MIR399c	10
+bna-MIR403	7
+bna-MIR6032	1
+bna-MIR824	3
+bna-MIR860	3

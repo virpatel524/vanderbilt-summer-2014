@@ -1,0 +1,33 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+sma-let-7	Bilateria
+sma-mir-10	Bilateria
+sma-mir-125a	Bilateria
+sma-mir-125b	Bilateria
+sma-mir-190	Bilateria
+sma-mir-1a	Bilateria
+sma-mir-2162	Trematoda
+sma-mir-219	Bilateria
+sma-mir-2a	Bilateria
+sma-mir-2b	Bilateria
+sma-mir-2c	Bilateria
+sma-mir-2d	Platyhelminthes
+sma-mir-2e	Trematoda
+sma-mir-31	Bilateria
+sma-mir-3479	Trematoda
+sma-mir-3492	Trematoda
+sma-mir-36a	sma
+sma-mir-61	Bilateria
+sma-mir-71a	Bilateria
+sma-mir-71b	Bilateria
+sma-mir-8	Bilateria

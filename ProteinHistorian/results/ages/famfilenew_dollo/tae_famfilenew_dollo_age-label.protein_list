@@ -1,0 +1,79 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+tae-MIR1119	Pooideae
+tae-MIR1120a	tae
+tae-MIR1120b	tae
+tae-MIR1120c	tae
+tae-MIR1121	tae
+tae-MIR1122a	tae
+tae-MIR1122c	tae
+tae-MIR1127a	tae
+tae-MIR1127b	tae
+tae-MIR1128	tae
+tae-MIR1130a	tae
+tae-MIR1130b	tae
+tae-MIR1133	tae
+tae-MIR1135	Pooideae
+tae-MIR1136	tae
+tae-MIR1137a	tae
+tae-MIR1137b	tae
+tae-MIR1139	Pooideae
+tae-MIR156	Mesangiospermae
+tae-MIR159a	Spermatophyta
+tae-MIR159b	Spermatophyta
+tae-MIR160	Magnoliophyta
+tae-MIR164	Spermatophyta
+tae-MIR167a	Mesangiospermae
+tae-MIR167b	Mesangiospermae
+tae-MIR167c	Mesangiospermae
+tae-MIR169	Spermatophyta
+tae-MIR171a	Embryophyta
+tae-MIR171b	Embryophyta
+tae-MIR2275	tae
+tae-MIR319	Tracheophyta
+tae-MIR395a	Mesangiospermae
+tae-MIR395b	Mesangiospermae
+tae-MIR397	Spermatophyta
+tae-MIR398	Spermatophyta
+tae-MIR399	Mesangiospermae
+tae-MIR408	Spermatophyta
+tae-MIR444a	Poaceae
+tae-MIR444b	Poaceae
+tae-MIR5049	tae
+tae-MIR5050	Triticeae
+tae-MIR5062	tae
+tae-MIR5084	Triticeae
+tae-MIR5175	tae
+tae-MIR5200	Triticeae
+tae-MIR530	Mesangiospermae
+tae-MIR6201	Triticeae
+tae-MIR7757	Pooideae
+tae-MIR9654a	tae
+tae-MIR9654b	tae
+tae-MIR9657a	tae
+tae-MIR9657b	tae
+tae-MIR9657c	tae
+tae-MIR9662a	tae
+tae-MIR9662b	tae
+tae-MIR9666a	tae
+tae-MIR9666b	tae
+tae-MIR9666c	tae
+tae-MIR9672a	tae
+tae-MIR9672b	tae
+tae-MIR9674a	Triticeae
+tae-MIR9674b	Triticeae
+tae-MIR9677a	tae
+tae-MIR9677b	tae
+tae-MIR9772	tae
+tae-MIR9776	Triticeae
+tae-MIR9783	Triticeae

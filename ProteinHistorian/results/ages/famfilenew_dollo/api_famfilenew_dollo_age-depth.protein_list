@@ -1,0 +1,94 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+api-bantam	22
+api-let-7	22
+api-mir-1	22
+api-mir-10	22
+api-mir-100	23
+api-mir-1000	11
+api-mir-124	22
+api-mir-137	22
+api-mir-13a	11
+api-mir-14	11
+api-mir-184a	21
+api-mir-184b	21
+api-mir-190	22
+api-mir-1923	11
+api-mir-210	22
+api-mir-219	22
+api-mir-252a	22
+api-mir-263a	18
+api-mir-263b	18
+api-mir-275	18
+api-mir-276	18
+api-mir-277	22
+api-mir-278	22
+api-mir-279a	20
+api-mir-279b	20
+api-mir-281	22
+api-mir-29	21
+api-mir-2a	22
+api-mir-2b	22
+api-mir-2c	22
+api-mir-3015a-1	10
+api-mir-3015a-2	10
+api-mir-3015b	10
+api-mir-3015c	10
+api-mir-3017b-1	10
+api-mir-3017b-2	10
+api-mir-3017b-3	10
+api-mir-3021-1	10
+api-mir-3021-2	10
+api-mir-3021-3	10
+api-mir-3035-1	10
+api-mir-3035-2	10
+api-mir-3036-1	10
+api-mir-3036-2	10
+api-mir-3036-3	10
+api-mir-3036-4	10
+api-mir-3036-5	10
+api-mir-3043-1	10
+api-mir-3043-2	10
+api-mir-3043-3	10
+api-mir-3045a	10
+api-mir-3045b	10
+api-mir-3047-1	10
+api-mir-3047-2	10
+api-mir-3051-1	10
+api-mir-3051-2	10
+api-mir-3055-1	10
+api-mir-3055-2	10
+api-mir-3055-3	10
+api-mir-3055-4	10
+api-mir-3055-5	10
+api-mir-307	20
+api-mir-315	22
+api-mir-316	11
+api-mir-34	22
+api-mir-7	22
+api-mir-71	22
+api-mir-8	22
+api-mir-87a	22
+api-mir-87b	21
+api-mir-927	11
+api-mir-929	11
+api-mir-92a-1	22
+api-mir-92a-2	22
+api-mir-92b-1	22
+api-mir-92b-2	22
+api-mir-965	17
+api-mir-971	11
+api-mir-993	21
+api-mir-996	11
+api-mir-9a	22
+api-mir-iab-4	18

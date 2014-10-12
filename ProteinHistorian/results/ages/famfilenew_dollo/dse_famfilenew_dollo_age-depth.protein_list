@@ -1,0 +1,90 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+dse-bantam	30
+dse-let-7	30
+dse-mir-1	30
+dse-mir-10	30
+dse-mir-100	31
+dse-mir-11	18
+dse-mir-12	29
+dse-mir-124	30
+dse-mir-125	30
+dse-mir-133	30
+dse-mir-13a	19
+dse-mir-13b-1	16
+dse-mir-13b-2	16
+dse-mir-14	19
+dse-mir-184	30
+dse-mir-210	30
+dse-mir-219	30
+dse-mir-263a	26
+dse-mir-263b	26
+dse-mir-274	18
+dse-mir-275	26
+dse-mir-276a	16
+dse-mir-276b	16
+dse-mir-277	30
+dse-mir-278	30
+dse-mir-279	29
+dse-mir-280	4
+dse-mir-281-1	17
+dse-mir-281-2	17
+dse-mir-282	18
+dse-mir-283	28
+dse-mir-284	16
+dse-mir-285	26
+dse-mir-286	17
+dse-mir-287	4
+dse-mir-288	16
+dse-mir-289	3
+dse-mir-2a-1	30
+dse-mir-2a-2	30
+dse-mir-2a-3	0
+dse-mir-2b-1	28
+dse-mir-2b-2	3
+dse-mir-2c	30
+dse-mir-3	4
+dse-mir-304	4
+dse-mir-305	26
+dse-mir-306	18
+dse-mir-307	28
+dse-mir-308	18
+dse-mir-309	17
+dse-mir-310	4
+dse-mir-311	4
+dse-mir-312	2
+dse-mir-313	4
+dse-mir-314	16
+dse-mir-315	30
+dse-mir-316	19
+dse-mir-317	26
+dse-mir-318	4
+dse-mir-31a	30
+dse-mir-31b	30
+dse-mir-33	30
+dse-mir-34	30
+dse-mir-4	4
+dse-mir-5	4
+dse-mir-6-1	16
+dse-mir-6-2	16
+dse-mir-6-3	16
+dse-mir-7	30
+dse-mir-79	30
+dse-mir-8	30
+dse-mir-87	30
+dse-mir-92a	30
+dse-mir-92b	30
+dse-mir-9a	30
+dse-mir-9b	30
+dse-mir-9c	18
+dse-mir-iab-4	26

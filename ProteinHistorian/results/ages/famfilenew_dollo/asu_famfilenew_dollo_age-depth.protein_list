@@ -1,0 +1,65 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+asu-let-7	9
+asu-lin-4	5
+asu-mir-1	9
+asu-mir-100a-1	9
+asu-mir-100a-2	9
+asu-mir-100d	4
+asu-mir-100e	4
+asu-mir-1175	8
+asu-mir-124	9
+asu-mir-133	9
+asu-mir-228	5
+asu-mir-234	5
+asu-mir-236	5
+asu-mir-239	5
+asu-mir-252	7
+asu-mir-279a	7
+asu-mir-279b	7
+asu-mir-279c	7
+asu-mir-283	7
+asu-mir-2a	9
+asu-mir-34	9
+asu-mir-36c	5
+asu-mir-36d	4
+asu-mir-36e	4
+asu-mir-43b	4
+asu-mir-43c-1	4
+asu-mir-43c-2	4
+asu-mir-43e	4
+asu-mir-44a	4
+asu-mir-46	5
+asu-mir-50	5
+asu-mir-5345a	4
+asu-mir-5345b	4
+asu-mir-5350b	4
+asu-mir-5350c	4
+asu-mir-5360	5
+asu-mir-5365a	4
+asu-mir-5365b	4
+asu-mir-5366	5
+asu-mir-57	5
+asu-mir-67	9
+asu-mir-7	9
+asu-mir-71	9
+asu-mir-72	5
+asu-mir-79	9
+asu-mir-81a	4
+asu-mir-83	5
+asu-mir-84	5
+asu-mir-86	5
+asu-mir-87a	9
+asu-mir-87b	8
+asu-mir-9	9
+asu-mir-92	9

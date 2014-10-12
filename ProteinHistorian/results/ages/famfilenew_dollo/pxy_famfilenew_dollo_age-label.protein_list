@@ -1,0 +1,85 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+pxy-mir-10	Bilateria
+pxy-mir-252	Ecdysozoa
+pxy-mir-2525-1	Yponomeutoidea
+pxy-mir-2525-2	Yponomeutoidea
+pxy-mir-263	Endopterygota
+pxy-mir-2733a	Yponomeutoidea
+pxy-mir-2733b	Yponomeutoidea
+pxy-mir-274	Endopterygota
+pxy-mir-2767	Amphiesmenoptera
+pxy-mir-277	Bilateria
+pxy-mir-279a	Ecdysozoa
+pxy-mir-279b	Ecdysozoa
+pxy-mir-281	Bilateria
+pxy-mir-283	Ecdysozoa
+pxy-mir-2a	Bilateria
+pxy-mir-2b	Bilateria
+pxy-mir-306-1	Endopterygota
+pxy-mir-306-2	Endopterygota
+pxy-mir-3286	Amphiesmenoptera
+pxy-mir-6497	Ditrysia
+pxy-mir-745	Bilateria
+pxy-mir-750	Protostomia
+pxy-mir-7b	Bilateria
+pxy-mir-8489a	Yponomeutoidea
+pxy-mir-8489b	Yponomeutoidea
+pxy-mir-8499a	Yponomeutoidea
+pxy-mir-8499b	Yponomeutoidea
+pxy-mir-8510a-1	Yponomeutoidea
+pxy-mir-8510a-2	Yponomeutoidea
+pxy-mir-8510a-3	Yponomeutoidea
+pxy-mir-8510a-4	Yponomeutoidea
+pxy-mir-8510a-5	Yponomeutoidea
+pxy-mir-8510a-6	Yponomeutoidea
+pxy-mir-8510a-7	Yponomeutoidea
+pxy-mir-8510a-8	Yponomeutoidea
+pxy-mir-8510b	Yponomeutoidea
+pxy-mir-8512-1	Yponomeutoidea
+pxy-mir-8512-2	Yponomeutoidea
+pxy-mir-8515-1	Yponomeutoidea
+pxy-mir-8515-2	Yponomeutoidea
+pxy-mir-8517a	Yponomeutoidea
+pxy-mir-8517b	Yponomeutoidea
+pxy-mir-8521a-1	Yponomeutoidea
+pxy-mir-8521a-2	Yponomeutoidea
+pxy-mir-8521a-3	Yponomeutoidea
+pxy-mir-8521a-4	Yponomeutoidea
+pxy-mir-8521a-5	Yponomeutoidea
+pxy-mir-8521b-1	Yponomeutoidea
+pxy-mir-8521b-10	Yponomeutoidea
+pxy-mir-8521b-11	Yponomeutoidea
+pxy-mir-8521b-2	Yponomeutoidea
+pxy-mir-8521b-3	Yponomeutoidea
+pxy-mir-8521b-4	Yponomeutoidea
+pxy-mir-8521b-5	Yponomeutoidea
+pxy-mir-8521b-6	Yponomeutoidea
+pxy-mir-8521b-7	Yponomeutoidea
+pxy-mir-8521b-8	Yponomeutoidea
+pxy-mir-8521b-9	Yponomeutoidea
+pxy-mir-8524-1	Yponomeutoidea
+pxy-mir-8524-2	Yponomeutoidea
+pxy-mir-8535-1	Yponomeutoidea
+pxy-mir-8535-2	Yponomeutoidea
+pxy-mir-8536a	Yponomeutoidea
+pxy-mir-8536b	Yponomeutoidea
+pxy-mir-8539-1	Yponomeutoidea
+pxy-mir-8539-2	Yponomeutoidea
+pxy-mir-8544-1	Yponomeutoidea
+pxy-mir-8544-2	Yponomeutoidea
+pxy-mir-929	Neoptera
+pxy-mir-965	Mandibulata
+pxy-mir-9a	Bilateria
+pxy-mir-9b-1	Bilateria
+pxy-mir-9b-2	Bilateria

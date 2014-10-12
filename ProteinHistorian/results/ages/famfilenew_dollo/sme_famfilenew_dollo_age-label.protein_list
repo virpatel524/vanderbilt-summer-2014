@@ -1,0 +1,59 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+sme-bantam-a	Rhabditophora
+sme-bantam-b	Rhabditophora
+sme-bantam-c-1	Rhabditophora
+sme-bantam-c-2	Rhabditophora
+sme-mir-124a	Bilateria
+sme-mir-124b	Bilateria
+sme-mir-124c-1	Rhabditophora
+sme-mir-124c-2	Rhabditophora
+sme-mir-124e	Rhabditophora
+sme-mir-2147a	Rhabditophora
+sme-mir-2147b	Rhabditophora
+sme-mir-2147c	Rhabditophora
+sme-mir-2147d	Rhabditophora
+sme-mir-2154-1	Rhabditophora
+sme-mir-2154-2	Rhabditophora
+sme-mir-2160-1	Rhabditophora
+sme-mir-2160-2	Rhabditophora
+sme-mir-2174	Rhabditophora
+sme-mir-2a-1	Bilateria
+sme-mir-2a-2	Bilateria
+sme-mir-2b	Bilateria
+sme-mir-2c	Bilateria
+sme-mir-2d	Platyhelminthes
+sme-mir-315	Bilateria
+sme-mir-31b-1	Rhabditophora
+sme-mir-31b-2	Rhabditophora
+sme-mir-31b-3	Rhabditophora
+sme-mir-67	Bilateria
+sme-mir-71a-1	Rhabditophora
+sme-mir-71a-2	Rhabditophora
+sme-mir-71b	Bilateria
+sme-mir-71c	Rhabditophora
+sme-mir-753a	Rhabditophora
+sme-mir-753b	Rhabditophora
+sme-mir-753c	Rhabditophora
+sme-mir-753d	Rhabditophora
+sme-mir-753e	Rhabditophora
+sme-mir-754a	Rhabditophora
+sme-mir-754b-1	Rhabditophora
+sme-mir-754b-2	Rhabditophora
+sme-mir-754c-1	Rhabditophora
+sme-mir-754c-2	Rhabditophora
+sme-mir-754d	Rhabditophora
+sme-mir-79	Bilateria
+sme-mir-87a	Bilateria
+sme-mir-8a	Rhabditophora
+sme-mir-9a	Bilateria

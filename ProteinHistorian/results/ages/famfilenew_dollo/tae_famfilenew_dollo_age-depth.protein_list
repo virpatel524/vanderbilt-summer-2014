@@ -1,0 +1,79 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+tae-MIR1119	3
+tae-MIR1120a	0
+tae-MIR1120b	0
+tae-MIR1120c	0
+tae-MIR1121	0
+tae-MIR1122a	0
+tae-MIR1122c	0
+tae-MIR1127a	0
+tae-MIR1127b	0
+tae-MIR1128	0
+tae-MIR1130a	0
+tae-MIR1130b	0
+tae-MIR1133	0
+tae-MIR1135	3
+tae-MIR1136	0
+tae-MIR1137a	0
+tae-MIR1137b	0
+tae-MIR1139	3
+tae-MIR156	10
+tae-MIR159a	12
+tae-MIR159b	12
+tae-MIR160	11
+tae-MIR164	12
+tae-MIR167a	10
+tae-MIR167b	10
+tae-MIR167c	10
+tae-MIR169	12
+tae-MIR171a	15
+tae-MIR171b	15
+tae-MIR2275	0
+tae-MIR319	14
+tae-MIR395a	10
+tae-MIR395b	10
+tae-MIR397	12
+tae-MIR398	12
+tae-MIR399	10
+tae-MIR408	12
+tae-MIR444a	5
+tae-MIR444b	5
+tae-MIR5049	0
+tae-MIR5050	2
+tae-MIR5062	0
+tae-MIR5084	2
+tae-MIR5175	0
+tae-MIR5200	2
+tae-MIR530	10
+tae-MIR6201	2
+tae-MIR7757	3
+tae-MIR9654a	0
+tae-MIR9654b	0
+tae-MIR9657a	0
+tae-MIR9657b	0
+tae-MIR9657c	0
+tae-MIR9662a	0
+tae-MIR9662b	0
+tae-MIR9666a	0
+tae-MIR9666b	0
+tae-MIR9666c	0
+tae-MIR9672a	0
+tae-MIR9672b	0
+tae-MIR9674a	2
+tae-MIR9674b	2
+tae-MIR9677a	0
+tae-MIR9677b	0
+tae-MIR9772	0
+tae-MIR9776	2
+tae-MIR9783	2

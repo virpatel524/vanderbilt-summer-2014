@@ -1,0 +1,37 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+hvu-MIR1120	Hordeum
+hvu-MIR1130	Hordeum
+hvu-MIR156a	Embryophyta
+hvu-MIR156b	Embryophyta
+hvu-MIR159a	Spermatophyta
+hvu-MIR159b	Spermatophyta
+hvu-MIR166a	Embryophyta
+hvu-MIR166b	Embryophyta
+hvu-MIR166c	Embryophyta
+hvu-MIR168	Magnoliophyta
+hvu-MIR171	Spermatophyta
+hvu-MIR397a	Magnoliophyta
+hvu-MIR397b	Magnoliophyta
+hvu-MIR444a	Poaceae
+hvu-MIR444b	Poaceae
+hvu-MIR5048a	Hordeum
+hvu-MIR5048b	Hordeum
+hvu-MIR5049a	Hordeum
+hvu-MIR5049b	Hordeum
+hvu-MIR5049c	Hordeum
+hvu-MIR5049d	Hordeum
+hvu-MIR5049e	Hordeum
+hvu-MIR5049f	Hordeum
+hvu-MIR5050	Triticeae
+hvu-MIR6201	Triticeae

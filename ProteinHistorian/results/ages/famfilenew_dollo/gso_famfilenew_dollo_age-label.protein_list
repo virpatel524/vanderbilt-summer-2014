@@ -1,0 +1,25 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+gso-MIR1507a	Papilionoideae
+gso-MIR1507b	Papilionoideae
+gso-MIR1508a	Glycine
+gso-MIR1509a	Papilionoideae
+gso-MIR1510a	Papilionoideae
+gso-MIR1510b	Papilionoideae
+gso-MIR167a	Mesangiospermae
+gso-MIR2109	Glycine
+gso-MIR2218	gso
+gso-MIR3522a	gso
+gso-MIR3522b	gso
+gso-MIR482a	Spermatophyta
+gso-MIR482b	Spermatophyta

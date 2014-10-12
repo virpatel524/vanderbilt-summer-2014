@@ -1,0 +1,86 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+mne-mir-101	Theria
+mne-mir-103	Euteleostomi
+mne-mir-105	Boreoeutheria
+mne-mir-106a	Euteleostomi
+mne-mir-106b	Euteleostomi
+mne-mir-107	Euteleostomi
+mne-mir-10b	Chordata
+mne-mir-125b-1	Euteleostomi
+mne-mir-125b-2	Euteleostomi
+mne-mir-127	Boreoeutheria
+mne-mir-130a	Vertebrata
+mne-mir-133a	Vertebrata
+mne-mir-134	Boreoeutheria
+mne-mir-140	Euteleostomi
+mne-mir-144	Vertebrata
+mne-mir-145	Vertebrata
+mne-mir-147	Amniota
+mne-mir-153-1	Vertebrata
+mne-mir-153-2	Vertebrata
+mne-mir-154	Boreoeutheria
+mne-mir-15a	Vertebrata
+mne-mir-15b	Vertebrata
+mne-mir-16	Vertebrata
+mne-mir-17	Euteleostomi
+mne-mir-18	Euteleostomi
+mne-mir-181a-1	Euteleostomi
+mne-mir-181a-2	Euteleostomi
+mne-mir-181b	Euteleostomi
+mne-mir-183	Bilateria
+mne-mir-184	Bilateria
+mne-mir-187	Euteleostomi
+mne-mir-188	Boreoeutheria
+mne-mir-194	Vertebrata
+mne-mir-197	Boreoeutheria
+mne-mir-198	Simiiformes
+mne-mir-199a	Vertebrata
+mne-mir-19a	Vertebrata
+mne-mir-19b-1	Euteleostomi
+mne-mir-19b-2	Euteleostomi
+mne-mir-20	Euteleostomi
+mne-mir-204	Vertebrata
+mne-mir-205	Euteleostomi
+mne-mir-206	Euteleostomi
+mne-mir-21	Euteleostomi
+mne-mir-211	Amniota
+mne-mir-214	Euteleostomi
+mne-mir-215	Tetrapoda
+mne-mir-218-1	Euteleostomi
+mne-mir-218-2	Euteleostomi
+mne-mir-22	Deuterostomia
+mne-mir-224	Boreoeutheria
+mne-mir-23a	Vertebrata
+mne-mir-24-1	Euteleostomi
+mne-mir-24-2	Euteleostomi
+mne-mir-25	Euteleostomi
+mne-mir-26a	Euteleostomi
+mne-mir-27a	Vertebrata
+mne-mir-28	Theria
+mne-mir-29a	Bilateria
+mne-mir-29b	Bilateria
+mne-mir-30b	Vertebrata
+mne-mir-30c	Vertebrata
+mne-mir-30d	Vertebrata
+mne-mir-31	Bilateria
+mne-mir-32	Amniota
+mne-mir-33	Bilateria
+mne-mir-34a	Chordata
+mne-mir-7-1	Chordata
+mne-mir-7-2	Chordata
+mne-mir-9	Bilateria
+mne-mir-92	Bilateria
+mne-mir-93	Euteleostomi
+mne-mir-96	Bilateria
+mne-mir-99a	Euteleostomi

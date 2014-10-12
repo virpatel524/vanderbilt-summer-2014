@@ -1,0 +1,85 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+pxy-mir-10	22
+pxy-mir-252	20
+pxy-mir-2525-1	3
+pxy-mir-2525-2	3
+pxy-mir-263	10
+pxy-mir-2733a	3
+pxy-mir-2733b	3
+pxy-mir-274	10
+pxy-mir-2767	9
+pxy-mir-277	22
+pxy-mir-279a	20
+pxy-mir-279b	20
+pxy-mir-281	22
+pxy-mir-283	20
+pxy-mir-2a	22
+pxy-mir-2b	22
+pxy-mir-306-1	10
+pxy-mir-306-2	10
+pxy-mir-3286	9
+pxy-mir-6497	4
+pxy-mir-745	22
+pxy-mir-750	21
+pxy-mir-7b	22
+pxy-mir-8489a	3
+pxy-mir-8489b	3
+pxy-mir-8499a	3
+pxy-mir-8499b	3
+pxy-mir-8510a-1	3
+pxy-mir-8510a-2	3
+pxy-mir-8510a-3	3
+pxy-mir-8510a-4	3
+pxy-mir-8510a-5	3
+pxy-mir-8510a-6	3
+pxy-mir-8510a-7	3
+pxy-mir-8510a-8	3
+pxy-mir-8510b	3
+pxy-mir-8512-1	3
+pxy-mir-8512-2	3
+pxy-mir-8515-1	3
+pxy-mir-8515-2	3
+pxy-mir-8517a	3
+pxy-mir-8517b	3
+pxy-mir-8521a-1	3
+pxy-mir-8521a-2	3
+pxy-mir-8521a-3	3
+pxy-mir-8521a-4	3
+pxy-mir-8521a-5	3
+pxy-mir-8521b-1	3
+pxy-mir-8521b-10	3
+pxy-mir-8521b-11	3
+pxy-mir-8521b-2	3
+pxy-mir-8521b-3	3
+pxy-mir-8521b-4	3
+pxy-mir-8521b-5	3
+pxy-mir-8521b-6	3
+pxy-mir-8521b-7	3
+pxy-mir-8521b-8	3
+pxy-mir-8521b-9	3
+pxy-mir-8524-1	3
+pxy-mir-8524-2	3
+pxy-mir-8535-1	3
+pxy-mir-8535-2	3
+pxy-mir-8536a	3
+pxy-mir-8536b	3
+pxy-mir-8539-1	3
+pxy-mir-8539-2	3
+pxy-mir-8544-1	3
+pxy-mir-8544-2	3
+pxy-mir-929	11
+pxy-mir-965	17
+pxy-mir-9a	22
+pxy-mir-9b-1	22
+pxy-mir-9b-2	22

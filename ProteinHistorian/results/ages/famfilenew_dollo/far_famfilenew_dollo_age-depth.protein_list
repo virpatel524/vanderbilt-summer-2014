@@ -1,0 +1,25 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+far-MIR1119	4
+far-MIR1122	4
+far-MIR156a	16
+far-MIR156b	16
+far-MIR159	15
+far-MIR160	12
+far-MIR164a	12
+far-MIR164b	12
+far-MIR166	13
+far-MIR169	13
+far-MIR171	13
+far-MIR396	15
+far-MIR437	5

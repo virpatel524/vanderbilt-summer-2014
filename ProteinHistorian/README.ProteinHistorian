@@ -1,0 +1,277 @@
+ProteinHistorian v1.0 -- 10/19/11
+Copyright (c) 2011  John A. Capra
+
+Thank you for downloading ProteinHistorian.  The ProteinHistorian
+tools are described in:
+
+Capra JA, Williams AG, and Pollard KS (2012). ProteinHistorian: Tools
+for the Comparative Analysis of Eukaryote Protein Origins. Submitted.
+
+If you use these programs, please cite the paper.
+
+More information about the project, data downloads, and an online
+analysis server are available at the supporting web site:
+http://lighthouse.ucsf.edu/ProteinHistorian/
+
+The program is free software distributed under the GNU public
+license. See the file COPYING for more information.
+
+
+--- Revision History ---
+
+04/11/12
+- Updated to reflect paper revision.
+
+01/18/12
+- First Release.
+
+
+--- Installation --- 
+
+In order to run ProteinHistorian, the python (v2.6.*) and R
+programming languages must be installed. These should be present on
+most *nix machines, including those running Mac OS X. In addition to
+python and R, the scipy (http://www.scipy.org/) and matplotlib v1.0.0
+(http://matplotlib.sourceforge.net/) python modules are required. The
+age_proteins.py program also requires DendroPy
+(http://packages.python.org/DendroPy/) and, if you want to use Wagner
+parsimony, the Count program
+(http://www.iro.umontreal.ca/~csuros/gene_content/count.html).
+
+Two example age databases for human are provided in this archive. We
+recommend that you download the full protein age databases underlying
+the ProteinHistorian server. These are contained in the archive:
+http://lighthouse.ucsf.edu/ProteinHistorian/ProteinHistorian_databases.tar.gz.
+
+If any of that sounds confusing, we suggest that you use the web
+version of ProteinHistorian:
+http://lighthouse.ucsf.edu/ProteinHistorian/ .
+
+
+--- Introduction ---
+
+ProteinHistorian can perform three main analyses:
+
+1) Calculating enrichment for proteins of similar age in a set of
+proteins of interest;
+
+2) Calculating protein ages given a species tree and protein family
+definitions;
+
+3) Comparing the ages of proteins with other protein features.
+
+
+Each of these tasks is carried out by a different python program found
+at the root level of the installed ProteinHistorian/ directory. The
+sections below provide basic usage examples and descriptions of the
+relevant input file formats. Full documentation of all options is
+provided in the documentation for each program, which can be accessed
+by typing ("./program_name.py -h").
+
+
+--- Quick Start ---
+
+Let's say you just downloaded this program and want to do some
+enrichment analysis right now without reading the whole README file.
+To produce a protein age histogram from the example data, here's what
+you type (broken across lines for legibility):
+
+./age_enrichment_analysis.py -l example/ages/human_age-label_wagner1.txt \
+			     example/ages/human_age-time_wagner1.txt \
+			     example/human_high_expr.txt
+
+If that doesn't make sense to you, please read on to learn more.  If
+that's all you need, Godspeed!
+
+
+--- Protein Age Enrichment Analysis ---
+
+The program age_enrichment_analysis.py performs the main analysis of
+protein age enrichment provdied by ProteinHistorian. It minimally
+takes as input a set of proteins of interest (POI) and an assignment
+of ages to all proteins in the species of interest. Here's a simple
+example:
+
+./age_enrichment_analysis.py example/ages/human_age-depth_wagner1.txt \
+			     example/human_high_expr.txt
+
+The first input to the program is a file that lists the ages of
+proteins in human. Each line should have the format: 
+
+prot_id1 prot_id2 ... prot_idN age 
+
+where prot_id's are different identifiers for the protein and age can
+be a character string or number.
+
+The second input is a file that lists the identifiers of the POI, in
+this case, those with human-specific high expression. The protein
+identifiers can be listed on the same line separated by whitespace, or
+on different lines, or a combination of both. This program also
+accepts files in the GO Annotation File (GAF 2.0) format.
+
+This command will produce a directory named
+"results/enrichment/human_age-depth_wagner1--human_high_exp--Background/"
+which contains three files. One is a summary text file giving the
+number of proteins of each age in the POI and the background.  It also
+provides a p-value for difference between the POI and background
+overall age distributions (calculated with the Mann-Whitney U test)
+and p-values for differences in the fraction of proteins of each age
+between the two groups (calculated with Fisher's exact test). The
+second gives the ages for each input protein. The third is a PDF bar
+chart comparing the age distributions of the two sets.
+
+To get titles for each age group in the output rather than integers
+representing the raw ages, you can give another protein age file as
+input that provides ages as names instead of numbers, for example:
+
+./age_enrichment_analysis.py -l example/ages/human_age-label_wagner1.txt \
+			     example/ages/human_age-depth_wagner1.txt \
+			     example/human_high_expr.txt
+
+This produces the same results, but now with more informative age
+group names printed in the output files.  
+
+The human_age-time_wagner1.txt file can be used in place of the
+human_age-label_wagner1.txt file to produce plots in which the age
+axis gives estimated divergence times rather than nodes in the species
+tree. To scale the x-axis according to the divergence times, add the
+"-s" option.
+
+If you wish to limit the background proteins for comparison or compare
+directly to another (potentially non-overlapping set of proteins), a
+second protein set of interest can be specified after the first:
+
+./age_enrichment_analysis.py -l example/ages/human_age-label_wagner1.txt \
+			     example/ages/human_age-time_wagner1.txt \
+			     example/human_high_expr.txt \
+			     example/human_low_expr.txt
+
+This should produce a figure similar to the histogram comparing the
+ages of proteins with human-specific high and low expression in the
+paper. 
+
+Type:
+
+./age_enrichment_analysis.py -h
+
+to see the full list of options.  
+
+
+--- Calculating Protein Ages ---
+
+Pre-computed protein age files are provided for many species using two
+different ancestral family reconstruction algorithms and several
+family databases are available for download on the ProteinHistorian
+web site (protein_historian_databases.tar.gz). However, advanced users
+may wish to calculate protein ages using our approach based on their
+own data.
+
+If you have a data set or evolutionary analysis pipeline that you
+think should be included in the web version of ProteinHistorian,
+please contact us. We are eager to support additional data sources.
+
+The age_proteins.py program calculates protein ages and outputs files
+like the examples/ages/human_age-*.txt files. It takes as input a
+species tree and a "family" file, which defines the proteins present
+in each species and their evolutionary relationships. 
+
+The tree must be in the Newick format and each leaf node must have a
+unique label. In ProteinHistorian, the UniProt five letter species
+codes, e.g., HUMAN, (see http://www.uniprot.org/docs/speclist) are
+used, but if building your own dataset, any unique species names could
+be used. If internal nodes of the tree are labeled, then these labels
+will be used as ages. If not, then the leaf nodes under a given
+internal node will be concatenated to provide a name for the node.
+
+Each line of the family file lists proteins that are evolutionarily
+related. Each protein from each species should appear once and only
+once. In this file, each protein is identified by its species, a
+divider token, and its identifiers. For example a line that reads:
+
+HUMAN|ENSEMBL:ENSG00000143858|UniProtKB:Q8N9I0 \
+ MOUSE|MGI:MGI:99666|UniProtKB:P46097 \
+ RAT|RGD:3804|UniProtKB:P29101
+
+indicates that the given human, mouse, and rat proteins are
+evolutionarily related. This also implies that no other proteins from
+species in the tree are in this "family". The exact meaning of
+"evolutionarily related" will vary among aging strategies. For
+example, it may mean strict orthology or merely homology across part
+of the protein sequences.
+
+Using the family file and the species trees, each protein is assigned
+an age. The age is the highest node on the path from the species to
+the root of the species tree in which the family is present according
+to an ancestral family reconstruction.  Family reconstructions can be
+carried out by either Dollo (default) or Wagner parsimony. We
+recommend using Wagner parsimony, but it requires the Count package
+(http://www.iro.umontreal.ca/~csuros/gene_content/count.html) to be
+installed. See the paper for more details on these methods.
+
+Putting this all together:
+
+./age_proteins.py -s HUMAN -o example/ages/ \
+		  example/families/PPODv4_PTHR7-OrthoMCL_families.txt \
+		  example/families/PPODv4_PTHR7-OrthoMCL.tree
+
+will generate three age files based on Dollo parsimony on the families
+defined by OrthoMCL over all proteins in the PPOD species and place
+them in example/ages/. The age_depth and age_label output files should
+be identical to the example files human_age-depth_dollo.txt and
+human_age-label_dollo.txt used in the previous example. The third file
+contains a phylogenetic profile for each human protein.
+
+If you would like to produce age files with ages in millions of years
+ago, as in the human_age-time.txt file, you'll have to create a file
+like example/time_tree_dates.txt that gives an age for each internal
+node of your species tree. This file can then be given to
+age_proteins.py as input:
+
+./age_proteins.py -s HUMAN -o example/ages/ \
+		  -t example/time_tree_dates.txt \
+		  example/families/PPODv4_PTHR7-OrthoMCL_families.txt \
+		  example/families/PPODv4_PTHR7-OrthoMCL.tree
+
+
+Adding the '-a wagner' option will use Wagner parsimony instead of
+Dollo parsimony. The age_proteins.py program also has several additional
+features not illustrated here. See the program's help (-h) for
+details.
+
+
+--- Comparing Protein Ages with Other Features ---
+
+We also provide a program, age_feature_analysis.py, which compares
+protein ages with other quantifiable protein features and generates
+box plots like the figure in the paper.
+
+For example, to investigate the relationship between a protein's age
+and its length in amino acids, we can type:
+
+./age_feature_analysis.py -l example/ages/human_age-label_wagner1.txt \
+			  example/ages/human_age-time_wagner1.txt \
+			  example/human_lens.txt 
+
+You've seen the age files before. The input file
+"example/human_lens.txt" contains the length of each human protein
+next to its identifiers instead of an age. This command generates two
+output files in a directory called "results/feature/".  One,
+human_age-time_wagner1--human_lens_boxplot.pdf, gives a boxplot that
+summarizes the distribution of the input feature (length) over
+proteins of each age.  The red x's indicate the average value. The
+title of this plot also gives the Spearman rank correlation
+coefficient (rho) between the ages and the input feature.  In this
+case there is a significant correlation between age and length
+(0.18). The other file, human_age-depth_wagner1--human_lens_stats.tab,
+gives statistics about the values of the input feature for proteins of
+each age.
+
+As for the other programs, full documentation of all the options for
+this program are given in the program's help (-h).
+
+
+Please let us know if you have any problems or questions.
+
+Tony Capra
+tony.capra <AT> gladstone.ucsf.edu
+04/15/11

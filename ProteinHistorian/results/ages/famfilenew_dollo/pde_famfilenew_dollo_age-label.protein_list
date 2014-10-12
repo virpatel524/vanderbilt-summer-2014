@@ -1,0 +1,37 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+pde-MIR1312	Pinus
+pde-MIR1313	Pinus
+pde-MIR1314	Pinus
+pde-MIR159	Tracheophyta
+pde-MIR162	Spermatophyta
+pde-MIR166a	Embryophyta
+pde-MIR166b	Embryophyta
+pde-MIR169	Spermatophyta
+pde-MIR171	Spermatophyta
+pde-MIR3701	Pinaceae
+pde-MIR3704a	pde
+pde-MIR3704b	pde
+pde-MIR3712	Pinaceae
+pde-MIR390	Spermatophyta
+pde-MIR396	Tracheophyta
+pde-MIR482a	Spermatophyta
+pde-MIR482b	Spermatophyta
+pde-MIR482c	Spermatophyta
+pde-MIR482d	Spermatophyta
+pde-MIR949a	pde
+pde-MIR949b	pde
+pde-MIR950	Pinaceae
+pde-MIR952a	Pinus
+pde-MIR952b	Pinus
+pde-MIR952c	pde

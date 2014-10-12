@@ -1,0 +1,94 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+ame-bantam	Bilateria
+ame-let-7	Bilateria
+ame-mir-1-1	Bilateria
+ame-mir-1-2	Bilateria
+ame-mir-10	Bilateria
+ame-mir-100	Eumetazoa
+ame-mir-1000	Neoptera
+ame-mir-11	Endopterygota
+ame-mir-1175	Protostomia
+ame-mir-12	Protostomia
+ame-mir-124	Bilateria
+ame-mir-125	Bilateria
+ame-mir-133	Bilateria
+ame-mir-137	Bilateria
+ame-mir-13a	Neoptera
+ame-mir-13b	Endopterygota
+ame-mir-14	Neoptera
+ame-mir-184	Bilateria
+ame-mir-190	Bilateria
+ame-mir-2-1	Ecdysozoa
+ame-mir-2-2	Ecdysozoa
+ame-mir-2-3	Aculeata
+ame-mir-210	Bilateria
+ame-mir-219	Bilateria
+ame-mir-252a	Bilateria
+ame-mir-263a	Arthropoda
+ame-mir-263b	Arthropoda
+ame-mir-275	Arthropoda
+ame-mir-276	Arthropoda
+ame-mir-2765	Endopterygota
+ame-mir-277	Bilateria
+ame-mir-278	Bilateria
+ame-mir-2788	Endopterygota
+ame-mir-2796	Endopterygota
+ame-mir-279a	Ecdysozoa
+ame-mir-279d	Endopterygota
+ame-mir-281	Bilateria
+ame-mir-282	Endopterygota
+ame-mir-283	Ecdysozoa
+ame-mir-2944	Aculeata
+ame-mir-29b	Bilateria
+ame-mir-2b	Bilateria
+ame-mir-305	Arthropoda
+ame-mir-307	Ecdysozoa
+ame-mir-315	Bilateria
+ame-mir-316	Neoptera
+ame-mir-317	Arthropoda
+ame-mir-31a	Bilateria
+ame-mir-33	Bilateria
+ame-mir-34	Bilateria
+ame-mir-3477	Endopterygota
+ame-mir-3478	Apocrita
+ame-mir-3718a	Aculeata
+ame-mir-3718b	Aculeata
+ame-mir-3747a	Aculeata
+ame-mir-3747b	Aculeata
+ame-mir-375	Bilateria
+ame-mir-6012	Endopterygota
+ame-mir-7	Bilateria
+ame-mir-71	Bilateria
+ame-mir-79	Bilateria
+ame-mir-8	Bilateria
+ame-mir-87-1	Ecdysozoa
+ame-mir-87-2	Ecdysozoa
+ame-mir-927a	Endopterygota
+ame-mir-928	Apocrita
+ame-mir-929	Neoptera
+ame-mir-92a	Bilateria
+ame-mir-92b-1	Bilateria
+ame-mir-92b-2	Bilateria
+ame-mir-92c	Bilateria
+ame-mir-932	Endopterygota
+ame-mir-965	Mandibulata
+ame-mir-971	Neoptera
+ame-mir-980	Endopterygota
+ame-mir-981	Bilateria
+ame-mir-993	Protostomia
+ame-mir-996	Neoptera
+ame-mir-9a	Bilateria
+ame-mir-9b	Bilateria
+ame-mir-9c	Endopterygota
+ame-mir-iab-4	Arthropoda

@@ -1,0 +1,30 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+aja-let-7i	Euteleostomi
+aja-mir-142	Euteleostomi
+aja-mir-143	Vertebrata
+aja-mir-144	Vertebrata
+aja-mir-145	Vertebrata
+aja-mir-1893	Boreoeutheria
+aja-mir-21	Euteleostomi
+aja-mir-214	Euteleostomi
+aja-mir-22	Deuterostomia
+aja-mir-25	Euteleostomi
+aja-mir-29b	Bilateria
+aja-mir-29c	Vertebrata
+aja-mir-3074	Boreoeutheria
+aja-mir-3120	Amniota
+aja-mir-331	Boreoeutheria
+aja-mir-3618	Euteleostomi
+aja-mir-671	Boreoeutheria
+aja-mir-7	Bilateria

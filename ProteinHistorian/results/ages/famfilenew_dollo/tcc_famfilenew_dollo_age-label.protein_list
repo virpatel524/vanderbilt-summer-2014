@@ -1,0 +1,94 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+tcc-MIR156a	Embryophyta
+tcc-MIR156b	Embryophyta
+tcc-MIR156c	Embryophyta
+tcc-MIR156d	Tracheophyta
+tcc-MIR156e	Mesangiospermae
+tcc-MIR156f	Mesangiospermae
+tcc-MIR156g	Mesangiospermae
+tcc-MIR160a	Embryophyta
+tcc-MIR160b	Embryophyta
+tcc-MIR160c	Embryophyta
+tcc-MIR162	Spermatophyta
+tcc-MIR164a	Magnoliophyta
+tcc-MIR164b	Magnoliophyta
+tcc-MIR164c	Mesangiospermae
+tcc-MIR166a	Embryophyta
+tcc-MIR166b	Embryophyta
+tcc-MIR166c	Embryophyta
+tcc-MIR166d	Embryophyta
+tcc-MIR167a	Mesangiospermae
+tcc-MIR167b	Mesangiospermae
+tcc-MIR167c	Mesangiospermae
+tcc-MIR168	Magnoliophyta
+tcc-MIR169a	Magnoliophyta
+tcc-MIR169b	Magnoliophyta
+tcc-MIR169c	Magnoliophyta
+tcc-MIR169d	Mesangiospermae
+tcc-MIR169e	Mesangiospermae
+tcc-MIR169f	Mesangiospermae
+tcc-MIR169g	Mesangiospermae
+tcc-MIR169h	Mesangiospermae
+tcc-MIR169i	Mesangiospermae
+tcc-MIR169j	Mesangiospermae
+tcc-MIR169k	Mesangiospermae
+tcc-MIR169l	Mesangiospermae
+tcc-MIR169m	Mesangiospermae
+tcc-MIR169n	Mesangiospermae
+tcc-MIR171a	Embryophyta
+tcc-MIR171b	Embryophyta
+tcc-MIR171c	Tracheophyta
+tcc-MIR171d	Tracheophyta
+tcc-MIR171e	Mesangiospermae
+tcc-MIR171f	Mesangiospermae
+tcc-MIR171g	Mesangiospermae
+tcc-MIR171h	Mesangiospermae
+tcc-MIR172a	Mesangiospermae
+tcc-MIR172b	Mesangiospermae
+tcc-MIR172c	Mesangiospermae
+tcc-MIR172d	Mesangiospermae
+tcc-MIR172e	Mesangiospermae
+tcc-MIR2111	rosids
+tcc-MIR319	Tracheophyta
+tcc-MIR390a	Embryophyta
+tcc-MIR390b	Embryophyta
+tcc-MIR393a	Mesangiospermae
+tcc-MIR393b	Mesangiospermae
+tcc-MIR394a	Mesangiospermae
+tcc-MIR394b	Mesangiospermae
+tcc-MIR395a	Mesangiospermae
+tcc-MIR395b	Mesangiospermae
+tcc-MIR396a	Spermatophyta
+tcc-MIR396b	Spermatophyta
+tcc-MIR396c	Spermatophyta
+tcc-MIR396d	Magnoliophyta
+tcc-MIR396e	Magnoliophyta
+tcc-MIR397	Spermatophyta
+tcc-MIR398a	Mesangiospermae
+tcc-MIR398b	Mesangiospermae
+tcc-MIR399a	Mesangiospermae
+tcc-MIR399b	Mesangiospermae
+tcc-MIR399c	Mesangiospermae
+tcc-MIR399d	Mesangiospermae
+tcc-MIR399e	Mesangiospermae
+tcc-MIR399f	Mesangiospermae
+tcc-MIR399g	Mesangiospermae
+tcc-MIR399h	Mesangiospermae
+tcc-MIR399i	Mesangiospermae
+tcc-MIR403a	Pentapetalae
+tcc-MIR403b	Pentapetalae
+tcc-MIR530a	Mesangiospermae
+tcc-MIR530b	Mesangiospermae
+tcc-MIR535	Spermatophyta
+tcc-MIR827	Mesangiospermae

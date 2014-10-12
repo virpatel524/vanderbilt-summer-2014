@@ -1,0 +1,55 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+aqc-MIR156a	Embryophyta
+aqc-MIR156b	Embryophyta
+aqc-MIR159	Tracheophyta
+aqc-MIR160a	Embryophyta
+aqc-MIR160b	Embryophyta
+aqc-MIR166a	Embryophyta
+aqc-MIR166b	Embryophyta
+aqc-MIR166c	Embryophyta
+aqc-MIR166d	Embryophyta
+aqc-MIR166e	Embryophyta
+aqc-MIR167	Magnoliophyta
+aqc-MIR169a	Magnoliophyta
+aqc-MIR169b	Magnoliophyta
+aqc-MIR169c	Magnoliophyta
+aqc-MIR171a	Embryophyta
+aqc-MIR171b	Embryophyta
+aqc-MIR171c	Tracheophyta
+aqc-MIR171d	Tracheophyta
+aqc-MIR171e	Mesangiospermae
+aqc-MIR171f	Mesangiospermae
+aqc-MIR172a	Mesangiospermae
+aqc-MIR172b	Mesangiospermae
+aqc-MIR319	Tracheophyta
+aqc-MIR395a	Mesangiospermae
+aqc-MIR395b	Mesangiospermae
+aqc-MIR396a	Spermatophyta
+aqc-MIR396b	Spermatophyta
+aqc-MIR398a	Mesangiospermae
+aqc-MIR398b	Mesangiospermae
+aqc-MIR399	Mesangiospermae
+aqc-MIR408	Spermatophyta
+aqc-MIR477b	Embryophyta
+aqc-MIR477c	Embryophyta
+aqc-MIR477d	Embryophyta
+aqc-MIR477e	Embryophyta
+aqc-MIR477f	Embryophyta
+aqc-MIR477g	Embryophyta
+aqc-MIR482a	Spermatophyta
+aqc-MIR482b	Spermatophyta
+aqc-MIR482c	Spermatophyta
+aqc-MIR529	Mesangiospermae
+aqc-MIR530	Mesangiospermae
+aqc-MIR535	Spermatophyta

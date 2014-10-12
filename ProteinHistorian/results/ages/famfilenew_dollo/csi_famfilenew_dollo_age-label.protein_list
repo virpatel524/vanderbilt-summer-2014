@@ -1,0 +1,61 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+csi-MIR156	Mesangiospermae
+csi-MIR159	Tracheophyta
+csi-MIR160	Magnoliophyta
+csi-MIR162	Spermatophyta
+csi-MIR164	Spermatophyta
+csi-MIR166a	Embryophyta
+csi-MIR166b	Embryophyta
+csi-MIR166c	Embryophyta
+csi-MIR166d	Embryophyta
+csi-MIR166e	Embryophyta
+csi-MIR167a	Mesangiospermae
+csi-MIR167b	Mesangiospermae
+csi-MIR167c	Mesangiospermae
+csi-MIR169	Spermatophyta
+csi-MIR171a	Embryophyta
+csi-MIR171b	Embryophyta
+csi-MIR172a	Mesangiospermae
+csi-MIR172b	Mesangiospermae
+csi-MIR172c	Mesangiospermae
+csi-MIR319	Tracheophyta
+csi-MIR390	Spermatophyta
+csi-MIR393	Magnoliophyta
+csi-MIR394	Magnoliophyta
+csi-MIR395	Spermatophyta
+csi-MIR396a	Spermatophyta
+csi-MIR396b	Spermatophyta
+csi-MIR396c	Spermatophyta
+csi-MIR397	Spermatophyta
+csi-MIR398	Spermatophyta
+csi-MIR399a	Mesangiospermae
+csi-MIR399b	Mesangiospermae
+csi-MIR399c	Mesangiospermae
+csi-MIR399d	Mesangiospermae
+csi-MIR399e	Mesangiospermae
+csi-MIR403	Pentapetalae
+csi-MIR408	Spermatophyta
+csi-MIR472	malvids
+csi-MIR473	csi
+csi-MIR477a	Embryophyta
+csi-MIR477b	Embryophyta
+csi-MIR477c	Embryophyta
+csi-MIR479	Pentapetalae
+csi-MIR482a	Spermatophyta
+csi-MIR482b	Spermatophyta
+csi-MIR482c	Spermatophyta
+csi-MIR530a	Mesangiospermae
+csi-MIR530b	Mesangiospermae
+csi-MIR535	Spermatophyta
+csi-MIR827	Mesangiospermae

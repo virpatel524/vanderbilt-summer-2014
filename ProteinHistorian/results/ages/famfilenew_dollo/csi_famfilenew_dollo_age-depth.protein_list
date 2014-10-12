@@ -1,0 +1,61 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+csi-MIR156	9
+csi-MIR159	13
+csi-MIR160	10
+csi-MIR162	11
+csi-MIR164	11
+csi-MIR166a	14
+csi-MIR166b	14
+csi-MIR166c	14
+csi-MIR166d	14
+csi-MIR166e	14
+csi-MIR167a	9
+csi-MIR167b	9
+csi-MIR167c	9
+csi-MIR169	11
+csi-MIR171a	14
+csi-MIR171b	14
+csi-MIR172a	9
+csi-MIR172b	9
+csi-MIR172c	9
+csi-MIR319	13
+csi-MIR390	11
+csi-MIR393	10
+csi-MIR394	10
+csi-MIR395	11
+csi-MIR396a	11
+csi-MIR396b	11
+csi-MIR396c	11
+csi-MIR397	11
+csi-MIR398	11
+csi-MIR399a	9
+csi-MIR399b	9
+csi-MIR399c	9
+csi-MIR399d	9
+csi-MIR399e	9
+csi-MIR403	6
+csi-MIR408	11
+csi-MIR472	4
+csi-MIR473	0
+csi-MIR477a	14
+csi-MIR477b	14
+csi-MIR477c	14
+csi-MIR479	6
+csi-MIR482a	11
+csi-MIR482b	11
+csi-MIR482c	11
+csi-MIR530a	9
+csi-MIR530b	9
+csi-MIR535	11
+csi-MIR827	9

@@ -1,0 +1,76 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+bra-MIR1140	1
+bra-MIR156a	15
+bra-MIR156b	15
+bra-MIR156c	15
+bra-MIR156d	14
+bra-MIR156e	10
+bra-MIR156f	10
+bra-MIR156g	10
+bra-MIR157a	5
+bra-MIR158	0
+bra-MIR159a	12
+bra-MIR160a	15
+bra-MIR161	3
+bra-MIR162	12
+bra-MIR164a	11
+bra-MIR164b	11
+bra-MIR164c	10
+bra-MIR164d	10
+bra-MIR164e	10
+bra-MIR167a	10
+bra-MIR167b	10
+bra-MIR167c	10
+bra-MIR167d	10
+bra-MIR168a	10
+bra-MIR168b	10
+bra-MIR168c	7
+bra-MIR171a	15
+bra-MIR171b	15
+bra-MIR171c	14
+bra-MIR171d	14
+bra-MIR171e	10
+bra-MIR172a	10
+bra-MIR172b	10
+bra-MIR172c	10
+bra-MIR172d	10
+bra-MIR1885a	0
+bra-MIR1885b	0
+bra-MIR2111	6
+bra-MIR2111a	6
+bra-MIR2111b	6
+bra-MIR319	14
+bra-MIR390	12
+bra-MIR395a	10
+bra-MIR395b	10
+bra-MIR395c	10
+bra-MIR395d	10
+bra-MIR396	14
+bra-MIR398	12
+bra-MIR403	7
+bra-MIR408	12
+bra-MIR5654a	0
+bra-MIR5654b	0
+bra-MIR6032	1
+bra-MIR824	3
+bra-MIR860	3
+bra-MIR9408	1
+bra-MIR9552a	0
+bra-MIR9552b	0
+bra-MIR9555a	0
+bra-MIR9555b	0
+bra-MIR9560a	0
+bra-MIR9560b	0
+bra-MIR9563a	0
+bra-MIR9563b	0

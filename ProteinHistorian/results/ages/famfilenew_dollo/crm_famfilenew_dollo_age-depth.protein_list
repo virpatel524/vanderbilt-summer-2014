@@ -1,0 +1,129 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+crm-let-7	10
+crm-lin-4	6
+crm-mir-1	10
+crm-mir-124a	10
+crm-mir-1822	1
+crm-mir-2	8
+crm-mir-2229	0
+crm-mir-2229a	0
+crm-mir-2229b	0
+crm-mir-228	6
+crm-mir-230	1
+crm-mir-231	4
+crm-mir-232-1	1
+crm-mir-232-2	1
+crm-mir-233	4
+crm-mir-234	6
+crm-mir-235	6
+crm-mir-236	6
+crm-mir-237	1
+crm-mir-238	1
+crm-mir-239a	4
+crm-mir-239b	1
+crm-mir-241	1
+crm-mir-242	10
+crm-mir-244	4
+crm-mir-245	1
+crm-mir-246-1	1
+crm-mir-246-2	1
+crm-mir-247	1
+crm-mir-248	1
+crm-mir-249	1
+crm-mir-250	6
+crm-mir-251	1
+crm-mir-252	8
+crm-mir-253	1
+crm-mir-254	4
+crm-mir-255	5
+crm-mir-259	1
+crm-mir-34	10
+crm-mir-355	1
+crm-mir-356	1
+crm-mir-357	1
+crm-mir-35a-1	0
+crm-mir-35a-2	0
+crm-mir-35b	0
+crm-mir-35c-1	1
+crm-mir-35c-2	1
+crm-mir-35c-3	0
+crm-mir-35d-1	0
+crm-mir-35d-2	0
+crm-mir-35e-1	0
+crm-mir-35e-2	0
+crm-mir-35f	1
+crm-mir-35g	1
+crm-mir-35h	1
+crm-mir-35i	1
+crm-mir-36	10
+crm-mir-360	4
+crm-mir-38	1
+crm-mir-39	1
+crm-mir-40	1
+crm-mir-41	1
+crm-mir-42	1
+crm-mir-43	1
+crm-mir-44	1
+crm-mir-45	6
+crm-mir-46	6
+crm-mir-47	4
+crm-mir-48	1
+crm-mir-49	4
+crm-mir-50	6
+crm-mir-51-1	1
+crm-mir-51-2	1
+crm-mir-52-1	1
+crm-mir-52-2	1
+crm-mir-55	1
+crm-mir-56	1
+crm-mir-57	6
+crm-mir-58a	1
+crm-mir-58b	0
+crm-mir-59	1
+crm-mir-60	5
+crm-mir-61	10
+crm-mir-62	4
+crm-mir-63	1
+crm-mir-64b	0
+crm-mir-64c	0
+crm-mir-64d	0
+crm-mir-67	10
+crm-mir-71	10
+crm-mir-72	6
+crm-mir-73	1
+crm-mir-74a	1
+crm-mir-74b	1
+crm-mir-75	4
+crm-mir-7599-1	0
+crm-mir-7599-2	0
+crm-mir-7599-3	0
+crm-mir-76	1
+crm-mir-77-1	1
+crm-mir-77-2	1
+crm-mir-784	1
+crm-mir-785	1
+crm-mir-786	1
+crm-mir-788	1
+crm-mir-79	10
+crm-mir-790-1	1
+crm-mir-790-2	1
+crm-mir-80	4
+crm-mir-81	6
+crm-mir-82	4
+crm-mir-83	6
+crm-mir-84	6
+crm-mir-85	4
+crm-mir-86	6
+crm-mir-87	10
+crm-mir-90	1

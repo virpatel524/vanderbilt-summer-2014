@@ -1,0 +1,68 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+cpa-MIR156a	14
+cpa-MIR156b	14
+cpa-MIR156c	14
+cpa-MIR156d	13
+cpa-MIR156e	9
+cpa-MIR156f	9
+cpa-MIR159a	11
+cpa-MIR159b	11
+cpa-MIR160a	14
+cpa-MIR160b	14
+cpa-MIR160c	14
+cpa-MIR160d	14
+cpa-MIR160e	14
+cpa-MIR160f	14
+cpa-MIR162a	9
+cpa-MIR164a	10
+cpa-MIR164b	10
+cpa-MIR164c	9
+cpa-MIR164d	9
+cpa-MIR164e	9
+cpa-MIR166a	14
+cpa-MIR166b	14
+cpa-MIR166c	14
+cpa-MIR166d	14
+cpa-MIR166e	14
+cpa-MIR167a	9
+cpa-MIR167b	9
+cpa-MIR167c	9
+cpa-MIR167d	9
+cpa-MIR169	11
+cpa-MIR171a	14
+cpa-MIR171b	14
+cpa-MIR171c	13
+cpa-MIR171d	13
+cpa-MIR172a	9
+cpa-MIR172b	9
+cpa-MIR319	13
+cpa-MIR390a	14
+cpa-MIR390b	14
+cpa-MIR393	10
+cpa-MIR394a	9
+cpa-MIR394b	9
+cpa-MIR395a	9
+cpa-MIR395b	9
+cpa-MIR395c	9
+cpa-MIR395d	9
+cpa-MIR395e	9
+cpa-MIR396	13
+cpa-MIR398	11
+cpa-MIR408	11
+cpa-MIR535	11
+cpa-MIR8139a	2
+cpa-MIR8139b	2
+cpa-MIR8139c	2
+cpa-MIR8139d	2
+cpa-MIR8139e	2

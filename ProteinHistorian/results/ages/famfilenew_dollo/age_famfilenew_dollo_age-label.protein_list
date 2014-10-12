@@ -1,0 +1,72 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+age-mir-100	Eumetazoa
+age-mir-101	Theria
+age-mir-103	Euteleostomi
+age-mir-106a	Euteleostomi
+age-mir-106b	Euteleostomi
+age-mir-10a	Bilateria
+age-mir-124a	Bilateria
+age-mir-125b-1	Euteleostomi
+age-mir-125b-2	Euteleostomi
+age-mir-127	Boreoeutheria
+age-mir-128	Euteleostomi
+age-mir-133a	Vertebrata
+age-mir-135-1	Tetrapoda
+age-mir-135-2	Tetrapoda
+age-mir-15a	Vertebrata
+age-mir-15b	Vertebrata
+age-mir-16	Vertebrata
+age-mir-17	Euteleostomi
+age-mir-18	Euteleostomi
+age-mir-194	Vertebrata
+age-mir-196	Euteleostomi
+age-mir-197	Boreoeutheria
+age-mir-198	Simiiformes
+age-mir-19a	Vertebrata
+age-mir-19b-1	Euteleostomi
+age-mir-19b-2	Euteleostomi
+age-mir-20	Euteleostomi
+age-mir-205	Euteleostomi
+age-mir-21	Euteleostomi
+age-mir-214	Euteleostomi
+age-mir-218	Boreoeutheria
+age-mir-22	Deuterostomia
+age-mir-222	Vertebrata
+age-mir-23a	Vertebrata
+age-mir-27a	Vertebrata
+age-mir-28	Theria
+age-mir-29a	Bilateria
+age-mir-29b	Bilateria
+age-mir-30b	Vertebrata
+age-mir-34a	Chordata
+age-mir-506	Boreoeutheria
+age-mir-507	Simiiformes
+age-mir-508	Boreoeutheria
+age-mir-509a	Boreoeutheria
+age-mir-509b	Boreoeutheria
+age-mir-510	Simiiformes
+age-mir-513a-1	Simiiformes
+age-mir-513a-2	Simiiformes
+age-mir-513b	Simiiformes
+age-mir-513c-1	Simiiformes
+age-mir-513c-2	Simiiformes
+age-mir-513d	Ateles
+age-mir-513e-1	Ateles
+age-mir-513e-2	Ateles
+age-mir-514	Boreoeutheria
+age-mir-9	Bilateria
+age-mir-92-1	Euteleostomi
+age-mir-92-2	Euteleostomi
+age-mir-93	Euteleostomi
+age-mir-98	Tetrapoda

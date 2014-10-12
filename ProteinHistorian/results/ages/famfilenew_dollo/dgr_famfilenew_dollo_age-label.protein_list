@@ -1,0 +1,94 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+dgr-bantam	Bilateria
+dgr-let-7-1	Drosophila
+dgr-let-7-2	Drosophila
+dgr-mir-1	Bilateria
+dgr-mir-10	Bilateria
+dgr-mir-100	Eumetazoa
+dgr-mir-11	Endopterygota
+dgr-mir-12	Protostomia
+dgr-mir-124	Bilateria
+dgr-mir-125-1	Bilateria
+dgr-mir-125-2	Bilateria
+dgr-mir-133	Bilateria
+dgr-mir-13a	Neoptera
+dgr-mir-13b-1	Brachycera
+dgr-mir-13b-2	Brachycera
+dgr-mir-14	Neoptera
+dgr-mir-184	Bilateria
+dgr-mir-210	Bilateria
+dgr-mir-219	Bilateria
+dgr-mir-263a	Arthropoda
+dgr-mir-263b	Arthropoda
+dgr-mir-274	Endopterygota
+dgr-mir-275	Arthropoda
+dgr-mir-276a	Brachycera
+dgr-mir-276b	Brachycera
+dgr-mir-277	Bilateria
+dgr-mir-278	Bilateria
+dgr-mir-279	Protostomia
+dgr-mir-280	Drosophila
+dgr-mir-281-1	Diptera
+dgr-mir-281-2	Diptera
+dgr-mir-282	Endopterygota
+dgr-mir-283	Ecdysozoa
+dgr-mir-284	Brachycera
+dgr-mir-285	Arthropoda
+dgr-mir-286-1	Hawaiian_Drosophila
+dgr-mir-286-2	Hawaiian_Drosophila
+dgr-mir-287-1	Hawaiian_Drosophila
+dgr-mir-287-2	Hawaiian_Drosophila
+dgr-mir-288	Brachycera
+dgr-mir-2a-1	Bilateria
+dgr-mir-2a-2	Bilateria
+dgr-mir-2b	Bilateria
+dgr-mir-2c	Bilateria
+dgr-mir-3-1	Hawaiian_Drosophila
+dgr-mir-3-2	Hawaiian_Drosophila
+dgr-mir-304	Drosophila
+dgr-mir-305	Arthropoda
+dgr-mir-306	Endopterygota
+dgr-mir-307	Ecdysozoa
+dgr-mir-308	Endopterygota
+dgr-mir-309-1	Hawaiian_Drosophila
+dgr-mir-309-2	Hawaiian_Drosophila
+dgr-mir-314	Brachycera
+dgr-mir-315	Bilateria
+dgr-mir-316	Neoptera
+dgr-mir-317	Arthropoda
+dgr-mir-318	Drosophila
+dgr-mir-31a	Bilateria
+dgr-mir-31b	Bilateria
+dgr-mir-33	Bilateria
+dgr-mir-34	Bilateria
+dgr-mir-4-1	Hawaiian_Drosophila
+dgr-mir-4-2	Hawaiian_Drosophila
+dgr-mir-5-1	Hawaiian_Drosophila
+dgr-mir-5-2	Hawaiian_Drosophila
+dgr-mir-6-1	Brachycera
+dgr-mir-6-2	Brachycera
+dgr-mir-6-3	Brachycera
+dgr-mir-6-4	Hawaiian_Drosophila
+dgr-mir-6-5	Hawaiian_Drosophila
+dgr-mir-6-6	Hawaiian_Drosophila
+dgr-mir-7	Bilateria
+dgr-mir-79	Bilateria
+dgr-mir-8	Bilateria
+dgr-mir-87	Bilateria
+dgr-mir-92a	Bilateria
+dgr-mir-92b	Bilateria
+dgr-mir-9a	Bilateria
+dgr-mir-9b	Bilateria
+dgr-mir-9c	Endopterygota
+dgr-mir-iab-4	Arthropoda

@@ -1,0 +1,50 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+pmi-let-7	10
+pmi-mir-1	10
+pmi-mir-10	10
+pmi-mir-100	11
+pmi-mir-124	10
+pmi-mir-125	10
+pmi-mir-133	10
+pmi-mir-137	10
+pmi-mir-153	10
+pmi-mir-182	10
+pmi-mir-184	10
+pmi-mir-200	9
+pmi-mir-2005	8
+pmi-mir-2006	8
+pmi-mir-2008	9
+pmi-mir-2009	8
+pmi-mir-2011	9
+pmi-mir-210	10
+pmi-mir-219	10
+pmi-mir-242	10
+pmi-mir-252a	10
+pmi-mir-252b	10
+pmi-mir-278	10
+pmi-mir-29b	10
+pmi-mir-31-1	6
+pmi-mir-31-2	6
+pmi-mir-31-3	6
+pmi-mir-33	10
+pmi-mir-34	10
+pmi-mir-375	10
+pmi-mir-7	10
+pmi-mir-71	10
+pmi-mir-9	10
+pmi-mir-92a	10
+pmi-mir-92b	10
+pmi-mir-92c	10
+pmi-mir-92d	9
+pmi-mir-981	10

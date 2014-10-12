@@ -1,0 +1,108 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+tca-bantam	Bilateria
+tca-let-7	Bilateria
+tca-mir-1	Bilateria
+tca-mir-10	Bilateria
+tca-mir-100	Eumetazoa
+tca-mir-1000	Neoptera
+tca-mir-11	Endopterygota
+tca-mir-1175	Protostomia
+tca-mir-12	Protostomia
+tca-mir-124	Bilateria
+tca-mir-125	Bilateria
+tca-mir-133	Bilateria
+tca-mir-137	Bilateria
+tca-mir-13a	Neoptera
+tca-mir-13b	Endopterygota
+tca-mir-14	Neoptera
+tca-mir-184	Bilateria
+tca-mir-190	Bilateria
+tca-mir-210	Bilateria
+tca-mir-219	Bilateria
+tca-mir-252a	Bilateria
+tca-mir-263a	Arthropoda
+tca-mir-263b	Arthropoda
+tca-mir-275	Arthropoda
+tca-mir-276	Arthropoda
+tca-mir-2765	Endopterygota
+tca-mir-277	Bilateria
+tca-mir-2788	Endopterygota
+tca-mir-2796	Endopterygota
+tca-mir-279a	Ecdysozoa
+tca-mir-279b	Ecdysozoa
+tca-mir-279d	Endopterygota
+tca-mir-281	Bilateria
+tca-mir-282	Endopterygota
+tca-mir-283	Ecdysozoa
+tca-mir-29	Protostomia
+tca-mir-2944a	Endopterygota
+tca-mir-2944b	Endopterygota
+tca-mir-2944c	Coleoptera
+tca-mir-2a	Bilateria
+tca-mir-2b	Bilateria
+tca-mir-2c	Bilateria
+tca-mir-305	Arthropoda
+tca-mir-307	Ecdysozoa
+tca-mir-31	Bilateria
+tca-mir-315	Bilateria
+tca-mir-316	Neoptera
+tca-mir-317	Arthropoda
+tca-mir-33	Bilateria
+tca-mir-34	Bilateria
+tca-mir-3477	Endopterygota
+tca-mir-375	Bilateria
+tca-mir-3804a	Coleoptera
+tca-mir-3804b	Coleoptera
+tca-mir-3806	Coleoptera
+tca-mir-3808	Coleoptera
+tca-mir-3811a	Coleoptera
+tca-mir-3811b	Coleoptera
+tca-mir-3811c-1	Coleoptera
+tca-mir-3811c-2	Coleoptera
+tca-mir-3811d	Coleoptera
+tca-mir-3811e	Coleoptera
+tca-mir-3817	Coleoptera
+tca-mir-3826	Coleoptera
+tca-mir-3836a	Coleoptera
+tca-mir-3836b	Coleoptera
+tca-mir-3851a-1	Coleoptera
+tca-mir-3851a-2	Coleoptera
+tca-mir-3851b	Coleoptera
+tca-mir-3851c	Coleoptera
+tca-mir-3851d	Coleoptera
+tca-mir-3851e	Coleoptera
+tca-mir-3851f	Coleoptera
+tca-mir-6012	Endopterygota
+tca-mir-7	Bilateria
+tca-mir-71	Bilateria
+tca-mir-8	Bilateria
+tca-mir-87a	Bilateria
+tca-mir-87b	Protostomia
+tca-mir-927a	Endopterygota
+tca-mir-929	Neoptera
+tca-mir-92a	Bilateria
+tca-mir-92b	Bilateria
+tca-mir-92c	Bilateria
+tca-mir-932	Endopterygota
+tca-mir-965	Mandibulata
+tca-mir-970	Endopterygota
+tca-mir-980	Endopterygota
+tca-mir-981	Bilateria
+tca-mir-993	Protostomia
+tca-mir-9a	Bilateria
+tca-mir-9b	Bilateria
+tca-mir-9d	Coleoptera
+tca-mir-9e	Coleoptera
+tca-mir-iab-4	Arthropoda
+tca-mir-iab-8	Endopterygota

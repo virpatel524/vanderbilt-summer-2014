@@ -1,0 +1,74 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+sly-MIR156a	17
+sly-MIR156b	17
+sly-MIR156c	17
+sly-MIR156d	16
+sly-MIR156e	12
+sly-MIR159	16
+sly-MIR160a	17
+sly-MIR162	14
+sly-MIR164a	13
+sly-MIR164b	13
+sly-MIR166a	17
+sly-MIR166b	17
+sly-MIR166c	17
+sly-MIR167a	12
+sly-MIR167b	12
+sly-MIR168a	12
+sly-MIR168b	12
+sly-MIR169a	13
+sly-MIR169b	13
+sly-MIR169c	13
+sly-MIR169d	12
+sly-MIR169e	12
+sly-MIR171a	17
+sly-MIR171b	17
+sly-MIR171c	16
+sly-MIR171d	16
+sly-MIR171e	12
+sly-MIR172a	12
+sly-MIR172b	12
+sly-MIR1919a	1
+sly-MIR1919b	1
+sly-MIR1919c	1
+sly-MIR319a	17
+sly-MIR319b	17
+sly-MIR319c	17
+sly-MIR390a	17
+sly-MIR390b	17
+sly-MIR394	13
+sly-MIR395a	12
+sly-MIR395b	12
+sly-MIR396a	14
+sly-MIR396b	14
+sly-MIR397	14
+sly-MIR399	12
+sly-MIR403	9
+sly-MIR4376	4
+sly-MIR482a	14
+sly-MIR482b	14
+sly-MIR482c	14
+sly-MIR482d	14
+sly-MIR482e	9
+sly-MIR5302a	1
+sly-MIR5302b	1
+sly-MIR5303	1
+sly-MIR5304	4
+sly-MIR6022	4
+sly-MIR6023	4
+sly-MIR6024	6
+sly-MIR6026	4
+sly-MIR6027	4
+sly-MIR9471a	1
+sly-MIR9471b	1

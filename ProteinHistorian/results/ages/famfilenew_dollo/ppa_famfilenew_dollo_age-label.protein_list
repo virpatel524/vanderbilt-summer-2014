@@ -1,0 +1,100 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+ppa-mir-1	Bilateria
+ppa-mir-100	Eumetazoa
+ppa-mir-101	Theria
+ppa-mir-103	Euteleostomi
+ppa-mir-105	Boreoeutheria
+ppa-mir-106a	Euteleostomi
+ppa-mir-106b	Euteleostomi
+ppa-mir-107	Euteleostomi
+ppa-mir-10a	Bilateria
+ppa-mir-10b	Chordata
+ppa-mir-124a	Bilateria
+ppa-mir-125b	Bilateria
+ppa-mir-128	Euteleostomi
+ppa-mir-130a	Vertebrata
+ppa-mir-133a	Vertebrata
+ppa-mir-134	Boreoeutheria
+ppa-mir-135-1	Tetrapoda
+ppa-mir-135-2	Tetrapoda
+ppa-mir-136	Boreoeutheria
+ppa-mir-139	Euteleostomi
+ppa-mir-141	Chordata
+ppa-mir-143	Vertebrata
+ppa-mir-144	Vertebrata
+ppa-mir-147	Amniota
+ppa-mir-154	Boreoeutheria
+ppa-mir-15a	Vertebrata
+ppa-mir-15b	Vertebrata
+ppa-mir-16	Vertebrata
+ppa-mir-17	Euteleostomi
+ppa-mir-18	Euteleostomi
+ppa-mir-181a-1	Euteleostomi
+ppa-mir-181a-2	Euteleostomi
+ppa-mir-181b	Euteleostomi
+ppa-mir-181c	Euteleostomi
+ppa-mir-183	Bilateria
+ppa-mir-186	Mammalia
+ppa-mir-187	Euteleostomi
+ppa-mir-188	Boreoeutheria
+ppa-mir-190	Bilateria
+ppa-mir-195	Theria
+ppa-mir-196	Euteleostomi
+ppa-mir-197	Boreoeutheria
+ppa-mir-198	Simiiformes
+ppa-mir-199a	Vertebrata
+ppa-mir-19a	Vertebrata
+ppa-mir-19b-1	Euteleostomi
+ppa-mir-19b-2	Euteleostomi
+ppa-mir-20	Euteleostomi
+ppa-mir-204	Vertebrata
+ppa-mir-205	Euteleostomi
+ppa-mir-21	Euteleostomi
+ppa-mir-214	Euteleostomi
+ppa-mir-216	Chordata
+ppa-mir-217	Chordata
+ppa-mir-218-1	Euteleostomi
+ppa-mir-218-2	Euteleostomi
+ppa-mir-22	Deuterostomia
+ppa-mir-221	Vertebrata
+ppa-mir-223	Euteleostomi
+ppa-mir-224	Boreoeutheria
+ppa-mir-23a	Vertebrata
+ppa-mir-23b	Vertebrata
+ppa-mir-24-1	Euteleostomi
+ppa-mir-24-2	Euteleostomi
+ppa-mir-25	Euteleostomi
+ppa-mir-26a	Euteleostomi
+ppa-mir-27a	Vertebrata
+ppa-mir-28	Theria
+ppa-mir-29a	Bilateria
+ppa-mir-29b-1	Euteleostomi
+ppa-mir-29b-2	Euteleostomi
+ppa-mir-30a	Vertebrata
+ppa-mir-30b	Vertebrata
+ppa-mir-30d	Vertebrata
+ppa-mir-31	Bilateria
+ppa-mir-32	Amniota
+ppa-mir-33	Bilateria
+ppa-mir-34a	Chordata
+ppa-mir-7-1	Chordata
+ppa-mir-7-2	Chordata
+ppa-mir-7-3	Tetrapoda
+ppa-mir-92-1	Euteleostomi
+ppa-mir-92-2	Euteleostomi
+ppa-mir-93	Euteleostomi
+ppa-mir-95	Boreoeutheria
+ppa-mir-96	Bilateria
+ppa-mir-98	Tetrapoda
+ppa-mir-99a	Euteleostomi

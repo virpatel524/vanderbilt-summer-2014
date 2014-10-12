@@ -1,0 +1,124 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+cme-MIR156a	15
+cme-MIR156b	15
+cme-MIR156c	15
+cme-MIR156d	14
+cme-MIR156e	10
+cme-MIR156f	10
+cme-MIR156g	10
+cme-MIR156h	10
+cme-MIR156i	10
+cme-MIR156j	10
+cme-MIR159a	12
+cme-MIR159b	12
+cme-MIR160a	15
+cme-MIR160b	15
+cme-MIR160c	15
+cme-MIR160d	15
+cme-MIR162	12
+cme-MIR164a	11
+cme-MIR164b	11
+cme-MIR164c	10
+cme-MIR164d	10
+cme-MIR166a	15
+cme-MIR166b	15
+cme-MIR166c	15
+cme-MIR166d	15
+cme-MIR166e	15
+cme-MIR166f	15
+cme-MIR166g	15
+cme-MIR166h	15
+cme-MIR166i	15
+cme-MIR167a	10
+cme-MIR167b	10
+cme-MIR167c	10
+cme-MIR167d	10
+cme-MIR167e	10
+cme-MIR167f	10
+cme-MIR168	11
+cme-MIR169a	11
+cme-MIR169b	11
+cme-MIR169c	11
+cme-MIR169d	10
+cme-MIR169e	10
+cme-MIR169f	10
+cme-MIR169g	10
+cme-MIR169h	10
+cme-MIR169i	10
+cme-MIR169j	10
+cme-MIR169k	10
+cme-MIR169l	10
+cme-MIR169m	10
+cme-MIR169n	10
+cme-MIR169o	10
+cme-MIR169p	10
+cme-MIR169q	10
+cme-MIR169r	10
+cme-MIR169s	7
+cme-MIR171a	15
+cme-MIR171b	15
+cme-MIR171c	14
+cme-MIR171d	14
+cme-MIR171e	10
+cme-MIR171f	10
+cme-MIR171g	10
+cme-MIR171h	10
+cme-MIR171i	10
+cme-MIR172a	10
+cme-MIR172b	10
+cme-MIR172c	10
+cme-MIR172d	10
+cme-MIR172e	10
+cme-MIR172f	10
+cme-MIR2111a	6
+cme-MIR2111b	6
+cme-MIR319a	15
+cme-MIR319b	15
+cme-MIR319c	15
+cme-MIR319d	15
+cme-MIR390a	15
+cme-MIR390b	15
+cme-MIR390c	15
+cme-MIR390d	5
+cme-MIR393a	10
+cme-MIR393b	10
+cme-MIR393c	10
+cme-MIR394a	10
+cme-MIR394b	10
+cme-MIR395a	10
+cme-MIR395b	10
+cme-MIR395c	10
+cme-MIR395d	10
+cme-MIR395e	10
+cme-MIR395f	10
+cme-MIR396a	12
+cme-MIR396b	12
+cme-MIR396c	12
+cme-MIR396d	11
+cme-MIR396e	11
+cme-MIR397	12
+cme-MIR398a	10
+cme-MIR398b	10
+cme-MIR399a	10
+cme-MIR399b	10
+cme-MIR399c	10
+cme-MIR399d	10
+cme-MIR399e	10
+cme-MIR399f	10
+cme-MIR399g	10
+cme-MIR408	12
+cme-MIR477b	15
+cme-MIR530a	10
+cme-MIR530b	10
+cme-MIR828	11

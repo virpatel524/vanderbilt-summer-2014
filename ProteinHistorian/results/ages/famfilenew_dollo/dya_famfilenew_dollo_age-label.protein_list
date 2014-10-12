@@ -1,0 +1,88 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+dya-bantam	Bilateria
+dya-let-7	Bilateria
+dya-mir-1	Bilateria
+dya-mir-10	Bilateria
+dya-mir-100	Eumetazoa
+dya-mir-11	Endopterygota
+dya-mir-124	Bilateria
+dya-mir-125	Bilateria
+dya-mir-133	Bilateria
+dya-mir-13a	Neoptera
+dya-mir-13b-1	Brachycera
+dya-mir-13b-2	Brachycera
+dya-mir-14	Neoptera
+dya-mir-184	Bilateria
+dya-mir-210	Bilateria
+dya-mir-219	Bilateria
+dya-mir-263a	Arthropoda
+dya-mir-263b	Arthropoda
+dya-mir-274	Endopterygota
+dya-mir-275	Arthropoda
+dya-mir-276a	Brachycera
+dya-mir-276b	Brachycera
+dya-mir-277	Bilateria
+dya-mir-278	Bilateria
+dya-mir-279	Protostomia
+dya-mir-280	Drosophila
+dya-mir-281-1	Diptera
+dya-mir-281-2	Diptera
+dya-mir-282	Endopterygota
+dya-mir-283	Ecdysozoa
+dya-mir-284	Brachycera
+dya-mir-285	Arthropoda
+dya-mir-286	Diptera
+dya-mir-287	Drosophila
+dya-mir-288	Brachycera
+dya-mir-289	Sophophora
+dya-mir-2a-1	Bilateria
+dya-mir-2a-2	Bilateria
+dya-mir-2b-1	Ecdysozoa
+dya-mir-2b-2	Sophophora
+dya-mir-2c	Bilateria
+dya-mir-3	Drosophila
+dya-mir-304	Drosophila
+dya-mir-305	Arthropoda
+dya-mir-306	Endopterygota
+dya-mir-307	Ecdysozoa
+dya-mir-308	Endopterygota
+dya-mir-309	Diptera
+dya-mir-310	Drosophila
+dya-mir-311a	melanogaster_group
+dya-mir-311b	melanogaster_group
+dya-mir-312	melanogaster_group
+dya-mir-314	Brachycera
+dya-mir-315	Bilateria
+dya-mir-316	Neoptera
+dya-mir-317	Arthropoda
+dya-mir-318	Drosophila
+dya-mir-31a	Bilateria
+dya-mir-31b	Bilateria
+dya-mir-33	Bilateria
+dya-mir-34	Bilateria
+dya-mir-4	Drosophila
+dya-mir-5	Drosophila
+dya-mir-6-1	Brachycera
+dya-mir-6-2	Brachycera
+dya-mir-6-3	Brachycera
+dya-mir-7	Bilateria
+dya-mir-79	Bilateria
+dya-mir-8	Bilateria
+dya-mir-87	Bilateria
+dya-mir-92a	Bilateria
+dya-mir-92b	Bilateria
+dya-mir-9a	Bilateria
+dya-mir-9b	Bilateria
+dya-mir-9c	Endopterygota
+dya-mir-iab-4	Arthropoda

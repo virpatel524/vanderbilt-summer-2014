@@ -1,0 +1,49 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+lja-MIR1507a	3
+lja-MIR1507b	3
+lja-MIR167	12
+lja-MIR167a	11
+lja-MIR167b	11
+lja-MIR167c	11
+lja-MIR171a	16
+lja-MIR171b	16
+lja-MIR171c	15
+lja-MIR171d	15
+lja-MIR172a	11
+lja-MIR172b	11
+lja-MIR172c	11
+lja-MIR2111	7
+lja-MIR390a	16
+lja-MIR390b	16
+lja-MIR396	15
+lja-MIR397	13
+lja-MIR408	13
+lja-MIR7523a	2
+lja-MIR7523b	2
+lja-MIR7526a	2
+lja-MIR7526b	2
+lja-MIR7526c	2
+lja-MIR7526d	2
+lja-MIR7526e	2
+lja-MIR7526f	2
+lja-MIR7526g	2
+lja-MIR7526h	2
+lja-MIR7532a	2
+lja-MIR7532b	2
+lja-MIR7533a	2
+lja-MIR7533b	2
+lja-MIR7536a	2
+lja-MIR7536b	2
+lja-MIR7540a	2
+lja-MIR7540b	2

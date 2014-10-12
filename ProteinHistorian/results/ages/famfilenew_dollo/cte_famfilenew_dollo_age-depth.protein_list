@@ -1,0 +1,76 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+cte-bantam	9
+cte-let-7	9
+cte-mir-1	9
+cte-mir-100	10
+cte-mir-10a	9
+cte-mir-10c	9
+cte-mir-1175	8
+cte-mir-12	8
+cte-mir-124	9
+cte-mir-125	9
+cte-mir-133	9
+cte-mir-137	9
+cte-mir-153	9
+cte-mir-182	9
+cte-mir-184a	8
+cte-mir-184b	8
+cte-mir-190	9
+cte-mir-1990a	6
+cte-mir-1990c	6
+cte-mir-1992	7
+cte-mir-1993	7
+cte-mir-1994	7
+cte-mir-2001	9
+cte-mir-216a	9
+cte-mir-216b	9
+cte-mir-219	9
+cte-mir-242	9
+cte-mir-252a	9
+cte-mir-252b	9
+cte-mir-2686a	6
+cte-mir-2686b	6
+cte-mir-2694-1	6
+cte-mir-2694-2	6
+cte-mir-2703-1	6
+cte-mir-2703-2	6
+cte-mir-2715-1	6
+cte-mir-2715-2	6
+cte-mir-279	8
+cte-mir-29a	9
+cte-mir-29b	9
+cte-mir-2a	9
+cte-mir-2b	9
+cte-mir-2c	9
+cte-mir-2d-1	6
+cte-mir-2d-2	6
+cte-mir-2e-1	6
+cte-mir-2e-2	6
+cte-mir-31	9
+cte-mir-315	9
+cte-mir-33	9
+cte-mir-34	9
+cte-mir-375	9
+cte-mir-67	9
+cte-mir-7	9
+cte-mir-71	9
+cte-mir-750	8
+cte-mir-8	9
+cte-mir-87a	9
+cte-mir-87b	8
+cte-mir-9	9
+cte-mir-92a	9
+cte-mir-92c	9
+cte-mir-981	9
+cte-mir-993	8

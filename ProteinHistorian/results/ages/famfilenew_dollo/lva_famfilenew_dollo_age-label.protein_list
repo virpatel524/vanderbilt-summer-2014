@@ -1,0 +1,59 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+lva-let-7	Bilateria
+lva-mir-1	Bilateria
+lva-mir-10	Bilateria
+lva-mir-124	Bilateria
+lva-mir-125	Bilateria
+lva-mir-133	Bilateria
+lva-mir-137	Bilateria
+lva-mir-153	Bilateria
+lva-mir-182	Bilateria
+lva-mir-183	Bilateria
+lva-mir-184	Bilateria
+lva-mir-200	Deuterostomia
+lva-mir-2001	Bilateria
+lva-mir-2002	Echinozoa
+lva-mir-2003	Echinozoa
+lva-mir-2004	Echinozoa
+lva-mir-2005	Echinodermata
+lva-mir-2006	Echinodermata
+lva-mir-2007	Echinozoa
+lva-mir-2008	Deuterostomia
+lva-mir-2009	Echinodermata
+lva-mir-2010	Echinozoa
+lva-mir-2011	Deuterostomia
+lva-mir-2013	Deuterostomia
+lva-mir-210	Bilateria
+lva-mir-219	Bilateria
+lva-mir-22	Deuterostomia
+lva-mir-242	Bilateria
+lva-mir-252a	Bilateria
+lva-mir-252b	Bilateria
+lva-mir-278	Bilateria
+lva-mir-29b	Bilateria
+lva-mir-31	Bilateria
+lva-mir-33	Bilateria
+lva-mir-34	Bilateria
+lva-mir-375	Bilateria
+lva-mir-4847	Echinozoa
+lva-mir-4850	Echinozoa
+lva-mir-4854	Echinozoa
+lva-mir-7	Bilateria
+lva-mir-71	Bilateria
+lva-mir-9	Bilateria
+lva-mir-92a	Bilateria
+lva-mir-92b-1	Bilateria
+lva-mir-92b-2	Bilateria
+lva-mir-96	Bilateria
+lva-mir-981	Bilateria

@@ -1,0 +1,76 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+cte-bantam	Bilateria
+cte-let-7	Bilateria
+cte-mir-1	Bilateria
+cte-mir-100	Eumetazoa
+cte-mir-10a	Bilateria
+cte-mir-10c	Bilateria
+cte-mir-1175	Protostomia
+cte-mir-12	Protostomia
+cte-mir-124	Bilateria
+cte-mir-125	Bilateria
+cte-mir-133	Bilateria
+cte-mir-137	Bilateria
+cte-mir-153	Bilateria
+cte-mir-182	Bilateria
+cte-mir-184a	Protostomia
+cte-mir-184b	Protostomia
+cte-mir-190	Bilateria
+cte-mir-1990a	Annelida
+cte-mir-1990c	Annelida
+cte-mir-1992	Lophotrochozoa
+cte-mir-1993	Lophotrochozoa
+cte-mir-1994	Lophotrochozoa
+cte-mir-2001	Bilateria
+cte-mir-216a	Bilateria
+cte-mir-216b	Bilateria
+cte-mir-219	Bilateria
+cte-mir-242	Bilateria
+cte-mir-252a	Bilateria
+cte-mir-252b	Bilateria
+cte-mir-2686a	Annelida
+cte-mir-2686b	Annelida
+cte-mir-2694-1	Annelida
+cte-mir-2694-2	Annelida
+cte-mir-2703-1	Annelida
+cte-mir-2703-2	Annelida
+cte-mir-2715-1	Annelida
+cte-mir-2715-2	Annelida
+cte-mir-279	Protostomia
+cte-mir-29a	Bilateria
+cte-mir-29b	Bilateria
+cte-mir-2a	Bilateria
+cte-mir-2b	Bilateria
+cte-mir-2c	Bilateria
+cte-mir-2d-1	Annelida
+cte-mir-2d-2	Annelida
+cte-mir-2e-1	Annelida
+cte-mir-2e-2	Annelida
+cte-mir-31	Bilateria
+cte-mir-315	Bilateria
+cte-mir-33	Bilateria
+cte-mir-34	Bilateria
+cte-mir-375	Bilateria
+cte-mir-67	Bilateria
+cte-mir-7	Bilateria
+cte-mir-71	Bilateria
+cte-mir-750	Protostomia
+cte-mir-8	Bilateria
+cte-mir-87a	Bilateria
+cte-mir-87b	Protostomia
+cte-mir-9	Bilateria
+cte-mir-92a	Bilateria
+cte-mir-92c	Bilateria
+cte-mir-981	Bilateria
+cte-mir-993	Protostomia

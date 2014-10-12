@@ -1,0 +1,125 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+bbe-let-7a-1	Chordata
+bbe-let-7a-2	Chordata
+bbe-mir-1	Bilateria
+bbe-mir-100	Eumetazoa
+bbe-mir-10a	Bilateria
+bbe-mir-10b	Chordata
+bbe-mir-10c	Bilateria
+bbe-mir-124	Bilateria
+bbe-mir-125a	Bilateria
+bbe-mir-125b	Bilateria
+bbe-mir-129a	Chordata
+bbe-mir-129b	Chordata
+bbe-mir-133	Bilateria
+bbe-mir-135a	Chordata
+bbe-mir-135b	Chordata
+bbe-mir-137	Bilateria
+bbe-mir-153	Bilateria
+bbe-mir-182a	Cephalochordata
+bbe-mir-182b	Cephalochordata
+bbe-mir-182c	Cephalochordata
+bbe-mir-182d	Cephalochordata
+bbe-mir-183	Bilateria
+bbe-mir-184	Bilateria
+bbe-mir-190	Bilateria
+bbe-mir-193b	Chordata
+bbe-mir-200a	Chordata
+bbe-mir-200b	Chordata
+bbe-mir-200c	Chordata
+bbe-mir-2013	Deuterostomia
+bbe-mir-2056	Cephalochordata
+bbe-mir-2057	Cephalochordata
+bbe-mir-2058	Cephalochordata
+bbe-mir-2059	Cephalochordata
+bbe-mir-2060a	bbe
+bbe-mir-2060b	bbe
+bbe-mir-2060c-1	bbe
+bbe-mir-2060c-2	bbe
+bbe-mir-2060c-3	bbe
+bbe-mir-2060c-4	bbe
+bbe-mir-2061	Cephalochordata
+bbe-mir-2062	Cephalochordata
+bbe-mir-2063	Cephalochordata
+bbe-mir-2064	Cephalochordata
+bbe-mir-2066	Cephalochordata
+bbe-mir-2067	Cephalochordata
+bbe-mir-2068	Cephalochordata
+bbe-mir-2069-1	bbe
+bbe-mir-2069-2	bbe
+bbe-mir-2069-3	bbe
+bbe-mir-2070	Cephalochordata
+bbe-mir-2071-1	bbe
+bbe-mir-2071-2	bbe
+bbe-mir-2072	Cephalochordata
+bbe-mir-2076	Cephalochordata
+bbe-mir-210	Bilateria
+bbe-mir-216	Chordata
+bbe-mir-217	Chordata
+bbe-mir-219-1	Chordata
+bbe-mir-219-2	Chordata
+bbe-mir-22	Deuterostomia
+bbe-mir-242	Bilateria
+bbe-mir-252a	Bilateria
+bbe-mir-252b	Bilateria
+bbe-mir-278	Bilateria
+bbe-mir-281	Bilateria
+bbe-mir-29a	Bilateria
+bbe-mir-29b	Bilateria
+bbe-mir-31	Bilateria
+bbe-mir-33-1	Bilateria
+bbe-mir-33-2	Bilateria
+bbe-mir-34a	Chordata
+bbe-mir-34c	Chordata
+bbe-mir-34h	bbe
+bbe-mir-375	Bilateria
+bbe-mir-4856a	Cephalochordata
+bbe-mir-4857	Cephalochordata
+bbe-mir-4859	Cephalochordata
+bbe-mir-4860	Cephalochordata
+bbe-mir-4861	Cephalochordata
+bbe-mir-4863	Cephalochordata
+bbe-mir-4864	Cephalochordata
+bbe-mir-4865	Cephalochordata
+bbe-mir-4866	Cephalochordata
+bbe-mir-4867	Cephalochordata
+bbe-mir-4868a	Cephalochordata
+bbe-mir-4868b	Cephalochordata
+bbe-mir-4868c	Cephalochordata
+bbe-mir-4869	Cephalochordata
+bbe-mir-4873	Cephalochordata
+bbe-mir-4874	Cephalochordata
+bbe-mir-4876	Cephalochordata
+bbe-mir-4877	Cephalochordata
+bbe-mir-4878	Cephalochordata
+bbe-mir-4879	Cephalochordata
+bbe-mir-4880	Cephalochordata
+bbe-mir-4887	Cephalochordata
+bbe-mir-4888	Cephalochordata
+bbe-mir-4889b	Cephalochordata
+bbe-mir-4890	Cephalochordata
+bbe-mir-4891	Cephalochordata
+bbe-mir-4899	Cephalochordata
+bbe-mir-4904	Cephalochordata
+bbe-mir-4928	Cephalochordata
+bbe-mir-7	Bilateria
+bbe-mir-705	Cephalochordata
+bbe-mir-71	Bilateria
+bbe-mir-9	Bilateria
+bbe-mir-92a-1	Bilateria
+bbe-mir-92a-2	Bilateria
+bbe-mir-92b	Bilateria
+bbe-mir-92c	Bilateria
+bbe-mir-92d	Deuterostomia
+bbe-mir-96	Bilateria

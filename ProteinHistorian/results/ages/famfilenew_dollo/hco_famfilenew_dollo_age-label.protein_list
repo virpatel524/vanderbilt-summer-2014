@@ -1,0 +1,74 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+hco-mir-1	Bilateria
+hco-mir-124	Bilateria
+hco-mir-133	Bilateria
+hco-mir-2	Ecdysozoa
+hco-mir-228	Chromadorea
+hco-mir-234	Chromadorea
+hco-mir-235	Chromadorea
+hco-mir-236	Chromadorea
+hco-mir-252	Ecdysozoa
+hco-mir-255	Rhabditida
+hco-mir-40a	Strongylida
+hco-mir-40e	Strongylida
+hco-mir-45	Chromadorea
+hco-mir-46	Chromadorea
+hco-mir-50	Chromadorea
+hco-mir-5885a	Strongylida
+hco-mir-5885b	Strongylida
+hco-mir-5885c	Strongylida
+hco-mir-5886a	Strongylida
+hco-mir-5886b	Strongylida
+hco-mir-5890a	Strongylida
+hco-mir-5890b	Strongylida
+hco-mir-5890c	Strongylida
+hco-mir-5890d	Strongylida
+hco-mir-5890e	Strongylida
+hco-mir-5890f	Strongylida
+hco-mir-5892a	Strongylida
+hco-mir-5892b	Strongylida
+hco-mir-5897b	Strongylida
+hco-mir-5897c	Strongylida
+hco-mir-5904a	Strongylida
+hco-mir-5904b	Strongylida
+hco-mir-5904c	Strongylida
+hco-mir-5911a	Strongylida
+hco-mir-5911b	Strongylida
+hco-mir-5911c	Strongylida
+hco-mir-5912a	Strongylida
+hco-mir-5912b	Strongylida
+hco-mir-5918a	Strongylida
+hco-mir-5918b	Strongylida
+hco-mir-5918c	Strongylida
+hco-mir-5918d	Strongylida
+hco-mir-5924a	Strongylida
+hco-mir-5924b	Strongylida
+hco-mir-5928a	Strongylida
+hco-mir-5928b	Strongylida
+hco-mir-5928c	Strongylida
+hco-mir-5928d	Strongylida
+hco-mir-5928e	Strongylida
+hco-mir-5984a	Strongylida
+hco-mir-5984b	Strongylida
+hco-mir-5985-1	Strongylida
+hco-mir-5985-2	Strongylida
+hco-mir-60	Rhabditida
+hco-mir-71	Bilateria
+hco-mir-72	Chromadorea
+hco-mir-79	Bilateria
+hco-mir-83	Chromadorea
+hco-mir-86	Chromadorea
+hco-mir-87a	Bilateria
+hco-mir-87b	Protostomia
+hco-mir-9	Bilateria

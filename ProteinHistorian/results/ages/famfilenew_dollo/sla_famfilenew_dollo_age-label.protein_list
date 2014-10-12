@@ -1,0 +1,54 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+sla-mir-100	Eumetazoa
+sla-mir-101	Theria
+sla-mir-105	Boreoeutheria
+sla-mir-106a	Euteleostomi
+sla-mir-106b	Euteleostomi
+sla-mir-10a	Bilateria
+sla-mir-125b	Bilateria
+sla-mir-127	Boreoeutheria
+sla-mir-128	Euteleostomi
+sla-mir-133a	Vertebrata
+sla-mir-147	Amniota
+sla-mir-15a	Vertebrata
+sla-mir-16	Vertebrata
+sla-mir-17	Euteleostomi
+sla-mir-18	Euteleostomi
+sla-mir-181a-2	Euteleostomi
+sla-mir-183	Bilateria
+sla-mir-198	Simiiformes
+sla-mir-199a	Vertebrata
+sla-mir-19a	Vertebrata
+sla-mir-19b-1	Euteleostomi
+sla-mir-19b-2	Euteleostomi
+sla-mir-20	Euteleostomi
+sla-mir-204	Vertebrata
+sla-mir-214	Euteleostomi
+sla-mir-218-1	Euteleostomi
+sla-mir-218-2	Euteleostomi
+sla-mir-22	Deuterostomia
+sla-mir-223	Euteleostomi
+sla-mir-23a	Vertebrata
+sla-mir-27a	Vertebrata
+sla-mir-28	Theria
+sla-mir-29a	Bilateria
+sla-mir-29b	Bilateria
+sla-mir-32	Amniota
+sla-mir-34a	Chordata
+sla-mir-7	Bilateria
+sla-mir-92-1	Euteleostomi
+sla-mir-92-2	Euteleostomi
+sla-mir-93	Euteleostomi
+sla-mir-95	Boreoeutheria
+sla-mir-96	Bilateria

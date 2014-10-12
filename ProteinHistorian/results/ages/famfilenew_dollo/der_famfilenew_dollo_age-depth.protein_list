@@ -1,0 +1,93 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+der-bantam	30
+der-let-7	30
+der-mir-1	30
+der-mir-10	30
+der-mir-100	31
+der-mir-11	18
+der-mir-12	29
+der-mir-124	30
+der-mir-125	30
+der-mir-133	30
+der-mir-13a	19
+der-mir-13b-1	16
+der-mir-13b-2	16
+der-mir-14	19
+der-mir-184	30
+der-mir-210	30
+der-mir-219	30
+der-mir-263a	26
+der-mir-263b	26
+der-mir-274	18
+der-mir-275	26
+der-mir-276a	16
+der-mir-276b	16
+der-mir-277	30
+der-mir-278	30
+der-mir-279	29
+der-mir-280	4
+der-mir-281-1	17
+der-mir-281-2	17
+der-mir-282	18
+der-mir-283	28
+der-mir-284	16
+der-mir-285	26
+der-mir-286	17
+der-mir-287	4
+der-mir-288	16
+der-mir-289	3
+der-mir-2a-1	30
+der-mir-2a-2	30
+der-mir-2b-1	28
+der-mir-2b-2	3
+der-mir-2c	30
+der-mir-3	4
+der-mir-304	4
+der-mir-305	26
+der-mir-306	18
+der-mir-307	28
+der-mir-308	18
+der-mir-309	17
+der-mir-310a	0
+der-mir-310b	0
+der-mir-311a	2
+der-mir-311b-1	0
+der-mir-311b-2	0
+der-mir-311c	0
+der-mir-312-1	0
+der-mir-312-2	0
+der-mir-314	16
+der-mir-315	30
+der-mir-316	19
+der-mir-317	26
+der-mir-318	4
+der-mir-31a	30
+der-mir-31b	30
+der-mir-33	30
+der-mir-34	30
+der-mir-4	4
+der-mir-5	4
+der-mir-6-1	16
+der-mir-6-2	16
+der-mir-6-3	16
+der-mir-7	30
+der-mir-79	30
+der-mir-8	30
+der-mir-87	30
+der-mir-92a	30
+der-mir-92b	30
+der-mir-9a	30
+der-mir-9b	30
+der-mir-9c	18
+der-mir-iab-4	26

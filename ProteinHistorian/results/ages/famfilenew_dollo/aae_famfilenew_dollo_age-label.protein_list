@@ -1,0 +1,107 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+aae-bantam	Bilateria
+aae-let-7	Bilateria
+aae-mir-1	Bilateria
+aae-mir-10	Bilateria
+aae-mir-100	Eumetazoa
+aae-mir-1000-1	Aedini
+aae-mir-1000-2	Aedini
+aae-mir-11	Endopterygota
+aae-mir-1175	Protostomia
+aae-mir-12	Protostomia
+aae-mir-124	Bilateria
+aae-mir-125	Bilateria
+aae-mir-13	Culicinae
+aae-mir-133	Bilateria
+aae-mir-137-1	Bilateria
+aae-mir-137-2	Bilateria
+aae-mir-14	Neoptera
+aae-mir-184	Bilateria
+aae-mir-1889	Culicinae
+aae-mir-1890	Nematocera
+aae-mir-1891-1	Aedini
+aae-mir-1891-2	Aedini
+aae-mir-190	Bilateria
+aae-mir-210	Bilateria
+aae-mir-219	Bilateria
+aae-mir-252	Ecdysozoa
+aae-mir-263a	Arthropoda
+aae-mir-263b	Arthropoda
+aae-mir-275	Arthropoda
+aae-mir-276-1	Culicinae
+aae-mir-276-2	Culicinae
+aae-mir-2765	Endopterygota
+aae-mir-277	Bilateria
+aae-mir-278	Bilateria
+aae-mir-279	Protostomia
+aae-mir-281	Bilateria
+aae-mir-282-1	Aedini
+aae-mir-282-2	Aedini
+aae-mir-283	Ecdysozoa
+aae-mir-285	Arthropoda
+aae-mir-286a	Aedini
+aae-mir-286b-1	Aedini
+aae-mir-286b-2	Aedini
+aae-mir-2941-1	Culicinae
+aae-mir-2941-2	Culicinae
+aae-mir-2943-1	Aedini
+aae-mir-2943-2	Aedini
+aae-mir-2944a	Endopterygota
+aae-mir-2944b	Endopterygota
+aae-mir-2945	Aedini
+aae-mir-2a	Bilateria
+aae-mir-2b	Bilateria
+aae-mir-2c	Bilateria
+aae-mir-305	Arthropoda
+aae-mir-307	Ecdysozoa
+aae-mir-308	Endopterygota
+aae-mir-309a-1	Aedini
+aae-mir-309a-2	Aedini
+aae-mir-309b	Aedini
+aae-mir-31	Bilateria
+aae-mir-315	Bilateria
+aae-mir-316	Neoptera
+aae-mir-317-1	Diptera
+aae-mir-317-2	Diptera
+aae-mir-33	Bilateria
+aae-mir-34	Bilateria
+aae-mir-375	Bilateria
+aae-mir-7	Bilateria
+aae-mir-71	Bilateria
+aae-mir-79	Bilateria
+aae-mir-8	Bilateria
+aae-mir-87	Bilateria
+aae-mir-927	Neoptera
+aae-mir-929-1	Aedini
+aae-mir-929-2	Aedini
+aae-mir-92a	Bilateria
+aae-mir-92b	Bilateria
+aae-mir-932	Endopterygota
+aae-mir-957	Diptera
+aae-mir-965	Mandibulata
+aae-mir-970	Endopterygota
+aae-mir-980	Endopterygota
+aae-mir-981	Bilateria
+aae-mir-988	Diptera
+aae-mir-989	Endopterygota
+aae-mir-993	Protostomia
+aae-mir-996	Neoptera
+aae-mir-998	Endopterygota
+aae-mir-999	Diptera
+aae-mir-9a-1	Bilateria
+aae-mir-9a-2	Bilateria
+aae-mir-9b	Bilateria
+aae-mir-9c	Endopterygota
+aae-mir-iab-4-1	Aedini
+aae-mir-iab-4-2	Aedini

@@ -1,0 +1,74 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+bma-bantam	9
+bma-let-7	9
+bma-lin-4	5
+bma-mir-100b	9
+bma-mir-1175	8
+bma-mir-124	9
+bma-mir-133	9
+bma-mir-153	9
+bma-mir-228	5
+bma-mir-234	5
+bma-mir-236-1	5
+bma-mir-236-2	5
+bma-mir-239	5
+bma-mir-250	5
+bma-mir-252	7
+bma-mir-268	5
+bma-mir-279	8
+bma-mir-281	9
+bma-mir-283	7
+bma-mir-2a	9
+bma-mir-2b-1	7
+bma-mir-307	7
+bma-mir-34	9
+bma-mir-36a-1	4
+bma-mir-36a-2	4
+bma-mir-36b	4
+bma-mir-36c	5
+bma-mir-45	5
+bma-mir-50	5
+bma-mir-5360	5
+bma-mir-5366	5
+bma-mir-57	5
+bma-mir-5838-1	4
+bma-mir-5838-2	4
+bma-mir-5846-1	4
+bma-mir-5846-2	4
+bma-mir-5847-1	4
+bma-mir-5847-2	4
+bma-mir-5856a	4
+bma-mir-5856b	4
+bma-mir-5879a	4
+bma-mir-5879b	4
+bma-mir-5880a	4
+bma-mir-5880b	4
+bma-mir-5881a	4
+bma-mir-5881b	4
+bma-mir-5882a-1	4
+bma-mir-5882a-2	4
+bma-mir-5882b-1	4
+bma-mir-5882b-2	4
+bma-mir-5883-1	4
+bma-mir-5883-2	4
+bma-mir-7	9
+bma-mir-71	9
+bma-mir-72	5
+bma-mir-84-1	4
+bma-mir-84-2	4
+bma-mir-86	5
+bma-mir-87a	9
+bma-mir-87b	8
+bma-mir-9	9
+bma-mir-92	9

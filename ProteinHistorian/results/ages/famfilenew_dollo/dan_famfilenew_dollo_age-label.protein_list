@@ -1,0 +1,88 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+dan-bantam	Bilateria
+dan-let-7	Bilateria
+dan-mir-1	Bilateria
+dan-mir-10	Bilateria
+dan-mir-100	Eumetazoa
+dan-mir-11	Endopterygota
+dan-mir-12	Protostomia
+dan-mir-124	Bilateria
+dan-mir-125	Bilateria
+dan-mir-133	Bilateria
+dan-mir-13a	Neoptera
+dan-mir-13b-1	Brachycera
+dan-mir-13b-2	Brachycera
+dan-mir-14	Neoptera
+dan-mir-184	Bilateria
+dan-mir-210	Bilateria
+dan-mir-219	Bilateria
+dan-mir-263a	Arthropoda
+dan-mir-263b	Arthropoda
+dan-mir-274	Endopterygota
+dan-mir-275	Arthropoda
+dan-mir-276a	Brachycera
+dan-mir-276b	Brachycera
+dan-mir-277	Bilateria
+dan-mir-278	Bilateria
+dan-mir-279	Protostomia
+dan-mir-280	Drosophila
+dan-mir-281-1	Diptera
+dan-mir-281-2	Diptera
+dan-mir-282	Endopterygota
+dan-mir-283	Ecdysozoa
+dan-mir-284	Brachycera
+dan-mir-285	Arthropoda
+dan-mir-286	Diptera
+dan-mir-287	Drosophila
+dan-mir-288	Brachycera
+dan-mir-289	Sophophora
+dan-mir-2a-1	Bilateria
+dan-mir-2a-2	Bilateria
+dan-mir-2b	Bilateria
+dan-mir-2c	Bilateria
+dan-mir-3	Drosophila
+dan-mir-304	Drosophila
+dan-mir-305	Arthropoda
+dan-mir-306	Endopterygota
+dan-mir-307	Ecdysozoa
+dan-mir-308	Endopterygota
+dan-mir-309	Diptera
+dan-mir-310	Drosophila
+dan-mir-311a	melanogaster_group
+dan-mir-311b	melanogaster_group
+dan-mir-312	melanogaster_group
+dan-mir-314	Brachycera
+dan-mir-315	Bilateria
+dan-mir-316	Neoptera
+dan-mir-317	Arthropoda
+dan-mir-318	Drosophila
+dan-mir-31a	Bilateria
+dan-mir-31b	Bilateria
+dan-mir-33	Bilateria
+dan-mir-34	Bilateria
+dan-mir-4	Drosophila
+dan-mir-5	Drosophila
+dan-mir-6-1	Brachycera
+dan-mir-6-2	Brachycera
+dan-mir-6-3	Brachycera
+dan-mir-7	Bilateria
+dan-mir-79	Bilateria
+dan-mir-8	Bilateria
+dan-mir-87	Bilateria
+dan-mir-92a	Bilateria
+dan-mir-92b	Bilateria
+dan-mir-9a	Bilateria
+dan-mir-9b	Bilateria
+dan-mir-9c	Endopterygota
+dan-mir-iab-4	Arthropoda

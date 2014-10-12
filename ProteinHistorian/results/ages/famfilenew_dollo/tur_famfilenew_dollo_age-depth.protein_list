@@ -1,0 +1,53 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+tur-mir-1	16
+tur-mir-10	16
+tur-mir-124-1	16
+tur-mir-124-2	16
+tur-mir-12a	8
+tur-mir-133	16
+tur-mir-137	16
+tur-mir-184	16
+tur-mir-190	16
+tur-mir-2-1	14
+tur-mir-2-2	14
+tur-mir-210-1	16
+tur-mir-210-2	16
+tur-mir-252	14
+tur-mir-263a	12
+tur-mir-263b	12
+tur-mir-276	12
+tur-mir-279	15
+tur-mir-281	16
+tur-mir-307	14
+tur-mir-317	12
+tur-mir-34	16
+tur-mir-3931	9
+tur-mir-5727	8
+tur-mir-5728-1	8
+tur-mir-5728-2	8
+tur-mir-5729a	8
+tur-mir-5729b	8
+tur-mir-5732	8
+tur-mir-5736a	8
+tur-mir-5736b	8
+tur-mir-7	16
+tur-mir-71-1	8
+tur-mir-71-2	8
+tur-mir-87	16
+tur-mir-9-1	16
+tur-mir-9-2	16
+tur-mir-92	16
+tur-mir-993a-1	8
+tur-mir-993a-2	8
+tur-mir-993b	12

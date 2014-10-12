@@ -1,0 +1,36 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+pgi-MIR2118	Mesangiospermae
+pgi-MIR482a	Spermatophyta
+pgi-MIR482b	Spermatophyta
+pgi-MIR6135a	Apiales
+pgi-MIR6135b	Apiales
+pgi-MIR6135c	Apiales
+pgi-MIR6135d	Apiales
+pgi-MIR6135e	Apiales
+pgi-MIR6135f	Apiales
+pgi-MIR6135g	Apiales
+pgi-MIR6135h	Apiales
+pgi-MIR6135i	Apiales
+pgi-MIR6135j	Apiales
+pgi-MIR6135k	Apiales
+pgi-MIR6136a	Apiales
+pgi-MIR6136b	Apiales
+pgi-MIR6137a	Apiales
+pgi-MIR6137b	Apiales
+pgi-MIR6140a	Apiales
+pgi-MIR6140b	Apiales
+pgi-MIR6140c	Apiales
+pgi-MIR6140d	Apiales
+pgi-MIR6143a	Apiales
+pgi-MIR6143b	Apiales

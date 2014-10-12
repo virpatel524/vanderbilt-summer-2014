@@ -1,0 +1,82 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+cqu-bantam	23
+cqu-let-7	23
+cqu-mir-1	23
+cqu-mir-10	23
+cqu-mir-100	24
+cqu-mir-1000	12
+cqu-mir-11	11
+cqu-mir-1175	22
+cqu-mir-12	22
+cqu-mir-124	23
+cqu-mir-125	23
+cqu-mir-13	5
+cqu-mir-133	23
+cqu-mir-137	23
+cqu-mir-14	12
+cqu-mir-184	23
+cqu-mir-1889	5
+cqu-mir-1890	9
+cqu-mir-1891	6
+cqu-mir-190-1	4
+cqu-mir-190-2	4
+cqu-mir-2	21
+cqu-mir-210	23
+cqu-mir-252-1	4
+cqu-mir-252-2	4
+cqu-mir-263	11
+cqu-mir-275	19
+cqu-mir-276-1	5
+cqu-mir-276-2	5
+cqu-mir-276-3	4
+cqu-mir-277	23
+cqu-mir-278	23
+cqu-mir-279	22
+cqu-mir-281-1	10
+cqu-mir-281-2	10
+cqu-mir-283	21
+cqu-mir-285	19
+cqu-mir-2941-1	5
+cqu-mir-2941-2	5
+cqu-mir-305	19
+cqu-mir-308	11
+cqu-mir-309	10
+cqu-mir-31	23
+cqu-mir-315	23
+cqu-mir-316	12
+cqu-mir-317-1	10
+cqu-mir-317-2	10
+cqu-mir-33	23
+cqu-mir-375-1	23
+cqu-mir-375-2	23
+cqu-mir-7	23
+cqu-mir-71	23
+cqu-mir-79	23
+cqu-mir-8	23
+cqu-mir-87	23
+cqu-mir-9	23
+cqu-mir-92	23
+cqu-mir-932	11
+cqu-mir-957	10
+cqu-mir-965	18
+cqu-mir-970	11
+cqu-mir-980	11
+cqu-mir-981	23
+cqu-mir-988	10
+cqu-mir-989	11
+cqu-mir-993	22
+cqu-mir-996	12
+cqu-mir-998	11
+cqu-mir-999	10
+cqu-mir-iab-4	19

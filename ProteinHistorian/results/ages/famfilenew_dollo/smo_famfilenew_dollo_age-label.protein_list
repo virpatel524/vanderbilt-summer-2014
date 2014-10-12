@@ -1,0 +1,36 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+smo-MIR1082a	Lycopodiophyta
+smo-MIR1082b	Lycopodiophyta
+smo-MIR1088	Lycopodiophyta
+smo-MIR1094a	Lycopodiophyta
+smo-MIR1094b	Lycopodiophyta
+smo-MIR1094c	Lycopodiophyta
+smo-MIR1095a	Lycopodiophyta
+smo-MIR1095b	Lycopodiophyta
+smo-MIR156a	Embryophyta
+smo-MIR156b	Embryophyta
+smo-MIR156c	Embryophyta
+smo-MIR156d	Tracheophyta
+smo-MIR159	Tracheophyta
+smo-MIR160a	Embryophyta
+smo-MIR160b	Embryophyta
+smo-MIR166a	Embryophyta
+smo-MIR166b	Embryophyta
+smo-MIR166c	Embryophyta
+smo-MIR171a	Embryophyta
+smo-MIR171b	Embryophyta
+smo-MIR171c	Tracheophyta
+smo-MIR171d	Tracheophyta
+smo-MIR319	Tracheophyta
+smo-MIR396	Tracheophyta

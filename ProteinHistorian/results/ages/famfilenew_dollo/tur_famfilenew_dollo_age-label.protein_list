@@ -1,0 +1,53 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+tur-mir-1	Bilateria
+tur-mir-10	Bilateria
+tur-mir-124-1	Bilateria
+tur-mir-124-2	Bilateria
+tur-mir-12a	Acariformes
+tur-mir-133	Bilateria
+tur-mir-137	Bilateria
+tur-mir-184	Bilateria
+tur-mir-190	Bilateria
+tur-mir-2-1	Ecdysozoa
+tur-mir-2-2	Ecdysozoa
+tur-mir-210-1	Bilateria
+tur-mir-210-2	Bilateria
+tur-mir-252	Ecdysozoa
+tur-mir-263a	Arthropoda
+tur-mir-263b	Arthropoda
+tur-mir-276	Arthropoda
+tur-mir-279	Protostomia
+tur-mir-281	Bilateria
+tur-mir-307	Ecdysozoa
+tur-mir-317	Arthropoda
+tur-mir-34	Bilateria
+tur-mir-3931	Acari
+tur-mir-5727	Acariformes
+tur-mir-5728-1	Acariformes
+tur-mir-5728-2	Acariformes
+tur-mir-5729a	Acariformes
+tur-mir-5729b	Acariformes
+tur-mir-5732	Acariformes
+tur-mir-5736a	Acariformes
+tur-mir-5736b	Acariformes
+tur-mir-7	Bilateria
+tur-mir-71-1	Acariformes
+tur-mir-71-2	Acariformes
+tur-mir-87	Bilateria
+tur-mir-9-1	Bilateria
+tur-mir-9-2	Bilateria
+tur-mir-92	Bilateria
+tur-mir-993a-1	Acariformes
+tur-mir-993a-2	Acariformes
+tur-mir-993b	Arthropoda

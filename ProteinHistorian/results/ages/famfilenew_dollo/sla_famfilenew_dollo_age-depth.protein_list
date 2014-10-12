@@ -1,0 +1,54 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+sla-mir-100	25
+sla-mir-101	11
+sla-mir-105	9
+sla-mir-106a	17
+sla-mir-106b	17
+sla-mir-10a	24
+sla-mir-125b	24
+sla-mir-127	9
+sla-mir-128	17
+sla-mir-133a	20
+sla-mir-147	13
+sla-mir-15a	20
+sla-mir-16	20
+sla-mir-17	17
+sla-mir-18	17
+sla-mir-181a-2	17
+sla-mir-183	24
+sla-mir-198	5
+sla-mir-199a	20
+sla-mir-19a	20
+sla-mir-19b-1	17
+sla-mir-19b-2	17
+sla-mir-20	17
+sla-mir-204	20
+sla-mir-214	17
+sla-mir-218-1	17
+sla-mir-218-2	17
+sla-mir-22	23
+sla-mir-223	17
+sla-mir-23a	20
+sla-mir-27a	20
+sla-mir-28	11
+sla-mir-29a	24
+sla-mir-29b	24
+sla-mir-32	13
+sla-mir-34a	22
+sla-mir-7	24
+sla-mir-92-1	17
+sla-mir-92-2	17
+sla-mir-93	17
+sla-mir-95	9
+sla-mir-96	24

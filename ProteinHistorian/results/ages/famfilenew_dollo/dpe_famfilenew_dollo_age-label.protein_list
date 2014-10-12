@@ -1,0 +1,87 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+dpe-bantam	Bilateria
+dpe-let-7-1	Drosophila
+dpe-let-7-2	Drosophila
+dpe-mir-1	Bilateria
+dpe-mir-10	Bilateria
+dpe-mir-100-1	Bilateria
+dpe-mir-100-2	Bilateria
+dpe-mir-11	Endopterygota
+dpe-mir-12	Protostomia
+dpe-mir-124	Bilateria
+dpe-mir-125-1	Bilateria
+dpe-mir-125-2	Bilateria
+dpe-mir-125-3	dpe
+dpe-mir-133	Bilateria
+dpe-mir-13a	Neoptera
+dpe-mir-13b-1	Brachycera
+dpe-mir-13b-2	Brachycera
+dpe-mir-14	Neoptera
+dpe-mir-184	Bilateria
+dpe-mir-210	Bilateria
+dpe-mir-219	Bilateria
+dpe-mir-263a	Arthropoda
+dpe-mir-263b	Arthropoda
+dpe-mir-274	Endopterygota
+dpe-mir-275	Arthropoda
+dpe-mir-276a	Brachycera
+dpe-mir-276b	Brachycera
+dpe-mir-277	Bilateria
+dpe-mir-278	Bilateria
+dpe-mir-279	Protostomia
+dpe-mir-280	Drosophila
+dpe-mir-281-1	Diptera
+dpe-mir-281-2	Diptera
+dpe-mir-282	Endopterygota
+dpe-mir-283	Ecdysozoa
+dpe-mir-284	Brachycera
+dpe-mir-286	Diptera
+dpe-mir-287	Drosophila
+dpe-mir-288	Brachycera
+dpe-mir-289	Sophophora
+dpe-mir-2a-1	Bilateria
+dpe-mir-2a-2	Bilateria
+dpe-mir-2b	Bilateria
+dpe-mir-2c	Bilateria
+dpe-mir-3	Drosophila
+dpe-mir-305	Arthropoda
+dpe-mir-306	Endopterygota
+dpe-mir-307	Ecdysozoa
+dpe-mir-308	Endopterygota
+dpe-mir-309	Diptera
+dpe-mir-314	Brachycera
+dpe-mir-315	Bilateria
+dpe-mir-316	Neoptera
+dpe-mir-317-1	Diptera
+dpe-mir-317-2	Diptera
+dpe-mir-318	Drosophila
+dpe-mir-31a	Bilateria
+dpe-mir-31b	Bilateria
+dpe-mir-33	Bilateria
+dpe-mir-34	Bilateria
+dpe-mir-4	Drosophila
+dpe-mir-5	Drosophila
+dpe-mir-6-1	Brachycera
+dpe-mir-6-2	Brachycera
+dpe-mir-6-3	Brachycera
+dpe-mir-7	Bilateria
+dpe-mir-79	Bilateria
+dpe-mir-8	Bilateria
+dpe-mir-87	Bilateria
+dpe-mir-92a	Bilateria
+dpe-mir-92b	Bilateria
+dpe-mir-9a	Bilateria
+dpe-mir-9b	Bilateria
+dpe-mir-9c	Endopterygota
+dpe-mir-iab-4	Arthropoda

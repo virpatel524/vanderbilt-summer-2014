@@ -1,0 +1,118 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+oar-let-7a	23
+oar-let-7b	21
+oar-let-7c	21
+oar-let-7d	21
+oar-let-7f	16
+oar-let-7g	16
+oar-let-7i	16
+oar-mir-103	16
+oar-mir-106a	16
+oar-mir-106b	16
+oar-mir-107	16
+oar-mir-10a	23
+oar-mir-10b	21
+oar-mir-1185	8
+oar-mir-1193	8
+oar-mir-1197	8
+oar-mir-125b	23
+oar-mir-127	8
+oar-mir-133	23
+oar-mir-134	8
+oar-mir-136	8
+oar-mir-143	19
+oar-mir-148a	16
+oar-mir-150	16
+oar-mir-152	16
+oar-mir-154a	7
+oar-mir-154b	7
+oar-mir-16b	16
+oar-mir-17	16
+oar-mir-181a-1	16
+oar-mir-181a-2	16
+oar-mir-191	13
+oar-mir-194	19
+oar-mir-199a	19
+oar-mir-19b	19
+oar-mir-200a	21
+oar-mir-200b	21
+oar-mir-200c	21
+oar-mir-21	16
+oar-mir-218a	16
+oar-mir-22	22
+oar-mir-221	19
+oar-mir-23a	19
+oar-mir-23b	19
+oar-mir-25	16
+oar-mir-26a	16
+oar-mir-26b	19
+oar-mir-27a	19
+oar-mir-299	8
+oar-mir-29a	23
+oar-mir-29b-1	16
+oar-mir-29b-2	16
+oar-mir-30a	19
+oar-mir-30b	19
+oar-mir-30c	19
+oar-mir-30d	19
+oar-mir-323a	8
+oar-mir-323b	8
+oar-mir-323c	1
+oar-mir-329a	7
+oar-mir-329b	8
+oar-mir-362	8
+oar-mir-369	8
+oar-mir-370	8
+oar-mir-374a	8
+oar-mir-374b	8
+oar-mir-376a	8
+oar-mir-376b	8
+oar-mir-376c	8
+oar-mir-376d	5
+oar-mir-376e	5
+oar-mir-377	8
+oar-mir-379	8
+oar-mir-380	8
+oar-mir-381	8
+oar-mir-382	8
+oar-mir-3955	2
+oar-mir-3956	3
+oar-mir-3957	3
+oar-mir-3958	7
+oar-mir-3959	7
+oar-mir-409	8
+oar-mir-410	8
+oar-mir-411a	5
+oar-mir-411b	5
+oar-mir-412	8
+oar-mir-431	8
+oar-mir-432	8
+oar-mir-433	8
+oar-mir-485	8
+oar-mir-487a	8
+oar-mir-487b	8
+oar-mir-493	8
+oar-mir-494	8
+oar-mir-495	8
+oar-mir-496	8
+oar-mir-539	8
+oar-mir-541	8
+oar-mir-543	8
+oar-mir-544	8
+oar-mir-654	8
+oar-mir-655	8
+oar-mir-665	8
+oar-mir-668	8
+oar-mir-758	8
+oar-mir-99a	16

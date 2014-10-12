@@ -1,0 +1,54 @@
+# Updated to include new labels (Ecdysozoa, Opisthokonta) for the revision on 12/27/11.
+# TIMETREE USES THE NCBI TAXONOMY TOPOLOGY, SO IT DOES NOT AGREE WITH
+# THE NEW TREE!!!!  I used the estimates from Table 1 of Chap. 24
+# (Blair et al.) of the TimeTree book for Ecdysozoa, Bilateria, and Deuterostomia.
+#
+# Computed at http://www.timetree.org/ on 9/7/11.  When an "Expert
+#Result" was available, it was used. Otherwise, the weighted average of
+#all genes was used. 
+Alveolata		1135.0
+Amniota			324.5
+Amoebozoa		1339.5
+Ascomycota		895.0
+Bikonts			1628.0
+Bilateria		910.0
+Caenorhabditis		110.6
+Catarrhini		29.6
+Cellular_Organisms	4200.0
+Chordata		797.0
+Chromadorea		250.0
+Clupeocephala		307.0
+Coelomata		910.0
+Deuterostomia		842.0
+Diptera			471.4
+Ecdysozoa		728.0
+Euarchontoglires	91.0
+Eukaryota		1628.0
+Euteleostomi		454.6
+Fungi_Metazoa		1368.0
+Homininae		6.1
+Laurasiatheria		84.6
+Leotiomyceta		673.0
+Magnoliophyta		147.8
+Mammalia		220.2
+Murinae	   36.8
+Opisthokonta		1368.0
+Opisthokonts		1368.0
+Saccharomyceta		773.0
+Saccharomycetaceae	311.0
+Tetrapoda		361.2
+Theria			176.1
+Unikonts		1628.0
+Viridiplantae		936.0
+Hominidae		15.7
+Catarrhini		29.6
+Simiiformes		44.2
+Haplorrhini		71.1
+Primates		77.5
+Euarchontoglires		89.1
+Boreoeutheria		97.4
+Eutheria		104.7
+Homo		0.0
+Vertebrata		535.7
+Eumetazoa		937.0
+Hominoidea		15.7

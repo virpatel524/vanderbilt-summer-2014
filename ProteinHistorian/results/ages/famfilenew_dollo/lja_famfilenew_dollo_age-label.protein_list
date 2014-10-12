@@ -1,0 +1,49 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+lja-MIR1507a	Papilionoideae
+lja-MIR1507b	Papilionoideae
+lja-MIR167	Magnoliophyta
+lja-MIR167a	Mesangiospermae
+lja-MIR167b	Mesangiospermae
+lja-MIR167c	Mesangiospermae
+lja-MIR171a	Embryophyta
+lja-MIR171b	Embryophyta
+lja-MIR171c	Tracheophyta
+lja-MIR171d	Tracheophyta
+lja-MIR172a	Mesangiospermae
+lja-MIR172b	Mesangiospermae
+lja-MIR172c	Mesangiospermae
+lja-MIR2111	rosids
+lja-MIR390a	Embryophyta
+lja-MIR390b	Embryophyta
+lja-MIR396	Tracheophyta
+lja-MIR397	Spermatophyta
+lja-MIR408	Spermatophyta
+lja-MIR7523a	Loteae
+lja-MIR7523b	Loteae
+lja-MIR7526a	Loteae
+lja-MIR7526b	Loteae
+lja-MIR7526c	Loteae
+lja-MIR7526d	Loteae
+lja-MIR7526e	Loteae
+lja-MIR7526f	Loteae
+lja-MIR7526g	Loteae
+lja-MIR7526h	Loteae
+lja-MIR7532a	Loteae
+lja-MIR7532b	Loteae
+lja-MIR7533a	Loteae
+lja-MIR7533b	Loteae
+lja-MIR7536a	Loteae
+lja-MIR7536b	Loteae
+lja-MIR7540a	Loteae
+lja-MIR7540b	Loteae

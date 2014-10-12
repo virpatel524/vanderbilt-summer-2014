@@ -1,0 +1,73 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+sha-let-7a	Bilateria
+sha-let-7g	Euteleostomi
+sha-let-7i	Euteleostomi
+sha-mir-100	Eumetazoa
+sha-mir-101	Theria
+sha-mir-10a	Bilateria
+sha-mir-10b	Chordata
+sha-mir-125a	Bilateria
+sha-mir-125b	Bilateria
+sha-mir-126	Chordata
+sha-mir-128	Euteleostomi
+sha-mir-129	Euteleostomi
+sha-mir-130a	Vertebrata
+sha-mir-130b	Vertebrata
+sha-mir-1329	Amniota
+sha-mir-133a	Vertebrata
+sha-mir-135a	Chordata
+sha-mir-138-1	Euteleostomi
+sha-mir-138-2	Euteleostomi
+sha-mir-139	Euteleostomi
+sha-mir-140	Euteleostomi
+sha-mir-141	Chordata
+sha-mir-142	Euteleostomi
+sha-mir-150	Euteleostomi
+sha-mir-1540	Dasyuromorphia
+sha-mir-1549	Metatheria
+sha-mir-181a-1	Euteleostomi
+sha-mir-181a-2	Euteleostomi
+sha-mir-190	Bilateria
+sha-mir-193	Bilateria
+sha-mir-199a	Vertebrata
+sha-mir-19b	Vertebrata
+sha-mir-200a	Chordata
+sha-mir-200b	Chordata
+sha-mir-200c	Chordata
+sha-mir-202	Euteleostomi
+sha-mir-204	Vertebrata
+sha-mir-205	Euteleostomi
+sha-mir-21	Euteleostomi
+sha-mir-216a	Bilateria
+sha-mir-216b	Bilateria
+sha-mir-221	Vertebrata
+sha-mir-222	Vertebrata
+sha-mir-23a	Vertebrata
+sha-mir-23b	Vertebrata
+sha-mir-24-1	Euteleostomi
+sha-mir-24-2	Euteleostomi
+sha-mir-25	Euteleostomi
+sha-mir-26a	Euteleostomi
+sha-mir-27b	Vertebrata
+sha-mir-30c	Vertebrata
+sha-mir-30e	Vertebrata
+sha-mir-338	Euteleostomi
+sha-mir-363	Euteleostomi
+sha-mir-383	Tetrapoda
+sha-mir-454	Euteleostomi
+sha-mir-497	Theria
+sha-mir-7	Bilateria
+sha-mir-9	Bilateria
+sha-mir-92a	Bilateria
+sha-mir-93	Euteleostomi

@@ -1,0 +1,75 @@
+# age_proteins.py /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt 2014-07-31 16:06:05.856821
+#
+# FAMILY_FILE = /Users/virpatel/Desktop/scripts/phylotree/famfilenew.txt
+# TREE_FILE = /Users/virpatel/Desktop/scripts/phylotree/modnewtree.txt
+# RECONSTRUCTION_ALGO = dollo
+# GAIN_PENALTY = 1
+# OUTPUT_NAME = famfilenew_dollo
+# OUTPUT_DIR = results/ages/famfilenew_dollo/
+# OUTPUT_FORMATS = ['depth', 'label', 'time', 'profile']
+# TIME_FILE = None
+# ADDITIONAL_ID_FILE = None
+#
+rco-MIR156a	16
+rco-MIR156b	16
+rco-MIR156c	16
+rco-MIR156d	15
+rco-MIR156e	11
+rco-MIR156f	11
+rco-MIR156g	11
+rco-MIR156h	11
+rco-MIR159	15
+rco-MIR160a	16
+rco-MIR160b	16
+rco-MIR160c	16
+rco-MIR162	13
+rco-MIR164a	12
+rco-MIR164b	12
+rco-MIR164c	11
+rco-MIR164d	11
+rco-MIR166a	16
+rco-MIR166b	16
+rco-MIR166c	16
+rco-MIR166d	16
+rco-MIR166e	16
+rco-MIR167a	11
+rco-MIR167b	11
+rco-MIR167c	11
+rco-MIR168	12
+rco-MIR169a	12
+rco-MIR169b	12
+rco-MIR169c	12
+rco-MIR171a	16
+rco-MIR171b	16
+rco-MIR171c	15
+rco-MIR171d	15
+rco-MIR171e	11
+rco-MIR171f	11
+rco-MIR171g	11
+rco-MIR172	12
+rco-MIR319a	16
+rco-MIR319b	16
+rco-MIR319c	16
+rco-MIR319d	16
+rco-MIR390a	16
+rco-MIR390b	16
+rco-MIR393	12
+rco-MIR395a	11
+rco-MIR395b	11
+rco-MIR395c	11
+rco-MIR395d	11
+rco-MIR395e	11
+rco-MIR396	15
+rco-MIR397	13
+rco-MIR398a	11
+rco-MIR398b	11
+rco-MIR399a	11
+rco-MIR399b	11
+rco-MIR399c	11
+rco-MIR399d	11
+rco-MIR399e	11
+rco-MIR399f	11
+rco-MIR403a	8
+rco-MIR403b	8
+rco-MIR408	13
+rco-MIR535	13

@@ -1,7 +1,7 @@
 # general file that will create a bincount for any age file from PH
 
 import filebreak
-# import virplot
+import virplot
 fle = open(ANY FILE YOU WISH TO COUNT,'r')
 text = fle.readlines()
 fle.close()

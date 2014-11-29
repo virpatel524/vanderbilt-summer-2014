@@ -2,7 +2,7 @@ Connecting miRNA Evolution with Human Diseases
 ======================
 Repository with all script and links to data for Summer 2014 Research Internship Grant project
 
-Transfer of code stil in progress.
+Transfer of code complete as of 11.28.14
 
 
 --------

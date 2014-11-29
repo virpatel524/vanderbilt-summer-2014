@@ -1,0 +1,2364 @@
+mir-3691	hsa-mir-3691	ggo-mir-3691	ppy-mir-3691
+mir-3690	hsa-mir-3690
+mir-3692	hsa-mir-3692	ggo-mir-3692	ppy-mir-3692
+mir-3057	mmu-mir-3057
+mir-3059	hsa-mir-3059	ggo-mir-3059	ppy-mir-3059	mml-mir-3059	cja-mir-3059	tsy-mir-3059	mmr-mir-3059	tbe-mir-3059	cpo-mir-3059	dor-mir-3059	mmu-mir-3059	rno-mir-3059	ocu-mir-3059	bta-mir-3059	ttr-mir-3059	ssc-mir-3059	cfa-mir-3059	fca-mir-3059	mlu-mir-3059	pva-mir-3059	eeu-mir-3059	sar-mir-3059	cho-mir-3059	ete-mir-3059	laf-mir-3059	pca-mir-3059
+mir-2053	hsa-mir-2053	ggo-mir-2053	ppy-mir-2053	mml-mir-2053	cja-mir-2053	tsy-mir-2053	tbe-mir-2053	cpo-mir-2053	str-mir-2053	bta-mir-2053	ttr-mir-2053	vpa-mir-2053	ssc-mir-2053	cfa-mir-2053	eca-mir-2053	cho-mir-2053	laf-mir-2053
+mir-2054	hsa-mir-2054
+mir-1015	dme-mir-1015
+mir-1014	dme-mir-1014
+mir-1017	dme-mir-1017
+mir-2462	bta-mir-2462
+mir-1016	dme-mir-1016
+mir-3909	hsa-mir-3909
+mir-3908	hsa-mir-3908
+mir-1011	dme-mir-1011
+mir-3907	hsa-mir-3907
+mir-3906	dre-mir-3906
+mir-1010	dme-mir-1010
+mir-3589	dor-mir-3589	bta-mir-3589	cfa-mir-3589
+mir-3588	hsa-mir-3588	ggo-mir-3588	ppy-mir-3588	mml-mir-3588	cja-mir-3588	tsy-mir-3588	oga-mir-3588	tbe-mir-3588	cpo-mir-3588	dor-mir-3588	rno-mir-3588	str-mir-3588	opr-mir-3588	ocu-mir-3588	bta-mir-3588	ttr-mir-3588	vpa-mir-3588	cfa-mir-3588	mlu-mir-3588	pva-mir-3588	eeu-mir-3588	ete-mir-3588	laf-mir-3588	pca-mir-3588	tgu-mir-3588	xtr-mir-3588
+mir-4270	hsa-mir-4270
+mir-4271	hsa-mir-4271
+mir-4276	hsa-mir-4276
+mir-4277	hsa-mir-4277
+mir-4274	hsa-mir-4274	ggo-mir-4274
+mir-4275	hsa-mir-4275
+mir-3581	hsa-mir-3581	ggo-mir-3581	ppy-mir-3581	cja-mir-3581	mmr-mir-3581	oga-mir-3581	tbe-mir-3581	mmu-mir-3581	rno-mir-3581	opr-mir-3581	ocu-mir-3581	bta-mir-3581	ttr-mir-3581	cfa-mir-3581	mlu-mir-3581	pva-mir-3581	cho-mir-3581	ete-mir-3581	laf-mir-3581
+mir-3580	rno-mir-3580
+mir-4278	hsa-mir-4278
+mir-3582	hsa-mir-3582	ggo-mir-3582	ppy-mir-3582	cja-mir-3582	tsy-mir-3582	tbe-mir-3582	cpo-mir-3582	dor-mir-3582	mmu-mir-3582	str-mir-3582	ocu-mir-3582	bta-mir-3582	ssc-mir-3582	cfa-mir-3582	fca-mir-3582	eca-mir-3582	pva-mir-3582	eeu-mir-3582	sar-mir-3582	cho-mir-3582	ete-mir-3582	meu-mir-3582	mdo-mir-3582	oan-mir-3582	gga-mir-3582	mga-mir-3582	tgu-mir-3582	aca-mir-3582	xtr-mir-3582	dre-mir-3582	gac-mir-3582	ola-mir-3582	tru-mir-3582
+mir-3585	rno-mir-3585
+mir-3584	rno-mir-3584
+mir-3587	rno-mir-3587
+mir-3586	rno-mir-3586
+mir-3198	hsa-mir-3198	ggo-mir-3198	ppy-mir-3198
+mir-1720	gga-mir-1720
+mir-2896	bta-mir-2896
+mir-2897	bta-mir-2897
+mir-3475	mmu-mir-3475
+mir-3474	mmu-mir-3474
+mir-3471	mmu-mir-3471-1	mmu-mir-3471-2
+mir-3470	ptr-mir-3470a	mmu-mir-3470a	rno-mir-3470a	ssc-mir-3470a	mmu-mir-3470b
+mir-3473	mmu-mir-3473
+mir-3472	mmu-mir-3472
+mir-3679	hsa-mir-3679	ggo-mir-3679	ppy-mir-3679
+mir-3058	mmu-mir-3058
+mir-2892	bta-mir-2892
+mir-3673	hsa-mir-3673
+mir-3672	hsa-mir-3672	ppy-mir-3672	mml-mir-3672
+mir-3671	hsa-mir-3671
+mir-3670	hsa-mir-3670
+mir-3677	hsa-mir-3677	ggo-mir-3677
+mir-3676	hsa-mir-3676
+mir-3675	hsa-mir-3675
+mir-3674	hsa-mir-3674
+mir-1763	gga-mir-1763
+mir-1762	gga-mir-1762
+mir-1761	gga-mir-1761
+mir-1760	gga-mir-1760
+mir-2898	bta-mir-2898
+mir-2899	bta-mir-2899
+mir-4058	cin-mir-4058
+mir-4059	cin-mir-4059
+mir-1765	gga-mir-1765
+mir-4052	cin-mir-4052
+mir-4053	cin-mir-4053
+mir-4050	cin-mir-4050
+mir-1764	gga-mir-1764
+mir-4056	cin-mir-4056
+mir-4057	cin-mir-4057
+mir-4054	cin-mir-4054
+mir-4055	cin-mir-4055
+mir-4298	hsa-mir-4298
+mir-4299	hsa-mir-4299	ppy-mir-4299
+mir-4290	hsa-mir-4290	ggo-mir-4290
+mir-4291	hsa-mir-4291
+mir-4292	hsa-mir-4292
+mir-4293	hsa-mir-4293
+mir-4294	hsa-mir-4294	ggo-mir-4294
+mir-4295	hsa-mir-4295	ggo-mir-4295	ppy-mir-4295	mml-mir-4295
+mir-4296	hsa-mir-4296
+mir-4297	hsa-mir-4297	ppy-mir-4297	mml-mir-4297
+mir-4128	cin-mir-4128
+mir-4129	cin-mir-4129
+mir-4126	cin-mir-4126
+mir-4127	cin-mir-4127
+mir-4124	cin-mir-4124
+mir-4125	cin-mir-4125
+mir-4122	cin-mir-4122
+mir-4123	cin-mir-4123
+mir-4120	cin-mir-4120
+mir-4121	cin-mir-4121
+mir-940	hsa-mir-940	ptr-mir-940	ggo-mir-940	mml-mir-940	cja-mir-940	mmr-mir-940	vpa-mir-940	ssc-mir-940
+mir-943	hsa-mir-943	ptr-mir-943	ggo-mir-943	ppy-mir-943
+mir-942	hsa-mir-942	ptr-mir-942	ggo-mir-942	ppy-mir-942	mml-mir-942
+mir-2861	hsa-mir-2861	ppy-mir-2861	mml-mir-2861	cja-mir-2861	cpo-mir-2861	mmu-mir-2861	rno-mir-2861	ttr-mir-2861	ssc-mir-2861	cfa-mir-2861	cho-mir-2861
+mir-1226	hsa-mir-1226	ptr-mir-1226	ggo-mir-1226	ppy-mir-1226	mml-mir-1226	cja-mir-1226
+mir-1227	hsa-mir-1227	ptr-mir-1227	ppy-mir-1227
+mir-1736	gga-mir-1736
+mir-1225	hsa-mir-1225	ptr-mir-1225	ppy-mir-1225	mml-mir-1225
+mir-1730	gga-mir-1730
+mir-1731	gga-mir-1731
+mir-1732	gga-mir-1732
+mir-4273	hsa-mir-4273
+mir-563	hsa-mir-563	ggo-mir-563	ppy-mir-563	mml-mir-563
+mir-1738	gga-mir-1738
+mir-1739	gga-mir-1739
+mir-1228	hsa-mir-1228	ggo-mir-1228	ppy-mir-1228	mml-mir-1228	cja-mir-1228
+mir-1229	hsa-mir-1229
+mir-1352	oan-mir-1352
+mir-1353	oan-mir-1353
+mir-1350	oan-mir-1350
+mir-1351	oan-mir-1351
+mir-1356	oan-mir-1356
+mir-1357	oan-mir-1357
+mir-1354	oan-mir-1354
+mir-1355	oan-mir-1355
+mir-1358	oan-mir-1358
+mir-1359	oan-mir-1359
+mir-3583	rno-mir-3583
+mir-2335	bta-mir-2335
+mir-2334	bta-mir-2334	vpa-mir-2334
+mir-2337	bta-mir-2337
+mir-4279	hsa-mir-4279
+mir-2331	bta-mir-2331
+mir-2330	bta-mir-2330
+mir-2333	bta-mir-2333
+mir-2332	bta-mir-2332
+mir-1640	gga-mir-1640
+mir-1641	gga-mir-1641	mga-mir-1641	tgu-mir-1641
+mir-1642	gga-mir-1642	mga-mir-1642
+mir-1643	gga-mir-1643
+mir-2339	bta-mir-2339
+mir-2338	bta-mir-2338
+mir-1646	gga-mir-1646
+mir-1647	gga-mir-1647
+mir-383	hsa-mir-383	ptr-mir-383	ggo-mir-383	ppy-mir-383	mml-mir-383	cja-mir-383	tsy-mir-383	mmr-mir-383	tbe-mir-383	cpo-mir-383	dor-mir-383	mmu-mir-383	rno-mir-383	ocu-mir-383	bta-mir-383	ttr-mir-383	ssc-mir-383	cfa-mir-383	eca-mir-383	mlu-mir-383	eeu-mir-383	sar-mir-383	cho-mir-383	ete-mir-383	laf-mir-383	pca-mir-383	oan-mir-383	gga-mir-383	mga-mir-383	tgu-mir-383	aca-mir-383	xtr-mir-383
+mir-382	hsa-mir-382	ptr-mir-382	ggo-mir-382	ppy-mir-382	mml-mir-382	cja-mir-382	tsy-mir-382	mmr-mir-382	oga-mir-382	cpo-mir-382	mmu-mir-382	rno-mir-382	opr-mir-382	ocu-mir-382	bta-mir-382	ttr-mir-382	ssc-mir-382	cfa-mir-382	fca-mir-382	eca-mir-382	pva-mir-382	cho-mir-382	ete-mir-382	laf-mir-382	pca-mir-382
+mir-381	hsa-mir-381	ptr-mir-381	ggo-mir-381	ppy-mir-381	mml-mir-381	cja-mir-381	tsy-mir-381	mmr-mir-381	oga-mir-381	tbe-mir-381	cpo-mir-381	mmu-mir-381	rno-mir-381	str-mir-381	ocu-mir-381	ttr-mir-381	vpa-mir-381	ssc-mir-381	cfa-mir-381	fca-mir-381	eca-mir-381	mlu-mir-381	pva-mir-381	cho-mir-381	ete-mir-381	pca-mir-381
+mir-380	hsa-mir-380	ptr-mir-380	ggo-mir-380	ppy-mir-380	mml-mir-380	cja-mir-380	tsy-mir-380	oga-mir-380	tbe-mir-380	cpo-mir-380	mmu-mir-380	bta-mir-380	ttr-mir-380	cfa-mir-380	fca-mir-380	mlu-mir-380	pva-mir-380	cho-mir-380	ete-mir-380	laf-mir-380	pca-mir-380
+mir-384	tsy-mir-384	mmr-mir-384	oga-mir-384	tbe-mir-384	dor-mir-384	mmu-mir-384	rno-mir-384	str-mir-384	opr-mir-384	ocu-mir-384	ttr-mir-384	vpa-mir-384	ssc-mir-384	cfa-mir-384	eca-mir-384	pva-mir-384	laf-mir-384
+mir-673	mmu-mir-673	rno-mir-673
+mir-672	tsy-mir-672	mmr-mir-672	oga-mir-672	dor-mir-672	mmu-mir-672	rno-mir-672	str-mir-672	ocu-mir-672	ttr-mir-672	pva-mir-672	ete-mir-672	laf-mir-672	pca-mir-672
+mir-671	hsa-mir-671	ptr-mir-671	ggo-mir-671	ppy-mir-671	mml-mir-671	cja-mir-671	tsy-mir-671	mmr-mir-671	oga-mir-671	cpo-mir-671	dor-mir-671	mmu-mir-671	rno-mir-671	str-mir-671	opr-mir-671	ocu-mir-671	ttr-mir-671	ssc-mir-671	cfa-mir-671	fca-mir-671	eca-mir-671	mlu-mir-671	pva-mir-671	cho-mir-671	ete-mir-671	laf-mir-671	pca-mir-671
+mir-670	hsa-mir-670	ptr-mir-670	ggo-mir-670	ppy-mir-670	mml-mir-670	cja-mir-670	mmr-mir-670	tbe-mir-670	cpo-mir-670	dor-mir-670	opr-mir-670	ocu-mir-670	vpa-mir-670	ssc-mir-670	fca-mir-670	eca-mir-670	pva-mir-670	eeu-mir-670	cho-mir-670	laf-mir-670
+mir-677	bta-mir-677
+mir-676	hsa-mir-676	ptr-mir-676	ggo-mir-676	ppy-mir-676	mml-mir-676	cja-mir-676	oga-mir-676	ttr-mir-676	cfa-mir-676	laf-mir-676
+mir-675	hsa-mir-675	ggo-mir-675	ppy-mir-675	mml-mir-675	cja-mir-675	ppy-mir-675a	ppy-mir-675b
+mir-674	mmu-mir-674	rno-mir-674
+mir-679	mmu-mir-679
+mir-678	mmu-mir-678
+mir-3112	mmu-mir-3112
+mir-2428	hsa-mir-2428	ggo-mir-2428	ppy-mir-2428	cja-mir-2428	ocu-mir-2428
+mir-3110	mmu-mir-3110
+mir-3116	hsa-mir-3116-1	ggo-mir-3116-1	hsa-mir-3116-2
+mir-3117	hsa-mir-3117
+mir-3115	hsa-mir-3115
+mir-2421	bta-mir-2421
+mir-2420	bta-mir-2420
+mir-3118	hsa-mir-3118-1	ptr-mir-3118-1	ppy-mir-3118-1	mml-mir-3118-1	hsa-mir-3118-2	hsa-mir-3118-3	hsa-mir-3118-4	hsa-mir-3118-5	hsa-mir-3118-6
+mir-3119	hsa-mir-3119-1	ggo-mir-3119-1	hsa-mir-3119-2
+mir-2425	bta-mir-2425
+mir-2424	bta-mir-2424-1	bta-mir-2424-2
+mir-2427	bta-mir-2427
+mir-2426	bta-mir-2426
+mir-2466	bta-mir-2466
+mir-2461	bta-mir-2461
+mir-2460	bta-mir-2460
+mir-2463	bta-mir-2463
+mir-499	hsa-mir-499	ptr-mir-499	ggo-mir-499	ppy-mir-499	cja-mir-499	mmr-mir-499	oga-mir-499	tbe-mir-499	cpo-mir-499	rno-mir-499	bta-mir-499	ttr-mir-499	vpa-mir-499	ssc-mir-499	cfa-mir-499	fca-mir-499	mlu-mir-499	pva-mir-499	eeu-mir-499	sar-mir-499	ete-mir-499	laf-mir-499	pca-mir-499
+mir-498	hsa-mir-498	ptr-mir-498	ppy-mir-498	mml-mir-498
+mir-497	hsa-mir-497	ptr-mir-497	ggo-mir-497	ppy-mir-497	mml-mir-497	cja-mir-497	mmr-mir-497	oga-mir-497	cpo-mir-497	dor-mir-497	mmu-mir-497	rno-mir-497	str-mir-497	ocu-mir-497	bta-mir-497	ttr-mir-497	ssc-mir-497	cfa-mir-497	fca-mir-497	eca-mir-497	mlu-mir-497	pva-mir-497	sar-mir-497	laf-mir-497	pca-mir-497
+mir-496	hsa-mir-496	ptr-mir-496	ggo-mir-496	ppy-mir-496	mml-mir-496	cja-mir-496	tsy-mir-496	mmr-mir-496	oga-mir-496	tbe-mir-496	cpo-mir-496	dor-mir-496	mmu-mir-496	rno-mir-496	str-mir-496	opr-mir-496	ocu-mir-496	bta-mir-496	ttr-mir-496	vpa-mir-496	cfa-mir-496	fca-mir-496	eca-mir-496	pva-mir-496	cho-mir-496	ete-mir-496	laf-mir-496
+mir-495	hsa-mir-495	ptr-mir-495	ggo-mir-495	ppy-mir-495	mml-mir-495	cja-mir-495	mmr-mir-495	oga-mir-495	cpo-mir-495	mmu-mir-495	rno-mir-495	ttr-mir-495	cfa-mir-495	eca-mir-495	pva-mir-495	cho-mir-495	ete-mir-495	laf-mir-495
+mir-494	hsa-mir-494	ptr-mir-494	ggo-mir-494	ppy-mir-494	mml-mir-494	cja-mir-494	tsy-mir-494	mmr-mir-494	oga-mir-494	cpo-mir-494	mmu-mir-494	rno-mir-494	str-mir-494	bta-mir-494	ttr-mir-494	ssc-mir-494	cfa-mir-494	eca-mir-494	mlu-mir-494	laf-mir-494	pca-mir-494
+mir-493	hsa-mir-493	ggo-mir-493	ppy-mir-493	mml-mir-493	cja-mir-493	tbe-mir-493	mmu-mir-493	rno-mir-493	bta-mir-493	ttr-mir-493	ssc-mir-493	cfa-mir-493	fca-mir-493	mlu-mir-493	pva-mir-493	eca-mir-493a	eca-mir-493b
+mir-492	hsa-mir-492	ptr-mir-492	ppy-mir-492	eca-mir-492-1	eca-mir-492-2
+mir-491	hsa-mir-491	ptr-mir-491	ggo-mir-491	ppy-mir-491	mml-mir-491	cja-mir-491	tsy-mir-491	mmr-mir-491	oga-mir-491	tbe-mir-491	mmu-mir-491	str-mir-491	opr-mir-491	ocu-mir-491	bta-mir-491	ttr-mir-491	vpa-mir-491	ssc-mir-491	cfa-mir-491	fca-mir-491	eca-mir-491	mlu-mir-491	pva-mir-491	eeu-mir-491	sar-mir-491
+mir-490	hsa-mir-490	ptr-mir-490	ggo-mir-490	ppy-mir-490	mml-mir-490	cja-mir-490	tsy-mir-490	mmr-mir-490	oga-mir-490	tbe-mir-490	cpo-mir-490	dor-mir-490	mmu-mir-490	rno-mir-490	str-mir-490	opr-mir-490	ocu-mir-490	bta-mir-490	ttr-mir-490	vpa-mir-490	ssc-mir-490	cfa-mir-490	fca-mir-490	eca-mir-490	mlu-mir-490	eeu-mir-490	sar-mir-490	cho-mir-490	laf-mir-490	pca-mir-490	gga-mir-490	mga-mir-490	tgu-mir-490	tgu-mir-490-1	tgu-mir-490-2
+mir-251	cel-mir-251
+mir-250	cel-mir-250
+mir-253	cel-mir-253
+mir-252	dme-mir-252
+mir-255	cel-mir-255
+mir-254	cel-mir-254
+mir-709	mmu-mir-709
+mir-708	hsa-mir-708	ptr-mir-708	ppy-mir-708	mml-mir-708	cja-mir-708	mmr-mir-708	oga-mir-708	cpo-mir-708	dor-mir-708	rno-mir-708	str-mir-708	bta-mir-708	ssc-mir-708	cfa-mir-708	eca-mir-708	mlu-mir-708	cho-mir-708	ete-mir-708
+mir-707	mmu-mir-707
+mir-706	mmu-mir-706
+mir-705	mmu-mir-705
+mir-704	mmu-mir-704
+mir-703	mmu-mir-703	eca-mir-703
+mir-702	mmu-mir-702	rno-mir-702
+mir-701	mmu-mir-701
+mir-700	cpo-mir-700
+mir-927	dme-mir-927
+mir-924	hsa-mir-924	ptr-mir-924	ppy-mir-924	mml-mir-924
+mir-922	hsa-mir-922	ptr-mir-922	ggo-mir-922	ppy-mir-922
+mir-921	hsa-mir-921	ppy-mir-921
+mir-920	hsa-mir-920	ptr-mir-920	ggo-mir-920	ppy-mir-920
+mir-929	dme-mir-929
+mir-3066	mmu-mir-3066
+mir-3067	mmu-mir-3067
+mir-3064	mmu-mir-3064
+mir-3065	hsa-mir-3065	mml-mir-3065	tsy-mir-3065	dor-mir-3065	str-mir-3065	bta-mir-3065	cfa-mir-3065	fca-mir-3065	pva-mir-3065	laf-mir-3065	pca-mir-3065
+mir-3062	mmu-mir-3062
+mir-3063	mmu-mir-3063
+mir-3060	mmu-mir-3060
+mir-3061	mmu-mir-3061
+mir-3068	mmu-mir-3068
+mir-3069	mmu-mir-3069
+mir-2198	dre-mir-2198
+mir-2191	dre-mir-2191
+mir-2190	dre-mir-2190
+mir-2193	dre-mir-2193
+mir-2192	dre-mir-2192
+mir-2195	dre-mir-2195
+mir-2194	dre-mir-2194
+mir-2197	dre-mir-2197
+mir-2196	dre-mir-2196
+mir-4265	hsa-mir-4265
+mir-4264	hsa-mir-4264
+mir-4267	hsa-mir-4267
+mir-4266	hsa-mir-4266	ppy-mir-4266
+mir-4261	hsa-mir-4261
+mir-4260	hsa-mir-4260
+mir-4263	hsa-mir-4263
+mir-4262	hsa-mir-4262
+mir-4269	hsa-mir-4269
+mir-4268	hsa-mir-4268
+mir-4132	cin-mir-4132
+mir-215	hsa-mir-215	cja-mir-215	tsy-mir-215	dor-mir-215	bta-mir-215	ttr-mir-215	vpa-mir-215	ssc-mir-215	cfa-mir-215	fca-mir-215	eca-mir-215	mlu-mir-215	eeu-mir-215	ete-mir-215	laf-mir-215
+mir-742	mmu-mir-742	rno-mir-742
+mir-741	mmu-mir-741
+mir-740	dre-mir-740
+mir-3648	hsa-mir-3648
+mir-3649	hsa-mir-3649	ppy-mir-3649
+mir-3646	hsa-mir-3646	ggo-mir-3646	ppy-mir-3646
+mir-3647	hsa-mir-3647
+mir-3644	dme-mir-3644
+mir-212	hsa-mir-212	mml-mir-212	mmr-mir-212	cpo-mir-212	mmu-mir-212	rno-mir-212	str-mir-212	ocu-mir-212	bta-mir-212	ttr-mir-212	ssc-mir-212	cfa-mir-212	eca-mir-212	mlu-mir-212	pva-mir-212	eeu-mir-212	laf-mir-212	pca-mir-212	meu-mir-212	mdo-mir-212
+mir-3642	dme-mir-3642
+mir-3643	dme-mir-3643
+mir-3641	dme-mir-3641
+mir-4049	cin-mir-4049
+mir-4048	cin-mir-4048
+mir-4045	cin-mir-4045
+mir-4044	cin-mir-4044
+mir-4047	cin-mir-4047
+mir-4046	cin-mir-4046
+mir-4041	cin-mir-4041
+mir-4040	cin-mir-4040
+mir-4043	cin-mir-4043
+mir-4042	cin-mir-4042
+mir-4289	hsa-mir-4289	ggo-mir-4289
+mir-4288	hsa-mir-4288
+mir-4283	hsa-mir-4283-1	hsa-mir-4283-2
+mir-4282	hsa-mir-4282
+mir-4281	hsa-mir-4281
+mir-4280	hsa-mir-4280	ggo-mir-4280
+mir-4287	hsa-mir-4287
+mir-4286	hsa-mir-4286
+mir-4285	hsa-mir-4285
+mir-4284	hsa-mir-4284	ggo-mir-4284	ppy-mir-4284
+mir-2209	cel-mir-2209a	cel-mir-2209c	cel-mir-2209b
+mir-2208	cel-mir-2208a	cel-mir-2208b
+mir-624	hsa-mir-624	ptr-mir-624	ppy-mir-624	mml-mir-624
+mir-625	hsa-mir-625
+mir-626	hsa-mir-626	ptr-mir-626	ppy-mir-626
+mir-4131	cin-mir-4131
+mir-4130	cin-mir-4130
+mir-4133	cin-mir-4133
+mir-627	hsa-mir-627	ptr-mir-627	ggo-mir-627	mml-mir-627
+mir-4135	cin-mir-4135
+mir-4134	cin-mir-4134
+mir-4137	cin-mir-4137
+mir-4136	cin-mir-4136
+mir-4139	cin-mir-4139
+mir-620	hsa-mir-620
+mir-621	hsa-mir-621	ptr-mir-621	ppy-mir-621
+mir-190	hsa-mir-190	ggo-mir-190	ppy-mir-190	mml-mir-190	cja-mir-190	tsy-mir-190	mmr-mir-190	tbe-mir-190	cpo-mir-190	dor-mir-190	mmu-mir-190	rno-mir-190	opr-mir-190	ocu-mir-190	bta-mir-190	ttr-mir-190	ssc-mir-190	cfa-mir-190	fca-mir-190	eca-mir-190	mlu-mir-190	eeu-mir-190	sar-mir-190	cho-mir-190	ete-mir-190	laf-mir-190	pca-mir-190	meu-mir-190	mdo-mir-190	oan-mir-190	gga-mir-190	mga-mir-190	tgu-mir-190	aca-mir-190	dre-mir-190	gac-mir-190	tru-mir-190	tni-mir-190	hsa-mir-190b	ptr-mir-190b	ppy-mir-190b	mml-mir-190b	oga-mir-190b	mmu-mir-190b	rno-mir-190b	str-mir-190b	bta-mir-190b	vpa-mir-190b	cfa-mir-190b	eca-mir-190b	pva-mir-190b	mdo-mir-190b	ptr-mir-190a	mml-mir-190a	bta-mir-190a	cfa-mir-190a	mdo-mir-190a	oan-mir-190a
+mir-623	hsa-mir-623	ptr-mir-623	ggo-mir-623	ppy-mir-623
+mir-3149	hsa-mir-3149
+mir-3926	hsa-mir-3926-1	ggo-mir-3926-1	hsa-mir-3926-2
+mir-1502	cin-mir-1502a	cin-mir-1502b	cin-mir-1502c	cin-mir-1502d
+mir-1727	gga-mir-1727-1	gga-mir-1727-2
+mir-1726	gga-mir-1726
+mir-1725	gga-mir-1725
+mir-1724	gga-mir-1724
+mir-1723	gga-mir-1723	mga-mir-1723
+mir-1722	gga-mir-1722
+mir-1721	bta-mir-1721
+mir-3575	rno-mir-3575
+mir-1729	gga-mir-1729	mga-mir-1729	tgu-mir-1729
+mir-1728	gga-mir-1728
+mir-3678	hsa-mir-3678	ggo-mir-3678	ppy-mir-3678
+mir-3929	hsa-mir-3929
+mir-3928	hsa-mir-3928
+mir-1345	oan-mir-1345
+mir-1344	oan-mir-1344
+mir-1347	oan-mir-1347
+mir-1346	oan-mir-1346
+mir-1341	oan-mir-1341
+mir-1340	oan-mir-1340
+mir-1343	hsa-mir-1343	ggo-mir-1343	ppy-mir-1343	mml-mir-1343	mmr-mir-1343	oga-mir-1343	cpo-mir-1343	dor-mir-1343	str-mir-1343	opr-mir-1343	ocu-mir-1343	bta-mir-1343	ttr-mir-1343	vpa-mir-1343	ssc-mir-1343	cfa-mir-1343	fca-mir-1343	mlu-mir-1343	pva-mir-1343	cho-mir-1343
+mir-1434	bta-mir-1434
+mir-1349	oan-mir-1349
+mir-1348	oan-mir-1348
+mir-1659	gga-mir-1659
+mir-1658	gga-mir-1658
+mir-1653	gga-mir-1653	mga-mir-1653
+mir-1652	gga-mir-1652
+mir-1651	gga-mir-1651
+mir-1650	gga-mir-1650
+mir-1657	gga-mir-1657
+mir-1656	gga-mir-1656	mga-mir-1656
+mir-1655	gga-mir-1655	mga-mir-1655
+mir-1654	gga-mir-1654-1	gga-mir-1654-2
+mir-392	cel-mir-392
+mir-660	hsa-mir-660	ptr-mir-660	ggo-mir-660	ppy-mir-660	mml-mir-660	cja-mir-660	tsy-mir-660	mmr-mir-660	oga-mir-660	str-mir-660	ocu-mir-660	bta-mir-660	ttr-mir-660	vpa-mir-660	cfa-mir-660	fca-mir-660	mlu-mir-660	pva-mir-660	ete-mir-660	laf-mir-660	pca-mir-660
+mir-661	hsa-mir-661	ptr-mir-661	ggo-mir-661
+mir-662	hsa-mir-662	mml-mir-662
+mir-663	hsa-mir-663	ggo-mir-663	mml-mir-663	hsa-mir-663b	ptr-mir-663b	ptr-mir-663a
+mir-664	hsa-mir-664	ptr-mir-664	ppy-mir-664	mml-mir-664	hsa-mir-664b	ptr-mir-664b	ggo-mir-664b	ppy-mir-664b	mml-mir-664b	cja-mir-664b	mmu-mir-664-1	rno-mir-664-1	rno-mir-664-2
+mir-665	hsa-mir-665	ptr-mir-665	ggo-mir-665	mml-mir-665	cja-mir-665	tbe-mir-665	cpo-mir-665	dor-mir-665	ocu-mir-665	ttr-mir-665	ssc-mir-665	mlu-mir-665	laf-mir-665
+mir-666	mmu-mir-666	rno-mir-666
+mir-667	mmu-mir-667	rno-mir-667
+mir-668	hsa-mir-668	ptr-mir-668	ggo-mir-668	ppy-mir-668	mml-mir-668	cja-mir-668	mmr-mir-668	oga-mir-668	cpo-mir-668	dor-mir-668	mmu-mir-668	rno-mir-668	str-mir-668
+mir-669	mmu-mir-669a-1	mmu-mir-669a-2	mmu-mir-669a-3	mmu-mir-669c	mmu-mir-669k	mmu-mir-669g	mmu-mir-669d	mmu-mir-669j	mmu-mir-669f	mmu-mir-669i	mmu-mir-669h	mmu-mir-669e	mmu-mir-669l	mmu-mir-669m-1	mmu-mir-669o	mmu-mir-669n	mmu-mir-669d-2	mmu-mir-669a-4	mmu-mir-669a-5	mmu-mir-669a-6	mmu-mir-669a-7	mmu-mir-669p-1	mmu-mir-669a-8	mmu-mir-669a-9	mmu-mir-669p-2	mmu-mir-669a-10	mmu-mir-669a-11	mmu-mir-669a-12	bta-mir-669
+mir-1239	mml-mir-1239
+mir-1238	hsa-mir-1238
+mir-1231	hsa-mir-1231	ggo-mir-1231
+mir-1230	mml-mir-1230
+mir-1233	hsa-mir-1233-1	ptr-mir-1233-1	ggo-mir-1233-1	mml-mir-1233-1	hsa-mir-1233-2	ptr-mir-1233-2	ptr-mir-1233-3	ppy-mir-1233
+mir-1232	mml-mir-1232
+mir-1235	mml-mir-1235
+mir-1234	hsa-mir-1234	ptr-mir-1234	ggo-mir-1234
+mir-1237	hsa-mir-1237	ptr-mir-1237
+mir-1236	hsa-mir-1236	ptr-mir-1236	ppy-mir-1236
+mir-3105	mmu-mir-3105
+mir-3104	mmu-mir-3104
+mir-3107	hsa-mir-3107	mmr-mir-3107	tbe-mir-3107	cpo-mir-3107	mmu-mir-3107	str-mir-3107	cfa-mir-3107	fca-mir-3107	mlu-mir-3107	eeu-mir-3107	sar-mir-3107	ete-mir-3107	laf-mir-3107	pca-mir-3107
+mir-3106	bta-mir-3106	cfa-mir-3106	fca-mir-3106	cho-mir-3106	laf-mir-3106
+mir-3101	mmu-mir-3101
+mir-3100	mmu-mir-3100
+mir-3103	mmu-mir-3103
+mir-3102	mmu-mir-3102	rno-mir-3102
+mir-2454	bta-mir-2454
+mir-2455	bta-mir-2455
+mir-802	hsa-mir-802	ptr-mir-802	ggo-mir-802	ppy-mir-802	mml-mir-802	cja-mir-802	tsy-mir-802	mmr-mir-802	oga-mir-802	tbe-mir-802	opr-mir-802	ocu-mir-802	ttr-mir-802	vpa-mir-802	cfa-mir-802	fca-mir-802	eca-mir-802	pva-mir-802	sar-mir-802	ete-mir-802	laf-mir-802
+mir-2457	bta-mir-2457
+mir-804	mmu-mir-804
+mir-3108	mmu-mir-3108
+mir-2452	bta-mir-2452
+mir-2453	bta-mir-2453
+mir-2298	bta-mir-2298
+mir-2299	bta-mir-2299
+mir-2292	bta-mir-2292
+mir-2293	bta-mir-2293
+mir-2290	bta-mir-2290
+mir-2291	bta-mir-2291
+mir-2296	bta-mir-2296
+mir-2297	bta-mir-2297
+mir-2294	bta-mir-2294
+mir-2295	bta-mir-2295
+mir-488	hsa-mir-488	ptr-mir-488	ggo-mir-488	ppy-mir-488	mml-mir-488	cja-mir-488	tsy-mir-488	mmr-mir-488	oga-mir-488	tbe-mir-488	dor-mir-488	mmu-mir-488	rno-mir-488	str-mir-488	opr-mir-488	bta-mir-488	ttr-mir-488	vpa-mir-488	ssc-mir-488	cfa-mir-488	fca-mir-488	eca-mir-488	mlu-mir-488	cho-mir-488	laf-mir-488	pca-mir-488
+mir-489	hsa-mir-489	ptr-mir-489	ggo-mir-489	ppy-mir-489	mml-mir-489	cja-mir-489	oga-mir-489	tbe-mir-489	opr-mir-489	ocu-mir-489	bta-mir-489	vpa-mir-489	cfa-mir-489	fca-mir-489	eca-mir-489	pva-mir-489
+mir-484	hsa-mir-484	ptr-mir-484	ggo-mir-484	ppy-mir-484	mml-mir-484	mmr-mir-484	oga-mir-484	rno-mir-484	bta-mir-484	vpa-mir-484	cho-mir-484	laf-mir-484	pca-mir-484
+mir-485	hsa-mir-485	ptr-mir-485	ggo-mir-485	ppy-mir-485	mml-mir-485	cja-mir-485	tsy-mir-485	mmr-mir-485	oga-mir-485	mmu-mir-485	rno-mir-485	opr-mir-485	bta-mir-485	ttr-mir-485	vpa-mir-485	cfa-mir-485	fca-mir-485	eca-mir-485	mlu-mir-485	pva-mir-485	pca-mir-485
+mir-486	hsa-mir-486	ptr-mir-486	ggo-mir-486	ppy-mir-486	tsy-mir-486	mmr-mir-486	tbe-mir-486	cpo-mir-486	dor-mir-486	mmu-mir-486	str-mir-486	opr-mir-486	ttr-mir-486	cfa-mir-486	fca-mir-486	eca-mir-486	mlu-mir-486	eeu-mir-486	sar-mir-486	laf-mir-486	pca-mir-486
+mir-487	hsa-mir-487a	ptr-mir-487a	ggo-mir-487a	ppy-mir-487a	mml-mir-487a	cja-mir-487a	mmr-mir-487a	oga-mir-487a	tbe-mir-487a	cpo-mir-487a	bta-mir-487a	ttr-mir-487a	cfa-mir-487a	fca-mir-487a	eca-mir-487a	mlu-mir-487a	pva-mir-487a	ete-mir-487a	laf-mir-487a	pca-mir-487a	hsa-mir-487b	ptr-mir-487b	ppy-mir-487b	mml-mir-487b	tsy-mir-487b	mmu-mir-487b	str-mir-487b	bta-mir-487b	ssc-mir-487b	cfa-mir-487b	eca-mir-487b	cho-mir-487b
+mir-483	cja-mir-483
+mir-718	hsa-mir-718	ptr-mir-718	ggo-mir-718	ssc-mir-718	cfa-mir-718
+mir-719	mmu-mir-719
+mir-248	cel-mir-248
+mir-249	cel-mir-249
+mir-714	mmu-mir-714
+mir-715	mmu-mir-715
+mir-244	cel-mir-244
+mir-717	mmu-mir-717
+mir-710	mmu-mir-710
+mir-711	hsa-mir-711	ptr-mir-711	ggo-mir-711	ppy-mir-711	mml-mir-711	str-mir-711	opr-mir-711	ocu-mir-711	eca-mir-711
+mir-712	mmu-mir-712
+mir-713	mmu-mir-713
+mir-3079	mmu-mir-3079
+mir-935	hsa-mir-935	ptr-mir-935	rno-mir-935	bta-mir-935	ssc-mir-935	pca-mir-935
+mir-936	hsa-mir-936	ptr-mir-936	ppy-mir-936	mml-mir-936
+mir-937	hsa-mir-937	ptr-mir-937	ppy-mir-937
+mir-932	dme-mir-932
+mir-933	hsa-mir-933	ptr-mir-933	ppy-mir-933	mml-mir-933
+mir-3071	hsa-mir-3071	ggo-mir-3071	ppy-mir-3071	mml-mir-3071	mmr-mir-3071	oga-mir-3071	cpo-mir-3071	mmu-mir-3071	rno-mir-3071	opr-mir-3071	ocu-mir-3071	bta-mir-3071	ttr-mir-3071	ssc-mir-3071	cfa-mir-3071	fca-mir-3071	mlu-mir-3071	pva-mir-3071	eeu-mir-3071	ete-mir-3071	laf-mir-3071	pca-mir-3071
+mir-3070	mmu-mir-3070a	rno-mir-3070b
+mir-3073	mmu-mir-3073
+mir-3072	mmu-mir-3072	rno-mir-3072
+mir-938	hsa-mir-938	ptr-mir-938	ggo-mir-938	ppy-mir-938
+mir-939	hsa-mir-939	ptr-mir-939	ggo-mir-939	ppy-mir-939	mml-mir-939
+mir-3077	mmu-mir-3077
+mir-3076	mmu-mir-3076
+mir-1840	cfa-mir-1840
+mir-1841	cfa-mir-1841
+mir-95	hsa-mir-95	ptr-mir-95	ggo-mir-95	ppy-mir-95	mml-mir-95	cja-mir-95	ssc-mir-95	fca-mir-95
+mir-96	hsa-mir-96	ptr-mir-96	ggo-mir-96	ppy-mir-96	mml-mir-96	cja-mir-96	tsy-mir-96	mmr-mir-96	oga-mir-96	cpo-mir-96	dor-mir-96	mmu-mir-96	rno-mir-96	str-mir-96	opr-mir-96	ocu-mir-96	bta-mir-96	ttr-mir-96	vpa-mir-96	cfa-mir-96	fca-mir-96	eca-mir-96	pva-mir-96	sar-mir-96	ete-mir-96	laf-mir-96	pca-mir-96	meu-mir-96
+mir-90	cel-mir-90
+mir-92	hsa-mir-92a-1	ggo-mir-92a-1	ppy-mir-92a-1	mml-mir-92a-1	cja-mir-92a-1	tsy-mir-92a-1	mmr-mir-92a-1	oga-mir-92a-1	tbe-mir-92a-1	cpo-mir-92a-1	dor-mir-92a-1	mmu-mir-92a-1	rno-mir-92a-1	str-mir-92a-1	ocu-mir-92a-1	bta-mir-92a-1	ttr-mir-92a-1	vpa-mir-92a-1	ssc-mir-92a-1	cfa-mir-92a-1	fca-mir-92a-1	pva-mir-92a-1	eeu-mir-92a-1	cho-mir-92a-1	laf-mir-92a-1	mdo-mir-92a-1	tgu-mir-92a-1	hsa-mir-92a-2	ptr-mir-92a-2	mml-mir-92a-2	ssc-mir-92a-2	cfa-mir-92a-2	eca-mir-92a-2	mlu-mir-92a-2	sar-mir-92a-2	hsa-mir-92b	ppy-mir-92b	mml-mir-92b	mmu-mir-92b	rno-mir-92b	bta-mir-92b	ssc-mir-92b	cfa-mir-92b	eca-mir-92b	ptr-mir-92-1	ggo-mir-92-1	ppy-mir-92-1	ptr-mir-92-2	ggo-mir-92-2	ppy-mir-92-2	mdo-mir-92	gga-mir-92	eca-mir-92a	oan-mir-92d	cin-mir-92e
+mir-93	hsa-mir-93	ptr-mir-93	ggo-mir-93	ppy-mir-93	mml-mir-93	cja-mir-93	oga-mir-93	tbe-mir-93	cpo-mir-93	mmu-mir-93	str-mir-93	opr-mir-93	ocu-mir-93	bta-mir-93	ttr-mir-93	vpa-mir-93	cfa-mir-93	fca-mir-93	eca-mir-93	pva-mir-93	eeu-mir-93	sar-mir-93	ete-mir-93	laf-mir-93	pca-mir-93	xtr-mir-93a	xtr-mir-93b
+mir-98	hsa-mir-98	ptr-mir-98	ggo-mir-98	ppy-mir-98	mml-mir-98	cja-mir-98	tsy-mir-98	oga-mir-98	tbe-mir-98	cpo-mir-98	dor-mir-98	mmu-mir-98	rno-mir-98	str-mir-98	ocu-mir-98	bta-mir-98	ttr-mir-98	ssc-mir-98	cfa-mir-98	fca-mir-98	eca-mir-98	mlu-mir-98	pva-mir-98	eeu-mir-98	sar-mir-98	cho-mir-98	ete-mir-98	laf-mir-98	pca-mir-98	aca-mir-98
+mir-99	hsa-mir-99a	ptr-mir-99a	ggo-mir-99a	ppy-mir-99a	mml-mir-99a	cja-mir-99a	tsy-mir-99a	mmr-mir-99a	oga-mir-99a	tbe-mir-99a	cpo-mir-99a	dor-mir-99a	mmu-mir-99a	rno-mir-99a	str-mir-99a	ocu-mir-99a	bta-mir-99a	vpa-mir-99a	ssc-mir-99a	cfa-mir-99a	mlu-mir-99a	pva-mir-99a	eeu-mir-99a	sar-mir-99a	cho-mir-99a	laf-mir-99a	pca-mir-99a	aca-mir-99a	hsa-mir-99b	ptr-mir-99b	mml-mir-99b	mmu-mir-99b	rno-mir-99b	opr-mir-99b	bta-mir-99b	ttr-mir-99b	ssc-mir-99b	cfa-mir-99b	eca-mir-99b	cfa-mir-99a-1	cfa-mir-99a-2	oan-mir-99	tgu-mir-99-1	tgu-mir-99-2
+mir-4192	cin-mir-4192
+mir-2887	bta-mir-2887-1	bta-mir-2887-2
+mir-4194	cin-mir-4194
+mir-3651	hsa-mir-3651
+mir-3650	hsa-mir-3650
+mir-3653	mmr-mir-3653	dor-mir-3653	str-mir-3653	ocu-mir-3653	ttr-mir-3653	ssc-mir-3653	cfa-mir-3653	fca-mir-3653	eca-mir-3653	pva-mir-3653	laf-mir-3653
+mir-3652	hsa-mir-3652
+mir-3655	hsa-mir-3655	ggo-mir-3655
+mir-3654	hsa-mir-3654
+mir-3657	ggo-mir-3657	ppy-mir-3657	mml-mir-3657
+mir-3656	hsa-mir-3656
+mir-3659	hsa-mir-3659	ggo-mir-3659	ppy-mir-3659	mml-mir-3659
+mir-3658	hsa-mir-3658
+mir-2885	bta-mir-2885
+mir-2883	bta-mir-2883
+mir-2212	cel-mir-2212
+mir-2882	bta-mir-2882
+mir-2213	cel-mir-2213
+mir-67	cel-mir-67
+mir-4144	cin-mir-4144
+mir-4145	cin-mir-4145
+mir-4146	cin-mir-4146
+mir-4147	cin-mir-4147
+mir-4140	cin-mir-4140
+mir-4141	cin-mir-4141
+mir-4142	cin-mir-4142
+mir-4143	cin-mir-4143
+mir-61	cel-mir-61
+mir-4148	cin-mir-4148
+mir-4149	cin-mir-4149
+mir-60	cel-mir-60
+mir-1537	hsa-mir-1537	ppy-mir-1537
+mir-1538	ggo-mir-1538	ppy-mir-1538	cja-mir-1538	ocu-mir-1538
+mir-1539	hsa-mir-1539
+mir-1406	oan-mir-1406
+mir-1407	oan-mir-1407
+mir-1404	oan-mir-1404
+mir-1405	oan-mir-1405
+mir-1402	oan-mir-1402
+mir-1403	oan-mir-1403
+mir-1400	oan-mir-1400
+mir-1401	meu-mir-1401
+mir-1408	oan-mir-1408
+mir-1409	oan-mir-1409
+mir-1668	gga-mir-1668
+mir-1669	gga-mir-1669
+mir-1666	gga-mir-1666
+mir-1667	gga-mir-1667
+mir-1664	gga-mir-1664
+mir-1665	gga-mir-1665
+mir-1662	gga-mir-1662	mga-mir-1662	tgu-mir-1662
+mir-1663	gga-mir-1663
+mir-1660	gga-mir-1660
+mir-1661	gga-mir-1661
+mir-1398	oan-mir-1398
+mir-1399	oan-mir-1399
+mir-1396	oan-mir-1396
+mir-1397	oan-mir-1397	mga-mir-1397	tgu-mir-1397
+mir-1394	oan-mir-1394
+mir-1395	oan-mir-1395
+mir-1392	oan-mir-1392
+mir-1393	oan-mir-1393
+mir-1390	oan-mir-1390
+mir-1391	oan-mir-1391
+mir-659	hsa-mir-659
+mir-658	hsa-mir-658	ptr-mir-658	ppy-mir-658
+mir-129	hsa-mir-129-1	ptr-mir-129-1	ppy-mir-129-1	mml-mir-129-1	cja-mir-129-1	mmr-mir-129-1	oga-mir-129-1	tbe-mir-129-1	cpo-mir-129-1	dor-mir-129-1	mmu-mir-129-1	rno-mir-129-1	str-mir-129-1	opr-mir-129-1	ocu-mir-129-1	bta-mir-129-1	ttr-mir-129-1	ssc-mir-129-1	cfa-mir-129-1	fca-mir-129-1	mlu-mir-129-1	pva-mir-129-1	cho-mir-129-1	ete-mir-129-1	laf-mir-129-1	meu-mir-129-1	mdo-mir-129-1	oan-mir-129-1	hsa-mir-129-2	ptr-mir-129-2	ppy-mir-129-2	mml-mir-129-2	mmu-mir-129-2	rno-mir-129-2	bta-mir-129-2	cfa-mir-129-2	mml-mir-129	mdo-mir-129	oan-mir-129	eca-mir-129a	eca-mir-129b
+mir-128	hsa-mir-128-1	ptr-mir-128-1	ggo-mir-128-1	ppy-mir-128-1	mml-mir-128-1	cja-mir-128-1	tsy-mir-128-1	oga-mir-128-1	tbe-mir-128-1	cpo-mir-128-1	dor-mir-128-1	mmu-mir-128-1	rno-mir-128-1	str-mir-128-1	opr-mir-128-1	ocu-mir-128-1	bta-mir-128-1	ttr-mir-128-1	vpa-mir-128-1	ssc-mir-128-1	cfa-mir-128-1	fca-mir-128-1	mlu-mir-128-1	pva-mir-128-1	eeu-mir-128-1	sar-mir-128-1	cho-mir-128-1	ete-mir-128-1	laf-mir-128-1	pca-mir-128-1	meu-mir-128-1	mdo-mir-128-1	gga-mir-128-1	mga-mir-128-1	tgu-mir-128-1	aca-mir-128-1	hsa-mir-128-2	ptr-mir-128-2	ppy-mir-128-2	mmu-mir-128-2	rno-mir-128-2	bta-mir-128-2	ssc-mir-128-2	cfa-mir-128-2	gga-mir-128-2	mml-mir-128a	mml-mir-128b
+mir-127	hsa-mir-127	ptr-mir-127	ggo-mir-127	ppy-mir-127	mml-mir-127	cja-mir-127	tsy-mir-127	oga-mir-127	cpo-mir-127	dor-mir-127	mmu-mir-127	rno-mir-127	opr-mir-127	ocu-mir-127	bta-mir-127	ttr-mir-127	vpa-mir-127	ssc-mir-127	cfa-mir-127	fca-mir-127	eca-mir-127	mlu-mir-127	pva-mir-127	eeu-mir-127	cho-mir-127	laf-mir-127
+mir-126	hsa-mir-126	ptr-mir-126	ggo-mir-126	ppy-mir-126	mml-mir-126	cja-mir-126	mmr-mir-126	oga-mir-126	cpo-mir-126	dor-mir-126	mmu-mir-126	rno-mir-126	str-mir-126	opr-mir-126	bta-mir-126	ttr-mir-126	ssc-mir-126	cfa-mir-126	fca-mir-126	eca-mir-126	pva-mir-126	eeu-mir-126	sar-mir-126	ete-mir-126	laf-mir-126	pca-mir-126	meu-mir-126	mdo-mir-126	gga-mir-126	mga-mir-126	aca-mir-126	xtr-mir-126	tni-mir-126	dre-mir-126b
+mir-657	hsa-mir-657	ptr-mir-657	mml-mir-657
+mir-124	hsa-mir-124-1	ggo-mir-124-1	ppy-mir-124-1	mml-mir-124-1	cja-mir-124-1	tsy-mir-124-1	mmr-mir-124-1	oga-mir-124-1	tbe-mir-124-1	cpo-mir-124-1	dor-mir-124-1	mmu-mir-124-1	rno-mir-124-1	opr-mir-124-1	ocu-mir-124-1	bta-mir-124-1	ttr-mir-124-1	ssc-mir-124-1	cfa-mir-124-1	fca-mir-124-1	eca-mir-124-1	mlu-mir-124-1	pva-mir-124-1	eeu-mir-124-1	sar-mir-124-1	ete-mir-124-1	laf-mir-124-1	pca-mir-124-1	meu-mir-124-1	mdo-mir-124-1	gga-mir-124-1	aca-mir-124-1	xtr-mir-124-1	gac-mir-124-1	ola-mir-124-1	tru-mir-124-1	tni-mir-124-1	hsa-mir-124-2	mmu-mir-124-2	rno-mir-124-2	cfa-mir-124-2	eca-mir-124-2	tgu-mir-124-2	tni-mir-124-2	hsa-mir-124-3	mmu-mir-124-3	rno-mir-124-3	cfa-mir-124-3	tgu-mir-124-3	ptr-mir-124a	ggo-mir-124a	ppy-mir-124a	gga-mir-124a	mml-mir-124a-1	ssc-mir-124a-1	mml-mir-124a-2	ssc-mir-124a-2	mdo-mir-124a-2	bta-mir-124b	eca-mir-124	oan-mir-124	mdo-mir-124a-3	dre-mir-124-4	dre-mir-124-5	dre-mir-124-6
+mir-651	hsa-mir-651	ptr-mir-651	ggo-mir-651	ppy-mir-651	mml-mir-651
+mir-122	hsa-mir-122	ptr-mir-122	ggo-mir-122	ppy-mir-122	mml-mir-122	cja-mir-122	tsy-mir-122	mmr-mir-122	oga-mir-122	tbe-mir-122	cpo-mir-122	dor-mir-122	mmu-mir-122	rno-mir-122	str-mir-122	opr-mir-122	ocu-mir-122	bta-mir-122	ttr-mir-122	vpa-mir-122	ssc-mir-122	cfa-mir-122	fca-mir-122	eca-mir-122	mlu-mir-122	pva-mir-122	eeu-mir-122	laf-mir-122	pca-mir-122	meu-mir-122	mdo-mir-122	gga-mir-122	mga-mir-122	tgu-mir-122	aca-mir-122	xtr-mir-122	gac-mir-122	ola-mir-122	tru-mir-122	tni-mir-122	mml-mir-122a	gga-mir-122-1	gga-mir-122-2	gga-mir-122b
+mir-653	hsa-mir-653	ptr-mir-653	ggo-mir-653	ppy-mir-653	mml-mir-653	tsy-mir-653	tbe-mir-653	cpo-mir-653	str-mir-653	cfa-mir-653	eca-mir-653	eeu-mir-653	sar-mir-653
+mir-652	hsa-mir-652	ptr-mir-652	ggo-mir-652	ppy-mir-652	mml-mir-652	cja-mir-652	tsy-mir-652	mmr-mir-652	oga-mir-652	tbe-mir-652	cpo-mir-652	dor-mir-652	rno-mir-652	str-mir-652	ocu-mir-652	ttr-mir-652	vpa-mir-652	ssc-mir-652	cfa-mir-652	fca-mir-652	eca-mir-652	mlu-mir-652	eeu-mir-652	sar-mir-652	laf-mir-652	pca-mir-652
+mir-655	hsa-mir-655	ppy-mir-655	cja-mir-655	mmr-mir-655	oga-mir-655	tbe-mir-655	cpo-mir-655	str-mir-655	opr-mir-655	ocu-mir-655	bta-mir-655	ttr-mir-655	cfa-mir-655	fca-mir-655	eca-mir-655	mlu-mir-655
+mir-1718	gga-mir-1718
+mir-1719	gga-mir-1719
+mir-1248	hsa-mir-1248	ptr-mir-1248	ggo-mir-1248	ppy-mir-1248	mml-mir-1248	cja-mir-1248	tsy-mir-1248	mmr-mir-1248	tbe-mir-1248	cpo-mir-1248	mmu-mir-1248	rno-mir-1248	str-mir-1248	opr-mir-1248	ocu-mir-1248	vpa-mir-1248	ssc-mir-1248	cfa-mir-1248	eca-mir-1248	mlu-mir-1248	pva-mir-1248	sar-mir-1248	cho-mir-1248	ete-mir-1248	laf-mir-1248	bta-mir-1248-1	bta-mir-1248-2
+mir-1249	hsa-mir-1249	ptr-mir-1249	ggo-mir-1249	ppy-mir-1249	mml-mir-1249	cja-mir-1249	tsy-mir-1249	mmr-mir-1249	oga-mir-1249	cpo-mir-1249	mmu-mir-1249	rno-mir-1249	opr-mir-1249	ocu-mir-1249	bta-mir-1249	ttr-mir-1249	vpa-mir-1249	ssc-mir-1249	cfa-mir-1249	fca-mir-1249	mlu-mir-1249	pva-mir-1249	eeu-mir-1249	ete-mir-1249	laf-mir-1249	pca-mir-1249
+mir-654	hsa-mir-654	ptr-mir-654	ggo-mir-654	ppy-mir-654	mml-mir-654	cja-mir-654
+mir-1244	hsa-mir-1244-1	ptr-mir-1244-1	hsa-mir-1244-2	ptr-mir-1244-2	hsa-mir-1244-3	ptr-mir-1244-3	ptr-mir-1244-4	ptr-mir-1244-5	ptr-mir-1244-6	ptr-mir-1244-7	ptr-mir-1244-8	ptr-mir-1244-9	ptr-mir-1244-10	ptr-mir-1244-11	ppy-mir-1244
+mir-1245	hsa-mir-1245	ptr-mir-1245	ggo-mir-1245	ppy-mir-1245
+mir-1246	hsa-mir-1246	ptr-mir-1246	ppy-mir-1246
+mir-1247	hsa-mir-1247	ptr-mir-1247	ppy-mir-1247	mmu-mir-1247
+mir-1240	cja-mir-1240	eca-mir-1240
+mir-125	hsa-mir-125b-1	ptr-mir-125b-1	ggo-mir-125b-1	ppy-mir-125b-1	mml-mir-125b-1	mmr-mir-125b-1	mmu-mir-125b-1	rno-mir-125b-1	bta-mir-125b-1	ssc-mir-125b-1	cfa-mir-125b-1	eca-mir-125b-1	cho-mir-125b-1	xtr-mir-125b-1	hsa-mir-125a	ptr-mir-125a	ggo-mir-125a	ppy-mir-125a	mml-mir-125a	cja-mir-125a	cpo-mir-125a	dor-mir-125a	mmu-mir-125a	rno-mir-125a	ttr-mir-125a	ssc-mir-125a	cfa-mir-125a	fca-mir-125a	eca-mir-125a	pva-mir-125a	laf-mir-125a	pca-mir-125a	hsa-mir-125b-2	ptr-mir-125b-2	ggo-mir-125b-2	ppy-mir-125b-2	mml-mir-125b-2	tsy-mir-125b-2	oga-mir-125b-2	tbe-mir-125b-2	mmu-mir-125b-2	rno-mir-125b-2	str-mir-125b-2	opr-mir-125b-2	ocu-mir-125b-2	bta-mir-125b-2	vpa-mir-125b-2	ssc-mir-125b-2	cfa-mir-125b-2	eca-mir-125b-2	mlu-mir-125b-2	eeu-mir-125b-2	ete-mir-125b-2	meu-mir-125b-2	gga-mir-125b-2	mga-mir-125b-2	tgu-mir-125b-2	aca-mir-125b-2	xtr-mir-125b-2	oan-mir-125	tgu-mir-125-1	tgu-mir-125-2	dre-mir-125a-1	dre-mir-125a-2	dre-mir-125b-3	dre-mir-125c
+mir-1714	gga-mir-1714
+mir-1715	gga-mir-1715
+mir-656	hsa-mir-656	ptr-mir-656	ppy-mir-656	mml-mir-656	bta-mir-656	eca-mir-656
+mir-2449	bta-mir-2449
+mir-2448	bta-mir-2448
+mir-2447	bta-mir-2447
+mir-2446	bta-mir-2446
+mir-2445	bta-mir-2445
+mir-2444	bta-mir-2444
+mir-2443	bta-mir-2443
+mir-2442	bta-mir-2442
+mir-2441	bta-mir-2441
+mir-650	hsa-mir-650	ptr-mir-650	ppy-mir-650	mml-mir-650a-1	mml-mir-650a-2	mml-mir-650b	mml-mir-650c	mml-mir-650d
+mir-2289	bta-mir-2289
+mir-2288	bta-mir-2288
+mir-2285	bta-mir-2285a	bta-mir-2285d	bta-mir-2285b	bta-mir-2285c
+mir-2284	bta-mir-2284i	bta-mir-2284s	bta-mir-2284l	bta-mir-2284j	bta-mir-2284t	bta-mir-2284d	bta-mir-2284n	bta-mir-2284g	bta-mir-2284p	bta-mir-2284u	bta-mir-2284f	bta-mir-2284a	bta-mir-2284k	bta-mir-2284c	bta-mir-2284v	bta-mir-2284q	bta-mir-2284m	bta-mir-2284b	bta-mir-2284r	bta-mir-2284h	bta-mir-2284o	bta-mir-2284e	bta-mir-2284w	bta-mir-2284x
+mir-2287	bta-mir-2287
+mir-2286	bta-mir-2286
+mir-2281	dme-mir-2281
+mir-2280	dme-mir-2280
+mir-2283	dme-mir-2283
+mir-2282	dme-mir-2282
+mir-729	dre-mir-729
+mir-728
+mir-239	cel-mir-239a	cel-mir-239b
+mir-238	cel-mir-238
+mir-721	mmu-mir-721
+mir-720	hsa-mir-720	ptr-mir-720	ppy-mir-720
+mir-723	dre-mir-723
+mir-722	dre-mir-722
+mir-725	dre-mir-725
+mir-724	dre-mir-724
+mir-727	aca-mir-727	gac-mir-727	tru-mir-727	tni-mir-727
+mir-726	dre-mir-726
+mir-1712	gga-mir-1712
+mir-1713	gga-mir-1713
+mir-1710	gga-mir-1710
+mir-1711	gga-mir-1711
+mir-1716	gga-mir-1716
+mir-1241	mml-mir-1241
+mir-347	rno-mir-347
+mir-346	hsa-mir-346	ptr-mir-346	ggo-mir-346	ppy-mir-346	mml-mir-346	cja-mir-346	mmr-mir-346	oga-mir-346	tbe-mir-346	cpo-mir-346	dor-mir-346	mmu-mir-346	rno-mir-346	str-mir-346	opr-mir-346	ocu-mir-346	bta-mir-346	ttr-mir-346	vpa-mir-346	ssc-mir-346	cfa-mir-346	eca-mir-346	mlu-mir-346	pva-mir-346
+mir-345	hsa-mir-345	ptr-mir-345	ggo-mir-345	ppy-mir-345	str-mir-345	opr-mir-345	bta-mir-345	ttr-mir-345	ssc-mir-345	cfa-mir-345	eca-mir-345	pva-mir-345	cho-mir-345	pca-mir-345
+mir-344	mmu-mir-344-1	rno-mir-344-1	mmu-mir-344d-3	mmu-mir-344d-1	mmu-mir-344d-2	mmu-mir-344-2	mmu-mir-344e	mmu-mir-344b	mmu-mir-344c	mmu-mir-344g	mmu-mir-344f	mmu-mir-344a-1	rno-mir-344a-1	rno-mir-344b-2	rno-mir-344a-2	rno-mir-344b-1
+mir-343	mmu-mir-343
+mir-342	hsa-mir-342	ptr-mir-342	ggo-mir-342	ppy-mir-342	mml-mir-342	cja-mir-342	mmr-mir-342	oga-mir-342	cpo-mir-342	dor-mir-342	mmu-mir-342	rno-mir-342	str-mir-342	cfa-mir-342	fca-mir-342	eca-mir-342	mlu-mir-342	pva-mir-342	laf-mir-342	pca-mir-342
+mir-341	mmu-mir-341	rno-mir-341
+mir-340	hsa-mir-340	ptr-mir-340	ggo-mir-340	ppy-mir-340	mml-mir-340	cja-mir-340	mmr-mir-340	oga-mir-340	cpo-mir-340	dor-mir-340	mmu-mir-340	rno-mir-340	str-mir-340	opr-mir-340	ocu-mir-340	bta-mir-340	ttr-mir-340	vpa-mir-340	ssc-mir-340	eca-mir-340	mlu-mir-340	pva-mir-340	cho-mir-340	ete-mir-340	laf-mir-340
+mir-1243	hsa-mir-1243
+mir-349	rno-mir-349
+mir-983	dme-mir-983-1	dme-mir-983-2
+mir-83	cel-mir-83
+mir-82	cel-mir-82
+mir-81	cel-mir-81
+mir-3713	hsa-mir-3713	ggo-mir-3713
+mir-87	dme-mir-87
+mir-86	cel-mir-86
+mir-85	cel-mir-85
+mir-84	cel-mir-84
+mir-1639	gga-mir-1639
+mir-2459	bta-mir-2459
+mir-1638	gga-mir-1638
+mir-2440	bta-mir-2440
+mir-3620	hsa-mir-3620
+mir-3621	hsa-mir-3621	ggo-mir-3621	ppy-mir-3621
+mir-3622	hsa-mir-3622a	ggo-mir-3622a	hsa-mir-3622b
+mir-1819	cel-mir-1819
+mir-1818	cel-mir-1818
+mir-4272	hsa-mir-4272
+mir-3538	gga-mir-3538-1	gga-mir-3538-2
+mir-3539	gga-mir-3539
+mir-1758	gga-mir-1758
+mir-3530	gga-mir-3530	mga-mir-3530
+mir-3531	gga-mir-3531	mga-mir-3531
+mir-3532	gga-mir-3532
+mir-3533	gga-mir-3533
+mir-3534	gga-mir-3534
+mir-3535	gga-mir-3535
+mir-3536	gga-mir-3536
+mir-3537	gga-mir-3537
+mir-1813	gga-mir-1813-2	gga-mir-1813-1
+mir-1812	gga-mir-1812
+mir-882	mmu-mir-882
+mir-883	mmu-mir-883a	rno-mir-883a	mmu-mir-883b	mmu-mir-883	rno-mir-883
+mir-337	hsa-mir-337	ptr-mir-337	ggo-mir-337	ppy-mir-337	mml-mir-337	cja-mir-337	tsy-mir-337	cpo-mir-337	dor-mir-337	ocu-mir-337	mlu-mir-337	laf-mir-337
+mir-4157	cin-mir-4157
+mir-1637	gga-mir-1637
+mir-4155	cin-mir-4155
+mir-4154	cin-mir-4154
+mir-4153	cin-mir-4153
+mir-4152	cin-mir-4152
+mir-4151	cin-mir-4151
+mir-4150	cin-mir-4150
+mir-887	hsa-mir-887	ptr-mir-887	ggo-mir-887	ppy-mir-887	mml-mir-887	cja-mir-887
+mir-4159	cin-mir-4159
+mir-4158	cin-mir-4158
+mir-4088	cin-mir-4088
+mir-2450	bta-mir-2450c	bta-mir-2450b	bta-mir-2450a
+mir-2893	bta-mir-2893
+mir-233	cel-mir-233
+mir-232	cel-mir-232	cel-mir-232-1
+mir-231	cel-mir-231
+mir-1419	oan-mir-1419a	oan-mir-1419b-1	oan-mir-1419c-1	oan-mir-1419d	oan-mir-1419e	oan-mir-1419c-2	oan-mir-1419c-3	oan-mir-1419b-2	oan-mir-1419f	oan-mir-1419g
+mir-1418	oan-mir-1418
+mir-1709	gga-mir-1709
+mir-1411	oan-mir-1411
+mir-1410	oan-mir-1410
+mir-1413	oan-mir-1413
+mir-1191	mmu-mir-1191
+mir-1415	oan-mir-1415
+mir-1414	oan-mir-1414
+mir-1417	oan-mir-1417
+mir-1416	gga-mir-1416	mga-mir-1416
+mir-235	cel-mir-235
+mir-1632	gga-mir-1632
+mir-234	cel-mir-234
+mir-1895	oga-mir-1895	mmu-mir-1895	rno-mir-1895	ttr-mir-1895	mlu-mir-1895	ete-mir-1895
+mir-1894	hsa-mir-1894	ggo-mir-1894	ppy-mir-1894	mml-mir-1894	cja-mir-1894	tsy-mir-1894	oga-mir-1894	cpo-mir-1894	str-mir-1894	ocu-mir-1894	bta-mir-1894	ttr-mir-1894
+mir-1897	cja-mir-1897	dor-mir-1897	str-mir-1897	ttr-mir-1897
+mir-1896	mmu-mir-1896	rno-mir-1896
+mir-1675	gga-mir-1675
+mir-1674	gga-mir-1674
+mir-1893	hsa-mir-1893	ggo-mir-1893	ppy-mir-1893	mml-mir-1893	mmr-mir-1893	oga-mir-1893	mmu-mir-1893	rno-mir-1893	ocu-mir-1893	bta-mir-1893	cfa-mir-1893	pva-mir-1893	sar-mir-1893	cho-mir-1893	ete-mir-1893	laf-mir-1893	meu-mir-1893	mdo-mir-1893
+mir-1892	mmu-mir-1892
+mir-1679	gga-mir-1679
+mir-1678	gga-mir-1678
+mir-1899	mmu-mir-1899
+mir-1898	oga-mir-1898	cpo-mir-1898	mmu-mir-1898	rno-mir-1898	str-mir-1898	cfa-mir-1898	eca-mir-1898	ete-mir-1898
+mir-1381	oan-mir-1381
+mir-1380	oan-mir-1380
+mir-1383	oan-mir-1383
+mir-1382	oan-mir-1382
+mir-1385	oan-mir-1385
+mir-1384	oan-mir-1384
+mir-1387	oan-mir-1387
+mir-1386	oan-mir-1386
+mir-1389	oan-mir-1389
+mir-1388	oga-mir-1388	str-mir-1388	mlu-mir-1388	mdo-mir-1388
+mir-19	hsa-mir-19a	ptr-mir-19a	ggo-mir-19a	ppy-mir-19a	mml-mir-19a	cja-mir-19a	tsy-mir-19a	mmr-mir-19a	oga-mir-19a	tbe-mir-19a	cpo-mir-19a	dor-mir-19a	mmu-mir-19a	rno-mir-19a	str-mir-19a	opr-mir-19a	ocu-mir-19a	bta-mir-19a	ttr-mir-19a	ssc-mir-19a	cfa-mir-19a	fca-mir-19a	eca-mir-19a	mlu-mir-19a	pva-mir-19a	eeu-mir-19a	sar-mir-19a	cho-mir-19a	laf-mir-19a	meu-mir-19a	mdo-mir-19a	oan-mir-19a	gga-mir-19a	mga-mir-19a	tgu-mir-19a	aca-mir-19a	xtr-mir-19a	gac-mir-19a	ola-mir-19a	tru-mir-19a	tni-mir-19a	hsa-mir-19b-1	ptr-mir-19b-1	ggo-mir-19b-1	ppy-mir-19b-1	mml-mir-19b-1	mmu-mir-19b-1	rno-mir-19b-1	ssc-mir-19b-1	cfa-mir-19b-1	tgu-mir-19b-1	hsa-mir-19b-2	ptr-mir-19b-2	ggo-mir-19b-2	ppy-mir-19b-2	mml-mir-19b-2	bta-mir-19b-2	ssc-mir-19b-2	cfa-mir-19b-2	eca-mir-19b-2	bta-mir-19b	eca-mir-19b	mdo-mir-19b	gga-mir-19b	dre-mir-19c	dre-mir-19d
+mir-648	hsa-mir-648	ggo-mir-648	ppy-mir-648
+mir-649	hsa-mir-649	ptr-mir-649	ggo-mir-649
+mir-138	hsa-mir-138-2	ggo-mir-138-2	ppy-mir-138-2	mml-mir-138-2	cja-mir-138-2	tsy-mir-138-2	mmr-mir-138-2	oga-mir-138-2	tbe-mir-138-2	cpo-mir-138-2	dor-mir-138-2	mmu-mir-138-2	rno-mir-138-2	str-mir-138-2	opr-mir-138-2	ocu-mir-138-2	bta-mir-138-2	ttr-mir-138-2	cfa-mir-138-2	pva-mir-138-2	cho-mir-138-2	laf-mir-138-2	pca-mir-138-2	meu-mir-138-2	mdo-mir-138-2	hsa-mir-138-1	rno-mir-138-1	bta-mir-138-1	ssc-mir-138-1	mlu-mir-138-1	eeu-mir-138-1	ete-mir-138-1	tgu-mir-138-1	xtr-mir-138-1	ptr-mir-138	mml-mir-138	eca-mir-138	mdo-mir-138	cfa-mir-138b	cfa-mir-138a
+mir-139	hsa-mir-139	ptr-mir-139	ggo-mir-139	ppy-mir-139	mml-mir-139	cja-mir-139	tsy-mir-139	cpo-mir-139	dor-mir-139	mmu-mir-139	rno-mir-139	str-mir-139	opr-mir-139	ocu-mir-139	bta-mir-139	ttr-mir-139	ssc-mir-139	cfa-mir-139	fca-mir-139	eca-mir-139	mlu-mir-139	pva-mir-139	cho-mir-139	laf-mir-139	pca-mir-139
+mir-134	hsa-mir-134	ptr-mir-134	ggo-mir-134	ppy-mir-134	mml-mir-134	cja-mir-134	tsy-mir-134	mmr-mir-134	oga-mir-134	cpo-mir-134	mmu-mir-134	rno-mir-134	ocu-mir-134	ttr-mir-134	cfa-mir-134	fca-mir-134	eca-mir-134
+mir-135	hsa-mir-135a-1	ptr-mir-135a-1	ggo-mir-135a-1	ppy-mir-135a-1	mml-mir-135a-1	cja-mir-135a-1	tsy-mir-135a-1	mmr-mir-135a-1	oga-mir-135a-1	tbe-mir-135a-1	cpo-mir-135a-1	opr-mir-135a-1	ocu-mir-135a-1	bta-mir-135a-1	ttr-mir-135a-1	ssc-mir-135a-1	cfa-mir-135a-1	fca-mir-135a-1	mlu-mir-135a-1	pva-mir-135a-1	eeu-mir-135a-1	sar-mir-135a-1	cho-mir-135a-1	laf-mir-135a-1	pca-mir-135a-1	hsa-mir-135a-2	ptr-mir-135a-2	mml-mir-135a-2	mmu-mir-135a-2	bta-mir-135a-2	vpa-mir-135a-2	cfa-mir-135a-2	eca-mir-135a-2	meu-mir-135a-2	gga-mir-135a-2	hsa-mir-135b	ptr-mir-135b	ppy-mir-135b	mml-mir-135b	mmu-mir-135b	rno-mir-135b	str-mir-135b	bta-mir-135b	cfa-mir-135b	eca-mir-135b	mdo-mir-135b	ggo-mir-135	ppy-mir-135	rno-mir-135a	mdo-mir-135a	oan-mir-135a	ssc-mir-135-1	ssc-mir-135-2	gga-mir-135a-3	dre-mir-135c-1	dre-mir-135c-2	dre-mir-135c-3
+mir-136	hsa-mir-136	ptr-mir-136	ggo-mir-136	ppy-mir-136	mml-mir-136	mmr-mir-136	oga-mir-136	cpo-mir-136	mmu-mir-136	rno-mir-136	opr-mir-136	ocu-mir-136	bta-mir-136	ttr-mir-136	ssc-mir-136	cfa-mir-136	fca-mir-136	eca-mir-136	mlu-mir-136	pva-mir-136	ete-mir-136	laf-mir-136	pca-mir-136
+mir-137	hsa-mir-137	ptr-mir-137	ppy-mir-137	mml-mir-137	cja-mir-137	tsy-mir-137	oga-mir-137	dor-mir-137	mmu-mir-137	rno-mir-137	ocu-mir-137	bta-mir-137	ttr-mir-137	ssc-mir-137	cfa-mir-137	eca-mir-137	pva-mir-137	sar-mir-137	ete-mir-137	laf-mir-137	pca-mir-137	meu-mir-137	mdo-mir-137	oan-mir-137	gga-mir-137	tgu-mir-137	aca-mir-137	xtr-mir-137	dre-mir-137	gac-mir-137	tru-mir-137	oan-mir-137a	oan-mir-137b	xtr-mir-137-1	dre-mir-137-1	xtr-mir-137-2	xtr-mir-137-3
+mir-130	hsa-mir-130a	ptr-mir-130a	ggo-mir-130a	ppy-mir-130a	mml-mir-130a	mmr-mir-130a	tbe-mir-130a	dor-mir-130a	opr-mir-130a	ssc-mir-130a	cfa-mir-130a	fca-mir-130a	eca-mir-130a	ete-mir-130a	laf-mir-130a	meu-mir-130a	mdo-mir-130a	hsa-mir-130b	ptr-mir-130b	ggo-mir-130b	ppy-mir-130b	mml-mir-130b	cja-mir-130b	tsy-mir-130b	oga-mir-130b	cpo-mir-130b	mmu-mir-130b	rno-mir-130b	str-mir-130b	ocu-mir-130b	bta-mir-130b	ttr-mir-130b	vpa-mir-130b	ssc-mir-130b	cfa-mir-130b	eca-mir-130b	pva-mir-130b	sar-mir-130b	pca-mir-130b	ola-mir-130b	dre-mir-130a-1	dre-mir-130a-2	dre-mir-130c-1	dre-mir-130c-2	tni-mir-130
+mir-647	hsa-mir-647	ppy-mir-647
+mir-132	hsa-mir-132	ppy-mir-132	mml-mir-132	cja-mir-132	mmr-mir-132	oga-mir-132	cpo-mir-132	mmu-mir-132	rno-mir-132	bta-mir-132	ttr-mir-132	ssc-mir-132	cfa-mir-132	fca-mir-132	eca-mir-132	mlu-mir-132	pva-mir-132	eeu-mir-132	ete-mir-132	laf-mir-132	pca-mir-132	meu-mir-132	mdo-mir-132	dre-mir-132-1	dre-mir-132-2
+mir-133	hsa-mir-133a-1	ptr-mir-133a-1	ggo-mir-133a-1	ppy-mir-133a-1	mml-mir-133a-1	cja-mir-133a-1	tsy-mir-133a-1	tbe-mir-133a-1	cpo-mir-133a-1	dor-mir-133a-1	mmu-mir-133a-1	rno-mir-133a-1	str-mir-133a-1	opr-mir-133a-1	ocu-mir-133a-1	vpa-mir-133a-1	cfa-mir-133a-1	fca-mir-133a-1	eca-mir-133a-1	pva-mir-133a-1	eeu-mir-133a-1	sar-mir-133a-1	cho-mir-133a-1	ete-mir-133a-1	laf-mir-133a-1	pca-mir-133a-1	meu-mir-133a-1	mdo-mir-133a-1	oan-mir-133a-1	gga-mir-133a-1	mga-mir-133a-1	tgu-mir-133a-1	aca-mir-133a-1	xtr-mir-133a-1	gac-mir-133a-1	ola-mir-133a-1	tru-mir-133a-1	hsa-mir-133a-2	ptr-mir-133a-2	bta-mir-133a-2	ssc-mir-133a-2	eca-mir-133a-2	gga-mir-133a-2	dre-mir-133a-2	hsa-mir-133b	ptr-mir-133b	ppy-mir-133b	mml-mir-133b	mmr-mir-133b	oga-mir-133b	rno-mir-133b	bta-mir-133b	ssc-mir-133b	cfa-mir-133b	eca-mir-133b	mlu-mir-133b	xtr-mir-133b	ggo-mir-133a	ppy-mir-133a	mml-mir-133a	mmu-mir-133a	rno-mir-133a	cfa-mir-133a	eca-mir-133a	mdo-mir-133a	oan-mir-133a	xtr-mir-133a	ppy-mir-133c	mml-mir-133c	cfa-mir-133c	xtr-mir-133c	tgu-mir-133-1	tgu-mir-133-2	tgu-mir-133-3	xtr-mir-133d
+mir-18	hsa-mir-18a	ptr-mir-18a	ggo-mir-18a	ppy-mir-18a	cja-mir-18a	tsy-mir-18a	mmr-mir-18a	oga-mir-18a	tbe-mir-18a	cpo-mir-18a	dor-mir-18a	mmu-mir-18a	rno-mir-18a	str-mir-18a	opr-mir-18a	ocu-mir-18a	bta-mir-18a	ttr-mir-18a	vpa-mir-18a	ssc-mir-18a	cfa-mir-18a	fca-mir-18a	eca-mir-18a	mlu-mir-18a	pva-mir-18a	eeu-mir-18a	sar-mir-18a	laf-mir-18a	meu-mir-18a	mdo-mir-18a	gga-mir-18a	mga-mir-18a	tgu-mir-18a	aca-mir-18a	xtr-mir-18a	gac-mir-18a	ola-mir-18a	tru-mir-18a	tni-mir-18a	hsa-mir-18b	ptr-mir-18b	ppy-mir-18b	mml-mir-18b	mmu-mir-18b	bta-mir-18b	cfa-mir-18b	eca-mir-18b	gga-mir-18b	ggo-mir-18	ppy-mir-18	mml-mir-18	ssc-mir-18	mdo-mir-18	tni-mir-18	dre-mir-18c
+mir-1708	gga-mir-1708	mga-mir-1708
+mir-1258	hsa-mir-1258	ptr-mir-1258	mml-mir-1258	cja-mir-1258
+mir-1257	hsa-mir-1257	ppy-mir-1257
+mir-1256	ggo-mir-1256	mml-mir-1256	mmr-mir-1256	oga-mir-1256	ttr-mir-1256	vpa-mir-1256	laf-mir-1256
+mir-1255	hsa-mir-1255a	ggo-mir-1255a	ppy-mir-1255a	hsa-mir-1255b-1	ppy-mir-1255b-1	hsa-mir-1255b-2	ppy-mir-1255b-2	hsa-mir-1255b	ptr-mir-1255b
+mir-1254	tsy-mir-1254
+mir-1253	hsa-mir-1253	ptr-mir-1253	ppy-mir-1253
+mir-1252	hsa-mir-1252	ppy-mir-1252
+mir-1251	hsa-mir-1251	ptr-mir-1251	ggo-mir-1251	ppy-mir-1251	mml-mir-1251	cja-mir-1251	tsy-mir-1251	mmr-mir-1251	oga-mir-1251	tbe-mir-1251	cpo-mir-1251	dor-mir-1251	mmu-mir-1251	rno-mir-1251	str-mir-1251	opr-mir-1251	ocu-mir-1251	bta-mir-1251	ttr-mir-1251	vpa-mir-1251	ssc-mir-1251	cfa-mir-1251	mlu-mir-1251	pva-mir-1251	eeu-mir-1251	sar-mir-1251	cho-mir-1251	ete-mir-1251	laf-mir-1251	pca-mir-1251
+mir-1250	hsa-mir-1250	ptr-mir-1250	ggo-mir-1250	ppy-mir-1250	mml-mir-1250
+mir-2472	bta-mir-2472
+mir-2473	bta-mir-2473
+mir-2470	bta-mir-2470
+mir-2471	bta-mir-2471
+mir-2476	bta-mir-2476
+mir-2477	bta-mir-2477
+mir-2474	bta-mir-2474
+mir-2475	bta-mir-2475
+mir-2478	bta-mir-2478
+mir-2479	bta-mir-2479
+mir-2276	hsa-mir-2276	ggo-mir-2276	ppy-mir-2276	mml-mir-2276
+mir-2277	hsa-mir-2277
+mir-2278	hsa-mir-2278	ggo-mir-2278
+mir-2279	dme-mir-2279
+mir-1705	gga-mir-1705
+mir-736	dre-mir-736
+mir-737
+mir-734	dre-mir-734
+mir-735	dre-mir-735
+mir-732	dre-mir-732
+mir-733	dre-mir-733
+mir-730
+mir-731	dre-mir-731
+mir-2992	tgu-mir-2992
+mir-739	ptr-mir-739	ggo-mir-739	mmr-mir-739	oga-mir-739	tbe-mir-739	cpo-mir-739	dor-mir-739	str-mir-739	opr-mir-739	ocu-mir-739	ttr-mir-739	vpa-mir-739	ssc-mir-739	cfa-mir-739	fca-mir-739	mlu-mir-739	pva-mir-739	eeu-mir-739	sar-mir-739	cho-mir-739	ete-mir-739	pca-mir-739	meu-mir-739	mdo-mir-739	mga-mir-739	aca-mir-739	xtr-mir-739	dre-mir-739	gac-mir-739	ola-mir-739	tni-mir-739
+mir-228	cel-mir-228
+mir-229	cel-mir-229
+mir-221	hsa-mir-221	ptr-mir-221	ggo-mir-221	ppy-mir-221	mml-mir-221	tsy-mir-221	mmr-mir-221	oga-mir-221	tbe-mir-221	cpo-mir-221	mmu-mir-221	rno-mir-221	str-mir-221	ocu-mir-221	ttr-mir-221	ssc-mir-221	cfa-mir-221	fca-mir-221	eca-mir-221	pva-mir-221	ete-mir-221	laf-mir-221	pca-mir-221	meu-mir-221	mdo-mir-221	mga-mir-221	tgu-mir-221	aca-mir-221
+mir-222	hsa-mir-222	ggo-mir-222	ppy-mir-222	mml-mir-222	cja-mir-222	tsy-mir-222	mmr-mir-222	oga-mir-222	tbe-mir-222	cpo-mir-222	mmu-mir-222	opr-mir-222	ocu-mir-222	bta-mir-222	ttr-mir-222	vpa-mir-222	ssc-mir-222	cfa-mir-222	fca-mir-222	eca-mir-222	mlu-mir-222	pva-mir-222	eeu-mir-222	cho-mir-222	ete-mir-222	laf-mir-222	pca-mir-222	meu-mir-222	gga-mir-222	mga-mir-222	mdo-mir-222a	oan-mir-222b	gga-mir-222-1	tgu-mir-222-1	gga-mir-222-2	tgu-mir-222-2
+mir-223	hsa-mir-223	ptr-mir-223	ggo-mir-223	ppy-mir-223	mml-mir-223	cja-mir-223	tsy-mir-223	mmr-mir-223	tbe-mir-223	cpo-mir-223	dor-mir-223	str-mir-223	ocu-mir-223	ttr-mir-223	vpa-mir-223	ssc-mir-223	cfa-mir-223	eca-mir-223	mlu-mir-223	pva-mir-223	sar-mir-223	ete-mir-223	laf-mir-223	tgu-mir-223
+mir-224	hsa-mir-224	ptr-mir-224	ggo-mir-224	ppy-mir-224	mml-mir-224	cja-mir-224	tsy-mir-224	mmr-mir-224	oga-mir-224	cpo-mir-224	mmu-mir-224	rno-mir-224	opr-mir-224	ocu-mir-224	bta-mir-224	ttr-mir-224	vpa-mir-224	ssc-mir-224	cfa-mir-224	eca-mir-224	ete-mir-224	laf-mir-224	pca-mir-224
+mir-1734	gga-mir-1734
+mir-1735	gga-mir-1735
+mir-1224	hsa-mir-1224	ptr-mir-1224	ppy-mir-1224	mml-mir-1224	bta-mir-1224	ssc-mir-1224	fca-mir-1224	mlu-mir-1224
+mir-1737	gga-mir-1737
+mir-1707	gga-mir-1707
+mir-2384	bta-mir-2384-1	bta-mir-2384-2
+mir-2385	bta-mir-2385
+mir-2386	bta-mir-2386
+mir-2387	mmr-mir-2387	str-mir-2387	opr-mir-2387	ocu-mir-2387	bta-mir-2387	ttr-mir-2387	cfa-mir-2387	fca-mir-2387
+mir-2380	bta-mir-2380
+mir-2381	bta-mir-2381
+mir-2382	bta-mir-2382
+mir-2383	bta-mir-2383
+mir-1733	gga-mir-1733
+mir-2388	bta-mir-2388
+mir-2389	bta-mir-2389
+mir-354	cel-mir-354
+mir-355	cel-mir-355
+mir-356	cel-mir-356
+mir-357	cel-mir-357
+mir-350	tsy-mir-350	cpo-mir-350	mmu-mir-350	rno-mir-350	str-mir-350	ocu-mir-350	cfa-mir-350	eeu-mir-350	ete-mir-350	laf-mir-350
+mir-351	mmu-mir-351	rno-mir-351
+mir-352	rno-mir-352
+mir-353	cel-mir-353
+mir-358	cel-mir-358
+mir-359	cel-mir-359
+mir-2997	tgu-mir-2997
+mir-2128	gga-mir-2128
+mir-2129	gga-mir-2129
+mir-78	cin-mir-78
+mir-79	hsa-mir-79	ggo-mir-79	ppy-mir-79	mml-mir-79	cja-mir-79	mmr-mir-79	oga-mir-79	tbe-mir-79	cpo-mir-79	dor-mir-79	mmu-mir-79	rno-mir-79	str-mir-79	ocu-mir-79	bta-mir-79	ttr-mir-79	ssc-mir-79	cfa-mir-79	fca-mir-79	eca-mir-79	mlu-mir-79	pva-mir-79	eeu-mir-79	sar-mir-79	cho-mir-79	ete-mir-79	laf-mir-79	pca-mir-79	meu-mir-79	mdo-mir-79	gga-mir-79	mga-mir-79	xtr-mir-79
+mir-76	cel-mir-76
+mir-77	cel-mir-77
+mir-74	cel-mir-74
+mir-75	cel-mir-75
+mir-72	cel-mir-72
+mir-73	cel-mir-73
+mir-2126	gga-mir-2126
+mir-2127	gga-mir-2127
+mir-2498	dme-mir-2498
+mir-2499	dme-mir-2499
+mir-2996	tgu-mir-2996-1	tgu-mir-2996-2
+mir-2490	dme-mir-2490
+mir-2491	dme-mir-2491
+mir-2492	dme-mir-2492
+mir-2493	dme-mir-2493
+mir-2494	dme-mir-2494
+mir-2495	dme-mir-2495
+mir-2496	dme-mir-2496
+mir-2497	dme-mir-2497
+mir-4096	cin-mir-4096
+mir-4097	cin-mir-4097
+mir-4094	cin-mir-4094
+mir-4095	cin-mir-4095
+mir-4092	cin-mir-4092
+mir-4093	cin-mir-4093
+mir-4090	cin-mir-4090
+mir-4091	cin-mir-4091
+mir-4098	cin-mir-4098
+mir-4099	cin-mir-4099
+mir-3529	ggo-mir-3529	oga-mir-3529	cpo-mir-3529	str-mir-3529	bta-mir-3529	ttr-mir-3529	ssc-mir-3529	cfa-mir-3529	laf-mir-3529
+mir-3528	gga-mir-3528	mga-mir-3528
+mir-3523	gga-mir-3523
+mir-3527	gga-mir-3527
+mir-3526	gga-mir-3526
+mir-3525	gga-mir-3525
+mir-3524	gga-mir-3524
+mir-4026	cin-mir-4026
+mir-13	dme-mir-13a	dme-mir-13b-1	dme-mir-13b-2
+mir-4168	cin-mir-4168
+mir-4169	cin-mir-4169
+mir-4162	cin-mir-4162
+mir-4163	cin-mir-4163
+mir-4160	cin-mir-4160
+mir-4166	cin-mir-4166
+mir-4167	cin-mir-4167
+mir-4164	cin-mir-4164
+mir-4165	cin-mir-4165
+mir-1420	oan-mir-1420a	oan-mir-1420b	oan-mir-1420c	oan-mir-1420d	oan-mir-1420e	oan-mir-1420f	oan-mir-1420g
+mir-1421	oan-mir-1421a	oan-mir-1421b	oan-mir-1421c	oan-mir-1421d	oan-mir-1421e	oan-mir-1421f	oan-mir-1421g-1	oan-mir-1421h	oan-mir-1421i-1	oan-mir-1421j	oan-mir-1421k-1	oan-mir-1421l-1	oan-mir-1421m	oan-mir-1421n-1	oan-mir-1421o	oan-mir-1421p-1	oan-mir-1421q	oan-mir-1421r	oan-mir-1421s	oan-mir-1421t	oan-mir-1421n-2	oan-mir-1421u	oan-mir-1421v	oan-mir-1421w	oan-mir-1421x	oan-mir-1421y-1	oan-mir-1421z	oan-mir-1421aa	oan-mir-1421ab-1	oan-mir-1421ac-1	oan-mir-1421ad	oan-mir-1421ae	oan-mir-1421af	oan-mir-1421y-2	oan-mir-1421y-3	oan-mir-1421ag-1	oan-mir-1421ab-2	oan-mir-1421ac-2	oan-mir-1421ah	oan-mir-1421ai	oan-mir-1421aj	oan-mir-1421g-2	oan-mir-1421g-3	oan-mir-1421i-2	oan-mir-1421i-3	oan-mir-1421k-2	oan-mir-1421k-3	oan-mir-1421l-2	oan-mir-1421p-2	oan-mir-1421ak	oan-mir-1421al	oan-mir-1421am	oan-mir-1421ag-2
+mir-1422	oan-mir-1422a	oan-mir-1422e	oan-mir-1422h	oan-mir-1422b-1	oan-mir-1422f	oan-mir-1422g	oan-mir-1422c	oan-mir-1422i	oan-mir-1422k	oan-mir-1422l	oan-mir-1422j	oan-mir-1422d	oan-mir-1422m	oan-mir-1422n	oan-mir-1422o	oan-mir-1422b-2	oan-mir-1422p	oan-mir-1422q
+mir-4071	cin-mir-4071
+mir-80	cel-mir-80
+mir-3714	hsa-mir-3714	ggo-mir-3714
+mir-1648	gga-mir-1648
+mir-1649	gga-mir-1649
+mir-2993	tgu-mir-2993
+mir-2336	bta-mir-2336
+mir-2995	tgu-mir-2995
+mir-2994	tgu-mir-2994
+mir-1468	hsa-mir-1468	ptr-mir-1468	ggo-mir-1468	ppy-mir-1468	cja-mir-1468	tsy-mir-1468	str-mir-1468	bta-mir-1468	ttr-mir-1468	vpa-mir-1468	ssc-mir-1468	cfa-mir-1468	eca-mir-1468	mlu-mir-1468
+mir-1469	hsa-mir-1469	ppy-mir-1469
+mir-1464	gga-mir-1464
+mir-1465	gga-mir-1465
+mir-1466	gga-mir-1466
+mir-1467	gga-mir-1467
+mir-1460	gga-mir-1460
+mir-1461	eca-mir-1461
+mir-1462	gga-mir-1462
+mir-1463	gga-mir-1463
+mir-1604	gga-mir-1604
+mir-1605	gga-mir-1605
+mir-1606	gga-mir-1606
+mir-1607	gga-mir-1607
+mir-1600	gga-mir-1600
+mir-1601	gga-mir-1601
+mir-1602	gga-mir-1602
+mir-1603	bta-mir-1603
+mir-1644	gga-mir-1644
+mir-1608	gga-mir-1608
+mir-1609	gga-mir-1609-1	gga-mir-1609-2
+mir-1645	gga-mir-1645
+mir-1766	gga-mir-1766-1	gga-mir-1766-2
+mir-101	hsa-mir-101-1	ptr-mir-101-1	ggo-mir-101-1	ppy-mir-101-1	mml-mir-101-1	cja-mir-101-1	tsy-mir-101-1	mmr-mir-101-1	oga-mir-101-1	tbe-mir-101-1	cpo-mir-101-1	dor-mir-101-1	mmu-mir-101-1	rno-mir-101-1	str-mir-101-1	opr-mir-101-1	ocu-mir-101-1	bta-mir-101-1	ttr-mir-101-1	vpa-mir-101-1	cfa-mir-101-1	fca-mir-101-1	eca-mir-101-1	pva-mir-101-1	eeu-mir-101-1	sar-mir-101-1	cho-mir-101-1	ete-mir-101-1	laf-mir-101-1	pca-mir-101-1	mdo-mir-101-1	oan-mir-101-1	gga-mir-101-1	mga-mir-101-1	aca-mir-101-1	xtr-mir-101-1	dre-mir-101-1	hsa-mir-101-2	ptr-mir-101-2	ppy-mir-101-2	mml-mir-101-2	cfa-mir-101-2	eca-mir-101-2	mdo-mir-101-2	oan-mir-101-2	hsa-mir-101a	mmu-mir-101a	rno-mir-101a	dre-mir-101a	ggo-mir-101	ppy-mir-101	eca-mir-101	mmu-mir-101b	rno-mir-101b	oan-mir-101b	xtr-mir-101a-2	xtr-mir-101a-1
+mir-100	hsa-mir-100	ptr-mir-100	ggo-mir-100	ppy-mir-100	mml-mir-100	cja-mir-100	tsy-mir-100	mmr-mir-100	oga-mir-100	tbe-mir-100	cpo-mir-100	mmu-mir-100	rno-mir-100	str-mir-100	opr-mir-100	ocu-mir-100	bta-mir-100	ttr-mir-100	vpa-mir-100	ssc-mir-100	cfa-mir-100	fca-mir-100	eca-mir-100	mlu-mir-100	pva-mir-100	cho-mir-100	ete-mir-100	laf-mir-100	pca-mir-100	meu-mir-100	mdo-mir-100	oan-mir-100	gga-mir-100	gac-mir-100	tni-mir-100	tgu-mir-100-1
+mir-103	hsa-mir-103-2	ptr-mir-103-2	ggo-mir-103-2	ppy-mir-103-2	mml-mir-103-2	cja-mir-103-2	tsy-mir-103-2	mmr-mir-103-2	oga-mir-103-2	cpo-mir-103-2	dor-mir-103-2	mmu-mir-103-2	rno-mir-103-2	str-mir-103-2	opr-mir-103-2	ocu-mir-103-2	bta-mir-103-2	ttr-mir-103-2	vpa-mir-103-2	ssc-mir-103-2	cfa-mir-103-2	mlu-mir-103-2	pva-mir-103-2	eeu-mir-103-2	sar-mir-103-2	cho-mir-103-2	laf-mir-103-2	pca-mir-103-2	meu-mir-103-2	mdo-mir-103-2	mga-mir-103-2	tgu-mir-103-2	aca-mir-103-2	hsa-mir-103-1	ptr-mir-103-1	mml-mir-103-1	mmu-mir-103-1	rno-mir-103-1	bta-mir-103-1	ssc-mir-103-1	cfa-mir-103-1	mdo-mir-103-1	oan-mir-103-1	gga-mir-103-1	hsa-mir-103-1-as	hsa-mir-103-2-as	ggo-mir-103	ppy-mir-103	tgu-mir-103-3
+mir-105	hsa-mir-105-1	ggo-mir-105-1	ppy-mir-105-1	mml-mir-105-1	cja-mir-105-1	tsy-mir-105-1	mmr-mir-105-1	oga-mir-105-1	tbe-mir-105-1	cpo-mir-105-1	dor-mir-105-1	str-mir-105-1	ocu-mir-105-1	bta-mir-105-1	ttr-mir-105-1	vpa-mir-105-1	ssc-mir-105-1	cfa-mir-105-1	eca-mir-105-1	mlu-mir-105-1	pva-mir-105-1	hsa-mir-105-2	ppy-mir-105-2	mml-mir-105-2	ssc-mir-105-2	ptr-mir-105	ggo-mir-105	ppy-mir-105	eca-mir-105	bta-mir-105b	cfa-mir-105b	bta-mir-105a	cfa-mir-105a
+mir-107	hsa-mir-107	ptr-mir-107	ggo-mir-107	ppy-mir-107	mml-mir-107	cja-mir-107	tsy-mir-107	mmr-mir-107	oga-mir-107	cpo-mir-107	dor-mir-107	mmu-mir-107	rno-mir-107	str-mir-107	opr-mir-107	ocu-mir-107	bta-mir-107	ttr-mir-107	vpa-mir-107	ssc-mir-107	cfa-mir-107	fca-mir-107	mlu-mir-107	pva-mir-107	sar-mir-107	cho-mir-107	ete-mir-107	laf-mir-107	pca-mir-107	mdo-mir-107	oan-mir-107	gga-mir-107	mga-mir-107	tgu-mir-107	aca-mir-107	xtr-mir-107	eca-mir-107b	eca-mir-107a
+mir-106	hsa-mir-106a	ptr-mir-106a	ggo-mir-106a	ppy-mir-106a	mml-mir-106a	cja-mir-106a	tsy-mir-106a	mmr-mir-106a	oga-mir-106a	tbe-mir-106a	cpo-mir-106a	dor-mir-106a	rno-mir-106a	str-mir-106a	ocu-mir-106a	ttr-mir-106a	vpa-mir-106a	ssc-mir-106a	cfa-mir-106a	fca-mir-106a	eca-mir-106a	mlu-mir-106a	pva-mir-106a	eeu-mir-106a	sar-mir-106a	laf-mir-106a	pca-mir-106a	hsa-mir-106b	ptr-mir-106b	ggo-mir-106b	ppy-mir-106b	mml-mir-106b	mmu-mir-106b	rno-mir-106b	opr-mir-106b	bta-mir-106b	cfa-mir-106b	eca-mir-106b	ete-mir-106b	oan-mir-106
+mir-1262	hsa-mir-1262	ptr-mir-1262	ppy-mir-1262
+mir-1263	hsa-mir-1263	ptr-mir-1263	ppy-mir-1263
+mir-1260	hsa-mir-1260	ppy-mir-1260	hsa-mir-1260b	ggo-mir-1260b	ppy-mir-1260b	mml-mir-1260b	cja-mir-1260b	mmr-mir-1260b	cpo-mir-1260b	opr-mir-1260b	ttr-mir-1260b	ssc-mir-1260b	cfa-mir-1260b	fca-mir-1260b	eca-mir-1260b	pva-mir-1260b	laf-mir-1260b	pca-mir-1260b
+mir-1261	hsa-mir-1261	ggo-mir-1261	ppy-mir-1261
+mir-1266	hsa-mir-1266	ptr-mir-1266	ggo-mir-1266	ppy-mir-1266	mml-mir-1266
+mir-1267	hsa-mir-1267	ptr-mir-1267	ggo-mir-1267	mml-mir-1267
+mir-1264	hsa-mir-1264	ptr-mir-1264	ggo-mir-1264	ppy-mir-1264	mml-mir-1264	tsy-mir-1264	mmr-mir-1264	oga-mir-1264	tbe-mir-1264	cpo-mir-1264	mmu-mir-1264	rno-mir-1264	opr-mir-1264	ocu-mir-1264	bta-mir-1264	ttr-mir-1264	vpa-mir-1264	ssc-mir-1264	cfa-mir-1264	fca-mir-1264	eca-mir-1264	cho-mir-1264	laf-mir-1264	pca-mir-1264
+mir-1265	hsa-mir-1265	ptr-mir-1265	ggo-mir-1265	ppy-mir-1265
+mir-1704	gga-mir-1704
+mir-1268	hsa-mir-1268	ppy-mir-1268
+mir-1269	hsa-mir-1269	ppy-mir-1269
+mir-691	mmu-mir-691
+mir-690	mmu-mir-690
+mir-693	mmu-mir-693
+mir-692	mmu-mir-692-1	mmu-mir-692-2
+mir-695	mmu-mir-695
+mir-694	mmu-mir-694
+mir-697	mmu-mir-697
+mir-696	mmu-mir-696
+mir-698	mmu-mir-698
+mir-2469	bta-mir-2469
+mir-2468	bta-mir-2468
+mir-1288	hsa-mir-1288	ptr-mir-1288	ggo-mir-1288	ppy-mir-1288	mml-mir-1288
+mir-1289	hsa-mir-1289-1	ptr-mir-1289-1	ppy-mir-1289-1	hsa-mir-1289-2	ptr-mir-1289-2	eca-mir-1289
+mir-2052	hsa-mir-2052
+mir-1280	hsa-mir-1280	ptr-mir-1280	ggo-mir-1280	ppy-mir-1280	cja-mir-1280
+mir-1281	hsa-mir-1281	ptr-mir-1281	ggo-mir-1281	ppy-mir-1281	cja-mir-1281	tbe-mir-1281	mmu-mir-1281	rno-mir-1281	ocu-mir-1281	bta-mir-1281	ssc-mir-1281	cfa-mir-1281	pva-mir-1281	eeu-mir-1281	laf-mir-1281
+mir-1282	hsa-mir-1282	ggo-mir-1282	ppy-mir-1282	mml-mir-1282	cja-mir-1282	tsy-mir-1282	mmr-mir-1282	oga-mir-1282	tbe-mir-1282	cpo-mir-1282	dor-mir-1282	mmu-mir-1282	rno-mir-1282	str-mir-1282	opr-mir-1282	ocu-mir-1282	bta-mir-1282	ttr-mir-1282	ssc-mir-1282	cfa-mir-1282	eca-mir-1282	pva-mir-1282	sar-mir-1282	ete-mir-1282	laf-mir-1282	pca-mir-1282	hsa-mir-1282-1	ptr-mir-1282-1	ptr-mir-1282-2	cho-mir-1282-2
+mir-1283	hsa-mir-1283-1	ppy-mir-1283-1	mml-mir-1283-1	hsa-mir-1283-2	hsa-mir-1283	ptr-mir-1283	ppy-mir-1283a	ppy-mir-1283b
+mir-1284	hsa-mir-1284	ptr-mir-1284	ppy-mir-1284
+mir-1285	hsa-mir-1285-1	ggo-mir-1285-1	hsa-mir-1285-2	hsa-mir-1285	ptr-mir-1285	ppy-mir-1285a	ppy-mir-1285b
+mir-1286	hsa-mir-1286	ptr-mir-1286	ggo-mir-1286	ppy-mir-1286
+mir-1287	hsa-mir-1287	ggo-mir-1287	ppy-mir-1287	mml-mir-1287	mmr-mir-1287	oga-mir-1287	cpo-mir-1287	ssc-mir-1287	cfa-mir-1287	mlu-mir-1287
+mir-743	mmu-mir-743a	rno-mir-743a	mmu-mir-743b	rno-mir-743b
+mir-214	hsa-mir-214	ptr-mir-214	ggo-mir-214	ppy-mir-214	mml-mir-214	cja-mir-214	tsy-mir-214	mmr-mir-214	oga-mir-214	tbe-mir-214	cpo-mir-214	dor-mir-214	mmu-mir-214	rno-mir-214	str-mir-214	ocu-mir-214	bta-mir-214	ttr-mir-214	vpa-mir-214	ssc-mir-214	cfa-mir-214	eca-mir-214	mlu-mir-214	pva-mir-214	eeu-mir-214	sar-mir-214	ete-mir-214	laf-mir-214	pca-mir-214	mdo-mir-214	oan-mir-214	mga-mir-214	tgu-mir-214	aca-mir-214	xtr-mir-214	ola-mir-214	tru-mir-214
+mir-217	hsa-mir-217	ptr-mir-217	ggo-mir-217	ppy-mir-217	mml-mir-217	cja-mir-217	tsy-mir-217	mmr-mir-217	oga-mir-217	tbe-mir-217	cpo-mir-217	dor-mir-217	ocu-mir-217	bta-mir-217	vpa-mir-217	ssc-mir-217	cfa-mir-217	fca-mir-217	eca-mir-217	mlu-mir-217	pva-mir-217	eeu-mir-217	sar-mir-217	cho-mir-217	ete-mir-217	meu-mir-217	mdo-mir-217	mga-mir-217	tgu-mir-217	mdo-mir-217-1	dre-mir-217-2
+mir-216	hsa-mir-216a	ptr-mir-216a	ggo-mir-216a	ppy-mir-216a	mml-mir-216a	cja-mir-216a	tsy-mir-216a	oga-mir-216a	tbe-mir-216a	cpo-mir-216a	mmu-mir-216a	str-mir-216a	opr-mir-216a	ocu-mir-216a	bta-mir-216a	ttr-mir-216a	ssc-mir-216a	cfa-mir-216a	fca-mir-216a	eca-mir-216a	mlu-mir-216a	eeu-mir-216a	sar-mir-216a	cho-mir-216a	ete-mir-216a	laf-mir-216a	meu-mir-216a	mdo-mir-216a	hsa-mir-216b	ptr-mir-216b	ppy-mir-216b	mml-mir-216b	mmr-mir-216b	dor-mir-216b	bta-mir-216b	vpa-mir-216b	cfa-mir-216b	eca-mir-216b	pva-mir-216b	ggo-mir-216	ppy-mir-216	ssc-mir-216	mdo-mir-216	gga-mir-216c	dre-mir-216a-1	dre-mir-216a-2	dre-mir-216b-1	dre-mir-216b-2
+mir-211	hsa-mir-211	ptr-mir-211	ggo-mir-211	ppy-mir-211	mml-mir-211	cfa-mir-211	eca-mir-211
+mir-210	hsa-mir-210	ptr-mir-210	ggo-mir-210	mml-mir-210	oga-mir-210	cpo-mir-210	opr-mir-210	bta-mir-210	ttr-mir-210	ssc-mir-210	cfa-mir-210	mlu-mir-210	pva-mir-210	pca-mir-210
+mir-744	hsa-mir-744	ptr-mir-744	ppy-mir-744	mmu-mir-744	ssc-mir-744
+mir-219	hsa-mir-219-1	ptr-mir-219-1	ggo-mir-219-1	ppy-mir-219-1	mml-mir-219-1	cja-mir-219-1	mmr-mir-219-1	oga-mir-219-1	tbe-mir-219-1	dor-mir-219-1	mmu-mir-219-1	rno-mir-219-1	ocu-mir-219-1	ttr-mir-219-1	ssc-mir-219-1	cfa-mir-219-1	pva-mir-219-1	laf-mir-219-1	hsa-mir-219-2	ptr-mir-219-2	ppy-mir-219-2	mml-mir-219-2	cpo-mir-219-2	mmu-mir-219-2	rno-mir-219-2	opr-mir-219-2	bta-mir-219-2	cfa-mir-219-2	fca-mir-219-2	eca-mir-219-2	mlu-mir-219-2	eeu-mir-219-2	ete-mir-219-2	pca-mir-219-2	dre-mir-219-3
+mir-218	hsa-mir-218-1	ptr-mir-218-1	ggo-mir-218-1	ppy-mir-218-1	mml-mir-218-1	tsy-mir-218-1	mmr-mir-218-1	tbe-mir-218-1	cpo-mir-218-1	mmu-mir-218-1	rno-mir-218-1	str-mir-218-1	ocu-mir-218-1	bta-mir-218-1	ttr-mir-218-1	cfa-mir-218-1	eeu-mir-218-1	sar-mir-218-1	cho-mir-218-1	ete-mir-218-1	gga-mir-218-1	mga-mir-218-1	tgu-mir-218-1	hsa-mir-218-2	ptr-mir-218-2	ppy-mir-218-2	mml-mir-218-2	mmu-mir-218-2	rno-mir-218-2	bta-mir-218-2	cfa-mir-218-2	eca-mir-218-2	oan-mir-218-2	hsa-mir-218	ggo-mir-218	cja-mir-218	oga-mir-218	dor-mir-218	mmu-mir-218	rno-mir-218	opr-mir-218	vpa-mir-218	ssc-mir-218	cfa-mir-218	eca-mir-218	pva-mir-218	laf-mir-218	meu-mir-218	mdo-mir-218	gga-mir-218	aca-mir-218	xtr-mir-218	ola-mir-218	tni-mir-218	dre-mir-218a-1	dre-mir-218a-2	tru-mir-218b	tni-mir-218b
+mir-585	hsa-mir-585	ggo-mir-585
+mir-584	hsa-mir-584	ptr-mir-584	ggo-mir-584	ppy-mir-584	mml-mir-584	bta-mir-584-2	bta-mir-584-3	bta-mir-584-4	bta-mir-584-6	bta-mir-584-7	bta-mir-584-1	bta-mir-584-8
+mir-587	hsa-mir-587	ptr-mir-587	ggo-mir-587	ppy-mir-587
+mir-586	hsa-mir-586	ptr-mir-586	ggo-mir-586	ppy-mir-586	mml-mir-586
+mir-581	hsa-mir-581	ptr-mir-581	ppy-mir-581	mml-mir-581	cja-mir-581
+mir-580	hsa-mir-580	ptr-mir-580	ggo-mir-580	ppy-mir-580	mml-mir-580
+mir-583	hsa-mir-583	ptr-mir-583	ggo-mir-583	ppy-mir-583	mml-mir-583
+mir-582	hsa-mir-582	ptr-mir-582	ggo-mir-582	ppy-mir-582	mml-mir-582	cja-mir-582	tsy-mir-582	mmr-mir-582	oga-mir-582	tbe-mir-582	cpo-mir-582	dor-mir-582	mmu-mir-582	rno-mir-582	str-mir-582	ocu-mir-582	bta-mir-582	ttr-mir-582	vpa-mir-582	ssc-mir-582	cfa-mir-582	eca-mir-582	mlu-mir-582	pva-mir-582	laf-mir-582	pca-mir-582
+mir-589	hsa-mir-589	ptr-mir-589	ggo-mir-589	ppy-mir-589	mml-mir-589	cja-mir-589
+mir-588	hsa-mir-588	ptr-mir-588	ggo-mir-588	ppy-mir-588
+mir-969	dme-mir-969
+mir-968	dme-mir-968
+mir-963	dme-mir-963
+mir-962	dme-mir-962
+mir-961	dme-mir-961
+mir-960	dme-mir-960
+mir-967	dme-mir-967
+mir-966	dme-mir-966
+mir-965	dme-mir-965
+mir-964	dme-mir-964
+mir-2397	bta-mir-2397
+mir-2396	bta-mir-2396
+mir-2395	bta-mir-2395
+mir-2394	bta-mir-2394
+mir-2393	bta-mir-2393
+mir-2392	bta-mir-2392
+mir-2391	bta-mir-2391
+mir-2390	bta-mir-2390
+mir-1844	cfa-mir-1844
+mir-1845	gga-mir-1845
+mir-1842	cfa-mir-1842	eca-mir-1842
+mir-1843	mmu-mir-1843
+mir-2399	bta-mir-2399
+mir-2398	bta-mir-2398
+mir-361	hsa-mir-361	ptr-mir-361	ggo-mir-361	ppy-mir-361	mml-mir-361	mmr-mir-361	mmu-mir-361	rno-mir-361	opr-mir-361	bta-mir-361	ssc-mir-361	cfa-mir-361	eca-mir-361	mlu-mir-361
+mir-360	cel-mir-360
+mir-363	hsa-mir-363	ggo-mir-363	ppy-mir-363	mml-mir-363	cja-mir-363	mmr-mir-363	oga-mir-363	tbe-mir-363	cpo-mir-363	dor-mir-363	mmu-mir-363	rno-mir-363	str-mir-363	ocu-mir-363	bta-mir-363	ttr-mir-363	ssc-mir-363	cfa-mir-363	fca-mir-363	eca-mir-363	mlu-mir-363	pva-mir-363	sar-mir-363	ete-mir-363	laf-mir-363	pca-mir-363	meu-mir-363	mdo-mir-363	oan-mir-363	mga-mir-363	tgu-mir-363	aca-mir-363
+mir-362	hsa-mir-362	ptr-mir-362	ggo-mir-362	ppy-mir-362	mml-mir-362	cja-mir-362	tsy-mir-362	mmr-mir-362	oga-mir-362	cpo-mir-362	dor-mir-362	mmu-mir-362	rno-mir-362	str-mir-362	opr-mir-362	ocu-mir-362	bta-mir-362	ttr-mir-362	ssc-mir-362	cfa-mir-362	fca-mir-362	eca-mir-362	mlu-mir-362	eeu-mir-362	sar-mir-362	ete-mir-362	laf-mir-362
+mir-365	hsa-mir-365-1	ptr-mir-365-1	ggo-mir-365-1	ppy-mir-365-1	mml-mir-365-1	cja-mir-365-1	tsy-mir-365-1	mmr-mir-365-1	oga-mir-365-1	tbe-mir-365-1	cpo-mir-365-1	mmu-mir-365-1	str-mir-365-1	opr-mir-365-1	ocu-mir-365-1	bta-mir-365-1	ttr-mir-365-1	vpa-mir-365-1	ssc-mir-365-1	cfa-mir-365-1	fca-mir-365-1	mlu-mir-365-1	pva-mir-365-1	eeu-mir-365-1	sar-mir-365-1	cho-mir-365-1	laf-mir-365-1	pca-mir-365-1	meu-mir-365-1	mdo-mir-365-1	oan-mir-365-1	gga-mir-365-1	mga-mir-365-1	tgu-mir-365-1	hsa-mir-365-2	ptr-mir-365-2	ppy-mir-365-2	mml-mir-365-2	mmu-mir-365-2	bta-mir-365-2	ssc-mir-365-2	cfa-mir-365-2	eca-mir-365	mdo-mir-365	oan-mir-365	dre-mir-365-3	dre-mir-365-4
+mir-367	hsa-mir-367	ptr-mir-367	ggo-mir-367	ppy-mir-367	mml-mir-367	cja-mir-367	tsy-mir-367	mmr-mir-367	oga-mir-367	dor-mir-367	str-mir-367	opr-mir-367	ocu-mir-367	bta-mir-367	vpa-mir-367	ssc-mir-367	cfa-mir-367	laf-mir-367	pca-mir-367	mga-mir-367	tgu-mir-367
+mir-369	hsa-mir-369	ptr-mir-369	ggo-mir-369	ppy-mir-369	mml-mir-369	cja-mir-369	tsy-mir-369	mmr-mir-369	oga-mir-369	tbe-mir-369	cpo-mir-369	dor-mir-369	mmu-mir-369	rno-mir-369	bta-mir-369	ttr-mir-369	ssc-mir-369	cfa-mir-369	eca-mir-369	mlu-mir-369	pva-mir-369	ete-mir-369	laf-mir-369	pca-mir-369
+mir-2139	mmu-mir-2139
+mir-1767	gga-mir-1767
+mir-65	cel-mir-65
+mir-64	cel-mir-64
+mir-2131	gga-mir-2131	mga-mir-2131
+mir-2130	gga-mir-2130
+mir-2137	mmu-mir-2137
+mir-2136	mmu-mir-2136
+mir-63	cel-mir-63
+mir-62	cel-mir-62
+mir-2489	bta-mir-2489
+mir-2488	bta-mir-2488
+mir-2483	bta-mir-2483	ttr-mir-2483	vpa-mir-2483	ssc-mir-2483	cfa-mir-2483	eca-mir-2483	mlu-mir-2483	ete-mir-2483	laf-mir-2483	pca-mir-2483
+mir-2482	bta-mir-2482
+mir-2481	bta-mir-2481
+mir-2480	bta-mir-2480
+mir-2487	bta-mir-2487
+mir-2486	bta-mir-2486
+mir-2485	bta-mir-2485
+mir-2484	bta-mir-2484
+mir-2988	tgu-mir-2988
+mir-2902	bta-mir-2902-1	bta-mir-2902-2
+mir-2903	bta-mir-2903
+mir-1635	gga-mir-1635
+mir-3609	hsa-mir-3609
+mir-2989	tgu-mir-2989-1	tgu-mir-2989-2
+mir-1634	gga-mir-1634
+mir-3602	bta-mir-3602
+mir-3603	hsa-mir-3603	ggo-mir-3603	ppy-mir-3603	mml-mir-3603	cja-mir-3603	mmr-mir-3603	oga-mir-3603	tbe-mir-3603	cpo-mir-3603	mmu-mir-3603	rno-mir-3603	opr-mir-3603	bta-mir-3603	ttr-mir-3603	vpa-mir-3603	cfa-mir-3603	fca-mir-3603	mlu-mir-3603	pva-mir-3603	eeu-mir-3603	sar-mir-3603	cho-mir-3603	ete-mir-3603
+mir-3600	hsa-mir-3600	ggo-mir-3600	ppy-mir-3600	cja-mir-3600	tsy-mir-3600	mmr-mir-3600	oga-mir-3600	tbe-mir-3600	cpo-mir-3600	dor-mir-3600	mmu-mir-3600	rno-mir-3600	opr-mir-3600	ocu-mir-3600	bta-mir-3600	ttr-mir-3600	vpa-mir-3600	ssc-mir-3600	cfa-mir-3600	fca-mir-3600	mlu-mir-3600	pva-mir-3600	eeu-mir-3600	sar-mir-3600	laf-mir-3600
+mir-3601	bta-mir-3601
+mir-3606	hsa-mir-3606
+mir-3607	hsa-mir-3607
+mir-3604	hsa-mir-3604-1	ggo-mir-3604-1	ppy-mir-3604-1	mml-mir-3604-1	cja-mir-3604-1	mmu-mir-3604-1	str-mir-3604-1	bta-mir-3604-1	ttr-mir-3604-1	ssc-mir-3604-1	cfa-mir-3604-1	fca-mir-3604-1	mlu-mir-3604-1	pva-mir-3604-1	laf-mir-3604-1	pca-mir-3604-1	bta-mir-3604-2
+mir-3605	hsa-mir-3605
+mir-1636	gga-mir-1636
+mir-1631	gga-mir-1631
+mir-1630	gga-mir-1630
+mir-1633	gga-mir-1633
+mir-2909	hsa-mir-2909
+mir-4089	cin-mir-4089
+mir-2429	bta-mir-2429
+mir-3113	mmu-mir-3113
+mir-4081	cin-mir-4081
+mir-4080	cin-mir-4080
+mir-4083	cin-mir-4083
+mir-4082	cin-mir-4082
+mir-4085	cin-mir-4085
+mir-4084	cin-mir-4084
+mir-4087	cin-mir-4087
+mir-4086	cin-mir-4086
+mir-1706	gga-mir-1706
+mir-2984	tgu-mir-2984
+mir-2423	bta-mir-2423
+mir-2422	bta-mir-2422
+mir-4179	cin-mir-4179
+mir-4178	cin-mir-4178a	cin-mir-4178b
+mir-4175	cin-mir-4175
+mir-4174	cin-mir-4174
+mir-4177	cin-mir-4177
+mir-4176	cin-mir-4176
+mir-4171	cin-mir-4171
+mir-4170	cin-mir-4170
+mir-4173	cin-mir-4173
+mir-4172	cin-mir-4172
+mir-1473	cin-mir-1473
+mir-1471	hsa-mir-1471	ggo-mir-1471	ppy-mir-1471
+mir-1470	hsa-mir-1470	ggo-mir-1470
+mir-1617	gga-mir-1617
+mir-1616	gga-mir-1616
+mir-1615	gga-mir-1615
+mir-1614	gga-mir-1614
+mir-1613	gga-mir-1613-1	gga-mir-1613-2
+mir-1612	gga-mir-1612
+mir-1611	gga-mir-1611
+mir-1610	gga-mir-1610
+mir-1619	gga-mir-1619	mga-mir-1619
+mir-1618	gga-mir-1618
+mir-1275	hsa-mir-1275	ptr-mir-1275	ggo-mir-1275
+mir-1274	hsa-mir-1274a	ppy-mir-1274a	hsa-mir-1274b	ptr-mir-1274b	ggo-mir-1274b	ppy-mir-1274b
+mir-1277	hsa-mir-1277	ppy-mir-1277	ssc-mir-1277
+mir-1276	hsa-mir-1276	ptr-mir-1276	ggo-mir-1276
+mir-1271	hsa-mir-1271	ptr-mir-1271	ggo-mir-1271	ppy-mir-1271	mml-mir-1271	oga-mir-1271	cpo-mir-1271	bta-mir-1271	ttr-mir-1271	ssc-mir-1271	cfa-mir-1271	eca-mir-1271	pca-mir-1271
+mir-1270	hsa-mir-1270-1	ggo-mir-1270-1	hsa-mir-1270-2	ppy-mir-1270
+mir-1273	hsa-mir-1273	ptr-mir-1273	ggo-mir-1273	mml-mir-1273	cja-mir-1273	hsa-mir-1273c	hsa-mir-1273d	hsa-mir-1273e
+mir-1272	hsa-mir-1272	ptr-mir-1272
+mir-1279	hsa-mir-1279
+mir-1278	hsa-mir-1278	ptr-mir-1278	ggo-mir-1278
+mir-257	cel-mir-257
+mir-688	mmu-mir-688
+mir-686	mmu-mir-686
+mir-687	mmu-mir-687
+mir-684	mmu-mir-684-1	mmu-mir-684-2	eca-mir-684
+mir-256	cel-mir-256
+mir-682	mmu-mir-682
+mir-683	mmu-mir-683-1	mmu-mir-683-2
+mir-680	mmu-mir-680-1	mmu-mir-680-2	mmu-mir-680-3
+mir-681	mmu-mir-681
+mir-259	cel-mir-259
+mir-1299	hsa-mir-1299	ptr-mir-1299
+mir-1298	hsa-mir-1298	ptr-mir-1298	ggo-mir-1298	ppy-mir-1298	mmu-mir-1298	eca-mir-1298
+mir-258	cel-mir-258-1	cel-mir-258-2
+mir-1293	hsa-mir-1293	ptr-mir-1293	ggo-mir-1293	ppy-mir-1293
+mir-1292	hsa-mir-1292	ptr-mir-1292	ggo-mir-1292	ppy-mir-1292
+mir-1291	hsa-mir-1291	ptr-mir-1291	ggo-mir-1291	ppy-mir-1291	mml-mir-1291	cja-mir-1291	oga-mir-1291	tbe-mir-1291	eca-mir-1291	mmr-mir-1291b	mmu-mir-1291b	str-mir-1291b	eca-mir-1291a
+mir-1290	hsa-mir-1290	ptr-mir-1290	ppy-mir-1290
+mir-1297	hsa-mir-1297	ppy-mir-1297	ptr-mir-1297-1	ptr-mir-1297-2
+mir-1296	hsa-mir-1296	ptr-mir-1296	ggo-mir-1296	ppy-mir-1296	mml-mir-1296	cja-mir-1296	tsy-mir-1296	tbe-mir-1296	cpo-mir-1296	dor-mir-1296	str-mir-1296	opr-mir-1296	ocu-mir-1296	bta-mir-1296	ttr-mir-1296	vpa-mir-1296	ssc-mir-1296	cfa-mir-1296	eca-mir-1296	mlu-mir-1296	pva-mir-1296	sar-mir-1296	cho-mir-1296	ete-mir-1296	laf-mir-1296
+mir-1295	hsa-mir-1295	ptr-mir-1295	ggo-mir-1295	ppy-mir-1295
+mir-1294	hsa-mir-1294	ptr-mir-1294	cja-mir-1294
+mir-202	ggo-mir-202	ppy-mir-202	cja-mir-202	mmr-mir-202	oga-mir-202	cpo-mir-202	mmu-mir-202	rno-mir-202	str-mir-202	cfa-mir-202	laf-mir-202	pca-mir-202	tgu-mir-202	tgu-mir-202-1	tgu-mir-202-2
+mir-203	hsa-mir-203	ptr-mir-203	ggo-mir-203	ppy-mir-203	mml-mir-203	cja-mir-203	mmr-mir-203	oga-mir-203	cpo-mir-203	mmu-mir-203	rno-mir-203	opr-mir-203	ttr-mir-203	cfa-mir-203	pva-mir-203	eeu-mir-203	xtr-mir-203	dre-mir-203a	dre-mir-203b
+mir-200	hsa-mir-200b	ggo-mir-200b	tbe-mir-200b	cpo-mir-200b	dor-mir-200b	mmu-mir-200b	rno-mir-200b	str-mir-200b	opr-mir-200b	bta-mir-200b	cfa-mir-200b	fca-mir-200b	eca-mir-200b	mlu-mir-200b	pva-mir-200b	eeu-mir-200b	laf-mir-200b	pca-mir-200b	mdo-mir-200b	hsa-mir-200c	ggo-mir-200c	ppy-mir-200c	mml-mir-200c	cja-mir-200c	mmu-mir-200c	rno-mir-200c	ocu-mir-200c	bta-mir-200c	cfa-mir-200c	eca-mir-200c	hsa-mir-200a	ptr-mir-200a	ppy-mir-200a	mml-mir-200a	mmu-mir-200a	rno-mir-200a	bta-mir-200a	ttr-mir-200a	cfa-mir-200a	eca-mir-200a	sar-mir-200a	cin-mir-200
+mir-201	mmu-mir-201	rno-mir-201
+mir-206	hsa-mir-206	ptr-mir-206	ggo-mir-206	ppy-mir-206	mml-mir-206	cja-mir-206	cpo-mir-206	dor-mir-206	str-mir-206	opr-mir-206	ocu-mir-206	bta-mir-206	ttr-mir-206	vpa-mir-206	cfa-mir-206	fca-mir-206	mlu-mir-206	pva-mir-206	eeu-mir-206	cho-mir-206	ete-mir-206	laf-mir-206	pca-mir-206	mdo-mir-206	eca-mir-206-2	dre-mir-206-1
+mir-207	mmu-mir-207	str-mir-207	ttr-mir-207
+mir-204	hsa-mir-204	ptr-mir-204	ggo-mir-204	ppy-mir-204	mml-mir-204	cja-mir-204	tsy-mir-204	mmr-mir-204	oga-mir-204	tbe-mir-204	cpo-mir-204	dor-mir-204	mmu-mir-204	rno-mir-204	str-mir-204	ocu-mir-204	bta-mir-204	ttr-mir-204	vpa-mir-204	cfa-mir-204	mlu-mir-204	pva-mir-204	eeu-mir-204	cho-mir-204	ete-mir-204	laf-mir-204	pca-mir-204	eca-mir-204b-2	gga-mir-204-2	mga-mir-204-2	tgu-mir-204-2	gga-mir-204-1	tgu-mir-204-1	tgu-mir-204-3	tgu-mir-204-4	tgu-mir-204-5	tni-mir-204b	tni-mir-204a
+mir-205	hsa-mir-205	ptr-mir-205	ggo-mir-205	ppy-mir-205	mml-mir-205	cja-mir-205	tsy-mir-205	mmr-mir-205	oga-mir-205	tbe-mir-205	mmu-mir-205	opr-mir-205	ocu-mir-205	bta-mir-205	ttr-mir-205	ssc-mir-205	cfa-mir-205	fca-mir-205	eca-mir-205	mlu-mir-205	pva-mir-205	sar-mir-205	cho-mir-205	ete-mir-205	laf-mir-205	pca-mir-205	gga-mir-205	mga-mir-205	xtr-mir-205	mdo-mir-205a	gga-mir-205a	gga-mir-205b
+mir-758	hsa-mir-758	ptr-mir-758	ggo-mir-758	ppy-mir-758	mml-mir-758	cja-mir-758	mmr-mir-758	oga-mir-758	tbe-mir-758	cpo-mir-758	dor-mir-758	opr-mir-758	ocu-mir-758	bta-mir-758	ttr-mir-758	ssc-mir-758	cfa-mir-758	fca-mir-758	eca-mir-758	mlu-mir-758	pva-mir-758	cho-mir-758	laf-mir-758	pca-mir-758
+mir-759	hsa-mir-759	ptr-mir-759	ggo-mir-759	ppy-mir-759	mml-mir-759	cja-mir-759	tsy-mir-759	mmr-mir-759	oga-mir-759	tbe-mir-759	cpo-mir-759	dor-mir-759	mmu-mir-759	rno-mir-759	str-mir-759	opr-mir-759	ocu-mir-759	bta-mir-759	cfa-mir-759	fca-mir-759	pva-mir-759	eeu-mir-759	cho-mir-759	ete-mir-759	laf-mir-759	pca-mir-759
+mir-208	hsa-mir-208a	ptr-mir-208a	ggo-mir-208a	ppy-mir-208a	mml-mir-208a	cja-mir-208a	mmr-mir-208a	oga-mir-208a	tbe-mir-208a	cpo-mir-208a	dor-mir-208a	mmu-mir-208a	rno-mir-208a	str-mir-208a	opr-mir-208a	ocu-mir-208a	bta-mir-208a	ssc-mir-208a	cfa-mir-208a	fca-mir-208a	eca-mir-208a	mlu-mir-208a	pva-mir-208a	cho-mir-208a	ete-mir-208a	laf-mir-208a	pca-mir-208a	hsa-mir-208b	ptr-mir-208b	ppy-mir-208b	mml-mir-208b	tsy-mir-208b	mmu-mir-208b	rno-mir-208b	bta-mir-208b	ttr-mir-208b	ssc-mir-208b	cfa-mir-208b	eca-mir-208b	eeu-mir-208b	sar-mir-208b	rno-mir-208
+mir-592	hsa-mir-592	ptr-mir-592	ggo-mir-592	ppy-mir-592	mml-mir-592	cja-mir-592	tsy-mir-592	mmr-mir-592	oga-mir-592	tbe-mir-592	cpo-mir-592	dor-mir-592	mmu-mir-592	rno-mir-592	opr-mir-592	ocu-mir-592	bta-mir-592	ttr-mir-592	vpa-mir-592	ssc-mir-592	cfa-mir-592	fca-mir-592	eca-mir-592	mlu-mir-592	pva-mir-592	eeu-mir-592	sar-mir-592	cho-mir-592	ete-mir-592	laf-mir-592	pca-mir-592
+mir-593	hsa-mir-593	ptr-mir-593	ggo-mir-593	ppy-mir-593	mml-mir-593
+mir-590	hsa-mir-590	ptr-mir-590	tsy-mir-590	mmr-mir-590	mmu-mir-590	str-mir-590	ttr-mir-590	vpa-mir-590	cfa-mir-590	fca-mir-590	eca-mir-590	mlu-mir-590	pva-mir-590
+mir-591	hsa-mir-591	ptr-mir-591	ppy-mir-591
+mir-596	hsa-mir-596	ptr-mir-596	ggo-mir-596
+mir-597	hsa-mir-597	ptr-mir-597	ggo-mir-597	ppy-mir-597
+mir-595	hsa-mir-595	ptr-mir-595	ggo-mir-595	ppy-mir-595
+mir-598	hsa-mir-598	ptr-mir-598	ggo-mir-598	ppy-mir-598	mml-mir-598	cja-mir-598	tbe-mir-598	cpo-mir-598	mmu-mir-598	rno-mir-598	ttr-mir-598	eca-mir-598	laf-mir-598
+mir-599	hsa-mir-599	ptr-mir-599	ggo-mir-599	ppy-mir-599	mml-mir-599	cja-mir-599	tsy-mir-599	mmr-mir-599	oga-mir-599	str-mir-599	ocu-mir-599	bta-mir-599	vpa-mir-599	cfa-mir-599	fca-mir-599	eca-mir-599	mlu-mir-599	pva-mir-599	ete-mir-599	laf-mir-599	pca-mir-599	meu-mir-599	mdo-mir-599
+mir-978	dme-mir-978
+mir-979	dme-mir-979
+mir-970	dme-mir-970
+mir-971	dme-mir-971
+mir-972	dme-mir-972
+mir-973	dme-mir-973
+mir-974	dme-mir-974
+mir-975	dme-mir-975
+mir-976	dme-mir-976
+mir-977	dme-mir-977
+mir-644	hsa-mir-644
+mir-378	hsa-mir-378	ptr-mir-378	ggo-mir-378	ppy-mir-378	mml-mir-378	cja-mir-378	cpo-mir-378	dor-mir-378	mmu-mir-378	rno-mir-378	str-mir-378	opr-mir-378	ocu-mir-378	bta-mir-378	ttr-mir-378	ssc-mir-378	cfa-mir-378	fca-mir-378	eca-mir-378	mlu-mir-378	pva-mir-378	ete-mir-378	laf-mir-378	pca-mir-378	hsa-mir-378b	hsa-mir-378c	bta-mir-378-2	ssc-mir-378-1
+mir-379	hsa-mir-379	ptr-mir-379	ggo-mir-379	ppy-mir-379	mml-mir-379	cja-mir-379	tsy-mir-379	oga-mir-379	tbe-mir-379	cpo-mir-379	dor-mir-379	mmu-mir-379	rno-mir-379	opr-mir-379	ocu-mir-379	bta-mir-379	ttr-mir-379	vpa-mir-379	cfa-mir-379	fca-mir-379	eca-mir-379	mlu-mir-379	pva-mir-379	cho-mir-379	ete-mir-379	laf-mir-379	pca-mir-379
+mir-376	hsa-mir-376c	ptr-mir-376c	ppy-mir-376c	mml-mir-376c	rno-mir-376c	bta-mir-376c	ssc-mir-376c	cfa-mir-376c	eca-mir-376c	hsa-mir-376a-1	ptr-mir-376a-1	ppy-mir-376a-1	mml-mir-376a-1	cfa-mir-376a-1	hsa-mir-376b	ptr-mir-376b	ggo-mir-376b	ppy-mir-376b	mml-mir-376b	cja-mir-376b	tsy-mir-376b	mmr-mir-376b	oga-mir-376b	tbe-mir-376b	cpo-mir-376b	dor-mir-376b	str-mir-376b	ocu-mir-376b	bta-mir-376b	cfa-mir-376b	fca-mir-376b	eca-mir-376b	mlu-mir-376b	pva-mir-376b	laf-mir-376b	hsa-mir-376a-2	ptr-mir-376a-2	ppy-mir-376a-2	mml-mir-376a-2	cfa-mir-376a-2	mmu-mir-376a	rno-mir-376a	bta-mir-376a	ssc-mir-376a	eca-mir-376a	bta-mir-376d	cfa-mir-376a-3
+mir-377	hsa-mir-377	ptr-mir-377	ggo-mir-377	ppy-mir-377	mml-mir-377	cja-mir-377	tsy-mir-377	mmr-mir-377	oga-mir-377	tbe-mir-377	cpo-mir-377	dor-mir-377	mmu-mir-377	rno-mir-377	str-mir-377	opr-mir-377	ocu-mir-377	bta-mir-377	ttr-mir-377	cfa-mir-377	fca-mir-377	eca-mir-377	pva-mir-377	laf-mir-377
+mir-374	hsa-mir-374a	ptr-mir-374a	ggo-mir-374a	ppy-mir-374a	mml-mir-374a	str-mir-374a	bta-mir-374a	cfa-mir-374a	eca-mir-374a	hsa-mir-374b	ptr-mir-374b	mml-mir-374b	bta-mir-374b	ssc-mir-374b	cfa-mir-374b	eca-mir-374b	cho-mir-374c	hsa-mir-374	mml-mir-374	cja-mir-374	tsy-mir-374	oga-mir-374	tbe-mir-374	mmu-mir-374	rno-mir-374	ocu-mir-374	bta-mir-374	ttr-mir-374	vpa-mir-374	ssc-mir-374	cfa-mir-374	fca-mir-374	eca-mir-374	pva-mir-374	eeu-mir-374	sar-mir-374	laf-mir-374
+mir-375	hsa-mir-375	ptr-mir-375	ggo-mir-375	ppy-mir-375	mml-mir-375	cja-mir-375	mmr-mir-375	oga-mir-375	tbe-mir-375	cpo-mir-375	dor-mir-375	mmu-mir-375	rno-mir-375	opr-mir-375	ocu-mir-375	bta-mir-375	ttr-mir-375	cfa-mir-375	fca-mir-375	eca-mir-375	mlu-mir-375	pva-mir-375	eeu-mir-375	laf-mir-375	mdo-mir-375	dre-mir-375-1	dre-mir-375-2
+mir-372	hsa-mir-372	ptr-mir-372	ggo-mir-372	ppy-mir-372	mml-mir-372
+mir-373	hsa-mir-373	ptr-mir-373	ggo-mir-373	ppy-mir-373
+mir-370	hsa-mir-370	ptr-mir-370	ggo-mir-370	ppy-mir-370	mml-mir-370	cja-mir-370	mmr-mir-370	oga-mir-370	tbe-mir-370	cpo-mir-370	dor-mir-370	mmu-mir-370	rno-mir-370	ocu-mir-370	bta-mir-370	ttr-mir-370	vpa-mir-370	ssc-mir-370	cfa-mir-370	fca-mir-370	eca-mir-370	pva-mir-370
+mir-371	cja-mir-371	ssc-mir-371	fca-mir-371	eca-mir-371
+mir-58	cel-mir-58	cel-mir-58b
+mir-59	cel-mir-59
+mir-50	cel-mir-50
+mir-51	cel-mir-51
+mir-52	cel-mir-52
+mir-53	cel-mir-53
+mir-54	cel-mir-54
+mir-55	cel-mir-55
+mir-56	cel-mir-56
+mir-57	cel-mir-57
+mir-1200	hsa-mir-1200	ppy-mir-1200
+mir-2886	bta-mir-2886
+mir-1970	mmu-mir-1970
+mir-1971	mmu-mir-1971
+mir-3619	hsa-mir-3619
+mir-3618	hsa-mir-3618	ggo-mir-3618	ppy-mir-3618	mml-mir-3618	cja-mir-3618	mmr-mir-3618	oga-mir-3618	tbe-mir-3618	cpo-mir-3618	dor-mir-3618	mmu-mir-3618	rno-mir-3618	str-mir-3618	opr-mir-3618	ocu-mir-3618	bta-mir-3618	ttr-mir-3618	vpa-mir-3618	ssc-mir-3618	cfa-mir-3618	fca-mir-3618	pva-mir-3618	eeu-mir-3618	sar-mir-3618	ete-mir-3618	laf-mir-3618	pca-mir-3618
+mir-3615	hsa-mir-3615
+mir-3614	hsa-mir-3614
+mir-3617	hsa-mir-3617	ggo-mir-3617	ppy-mir-3617	mml-mir-3617
+mir-3616	hsa-mir-3616	ggo-mir-3616	ppy-mir-3616
+mir-3611	hsa-mir-3611
+mir-3610	hsa-mir-3610	ggo-mir-3610	ppy-mir-3610	mml-mir-3610	cja-mir-3610	mmr-mir-3610	cpo-mir-3610	mmu-mir-3610	rno-mir-3610	bta-mir-3610	ttr-mir-3610	ssc-mir-3610	cfa-mir-3610	eca-mir-3610	pva-mir-3610	laf-mir-3610
+mir-3613	hsa-mir-3613	mml-mir-3613	ssc-mir-3613
+mir-3612	hsa-mir-3612	ggo-mir-3612	ppy-mir-3612
+mir-2881	bta-mir-2881
+mir-1759	gga-mir-1759	mga-mir-1759
+mir-1756	gga-mir-1756a	gga-mir-1756b
+mir-237	cel-mir-237
+mir-1750	gga-mir-1750
+mir-1751	gga-mir-1751
+mir-236	cel-mir-236
+mir-4180	cin-mir-4180
+mir-4181	cin-mir-4181
+mir-3075	mmu-mir-3075	rno-mir-3075
+mir-4183	cin-mir-4183
+mir-4184	cin-mir-4184
+mir-4185	cin-mir-4185
+mir-4186	cin-mir-4186
+mir-4187	cin-mir-4187
+mir-4188	cin-mir-4188
+mir-4189	cin-mir-4189
+mir-3074	hsa-mir-3074	mmu-mir-3074	rno-mir-3074	hsa-mir-3074-1	ggo-mir-3074-1	ppy-mir-3074-1	mml-mir-3074-1	cja-mir-3074-1	mmr-mir-3074-1	oga-mir-3074-1	tbe-mir-3074-1	cpo-mir-3074-1	dor-mir-3074-1	mmu-mir-3074-1	rno-mir-3074-1	str-mir-3074-1	opr-mir-3074-1	ocu-mir-3074-1	bta-mir-3074-1	ttr-mir-3074-1	vpa-mir-3074-1	ssc-mir-3074-1	cfa-mir-3074-1	fca-mir-3074-1	pva-mir-3074-1	eeu-mir-3074-1	sar-mir-3074-1	cho-mir-3074-1	ete-mir-3074-1	laf-mir-3074-1	meu-mir-3074-1	mdo-mir-3074-1	gga-mir-3074-1	mga-mir-3074-1	tgu-mir-3074-1	aca-mir-3074-1	mmu-mir-3074-2
+mir-1688	gga-mir-1688
+mir-1689	gga-mir-1689
+mir-505	hsa-mir-505	ptr-mir-505	ggo-mir-505	ppy-mir-505	mml-mir-505	cja-mir-505	tsy-mir-505	mmr-mir-505	tbe-mir-505	cpo-mir-505	dor-mir-505	mmu-mir-505	rno-mir-505	str-mir-505	ocu-mir-505	bta-mir-505	ttr-mir-505	vpa-mir-505	ssc-mir-505	cfa-mir-505	fca-mir-505	eca-mir-505	pva-mir-505	laf-mir-505	pca-mir-505
+mir-1685	gga-mir-1685
+mir-1686	gga-mir-1686
+mir-1594	gga-mir-1594
+mir-1595	gga-mir-1595
+mir-1596	gga-mir-1596	mga-mir-1596
+mir-1597	mmr-mir-1597	str-mir-1597	ocu-mir-1597	cfa-mir-1597	laf-mir-1597
+mir-1590	gga-mir-1590
+mir-1591	gga-mir-1591
+mir-1592	gga-mir-1592
+mir-1593	gga-mir-1593
+mir-1680	gga-mir-1680
+mir-1598	gga-mir-1598
+mir-1599	gga-mir-1599
+mir-1681	gga-mir-1681
+mir-1682	gga-mir-1682
+mir-1683	gga-mir-1683
+mir-4156	cin-mir-4156
+mir-1910	hsa-mir-1910	ggo-mir-1910	ppy-mir-1910
+mir-1911	hsa-mir-1911	ptr-mir-1911	ggo-mir-1911	mml-mir-1911	cja-mir-1911	mmr-mir-1911	oga-mir-1911	bta-mir-1911	ttr-mir-1911	vpa-mir-1911	ssc-mir-1911	cfa-mir-1911	fca-mir-1911	eca-mir-1911	mlu-mir-1911	pva-mir-1911	eeu-mir-1911	sar-mir-1911
+mir-1912	hsa-mir-1912	ptr-mir-1912	ggo-mir-1912	ppy-mir-1912	mml-mir-1912	tsy-mir-1912	mmr-mir-1912	tbe-mir-1912	cpo-mir-1912	ocu-mir-1912	bta-mir-1912	ttr-mir-1912	vpa-mir-1912	ssc-mir-1912	cfa-mir-1912	eca-mir-1912	mlu-mir-1912	cho-mir-1912	ete-mir-1912	laf-mir-1912	pca-mir-1912
+mir-1913	hsa-mir-1913	ggo-mir-1913	ppy-mir-1913
+mir-1914	hsa-mir-1914	ggo-mir-1914
+mir-1915	hsa-mir-1915	ggo-mir-1915	ppy-mir-1915
+mir-769	hsa-mir-769	ggo-mir-769	cja-mir-769	tsy-mir-769	mmr-mir-769	tbe-mir-769	cpo-mir-769	ttr-mir-769	ssc-mir-769	fca-mir-769	pva-mir-769	laf-mir-769	eca-mir-769b
+mir-765	hsa-mir-765	ptr-mir-765	ppy-mir-765
+mir-764	hsa-mir-764	ptr-mir-764	ggo-mir-764	ppy-mir-764	mml-mir-764	cja-mir-764	tsy-mir-764	mmr-mir-764	oga-mir-764	tbe-mir-764	cpo-mir-764	dor-mir-764	ocu-mir-764	ttr-mir-764	vpa-mir-764	ssc-mir-764	cfa-mir-764	mlu-mir-764	cho-mir-764	ete-mir-764	laf-mir-764	pca-mir-764
+mir-767	hsa-mir-767	ggo-mir-767	ppy-mir-767	mml-mir-767	cja-mir-767	tsy-mir-767	tbe-mir-767	cpo-mir-767	dor-mir-767	str-mir-767	ocu-mir-767	bta-mir-767	ttr-mir-767	eca-mir-767	eeu-mir-767
+mir-766	hsa-mir-766	ptr-mir-766	ggo-mir-766	ppy-mir-766	vpa-mir-766	sar-mir-766
+mir-761	hsa-mir-761	ptr-mir-761	ggo-mir-761	ppy-mir-761	mml-mir-761	cja-mir-761	tsy-mir-761	oga-mir-761	tbe-mir-761	cpo-mir-761	dor-mir-761	mmu-mir-761	rno-mir-761	str-mir-761	ocu-mir-761	bta-mir-761	ttr-mir-761	vpa-mir-761	ssc-mir-761	cfa-mir-761	fca-mir-761	eca-mir-761	mlu-mir-761	eeu-mir-761	sar-mir-761	ete-mir-761	laf-mir-761	meu-mir-761	mdo-mir-761
+mir-760	hsa-mir-760	ptr-mir-760	ggo-mir-760	ppy-mir-760	mml-mir-760	mmr-mir-760	mmu-mir-760	rno-mir-760	opr-mir-760	ocu-mir-760	ttr-mir-760	ssc-mir-760	pva-mir-760	laf-mir-760	pca-mir-760
+mir-763	mmu-mir-763	ocu-mir-763	bta-mir-763	eca-mir-763	sar-mir-763	ete-mir-763
+mir-762	hsa-mir-762	ggo-mir-762	mml-mir-762	cja-mir-762	oga-mir-762	mmu-mir-762	ttr-mir-762	ssc-mir-762	mlu-mir-762	pva-mir-762
+mir-1628	gga-mir-1628
+mir-1629	gga-mir-1629
+mir-569	hsa-mir-569	ptr-mir-569	ppy-mir-569	mml-mir-569
+mir-568	hsa-mir-568	ptr-mir-568	ggo-mir-568	ppy-mir-568	mml-mir-568	cja-mir-568	tsy-mir-568	mmr-mir-568	oga-mir-568	cpo-mir-568	dor-mir-568	str-mir-568	opr-mir-568	ocu-mir-568	bta-mir-568	ttr-mir-568	vpa-mir-568	cfa-mir-568	fca-mir-568	eca-mir-568	pva-mir-568	cho-mir-568	laf-mir-568	pca-mir-568
+mir-1622	gga-mir-1622	mga-mir-1622
+mir-566	hsa-mir-566	ptr-mir-566	ppy-mir-566
+mir-1620	gga-mir-1620	tgu-mir-1620
+mir-564	hsa-mir-564	ptr-mir-564	ggo-mir-564	ppy-mir-564
+mir-1626	gga-mir-1626	mga-mir-1626
+mir-562	hsa-mir-562	ptr-mir-562	ggo-mir-562	ppy-mir-562	mml-mir-562
+mir-561	hsa-mir-561	ptr-mir-561	ggo-mir-561
+mir-1625	gga-mir-1625	mga-mir-1625
+mir-787	cel-mir-787
+mir-786	cel-mir-786
+mir-785	cel-mir-785
+mir-784	cel-mir-784
+mir-789	cel-mir-789-1	cel-mir-789-2
+mir-788	cel-mir-788
+mir-1824	cel-mir-1824
+mir-1825	hsa-mir-1825	ptr-mir-1825
+mir-1827	hsa-mir-1827	ptr-mir-1827	ppy-mir-1827
+mir-1820	cel-mir-1820
+mir-1821	cel-mir-1821
+mir-1822	cel-mir-1822
+mir-1823	cel-mir-1823
+mir-1828	cel-mir-1828
+mir-1829	cel-mir-1829a	cel-mir-1829b	cel-mir-1829c
+mir-309	dme-mir-309
+mir-308	dme-mir-308
+mir-303	dme-mir-303
+mir-302	hsa-mir-302a	ptr-mir-302a	ggo-mir-302a	mml-mir-302a	cja-mir-302a	tsy-mir-302a	mmr-mir-302a	oga-mir-302a	dor-mir-302a	opr-mir-302a	ocu-mir-302a	bta-mir-302a	vpa-mir-302a	ssc-mir-302a	cfa-mir-302a	eca-mir-302a	eeu-mir-302a	ete-mir-302a	laf-mir-302a	pca-mir-302a	hsa-mir-302b	ptr-mir-302b	ppy-mir-302b	mml-mir-302b	cho-mir-302b	hsa-mir-302c	ptr-mir-302c	ppy-mir-302c	mml-mir-302c	bta-mir-302c	cfa-mir-302c	eca-mir-302c	hsa-mir-302d	ptr-mir-302d	ppy-mir-302d	mml-mir-302d	str-mir-302d	cfa-mir-302d	eca-mir-302d	hsa-mir-302e	ptr-mir-302e	ppy-mir-302e	hsa-mir-302f	ptr-mir-302f	oan-mir-302-2	oan-mir-302-1	xtr-mir-302
+mir-301	hsa-mir-301a	ptr-mir-301a	ggo-mir-301a	mml-mir-301a	cja-mir-301a	tsy-mir-301a	mmr-mir-301a	oga-mir-301a	tbe-mir-301a	cpo-mir-301a	dor-mir-301a	str-mir-301a	opr-mir-301a	ocu-mir-301a	bta-mir-301a	ttr-mir-301a	vpa-mir-301a	cfa-mir-301a	eca-mir-301a	pva-mir-301a	eeu-mir-301a	sar-mir-301a	ete-mir-301a	laf-mir-301a	pca-mir-301a	mdo-mir-301a	gga-mir-301a	mga-mir-301a	tgu-mir-301a	xtr-mir-301a	hsa-mir-301b	ptr-mir-301b	ppy-mir-301b	mml-mir-301b	bta-mir-301b	ssc-mir-301b	cfa-mir-301b	mlu-mir-301b	xtr-mir-301-1	xtr-mir-301-2	dre-mir-301a-1	dre-mir-301a-2	dre-mir-301c
+mir-300	hsa-mir-300	ptr-mir-300	ppy-mir-300
+mir-307	dme-mir-307	dme-mir-307-as
+mir-306	dme-mir-306
+mir-305	dme-mir-305
+mir-304	dme-mir-304
+mir-47	cel-mir-47
+mir-46	cel-mir-46
+mir-45	cel-mir-45
+mir-44	cel-mir-44
+mir-43	cel-mir-43
+mir-42	cel-mir-42
+mir-41	cel-mir-41
+mir-40	cel-mir-40
+mir-49	cel-mir-49
+mir-48	cel-mir-48
+mir-2110	hsa-mir-2110
+mir-2113	hsa-mir-2113	ggo-mir-2113	ppy-mir-2113	mml-mir-2113	cja-mir-2113	tsy-mir-2113	mmr-mir-2113	oga-mir-2113	tbe-mir-2113	mmu-mir-2113	ocu-mir-2113	bta-mir-2113	ttr-mir-2113	vpa-mir-2113	ssc-mir-2113	cfa-mir-2113	fca-mir-2113	mlu-mir-2113	pva-mir-2113	sar-mir-2113	ete-mir-2113	laf-mir-2113
+mir-3199	hsa-mir-3199-1	hsa-mir-3199-2
+mir-2115	hsa-mir-2115	ggo-mir-2115
+mir-2114	hsa-mir-2114	ptr-mir-2114	ggo-mir-2114	ppy-mir-2114	mml-mir-2114	cja-mir-2114	eca-mir-2114
+mir-2117	hsa-mir-2117	ggo-mir-2117	mml-mir-2117
+mir-2116	hsa-mir-2116	ggo-mir-2116	ppy-mir-2116
+mir-3192	hsa-mir-3192	ggo-mir-3192	ppy-mir-3192
+mir-3193	hsa-mir-3193
+mir-3190	hsa-mir-3190	ppy-mir-3190
+mir-3191	hsa-mir-3191	ppy-mir-3191
+mir-3196	hsa-mir-3196	ggo-mir-3196	ppy-mir-3196
+mir-3197	hsa-mir-3197	ggo-mir-3197	ppy-mir-3197
+mir-3194	hsa-mir-3194	ggo-mir-3194
+mir-3195	hsa-mir-3195
+mir-944	hsa-mir-944	ptr-mir-944	ggo-mir-944	ppy-mir-944
+mir-941	hsa-mir-941-1	hsa-mir-941-2	hsa-mir-941-3	hsa-mir-941-4
+mir-412	hsa-mir-412	ptr-mir-412	ggo-mir-412	ppy-mir-412	mml-mir-412	cja-mir-412	tsy-mir-412	mmr-mir-412	oga-mir-412	tbe-mir-412	cpo-mir-412	rno-mir-412	bta-mir-412	ttr-mir-412	eca-mir-412	mlu-mir-412	pva-mir-412	sar-mir-412	cho-mir-412	laf-mir-412
+mir-411	hsa-mir-411	ptr-mir-411	ggo-mir-411	ppy-mir-411	mml-mir-411	cja-mir-411	tsy-mir-411	mmr-mir-411	oga-mir-411	tbe-mir-411	cpo-mir-411	dor-mir-411	mmu-mir-411	rno-mir-411	str-mir-411	opr-mir-411	ocu-mir-411	bta-mir-411	ttr-mir-411	vpa-mir-411	ssc-mir-411	cfa-mir-411	fca-mir-411	eca-mir-411	mlu-mir-411	pva-mir-411	cho-mir-411	ete-mir-411	laf-mir-411	pca-mir-411
+mir-410	hsa-mir-410	ptr-mir-410	ggo-mir-410	ppy-mir-410	mml-mir-410	cja-mir-410	tsy-mir-410	mmr-mir-410	oga-mir-410	cpo-mir-410	dor-mir-410	mmu-mir-410	rno-mir-410	str-mir-410	opr-mir-410	ocu-mir-410	bta-mir-410	ttr-mir-410	cfa-mir-410	eca-mir-410	mlu-mir-410	pva-mir-410	ete-mir-410	laf-mir-410	pca-mir-410
+mir-757	gga-mir-757-1	gga-mir-757-2
+mir-3574	hsa-mir-3574	ggo-mir-3574	oga-mir-3574	rno-mir-3574	opr-mir-3574	ttr-mir-3574	ssc-mir-3574	cfa-mir-3574	mlu-mir-3574	pva-mir-3574	pca-mir-3574
+mir-1190	mmu-mir-1190
+mir-3576	rno-mir-3576
+mir-3577	hsa-mir-3577	ggo-mir-3577
+mir-3570	hsa-mir-3570	ggo-mir-3570	ppy-mir-3570	cja-mir-3570	tsy-mir-3570	oga-mir-3570	tbe-mir-3570	cpo-mir-3570	dor-mir-3570	str-mir-3570	ocu-mir-3570	bta-mir-3570	ttr-mir-3570	vpa-mir-3570	ssc-mir-3570	cfa-mir-3570	fca-mir-3570	mlu-mir-3570	eeu-mir-3570	sar-mir-3570	cho-mir-3570	laf-mir-3570	pca-mir-3570	meu-mir-3570	mdo-mir-3570	oan-mir-3570	tgu-mir-3570
+mir-3571	rno-mir-3571
+mir-3572	rno-mir-3572
+mir-3573	rno-mir-3573
+mir-3578	hsa-mir-3578	ggo-mir-3578	cja-mir-3578	tsy-mir-3578	mmr-mir-3578	oga-mir-3578	cpo-mir-3578	mmu-mir-3578	ocu-mir-3578	bta-mir-3578	ttr-mir-3578	cfa-mir-3578	fca-mir-3578	pva-mir-3578	cho-mir-3578	laf-mir-3578	pca-mir-3578
+mir-3579	rno-mir-3579
+mir-242	cel-mir-242
+mir-4193	cin-mir-4193
+mir-611	hsa-mir-611	ggo-mir-611	ppy-mir-611	mml-mir-611
+mir-4191	cin-mir-4191
+mir-4190	cin-mir-4190
+mir-4197	cin-mir-4197
+mir-4196	cin-mir-4196
+mir-4195	cin-mir-4195
+mir-610	hsa-mir-610	ggo-mir-610	ppy-mir-610
+mir-4199	cin-mir-4199
+mir-4198	cin-mir-4198
+mir-241	cel-mir-241
+mir-875	hsa-mir-875	ptr-mir-875	ggo-mir-875	ppy-mir-875	mml-mir-875	cja-mir-875	tsy-mir-875	mmr-mir-875	oga-mir-875	tbe-mir-875	dor-mir-875	str-mir-875	opr-mir-875	ocu-mir-875	bta-mir-875	ttr-mir-875	vpa-mir-875	cfa-mir-875	fca-mir-875	eca-mir-875	mlu-mir-875	pva-mir-875	eeu-mir-875	ete-mir-875	laf-mir-875	pca-mir-875
+mir-874	hsa-mir-874	ptr-mir-874	ggo-mir-874	ppy-mir-874	mml-mir-874	cja-mir-874	mmr-mir-874	tbe-mir-874	cpo-mir-874	mmu-mir-874	rno-mir-874	str-mir-874	opr-mir-874	ocu-mir-874	bta-mir-874	vpa-mir-874	ssc-mir-874	cfa-mir-874	fca-mir-874	eca-mir-874	mlu-mir-874	pva-mir-874	sar-mir-874	cho-mir-874	ete-mir-874	laf-mir-874
+mir-3134	hsa-mir-3134	ggo-mir-3134	ppy-mir-3134
+mir-3135	hsa-mir-3135	ggo-mir-3135	ppy-mir-3135
+mir-1587	gga-mir-1587
+mir-1586	gga-mir-1586
+mir-1585	gga-mir-1585
+mir-1584	bta-mir-1584
+mir-1583	gga-mir-1583
+mir-1582	gga-mir-1582
+mir-1581	gga-mir-1581
+mir-1580	gga-mir-1580
+mir-1589	gga-mir-1589
+mir-1588	gga-mir-1588
+mir-1454	gga-mir-1454
+mir-1457	gga-mir-1457
+mir-1456	gga-mir-1456
+mir-1451	gga-mir-1451	mga-mir-1451
+mir-1453	gga-mir-1453
+mir-1452	gga-mir-1452
+mir-1459	gga-mir-1459
+mir-1458	gga-mir-1458
+mir-3645	dme-mir-3645
+mir-2963	tgu-mir-2963
+mir-1903	mmu-mir-1903	rno-mir-1903
+mir-1902	cpo-mir-1902	mmu-mir-1902	rno-mir-1902	str-mir-1902	opr-mir-1902	eca-mir-1902	mlu-mir-1902	laf-mir-1902
+mir-1901	mmu-mir-1901	rno-mir-1901
+mir-1900	mmu-mir-1900	rno-mir-1900
+mir-1907	mmu-mir-1907	rno-mir-1907
+mir-1906	mmu-mir-1906-1	mmu-mir-1906-2
+mir-1905	hsa-mir-1905a	ggo-mir-1905a	ppy-mir-1905a	mml-mir-1905a	cja-mir-1905a	mmr-mir-1905a	str-mir-1905a	opr-mir-1905a	eca-mir-1905a	pva-mir-1905a	laf-mir-1905a	pca-mir-1905a	cpo-mir-1905c	ttr-mir-1905c	ssc-mir-1905c	cfa-mir-1905c	fca-mir-1905c	eca-mir-1905c	mlu-mir-1905c	tgu-mir-1905c	mmu-mir-1905	rno-mir-1905	ocu-mir-1905	bta-mir-1905	eca-mir-1905b
+mir-1904	mmu-mir-1904
+mir-1909	hsa-mir-1909	ppy-mir-1909
+mir-1908	hsa-mir-1908	ggo-mir-1908	ppy-mir-1908	cja-mir-1908
+mir-770	hsa-mir-770	ptr-mir-770	ggo-mir-770	ppy-mir-770	mml-mir-770
+mir-2904	hsa-mir-2904-1	tsy-mir-2904-1	mmr-mir-2904-1	oga-mir-2904-1	tbe-mir-2904-1	str-mir-2904-1	bta-mir-2904-1	ttr-mir-2904-1	vpa-mir-2904-1	ssc-mir-2904-1	cfa-mir-2904-1	fca-mir-2904-1	mlu-mir-2904-1	pva-mir-2904-1	sar-mir-2904-1	cho-mir-2904-1	pca-mir-2904-1	bta-mir-2904-2	bta-mir-2904-3
+mir-578	hsa-mir-578	ggo-mir-578	ppy-mir-578	mml-mir-578
+mir-579	hsa-mir-579	ptr-mir-579	ppy-mir-579	mml-mir-579
+mir-2900	bta-mir-2900
+mir-2901	ocu-mir-2901	bta-mir-2901	ssc-mir-2901	cfa-mir-2901	fca-mir-2901	laf-mir-2901
+mir-574	hsa-mir-574	ggo-mir-574	cpo-mir-574	mmu-mir-574	ocu-mir-574	ssc-mir-574	cfa-mir-574	mlu-mir-574	pva-mir-574
+mir-575	hsa-mir-575	ptr-mir-575	ggo-mir-575	ppy-mir-575
+mir-576	hsa-mir-576	ptr-mir-576	ggo-mir-576	ppy-mir-576	mml-mir-576
+mir-577	hsa-mir-577	ptr-mir-577	ggo-mir-577	ppy-mir-577	mml-mir-577	cja-mir-577
+mir-570	hsa-mir-570	ggo-mir-570	ppy-mir-570
+mir-571	hsa-mir-571	ptr-mir-571	ggo-mir-571	ppy-mir-571
+mir-572	hsa-mir-572	ptr-mir-572	mml-mir-572
+mir-573	hsa-mir-573	ggo-mir-573	ppy-mir-573
+mir-794	cel-mir-794
+mir-795	cel-mir-795
+mir-796	cel-mir-796
+mir-797	cel-mir-797
+mir-790	cel-mir-790	cel-mir-790-1
+mir-791	cel-mir-791
+mir-792	cel-mir-792
+mir-793	cel-mir-793
+mir-798	cel-mir-798
+mir-799	cel-mir-799
+mir-2340	bta-mir-2340
+mir-2341	bta-mir-2341
+mir-2342	bta-mir-2342
+mir-2343	bta-mir-2343
+mir-2344	bta-mir-2344
+mir-2345	bta-mir-2345
+mir-2346	bta-mir-2346
+mir-2347	bta-mir-2347
+mir-2348	bta-mir-2348
+mir-2349	bta-mir-2349
+mir-1837	cfa-mir-1837-1	cfa-mir-1837-2	cfa-mir-1837-3	cfa-mir-1837-4
+mir-1836	cfa-mir-1836
+mir-1835	bta-mir-1835
+mir-1834	cel-mir-1834
+mir-1833	cel-mir-1833
+mir-1832	cel-mir-1832	cel-mir-1832b
+mir-1830	cel-mir-1830
+mir-1839	mmu-mir-1839	bta-mir-1839	cfa-mir-1839	eca-mir-1839
+mir-1838	cfa-mir-1838
+mir-318	dme-mir-318	dme-mir-318-1
+mir-310	dme-mir-310
+mir-311	dme-mir-311	dme-mir-311b-1
+mir-312	dme-mir-312
+mir-313	dme-mir-313
+mir-314	dme-mir-314
+mir-315	dme-mir-315
+mir-316	dme-mir-316
+mir-317	dme-mir-317
+mir-32	hsa-mir-32	ptr-mir-32	ggo-mir-32	ppy-mir-32	mml-mir-32	cja-mir-32	tsy-mir-32	mmr-mir-32	oga-mir-32	cpo-mir-32	dor-mir-32	mmu-mir-32	rno-mir-32	str-mir-32	opr-mir-32	ocu-mir-32	bta-mir-32	ttr-mir-32	vpa-mir-32	ssc-mir-32	cfa-mir-32	fca-mir-32	eca-mir-32	pva-mir-32	sar-mir-32	cho-mir-32	ete-mir-32	laf-mir-32	pca-mir-32	meu-mir-32	mdo-mir-32	oan-mir-32	gga-mir-32	mga-mir-32	tgu-mir-32	aca-mir-32
+mir-33	hsa-mir-33a	ptr-mir-33a	ggo-mir-33a	ppy-mir-33a	mml-mir-33a	cja-mir-33a	mmr-mir-33a	oga-mir-33a	tbe-mir-33a	cpo-mir-33a	dor-mir-33a	mmu-mir-33a	rno-mir-33a	str-mir-33a	opr-mir-33a	ocu-mir-33a	bta-mir-33a	ttr-mir-33a	cfa-mir-33a	fca-mir-33a	eca-mir-33a	mlu-mir-33a	eeu-mir-33a	ete-mir-33a	hsa-mir-33b	ptr-mir-33b	ppy-mir-33b	mml-mir-33b	bta-mir-33b	cfa-mir-33b	eca-mir-33b	hsa-mir-33	ggo-mir-33	ppy-mir-33	mmu-mir-33	rno-mir-33	cfa-mir-33	csa-mir-33-2
+mir-30	hsa-mir-30a	ptr-mir-30a	ggo-mir-30a	ppy-mir-30a	mml-mir-30a	cja-mir-30a	mmr-mir-30a	oga-mir-30a	tbe-mir-30a	cpo-mir-30a	dor-mir-30a	mmu-mir-30a	rno-mir-30a	str-mir-30a	opr-mir-30a	ocu-mir-30a	bta-mir-30a	ttr-mir-30a	ssc-mir-30a	cfa-mir-30a	fca-mir-30a	eeu-mir-30a	sar-mir-30a	cho-mir-30a	laf-mir-30a	pca-mir-30a	mdo-mir-30a	gga-mir-30a	aca-mir-30a	xtr-mir-30a	hsa-mir-30c-2	ptr-mir-30c-2	mml-mir-30c-2	mmu-mir-30c-2	rno-mir-30c-2	ssc-mir-30c-2	cfa-mir-30c-2	eca-mir-30c-2	gga-mir-30c-2	xtr-mir-30c-2	hsa-mir-30d	ptr-mir-30d	ggo-mir-30d	ppy-mir-30d	mml-mir-30d	mmu-mir-30d	rno-mir-30d	bta-mir-30d	vpa-mir-30d	ssc-mir-30d	cfa-mir-30d	eca-mir-30d	gga-mir-30d	hsa-mir-30b	ptr-mir-30b	ggo-mir-30b	ppy-mir-30b	mml-mir-30b	ssc-mir-30b	cfa-mir-30b	eca-mir-30b	pva-mir-30b	meu-mir-30b	hsa-mir-30c-1	ptr-mir-30c-1	ppy-mir-30c-1	mml-mir-30c-1	mmu-mir-30c-1	rno-mir-30c-1	ssc-mir-30c-1	cfa-mir-30c-1	hsa-mir-30e	ptr-mir-30e	ppy-mir-30e	mml-mir-30e	mmu-mir-30e	rno-mir-30e	bta-mir-30e	ssc-mir-30e	cfa-mir-30e	eca-mir-30e	mlu-mir-30e	oan-mir-30e	bta-mir-30f	dre-mir-30e-2
+mir-31	hsa-mir-31	ptr-mir-31	ggo-mir-31	ppy-mir-31	mml-mir-31	cja-mir-31	tsy-mir-31	mmr-mir-31	oga-mir-31	cpo-mir-31	dor-mir-31	mmu-mir-31	rno-mir-31	str-mir-31	opr-mir-31	ocu-mir-31	bta-mir-31	ttr-mir-31	vpa-mir-31	ssc-mir-31	cfa-mir-31	fca-mir-31	eca-mir-31	mlu-mir-31	pva-mir-31	eeu-mir-31	ete-mir-31	laf-mir-31	pca-mir-31	meu-mir-31	mdo-mir-31	aca-mir-31	xtr-mir-31b	dme-mir-31a
+mir-36	cel-mir-36
+mir-37	cel-mir-37
+mir-34	hsa-mir-34a	ptr-mir-34a	ggo-mir-34a	ppy-mir-34a	mml-mir-34a	mmr-mir-34a	oga-mir-34a	cpo-mir-34a	mmu-mir-34a	rno-mir-34a	str-mir-34a	bta-mir-34a	ttr-mir-34a	ssc-mir-34a	cfa-mir-34a	mlu-mir-34a	cho-mir-34a	laf-mir-34a	pca-mir-34a	meu-mir-34a	mdo-mir-34a	gga-mir-34a	mga-mir-34a	tgu-mir-34a	hsa-mir-34b	ptr-mir-34b	ppy-mir-34b	mml-mir-34b	mmu-mir-34b	rno-mir-34b	cfa-mir-34b	eca-mir-34b	hsa-mir-34c	ptr-mir-34c	ppy-mir-34c	mml-mir-34c	cja-mir-34c	tsy-mir-34c	tbe-mir-34c	mmu-mir-34c	rno-mir-34c	opr-mir-34c	ocu-mir-34c	bta-mir-34c	vpa-mir-34c	ssc-mir-34c	cfa-mir-34c	fca-mir-34c	eca-mir-34c	pva-mir-34c	eeu-mir-34c	sar-mir-34c	ete-mir-34c	tgu-mir-34c-1	tgu-mir-34c-2	xtr-mir-34b-2	xtr-mir-34b-4	xtr-mir-34b-3	xtr-mir-34b-1
+mir-35	cel-mir-35
+mir-38	cel-mir-38
+mir-39	cel-mir-39
+mir-1012	dme-mir-1012
+mir-3189	hsa-mir-3189	ggo-mir-3189
+mir-3188	hsa-mir-3188
+mir-3185	hsa-mir-3185	ggo-mir-3185
+mir-3184	hsa-mir-3184
+mir-3187	hsa-mir-3187
+mir-3186	hsa-mir-3186	ggo-mir-3186	ppy-mir-3186
+mir-3181	hsa-mir-3181
+mir-3180	hsa-mir-3180-1	hsa-mir-3180-2	hsa-mir-3180-3	hsa-mir-3180-4	hsa-mir-3180-5
+mir-3183	hsa-mir-3183	ppy-mir-3183
+mir-3182	hsa-mir-3182
+mir-1325	oan-mir-1325
+mir-956	dme-mir-956
+mir-957	dme-mir-957
+mir-954	dme-mir-954
+mir-955	dme-mir-955
+mir-958	dme-mir-958
+mir-959	dme-mir-959
+mir-409	hsa-mir-409	ptr-mir-409	ggo-mir-409	ppy-mir-409	mml-mir-409	cja-mir-409	mmr-mir-409	oga-mir-409	tbe-mir-409	mmu-mir-409	rno-mir-409	opr-mir-409	ocu-mir-409	bta-mir-409	ttr-mir-409	cfa-mir-409	eca-mir-409	mlu-mir-409	pva-mir-409	cho-mir-409	ete-mir-409	laf-mir-409
+mir-1412	oan-mir-1412
+mir-1002	dme-mir-1002
+mir-1003	dme-mir-1003
+mir-1000	dme-mir-1000
+mir-1001	dme-mir-1001
+mir-1006	dme-mir-1006
+mir-1007	dme-mir-1007
+mir-1004	dme-mir-1004
+mir-1005	dme-mir-1005
+mir-4210	cin-mir-4210
+mir-4211	cin-mir-4211
+mir-4212	cin-mir-4212
+mir-4213	cin-mir-4213
+mir-4214	cin-mir-4214
+mir-4215	cin-mir-4215
+mir-4216	cin-mir-4216
+mir-4217	cin-mir-4217
+mir-4218	cin-mir-4218
+mir-4219	cin-mir-4219
+mir-4321	hsa-mir-4321
+mir-3567	hsa-mir-3567	ggo-mir-3567	ppy-mir-3567	cja-mir-3567	mmr-mir-3567	oga-mir-3567	cpo-mir-3567	dor-mir-3567	mmu-mir-3567	str-mir-3567	opr-mir-3567	bta-mir-3567	ttr-mir-3567	ssc-mir-3567	cfa-mir-3567	fca-mir-3567	pva-mir-3567	eeu-mir-3567	sar-mir-3567	ete-mir-3567	pca-mir-3567	gga-mir-3567	mga-mir-3567	tgu-mir-3567
+mir-3566	rno-mir-3566
+mir-3565	rno-mir-3565
+mir-3564	rno-mir-3564
+mir-3563	hsa-mir-3563	ggo-mir-3563	ppy-mir-3563	cja-mir-3563	mmr-mir-3563	oga-mir-3563	tbe-mir-3563	cpo-mir-3563	dor-mir-3563	rno-mir-3563	str-mir-3563	opr-mir-3563	ocu-mir-3563	bta-mir-3563	ttr-mir-3563	vpa-mir-3563	cfa-mir-3563	fca-mir-3563	mlu-mir-3563	pva-mir-3563	cho-mir-3563	laf-mir-3563
+mir-3562	rno-mir-3562
+mir-3561	rno-mir-3561
+mir-3560	rno-mir-3560
+mir-3569	rno-mir-3569
+mir-3568	rno-mir-3568
+mir-1671	gga-mir-1671
+mir-1670	gga-mir-1670
+mir-1673	gga-mir-1673
+mir-1672	gga-mir-1672
+mir-4324	hsa-mir-4324	ppy-mir-4324
+mir-4325	hsa-mir-4325
+mir-4326	hsa-mir-4326
+mir-4327	hsa-mir-4327	ggo-mir-4327	ppy-mir-4327
+mir-4320	hsa-mir-4320
+mir-1677	gga-mir-1677	mga-mir-1677	tgu-mir-1677
+mir-4322	hsa-mir-4322
+mir-4323	hsa-mir-4323	ggo-mir-4323	ppy-mir-4323
+mir-1676	gga-mir-1676	mga-mir-1676
+mir-4328	hsa-mir-4328
+mir-4329	hsa-mir-4329
+mir-1954	mmu-mir-1954
+mir-1771	gga-mir-1771	mga-mir-1771
+mir-1772	gga-mir-1772
+mir-1773	gga-mir-1773
+mir-1774	gga-mir-1774
+mir-1775	gga-mir-1775
+mir-1952	mmu-mir-1952
+mir-1953	mmu-mir-1953
+mir-4038	cin-mir-4038
+mir-4039	cin-mir-4039
+mir-4030	cin-mir-4030
+mir-4031	cin-mir-4031
+mir-4032	cin-mir-4032
+mir-4033	cin-mir-4033
+mir-4034	cin-mir-4034
+mir-4035	cin-mir-4035
+mir-4036	cin-mir-4036
+mir-4037	cin-mir-4037
+lsy-6	cel-lsy-6
+mir-1330	oan-mir-1330
+mir-1331	oan-mir-1331
+mir-1332	oan-mir-1332
+mir-1333	oan-mir-1333
+mir-1334	oan-mir-1334
+mir-1335	oan-mir-1335
+mir-1336	oan-mir-1336
+mir-1337	oan-mir-1337
+mir-1338	oan-mir-1338
+mir-1339	oan-mir-1339
+mir-149	hsa-mir-149	ptr-mir-149	ggo-mir-149	ppy-mir-149	mml-mir-149	cja-mir-149	cpo-mir-149	mmu-mir-149	opr-mir-149	ttr-mir-149	ssc-mir-149	cfa-mir-149	eca-mir-149	mlu-mir-149	pva-mir-149	laf-mir-149	pca-mir-149
+mir-148	hsa-mir-148a	ptr-mir-148a	ggo-mir-148a	ppy-mir-148a	mml-mir-148a	cja-mir-148a	oga-mir-148a	tbe-mir-148a	cpo-mir-148a	mmu-mir-148a	opr-mir-148a	ocu-mir-148a	bta-mir-148a	ttr-mir-148a	vpa-mir-148a	ssc-mir-148a	cfa-mir-148a	fca-mir-148a	eca-mir-148a	mlu-mir-148a	pva-mir-148a	eeu-mir-148a	laf-mir-148a	mdo-mir-148a	tgu-mir-148a	aca-mir-148a	hsa-mir-148b	ptr-mir-148b	ppy-mir-148b	mml-mir-148b	tsy-mir-148b	mmr-mir-148b	dor-mir-148b	mmu-mir-148b	rno-mir-148b	str-mir-148b	bta-mir-148b	ssc-mir-148b	cfa-mir-148b	eca-mir-148b	sar-mir-148b	cho-mir-148b	ete-mir-148b	pca-mir-148b	dre-mir-148	gac-mir-148	ola-mir-148	tru-mir-148	tni-mir-148
+mir-145	hsa-mir-145	ptr-mir-145	ggo-mir-145	ppy-mir-145	mml-mir-145	cja-mir-145	mmr-mir-145	oga-mir-145	tbe-mir-145	cpo-mir-145	dor-mir-145	mmu-mir-145	rno-mir-145	str-mir-145	opr-mir-145	ocu-mir-145	bta-mir-145	ttr-mir-145	ssc-mir-145	cfa-mir-145	fca-mir-145	eca-mir-145	mlu-mir-145	pva-mir-145	eeu-mir-145	sar-mir-145	ete-mir-145	laf-mir-145	pca-mir-145	meu-mir-145	mdo-mir-145	mga-mir-145	aca-mir-145
+mir-144	hsa-mir-144	ptr-mir-144	ggo-mir-144	ppy-mir-144	mml-mir-144	cja-mir-144	tsy-mir-144	mmr-mir-144	oga-mir-144	tbe-mir-144	cpo-mir-144	dor-mir-144	mmu-mir-144	rno-mir-144	str-mir-144	opr-mir-144	ocu-mir-144	bta-mir-144	ttr-mir-144	vpa-mir-144	ssc-mir-144	cfa-mir-144	fca-mir-144	eca-mir-144	mlu-mir-144	pva-mir-144	sar-mir-144	laf-mir-144	meu-mir-144	xtr-mir-144
+mir-147	ggo-mir-147	mml-mir-147	tsy-mir-147	mmr-mir-147	oga-mir-147	tbe-mir-147	mmu-mir-147	rno-mir-147	ocu-mir-147	bta-mir-147	ttr-mir-147	ssc-mir-147	cfa-mir-147	fca-mir-147	mlu-mir-147	pva-mir-147	laf-mir-147	pca-mir-147	meu-mir-147	hsa-mir-147b	ptr-mir-147b	ppy-mir-147b	mmu-mir-147b	ptr-mir-147a	mml-mir-147a	gga-mir-147-1	gga-mir-147-2
+mir-146	hsa-mir-146a	ptr-mir-146a	ggo-mir-146a	ppy-mir-146a	mml-mir-146a	cja-mir-146a	tsy-mir-146a	mmr-mir-146a	tbe-mir-146a	cpo-mir-146a	mmu-mir-146a	str-mir-146a	ocu-mir-146a	bta-mir-146a	vpa-mir-146a	ssc-mir-146a	cfa-mir-146a	eca-mir-146a	mlu-mir-146a	pva-mir-146a	cho-mir-146a	laf-mir-146a	pca-mir-146a	hsa-mir-146b	ptr-mir-146b	ppy-mir-146b	mml-mir-146b	oga-mir-146b	dor-mir-146b	mmu-mir-146b	rno-mir-146b	opr-mir-146b	bta-mir-146b	ttr-mir-146b	ssc-mir-146b	cfa-mir-146b	fca-mir-146b	eca-mir-146b	eeu-mir-146b	ete-mir-146b	mdo-mir-146b	gga-mir-146c-1	gga-mir-146c-2	tgu-mir-146c	xtr-mir-146	dre-mir-146b-1	dre-mir-146b-2
+mir-141	hsa-mir-141	ggo-mir-141	ppy-mir-141	mml-mir-141	cja-mir-141	mmr-mir-141	oga-mir-141	tbe-mir-141	cpo-mir-141	mmu-mir-141	str-mir-141	opr-mir-141	ocu-mir-141	bta-mir-141	cfa-mir-141	fca-mir-141	eca-mir-141	mlu-mir-141	pva-mir-141	eeu-mir-141	laf-mir-141	pca-mir-141	mdo-mir-141	ptr-mir-141-1	ptr-mir-141-2
+mir-140	hsa-mir-140	ptr-mir-140	ggo-mir-140	ppy-mir-140	mml-mir-140	cja-mir-140	mmr-mir-140	tbe-mir-140	cpo-mir-140	dor-mir-140	mmu-mir-140	rno-mir-140	str-mir-140	opr-mir-140	ocu-mir-140	bta-mir-140	ttr-mir-140	ssc-mir-140	cfa-mir-140	fca-mir-140	eca-mir-140	mlu-mir-140	pva-mir-140	eeu-mir-140	ete-mir-140	laf-mir-140	meu-mir-140	mdo-mir-140	oan-mir-140	gga-mir-140	mga-mir-140	tgu-mir-140	aca-mir-140	gac-mir-140	ola-mir-140	tru-mir-140	tni-mir-140
+mir-143	hsa-mir-143	ptr-mir-143	ggo-mir-143	ppy-mir-143	mml-mir-143	cja-mir-143	oga-mir-143	cpo-mir-143	dor-mir-143	mmu-mir-143	str-mir-143	ocu-mir-143	bta-mir-143	ssc-mir-143	cfa-mir-143	fca-mir-143	eca-mir-143	mlu-mir-143	pva-mir-143	sar-mir-143	cho-mir-143	ete-mir-143	laf-mir-143	meu-mir-143	mdo-mir-143	mga-mir-143	aca-mir-143	xtr-mir-143	dre-mir-143-1	dre-mir-143-2
+mir-142	hsa-mir-142	ptr-mir-142	ggo-mir-142	ppy-mir-142	mml-mir-142	cja-mir-142	tsy-mir-142	mmr-mir-142	oga-mir-142	tbe-mir-142	cpo-mir-142	dor-mir-142	mmu-mir-142	rno-mir-142	str-mir-142	opr-mir-142	ocu-mir-142	bta-mir-142	ssc-mir-142	cfa-mir-142	fca-mir-142	eca-mir-142	pva-mir-142	eeu-mir-142	sar-mir-142	ete-mir-142	laf-mir-142	pca-mir-142	meu-mir-142	mdo-mir-142	oan-mir-142	gga-mir-142	mga-mir-142	tgu-mir-142	xtr-mir-142	ola-mir-142	xtr-mir-142-1	xtr-mir-142-2	dre-mir-142a	tni-mir-142a	dre-mir-142b
+mir-2979	tgu-mir-2979-1	tgu-mir-2979-2
+mir-2978	tgu-mir-2978
+mir-642	hsa-mir-642a	hsa-mir-642b	mml-mir-642b	hsa-mir-642	ptr-mir-642	ggo-mir-642	mml-mir-642
+mir-643	hsa-mir-643	ptr-mir-643
+mir-1020	cel-mir-1020
+mir-640	hsa-mir-640	ptr-mir-640	ggo-mir-640	ppy-mir-640	mml-mir-640	cja-mir-640
+mir-1022	cel-mir-1022
+mir-641	hsa-mir-641	ptr-mir-641	ggo-mir-641
+mir-646	hsa-mir-646	ptr-mir-646	ggo-mir-646
+mir-2221	cel-mir-2221
+mir-2220	cel-mir-2220
+mir-1936	mmu-mir-1936
+mir-1937	dor-mir-1937b-4	mmu-mir-1937a	mmu-mir-1937b-1	mmu-mir-1937c	mmu-mir-1937b-2	rno-mir-1937b-2	mmu-mir-1937b-3	mmu-mir-1937b-5
+mir-1934	mmu-mir-1934
+mir-1935	ptr-mir-1935	cpo-mir-1935	mmu-mir-1935	ssc-mir-1935
+mir-1932	mmu-mir-1932
+mir-1933	mmu-mir-1933
+mir-1930	mmu-mir-1930
+mir-1931	mmu-mir-1931
+mir-645	hsa-mir-645	ptr-mir-645	ggo-mir-645	ppy-mir-645
+mir-1938	mmu-mir-1938
+mir-1939	mmu-mir-1939
+mir-2917	bta-mir-2917
+mir-549	hsa-mir-549	ptr-mir-549	ggo-mir-549	ppy-mir-549	mml-mir-549
+mir-548	hsa-mir-548a-1	ptr-mir-548a-1	hsa-mir-548b	ptr-mir-548b	ggo-mir-548b	ppy-mir-548b	cja-mir-548b	hsa-mir-548a-2	ptr-mir-548a-2	hsa-mir-548a-3	hsa-mir-548c	ptr-mir-548c	hsa-mir-548d-1	hsa-mir-548d-2	hsa-mir-548e	hsa-mir-548j	ptr-mir-548j	hsa-mir-548k	ptr-mir-548k	hsa-mir-548l	ptr-mir-548l	hsa-mir-548f-1	hsa-mir-548f-2	hsa-mir-548f-3	hsa-mir-548f-4	hsa-mir-548f-5	hsa-mir-548g	hsa-mir-548n	ptr-mir-548n	hsa-mir-548m	hsa-mir-548o	hsa-mir-548h-1	hsa-mir-548h-2	hsa-mir-548h-3	hsa-mir-548h-4	hsa-mir-548p	ptr-mir-548p	hsa-mir-548i-1	ptr-mir-548i-1	hsa-mir-548i-2	ptr-mir-548i-2	hsa-mir-548i-3	ptr-mir-548i-3	hsa-mir-548i-4	hsa-mir-548q	hsa-mir-548s	hsa-mir-548t	hsa-mir-548u	hsa-mir-548v	hsa-mir-548w	hsa-mir-548x	hsa-mir-548y	hsa-mir-548z	hsa-mir-548aa-1	hsa-mir-548aa-2	ptr-mir-548h	ptr-mir-548i-5	ptr-mir-548i-6	mml-mir-548a	mml-mir-548d	mml-mir-548f
+mir-541	hsa-mir-541	ggo-mir-541	ppy-mir-541	mml-mir-541	cja-mir-541	mmr-mir-541	oga-mir-541	tbe-mir-541	dor-mir-541	str-mir-541	opr-mir-541	ocu-mir-541	bta-mir-541	ttr-mir-541	cfa-mir-541	eca-mir-541	cho-mir-541	pca-mir-541
+mir-540	mmu-mir-540	rno-mir-540
+mir-543	hsa-mir-543	ptr-mir-543	ggo-mir-543	ppy-mir-543	mml-mir-543	cja-mir-543	mmr-mir-543	oga-mir-543	tbe-mir-543	cpo-mir-543	dor-mir-543	bta-mir-543	ttr-mir-543	cfa-mir-543	eca-mir-543	mlu-mir-543	pva-mir-543	cho-mir-543	laf-mir-543	pca-mir-543
+mir-542	hsa-mir-542	ggo-mir-542	ppy-mir-542	mml-mir-542	cja-mir-542	tsy-mir-542	mmr-mir-542	oga-mir-542	cpo-mir-542	mmu-mir-542	rno-mir-542	str-mir-542	ocu-mir-542	bta-mir-542	ttr-mir-542	vpa-mir-542	ssc-mir-542	cfa-mir-542	fca-mir-542	eca-mir-542	pva-mir-542	laf-mir-542	pca-mir-542
+mir-545	hsa-mir-545	ptr-mir-545	ggo-mir-545	ppy-mir-545	mml-mir-545	cja-mir-545	tsy-mir-545	mmr-mir-545	ocu-mir-545	bta-mir-545	ttr-mir-545	vpa-mir-545	ssc-mir-545	cfa-mir-545	eca-mir-545	cho-mir-545
+mir-544	hsa-mir-544	ptr-mir-544	ggo-mir-544	ppy-mir-544	mml-mir-544	cja-mir-544	mmr-mir-544	oga-mir-544	tbe-mir-544	dor-mir-544	mmu-mir-544	rno-mir-544	bta-mir-544	ttr-mir-544	cfa-mir-544	fca-mir-544	mlu-mir-544	pva-mir-544	hsa-mir-544b	bta-mir-544a	eca-mir-544-2
+mir-547	mmu-mir-547
+mir-546	mmu-mir-546
+mir-2353	bta-mir-2353
+mir-2352	bta-mir-2352
+mir-2351	bta-mir-2351
+mir-2350	bta-mir-2350
+mir-2357	bta-mir-2357
+mir-2356	bta-mir-2356
+mir-2355	hsa-mir-2355	ggo-mir-2355	ppy-mir-2355	mml-mir-2355	cja-mir-2355	oga-mir-2355	tbe-mir-2355	str-mir-2355	ocu-mir-2355	bta-mir-2355	cfa-mir-2355	pva-mir-2355
+mir-2354	bta-mir-2354
+mir-1802	gga-mir-1802
+mir-1803	gga-mir-1803	mga-mir-1803	tgu-mir-1803
+mir-2359	bta-mir-2359
+mir-2358	bta-mir-2358
+mir-1806	gga-mir-1806
+mir-1807	gga-mir-1807	mga-mir-1807
+mir-1804	gga-mir-1804
+mir-1805	gga-mir-1805	mga-mir-1805	tgu-mir-1805
+mir-325	hsa-mir-325	ggo-mir-325	ppy-mir-325	mml-mir-325	tsy-mir-325	mmr-mir-325	oga-mir-325	tbe-mir-325	dor-mir-325	mmu-mir-325	rno-mir-325	str-mir-325	ocu-mir-325	ttr-mir-325	ssc-mir-325	cfa-mir-325	fca-mir-325
+mir-892	hsa-mir-892a	ptr-mir-892a	ggo-mir-892a	ppy-mir-892a	mml-mir-892a	hsa-mir-892b	ppy-mir-892b	mml-mir-892b	hsa-mir-892	mml-mir-892
+mir-327	mmu-mir-327
+mir-890	hsa-mir-890	ptr-mir-890	ggo-mir-890	ppy-mir-890
+mir-320	hsa-mir-320a	ptr-mir-320a	ggo-mir-320a	ppy-mir-320a	mml-mir-320a	cja-mir-320a	mmr-mir-320a	cpo-mir-320a	dor-mir-320a	mmu-mir-320a	rno-mir-320a	str-mir-320a	opr-mir-320a	bta-mir-320a	ttr-mir-320a	vpa-mir-320a	ssc-mir-320a	cfa-mir-320a	pva-mir-320a	eeu-mir-320a	sar-mir-320a	cho-mir-320a	ete-mir-320a	laf-mir-320a	pca-mir-320a	hsa-mir-320b-1	ptr-mir-320b-1	ppy-mir-320b-1	hsa-mir-320c-1	ptr-mir-320c-1	ppy-mir-320c-1	hsa-mir-320b-2	ptr-mir-320b-2	ppy-mir-320b-2	hsa-mir-320d-1	ptr-mir-320d-1	ppy-mir-320d-1	hsa-mir-320c-2	ptr-mir-320c-2	ppy-mir-320c-2	hsa-mir-320d-2	ppy-mir-320d-2	hsa-mir-320e	hsa-mir-320	mml-mir-320	mmu-mir-320	rno-mir-320	ssc-mir-320	cfa-mir-320	ptr-mir-320d-3	bta-mir-320b	bta-mir-320-1
+mir-323	hsa-mir-323	ptr-mir-323	ggo-mir-323	ppy-mir-323	mml-mir-323	cja-mir-323	tsy-mir-323	mmr-mir-323	oga-mir-323	tbe-mir-323	cpo-mir-323	dor-mir-323	mmu-mir-323	rno-mir-323	opr-mir-323	ocu-mir-323	bta-mir-323	ttr-mir-323	vpa-mir-323	ssc-mir-323	cfa-mir-323	fca-mir-323	eca-mir-323	mlu-mir-323	pva-mir-323	cho-mir-323	laf-mir-323	pca-mir-323	hsa-mir-323b
+mir-322	hsa-mir-322	ptr-mir-322	ggo-mir-322	ppy-mir-322	mml-mir-322	tsy-mir-322	mmr-mir-322	cpo-mir-322	str-mir-322	ocu-mir-322	ttr-mir-322	ssc-mir-322	cfa-mir-322	eca-mir-322	mlu-mir-322	eeu-mir-322	sar-mir-322	laf-mir-322
+mir-1701	gga-mir-1701
+mir-329	hsa-mir-329-1	ptr-mir-329-1	ppy-mir-329-1	mml-mir-329-1	hsa-mir-329-2	ptr-mir-329-2	ppy-mir-329-2	mml-mir-329-2	hsa-mir-329	ggo-mir-329	ppy-mir-329	mml-mir-329	cja-mir-329	tsy-mir-329	mmr-mir-329	oga-mir-329	tbe-mir-329	cpo-mir-329	dor-mir-329	opr-mir-329	ocu-mir-329	bta-mir-329	ttr-mir-329	cfa-mir-329	fca-mir-329	pva-mir-329	cho-mir-329	ete-mir-329	pca-mir-329	bta-mir-329a	bta-mir-329b	cfa-mir-329b
+mir-328	hsa-mir-328	ptr-mir-328	ppy-mir-328	mmu-mir-328	bta-mir-328	ssc-mir-328	cfa-mir-328	eca-mir-328	ppy-mir-328a	cja-mir-328a	mmr-mir-328a	oga-mir-328a	dor-mir-328a	mmu-mir-328a	rno-mir-328a	ocu-mir-328a	bta-mir-328a	ttr-mir-328a	ssc-mir-328a	cfa-mir-328a	fca-mir-328a	mlu-mir-328a	pva-mir-328a	rno-mir-328b
+mir-1700	gga-mir-1700
+mir-1703	gga-mir-1703
+mir-4138	cin-mir-4138
+mir-1702	gga-mir-1702
+mir-21	hsa-mir-21	ptr-mir-21	ggo-mir-21	ppy-mir-21	mml-mir-21	cja-mir-21	tsy-mir-21	mmr-mir-21	oga-mir-21	tbe-mir-21	cpo-mir-21	dor-mir-21	mmu-mir-21	rno-mir-21	opr-mir-21	ocu-mir-21	bta-mir-21	ttr-mir-21	vpa-mir-21	ssc-mir-21	cfa-mir-21	fca-mir-21	eca-mir-21	mlu-mir-21	pva-mir-21	eeu-mir-21	sar-mir-21	laf-mir-21	pca-mir-21	meu-mir-21	mdo-mir-21	mga-mir-21	dre-mir-21-1	dre-mir-21-2	tni-mir-21-2
+mir-20	hsa-mir-20a	ptr-mir-20a	ggo-mir-20a	ppy-mir-20a	mml-mir-20a	cja-mir-20a	mmr-mir-20a	oga-mir-20a	tbe-mir-20a	cpo-mir-20a	dor-mir-20a	mmu-mir-20a	rno-mir-20a	str-mir-20a	opr-mir-20a	ocu-mir-20a	bta-mir-20a	ttr-mir-20a	ssc-mir-20a	cfa-mir-20a	fca-mir-20a	eca-mir-20a	mlu-mir-20a	pva-mir-20a	eeu-mir-20a	cho-mir-20a	laf-mir-20a	meu-mir-20a	mdo-mir-20a	gga-mir-20a	mga-mir-20a	tgu-mir-20a	aca-mir-20a	gac-mir-20a	hsa-mir-20b	ptr-mir-20b	ppy-mir-20b	mml-mir-20b	bta-mir-20b	vpa-mir-20b	eca-mir-20b	ptr-mir-20	mml-mir-20	eca-mir-20	oan-mir-20a-1	oan-mir-20a-2
+mir-23	hsa-mir-23a	ptr-mir-23a	ggo-mir-23a	ppy-mir-23a	mml-mir-23a	cja-mir-23a	cpo-mir-23a	rno-mir-23a	str-mir-23a	bta-mir-23a	ssc-mir-23a	cfa-mir-23a	fca-mir-23a	eca-mir-23a	pva-mir-23a	laf-mir-23a	pca-mir-23a	hsa-mir-23b	ptr-mir-23b	ppy-mir-23b	mml-mir-23b	mmr-mir-23b	oga-mir-23b	tbe-mir-23b	mmu-mir-23b	rno-mir-23b	ocu-mir-23b	bta-mir-23b	ttr-mir-23b	ssc-mir-23b	cfa-mir-23b	eca-mir-23b	mlu-mir-23b	cho-mir-23b	ete-mir-23b	mdo-mir-23b	mga-mir-23b	tgu-mir-23b	hsa-mir-23c	ptr-mir-23c	tgu-mir-23	xtr-mir-23a-2	dre-mir-23a-3
+mir-22	hsa-mir-22	ptr-mir-22	ggo-mir-22	ppy-mir-22	mml-mir-22	cja-mir-22	tsy-mir-22	mmr-mir-22	oga-mir-22	tbe-mir-22	cpo-mir-22	dor-mir-22	mmu-mir-22	rno-mir-22	opr-mir-22	ocu-mir-22	bta-mir-22	ttr-mir-22	vpa-mir-22	ssc-mir-22	cfa-mir-22	fca-mir-22	eca-mir-22	mlu-mir-22	pva-mir-22	eeu-mir-22	sar-mir-22	laf-mir-22	meu-mir-22	dre-mir-22a	dre-mir-22b
+mir-25	hsa-mir-25	ggo-mir-25	ppy-mir-25	mml-mir-25	cja-mir-25	tsy-mir-25	oga-mir-25	tbe-mir-25	cpo-mir-25	mmu-mir-25	rno-mir-25	str-mir-25	opr-mir-25	ocu-mir-25	bta-mir-25	ttr-mir-25	vpa-mir-25	cfa-mir-25	fca-mir-25	eca-mir-25	mlu-mir-25	pva-mir-25	eeu-mir-25	sar-mir-25	ete-mir-25	laf-mir-25	pca-mir-25	mdo-mir-25	xtr-mir-25-1	xtr-mir-25-2
+mir-24	hsa-mir-24-1	ptr-mir-24-1	ppy-mir-24-1	mml-mir-24-1	mmu-mir-24-1	rno-mir-24-1	bta-mir-24-1	cfa-mir-24-1	mdo-mir-24-1	mml-mir-24-2	cja-mir-24-2	mmr-mir-24-2	oga-mir-24-2	tbe-mir-24-2	cpo-mir-24-2	opr-mir-24-2	ocu-mir-24-2	bta-mir-24-2	ttr-mir-24-2	vpa-mir-24-2	cfa-mir-24-2	fca-mir-24-2	eca-mir-24-2	eeu-mir-24-2	sar-mir-24-2	cho-mir-24-2	laf-mir-24-2	gga-mir-24-2	mga-mir-24-2	tgu-mir-24-2	ete-mir-24	gga-mir-24	tgu-mir-24	xtr-mir-24a	xtr-mir-24b	dre-mir-24-4	dre-mir-24-3
+mir-27	hsa-mir-27a	ptr-mir-27a	ggo-mir-27a	ppy-mir-27a	mml-mir-27a	cja-mir-27a	tbe-mir-27a	cpo-mir-27a	mmu-mir-27a	rno-mir-27a	str-mir-27a	bta-mir-27a	ssc-mir-27a	cfa-mir-27a	eca-mir-27a	pva-mir-27a	eeu-mir-27a	laf-mir-27a	pca-mir-27a	hsa-mir-27b	ptr-mir-27b	ppy-mir-27b	mml-mir-27b	mmr-mir-27b	oga-mir-27b	mmu-mir-27b	rno-mir-27b	opr-mir-27b	ocu-mir-27b	bta-mir-27b	ttr-mir-27b	vpa-mir-27b	ssc-mir-27b	cfa-mir-27b	fca-mir-27b	eca-mir-27b	mlu-mir-27b	sar-mir-27b	cho-mir-27b	ete-mir-27b	meu-mir-27b	mga-mir-27b	tgu-mir-27b	aca-mir-27b	gac-mir-27b	ola-mir-27b	tru-mir-27b	tni-mir-27b	tgu-mir-27	xtr-mir-27c-1	xtr-mir-27c-2	dre-mir-27c	dre-mir-27d	dre-mir-27e
+mir-26	hsa-mir-26a-1	ptr-mir-26a-1	ggo-mir-26a-1	ppy-mir-26a-1	mml-mir-26a-1	cja-mir-26a-1	mmr-mir-26a-1	mmu-mir-26a-1	bta-mir-26a-1	cfa-mir-26a-1	pva-mir-26a-1	hsa-mir-26b	ptr-mir-26b	ppy-mir-26b	mml-mir-26b	mmu-mir-26b	rno-mir-26b	bta-mir-26b	cfa-mir-26b	hsa-mir-26a-2	ptr-mir-26a-2	ppy-mir-26a-2	mml-mir-26a-2	oga-mir-26a-2	mmu-mir-26a-2	str-mir-26a-2	bta-mir-26a-2	ttr-mir-26a-2	cfa-mir-26a-2	eeu-mir-26a-2	laf-mir-26a-2	mdo-mir-26-2	mdo-mir-26-3	mdo-mir-26-1	tru-mir-26	tni-mir-26	dre-mir-26a-3
+mir-29	hsa-mir-29a	ptr-mir-29a	ggo-mir-29a	ppy-mir-29a	mml-mir-29a	mmu-mir-29a	rno-mir-29a	bta-mir-29a	ssc-mir-29a	cfa-mir-29a	eca-mir-29a	mdo-mir-29a	hsa-mir-29b-1	ptr-mir-29b-1	ggo-mir-29b-1	ppy-mir-29b-1	mml-mir-29b-1	cja-mir-29b-1	mmr-mir-29b-1	oga-mir-29b-1	tbe-mir-29b-1	cpo-mir-29b-1	dor-mir-29b-1	mmu-mir-29b-1	rno-mir-29b-1	opr-mir-29b-1	ocu-mir-29b-1	bta-mir-29b-1	ttr-mir-29b-1	ssc-mir-29b-1	cfa-mir-29b-1	mlu-mir-29b-1	pva-mir-29b-1	eeu-mir-29b-1	cho-mir-29b-1	ete-mir-29b-1	laf-mir-29b-1	pca-mir-29b-1	meu-mir-29b-1	mdo-mir-29b-1	oan-mir-29b-1	gga-mir-29b-1	mga-mir-29b-1	tgu-mir-29b-1	aca-mir-29b-1	hsa-mir-29b-2	ptr-mir-29b-2	ggo-mir-29b-2	ppy-mir-29b-2	mml-mir-29b-2	tsy-mir-29b-2	mmu-mir-29b-2	rno-mir-29b-2	str-mir-29b-2	bta-mir-29b-2	vpa-mir-29b-2	cfa-mir-29b-2	fca-mir-29b-2	eca-mir-29b-2	sar-mir-29b-2	oan-mir-29b-2	gga-mir-29b-2	tgu-mir-29b-2	hsa-mir-29c	ptr-mir-29c	ppy-mir-29c	mml-mir-29c	mmu-mir-29c	rno-mir-29c	bta-mir-29c	ssc-mir-29c	eca-mir-29c	gga-mir-29c	bta-mir-29d	bta-mir-29e	ssc-mir-29b	eca-mir-29b	mdo-mir-29b	cfa-mir-29c-1	cfa-mir-29c-2	eca-mir-29c-2	oan-mir-29a-1	tgu-mir-29a-1	oan-mir-29a-2	tgu-mir-29a-2	dre-mir-29b-3	cin-mir-29
+mir-28	hsa-mir-28	ptr-mir-28	ggo-mir-28	ppy-mir-28	mml-mir-28	cja-mir-28	tsy-mir-28	mmr-mir-28	tbe-mir-28	dor-mir-28	str-mir-28	opr-mir-28	ocu-mir-28	bta-mir-28	ttr-mir-28	vpa-mir-28	ssc-mir-28	cfa-mir-28	fca-mir-28	eca-mir-28	mlu-mir-28	pva-mir-28	eeu-mir-28	sar-mir-28	cho-mir-28	ete-mir-28	laf-mir-28	pca-mir-28
+mir-3170	hsa-mir-3170	ggo-mir-3170	ppy-mir-3170
+mir-3171	hsa-mir-3171
+mir-3173	hsa-mir-3173	ggo-mir-3173	ppy-mir-3173
+mir-3174	hsa-mir-3174	ppy-mir-3174
+mir-3175	hsa-mir-3175	ggo-mir-3175	ppy-mir-3175
+mir-3176	hsa-mir-3176	ggo-mir-3176
+mir-3177	hsa-mir-3177	ggo-mir-3177
+mir-3178	hsa-mir-3178	ppy-mir-3178
+mir-3179	hsa-mir-3179-1	ggo-mir-3179-1	ppy-mir-3179-1	hsa-mir-3179-2	hsa-mir-3179-3
+mir-431	hsa-mir-431	ptr-mir-431	ppy-mir-431	mml-mir-431	mmu-mir-431	rno-mir-431	eca-mir-431
+mir-430	dre-mir-430b-1	dre-mir-430c-1	dre-mir-430c-2	dre-mir-430c-3	dre-mir-430c-4	dre-mir-430c-5	dre-mir-430c-6	dre-mir-430c-7	dre-mir-430c-8	dre-mir-430c-9	dre-mir-430c-10	dre-mir-430c-11	dre-mir-430c-12	dre-mir-430c-13	dre-mir-430c-14	dre-mir-430c-15	dre-mir-430c-16	dre-mir-430c-17	dre-mir-430c-18	dre-mir-430c-19	dre-mir-430c-20	dre-mir-430c-21	dre-mir-430a-2	dre-mir-430a-3	dre-mir-430a-4	dre-mir-430a-5	dre-mir-430a-6	dre-mir-430a-7	dre-mir-430a-8	dre-mir-430a-9	dre-mir-430a-10	dre-mir-430a-11	dre-mir-430a-12	dre-mir-430a-13	dre-mir-430a-14	dre-mir-430a-15	dre-mir-430a-16	dre-mir-430a-17	dre-mir-430a-18	dre-mir-430a-19	dre-mir-430a-20	dre-mir-430a-21	dre-mir-430a-22	dre-mir-430a-23	dre-mir-430i-1	dre-mir-430i-2	dre-mir-430i-3	dre-mir-430b-2	dre-mir-430b-3	dre-mir-430b-4	dre-mir-430b-6	dre-mir-430b-7	dre-mir-430b-8	dre-mir-430b-9	dre-mir-430b-10	dre-mir-430b-11	dre-mir-430b-12	dre-mir-430b-13	dre-mir-430b-14	dre-mir-430b-15	dre-mir-430b-16	dre-mir-430b-17	dre-mir-430b-18	dre-mir-430b-5	dre-mir-430b-19	dre-mir-430b-20	dre-mir-430b-21	dre-mir-430b-22	dre-mir-430b-23	dre-mir-430j	ola-mir-430d-1	ola-mir-430d-2	ola-mir-430d-3
+mir-433	hsa-mir-433	ptr-mir-433	ppy-mir-433	mml-mir-433	mmu-mir-433	rno-mir-433	bta-mir-433	cfa-mir-433	eca-mir-433
+mir-432	hsa-mir-432	ptr-mir-432	ggo-mir-432	ppy-mir-432	mml-mir-432	cja-mir-432	mmr-mir-432	oga-mir-432	cpo-mir-432	str-mir-432	opr-mir-432	ocu-mir-432	bta-mir-432	ttr-mir-432	ssc-mir-432	cfa-mir-432	eca-mir-432	mlu-mir-432	ete-mir-432	pca-mir-432
+mir-434	mmu-mir-434
+mir-3084	mmu-mir-3084
+mir-3085	hsa-mir-3085	ggo-mir-3085	ppy-mir-3085	mml-mir-3085	cja-mir-3085	mmr-mir-3085	tbe-mir-3085	cpo-mir-3085	dor-mir-3085	opr-mir-3085	bta-mir-3085	vpa-mir-3085	cfa-mir-3085	fca-mir-3085	mlu-mir-3085	pva-mir-3085	eeu-mir-3085	cho-mir-3085	laf-mir-3085	pca-mir-3085
+mir-3086	mmu-mir-3086
+mir-3087	mmu-mir-3087
+mir-3080	mmu-mir-3080
+mir-3081	mmu-mir-3081
+mir-3082	mmu-mir-3082	rno-mir-3082
+mir-3083	mmu-mir-3083
+mir-3088	mmu-mir-3088
+mir-3089	mmu-mir-3089
+let-7	hsa-let-7a-1	ptr-let-7a-1	ppy-let-7a-1	mml-let-7a-1	mmu-let-7a-1	rno-let-7a-1	bta-let-7a-1	mdo-let-7a-1	gga-let-7a-1	dre-let-7a-1	hsa-let-7a-2	ptr-let-7a-2	ppy-let-7a-2	mml-let-7a-2	mmu-let-7a-2	rno-let-7a-2	bta-let-7a-2	cfa-let-7a-2	mdo-let-7a-2	gga-let-7a-2	tgu-let-7a-2	hsa-let-7a-3	ptr-let-7a-3	ggo-let-7a-3	ppy-let-7a-3	mml-let-7a-3	cja-let-7a-3	mmr-let-7a-3	oga-let-7a-3	opr-let-7a-3	ocu-let-7a-3	bta-let-7a-3	pva-let-7a-3	laf-let-7a-3	pca-let-7a-3	gga-let-7a-3	aca-let-7a-3	hsa-let-7b	ptr-let-7b	ppy-let-7b	mml-let-7b	mmu-let-7b	rno-let-7b	bta-let-7b	cfa-let-7b	mdo-let-7b	oan-let-7b	gga-let-7b	tni-let-7b	hsa-let-7c	ptr-let-7c	ppy-let-7c	mml-let-7c	tsy-let-7c	tbe-let-7c	cpo-let-7c	str-let-7c	bta-let-7c	ttr-let-7c	vpa-let-7c	ssc-let-7c	cfa-let-7c	eca-let-7c	mlu-let-7c	eeu-let-7c	sar-let-7c	cho-let-7c	ete-let-7c	meu-let-7c	gga-let-7c	xtr-let-7c	hsa-let-7d	ptr-let-7d	ppy-let-7d	mml-let-7d	mmu-let-7d	rno-let-7d	bta-let-7d	eca-let-7d	mdo-let-7d	gga-let-7d	tgu-let-7d	hsa-let-7e	ptr-let-7e	ppy-let-7e	mml-let-7e	mmu-let-7e	rno-let-7e	bta-let-7e	ssc-let-7e	cfa-let-7e	eca-let-7e	hsa-let-7f-1	ptr-let-7f-1	ppy-let-7f-1	mml-let-7f-1	mmu-let-7f-1	rno-let-7f-1	bta-let-7f-1	mdo-let-7f-1	oan-let-7f-1	hsa-let-7f-2	ptr-let-7f-2	ppy-let-7f-2	mml-let-7f-2	mmu-let-7f-2	rno-let-7f-2	bta-let-7f-2	mdo-let-7f-2	oan-let-7f-2	hsa-let-7g	ptr-let-7g	ppy-let-7g	mml-let-7g	mmu-let-7g	bta-let-7g	ssc-let-7g	cfa-let-7g	eca-let-7g	mdo-let-7g	oan-let-7g	gga-let-7g	hsa-let-7i	ptr-let-7i	ppy-let-7i	mml-let-7i	mmu-let-7i	rno-let-7i	bta-let-7i	ssc-let-7i	mdo-let-7i	gga-let-7i	tgu-let-7i	xtr-let-7i	tni-let-7i	mmu-let-7c-1	rno-let-7c-1	tgu-let-7c-1	cfa-let-7f	eca-let-7f	gga-let-7f	tgu-let-7f	ssc-let-7a	eca-let-7a	gga-let-7	mga-let-7	tgu-let-7	dre-let-7	gga-let-7k	tgu-let-7a-4	tgu-let-7g-1	tgu-let-7g-2	xtr-let-7e-1	xtr-let-7e-2	dre-let-7a-5	dre-let-7a-6	dre-let-7d-1	dre-let-7d-2	dre-let-7h
+mir-4203	cin-mir-4203
+mir-4202	cin-mir-4202
+mir-3558	rno-mir-3558
+mir-3559	rno-mir-3559
+mir-4207	cin-mir-4207
+mir-4206	cin-mir-4206
+mir-4205	cin-mir-4205
+mir-4204	cin-mir-4204
+mir-3552	mmu-mir-3552	rno-mir-3552	str-mir-3552	cfa-mir-3552	cho-mir-3552	pca-mir-3552
+mir-3553	rno-mir-3553
+mir-3550	rno-mir-3550
+mir-3551	rno-mir-3551
+mir-3556	hsa-mir-3556b	ggo-mir-3556b	ppy-mir-3556b	mml-mir-3556b	cja-mir-3556b	tsy-mir-3556b	mmr-mir-3556b	cpo-mir-3556b	rno-mir-3556b	str-mir-3556b	vpa-mir-3556b	laf-mir-3556b	meu-mir-3556b	mdo-mir-3556b	rno-mir-3556a
+mir-3557	hsa-mir-3557	ggo-mir-3557	cja-mir-3557	cpo-mir-3557	dor-mir-3557	mmu-mir-3557	rno-mir-3557	str-mir-3557	opr-mir-3557	ocu-mir-3557	bta-mir-3557	ttr-mir-3557	cfa-mir-3557	fca-mir-3557	mlu-mir-3557	pva-mir-3557	cho-mir-3557	ete-mir-3557	laf-mir-3557	pca-mir-3557
+mir-3554	hsa-mir-3554	ggo-mir-3554	ppy-mir-3554	tsy-mir-3554	mmr-mir-3554	cpo-mir-3554	rno-mir-3554	opr-mir-3554	ttr-mir-3554	ssc-mir-3554	mlu-mir-3554	pva-mir-3554	ete-mir-3554	laf-mir-3554	meu-mir-3554	mdo-mir-3554	tgu-mir-3554
+mir-3555	rno-mir-3555
+mir-4337	ssc-mir-4337
+mir-4336	ssc-mir-4336
+mir-4335	ssc-mir-4335
+mir-4334	ssc-mir-4334
+mir-4333	ssc-mir-4333
+mir-4332	ssc-mir-4332
+mir-4331	ssc-mir-4331
+mir-4330	hsa-mir-4330	ptr-mir-4330	ggo-mir-4330	ppy-mir-4330	mml-mir-4330
+mir-4339	ssc-mir-4339
+mir-4338	ssc-mir-4338
+mir-738	dre-mir-738
+mir-4029	cin-mir-4029
+mir-4028	cin-mir-4028
+mir-1717	gga-mir-1717
+mir-4023	cin-mir-4023
+mir-4022	cin-mir-4022
+mir-4021	cin-mir-4021
+mir-4020	cin-mir-4020a	cin-mir-4020b
+mir-4027	cin-mir-4027
+mir-1178	hsa-mir-1178	ptr-mir-1178	ppy-mir-1178
+mir-4025	cin-mir-4025
+mir-4024	cin-mir-4024
+mir-182	hsa-mir-182	ptr-mir-182	ggo-mir-182	ppy-mir-182	mml-mir-182	cja-mir-182	oga-mir-182	cpo-mir-182	dor-mir-182	mmu-mir-182	ocu-mir-182	ttr-mir-182	ssc-mir-182	cfa-mir-182	fca-mir-182	eca-mir-182	eeu-mir-182	ete-mir-182	laf-mir-182	mdo-mir-182	dre-mir-182	tni-mir-182
+mir-639	hsa-mir-639	ppy-mir-639
+mir-4201	cin-mir-4201
+mir-638	hsa-mir-638	ppy-mir-638	mml-mir-638
+mir-188	hsa-mir-188	ptr-mir-188	ggo-mir-188	ppy-mir-188	mml-mir-188	cja-mir-188	tsy-mir-188	mmr-mir-188	oga-mir-188	tbe-mir-188	cpo-mir-188	dor-mir-188	mmu-mir-188	rno-mir-188	str-mir-188	ocu-mir-188	bta-mir-188	ttr-mir-188	vpa-mir-188	cfa-mir-188	eca-mir-188	pva-mir-188	eeu-mir-188	sar-mir-188	laf-mir-188	pca-mir-188
+mir-4200	cin-mir-4200
+mir-1323	hsa-mir-1323	ptr-mir-1323	ggo-mir-1323	ppy-mir-1323	mml-mir-1323
+mir-1322	hsa-mir-1322	ptr-mir-1322	ppy-mir-1322
+mir-1321	hsa-mir-1321
+mir-1327	oan-mir-1327
+mir-1326	oan-mir-1326
+mir-1497	cin-mir-1497
+mir-1324	hsa-mir-1324	ptr-mir-1324	ggo-mir-1324	hsa-mir-1324-1	ptr-mir-1324-1	ptr-mir-1324-2
+mir-1329	ttr-mir-1329	meu-mir-1329	mdo-mir-1329	oan-mir-1329	mga-mir-1329	tgu-mir-1329	aca-mir-1329	xtr-mir-1329
+mir-1328	oan-mir-1328
+mir-152	hsa-mir-152	ptr-mir-152	ggo-mir-152	mml-mir-152	cja-mir-152	mmr-mir-152	oga-mir-152	cpo-mir-152	dor-mir-152	mmu-mir-152	rno-mir-152	str-mir-152	opr-mir-152	ocu-mir-152	bta-mir-152	ttr-mir-152	ssc-mir-152	cfa-mir-152	pva-mir-152	sar-mir-152	laf-mir-152	pca-mir-152	mdo-mir-152
+mir-153	hsa-mir-153-1	ggo-mir-153-1	ppy-mir-153-1	mml-mir-153-1	bta-mir-153-1	laf-mir-153-1	pca-mir-153-1	mdo-mir-153-1	hsa-mir-153-2	ppy-mir-153-2	mml-mir-153-2	cja-mir-153-2	tsy-mir-153-2	mmr-mir-153-2	oga-mir-153-2	cpo-mir-153-2	rno-mir-153-2	str-mir-153-2	ocu-mir-153-2	bta-mir-153-2	ttr-mir-153-2	pva-mir-153-2	cho-mir-153-2	mdo-mir-153-2	xtr-mir-153-2	hsa-mir-153	ptr-mir-153	ggo-mir-153	tbe-mir-153	mmu-mir-153	rno-mir-153	opr-mir-153	ssc-mir-153	cfa-mir-153	fca-mir-153	eca-mir-153	mlu-mir-153	mdo-mir-153	gga-mir-153	mga-mir-153	tgu-mir-153	aca-mir-153	xtr-mir-153	dre-mir-153	gac-mir-153	ola-mir-153	tru-mir-153	tni-mir-153	dre-mir-153b	dre-mir-153a	tni-mir-153a	dre-mir-153c
+mir-150	hsa-mir-150	ptr-mir-150	ggo-mir-150	ppy-mir-150	mml-mir-150	cja-mir-150	mmr-mir-150	cpo-mir-150	dor-mir-150	mmu-mir-150	rno-mir-150	str-mir-150	ocu-mir-150	ttr-mir-150	ssc-mir-150	cfa-mir-150	fca-mir-150	eca-mir-150	laf-mir-150
+mir-151	hsa-mir-151	ptr-mir-151	ggo-mir-151	ppy-mir-151	mml-mir-151	mmr-mir-151	oga-mir-151	cpo-mir-151	dor-mir-151	mmu-mir-151	rno-mir-151	str-mir-151	ocu-mir-151	bta-mir-151	ssc-mir-151	cfa-mir-151	fca-mir-151	eca-mir-151	mlu-mir-151	pva-mir-151	sar-mir-151	cho-mir-151	laf-mir-151	pca-mir-151
+mir-154	hsa-mir-154	ptr-mir-154	ggo-mir-154	ppy-mir-154	mml-mir-154	cja-mir-154	mmr-mir-154	oga-mir-154	tbe-mir-154	mmu-mir-154	rno-mir-154	str-mir-154	ttr-mir-154	eca-mir-154	cho-mir-154	ete-mir-154	laf-mir-154	pca-mir-154
+mir-155	hsa-mir-155	ptr-mir-155	ggo-mir-155	ppy-mir-155	mml-mir-155	cja-mir-155	tsy-mir-155	tbe-mir-155	cpo-mir-155	dor-mir-155	mmu-mir-155	str-mir-155	opr-mir-155	ocu-mir-155	bta-mir-155	ttr-mir-155	vpa-mir-155	ssc-mir-155	cfa-mir-155	fca-mir-155	eca-mir-155	mlu-mir-155	pva-mir-155	eeu-mir-155	sar-mir-155	cho-mir-155	ete-mir-155	laf-mir-155	gga-mir-155	mga-mir-155	tgu-mir-155
+mir-1929	mmu-mir-1929
+mir-1928	mmu-mir-1928
+mir-2210	cel-mir-2210
+mir-2211	cel-mir-2211
+mir-2216	cel-mir-2216
+mir-2217	cel-mir-2217
+mir-2214	cel-mir-2214
+mir-2215	cel-mir-2215
+mir-2218	cel-mir-2218a	cel-mir-2218b
+mir-2219	cel-mir-2219
+mir-1927	mmu-mir-1927
+mir-556	hsa-mir-556	ptr-mir-556	ggo-mir-556	ppy-mir-556	cja-mir-556
+mir-557	hsa-mir-557	ptr-mir-557	ppy-mir-557
+mir-554	hsa-mir-554	ptr-mir-554	ggo-mir-554	ppy-mir-554	mml-mir-554
+mir-555	hsa-mir-555	ptr-mir-555	ggo-mir-555	ppy-mir-555
+mir-552	hsa-mir-552	ptr-mir-552	ggo-mir-552
+mir-553	hsa-mir-553	ptr-mir-553	ppy-mir-553
+mir-550	hsa-mir-550a-1	ggo-mir-550a-1	ppy-mir-550a-1	mml-mir-550a-1	hsa-mir-550a-2	hsa-mir-550b-1	hsa-mir-550b-2	hsa-mir-550	mml-mir-550	ptr-mir-550-1	ptr-mir-550-2	ptr-mir-550-3
+mir-551	hsa-mir-551a	ptr-mir-551a	ggo-mir-551a	ppy-mir-551a	mml-mir-551a	cja-mir-551a	eca-mir-551a	laf-mir-551a	hsa-mir-551b	ptr-mir-551b	ppy-mir-551b	mml-mir-551b	mmr-mir-551b	oga-mir-551b	tbe-mir-551b	dor-mir-551b	opr-mir-551b	ocu-mir-551b	ttr-mir-551b	vpa-mir-551b	cfa-mir-551b	eca-mir-551b	pva-mir-551b	eeu-mir-551b	sar-mir-551b	ete-mir-551b	pca-mir-551b	tgu-mir-551
+mir-2964	gga-mir-2964	mga-mir-2964
+mir-2965	tgu-mir-2965
+mir-2966	tgu-mir-2966
+mir-2967	tgu-mir-2967
+mir-2960	tgu-mir-2960
+mir-2961	tgu-mir-2961
+mir-558	hsa-mir-558	ptr-mir-558	ppy-mir-558	mml-mir-558
+mir-559	hsa-mir-559	ptr-mir-559	ggo-mir-559	ppy-mir-559	cja-mir-559
+mir-1013	dme-mir-1013
+mir-2366	bta-mir-2366
+mir-2367	bta-mir-2367
+mir-2364	bta-mir-2364
+mir-2365	bta-mir-2365
+mir-2362	bta-mir-2362
+mir-2363	bta-mir-2363-1	bta-mir-2363-2
+mir-2360	bta-mir-2360
+mir-2361	bta-mir-2361
+mir-1815	gga-mir-1815
+mir-1814	bta-mir-1814a	bta-mir-1814b	bta-mir-1814c	gga-mir-1814
+mir-1817	cel-mir-1817
+mir-1816	gga-mir-1816
+mir-1811	gga-mir-1811	mga-mir-1811
+mir-2368	bta-mir-2368
+mir-2369	bta-mir-2369
+mir-880	mmu-mir-880
+mir-881	mmu-mir-881
+mir-330	hsa-mir-330	ptr-mir-330	ggo-mir-330	ppy-mir-330	mml-mir-330	cja-mir-330	tsy-mir-330	oga-mir-330	tbe-mir-330	cpo-mir-330	dor-mir-330	bta-mir-330	ttr-mir-330	cfa-mir-330	fca-mir-330	eca-mir-330	mlu-mir-330	pva-mir-330	eeu-mir-330
+mir-331	hsa-mir-331	ptr-mir-331	ggo-mir-331	ppy-mir-331	mml-mir-331	cja-mir-331	mmr-mir-331	oga-mir-331	tbe-mir-331	cpo-mir-331	dor-mir-331	mmu-mir-331	rno-mir-331	str-mir-331	opr-mir-331	ocu-mir-331	bta-mir-331	vpa-mir-331	ssc-mir-331	cfa-mir-331	eca-mir-331	mlu-mir-331	pva-mir-331	sar-mir-331	cho-mir-331	ete-mir-331	laf-mir-331	pca-mir-331
+mir-336	rno-mir-336
+mir-885	hsa-mir-885	ptr-mir-885	ggo-mir-885	ppy-mir-885	mml-mir-885	cja-mir-885	tsy-mir-885	mmr-mir-885	tbe-mir-885	opr-mir-885	ocu-mir-885	bta-mir-885	ssc-mir-885	cfa-mir-885	fca-mir-885	eca-mir-885	mlu-mir-885	pva-mir-885	laf-mir-885
+mir-335	hsa-mir-335	ptr-mir-335	ggo-mir-335	ppy-mir-335	mml-mir-335	cja-mir-335	mmr-mir-335	oga-mir-335	tbe-mir-335	cpo-mir-335	dor-mir-335	rno-mir-335	ocu-mir-335	bta-mir-335	ttr-mir-335	vpa-mir-335	ssc-mir-335	cfa-mir-335	eca-mir-335	mlu-mir-335	pva-mir-335	eeu-mir-335	sar-mir-335	cho-mir-335
+mir-888	hsa-mir-888	ggo-mir-888	ppy-mir-888
+mir-889	hsa-mir-889	ptr-mir-889	ppy-mir-889	mml-mir-889	eca-mir-889
+mir-338	hsa-mir-338	ptr-mir-338	ppy-mir-338	mml-mir-338	cja-mir-338	tsy-mir-338	oga-mir-338	rno-mir-338	bta-mir-338	ssc-mir-338	cfa-mir-338	fca-mir-338	eca-mir-338	pva-mir-338	laf-mir-338	pca-mir-338	aca-mir-338	xtr-mir-338-2	xtr-mir-338-3	dre-mir-338-4
+mir-339	hsa-mir-339	ptr-mir-339	ggo-mir-339	ppy-mir-339	mml-mir-339	cja-mir-339	oga-mir-339	tbe-mir-339	cpo-mir-339	dor-mir-339	opr-mir-339	bta-mir-339b
+mir-3941	hsa-mir-3941
+mir-3940	hsa-mir-3940	ggo-mir-3940	ppy-mir-3940
+mir-3943	hsa-mir-3943	ggo-mir-3943	ppy-mir-3943
+mir-3942	hsa-mir-3942	ggo-mir-3942	ppy-mir-3942
+mir-3945	hsa-mir-3945
+mir-3944	hsa-mir-3944
+mir-14	dme-mir-14
+mir-15	hsa-mir-15a	ptr-mir-15a	ggo-mir-15a	ppy-mir-15a	mml-mir-15a	cja-mir-15a	tsy-mir-15a	mmr-mir-15a	oga-mir-15a	tbe-mir-15a	cpo-mir-15a	dor-mir-15a	mmu-mir-15a	str-mir-15a	opr-mir-15a	bta-mir-15a	ttr-mir-15a	vpa-mir-15a	ssc-mir-15a	cfa-mir-15a	eca-mir-15a	mlu-mir-15a	sar-mir-15a	cho-mir-15a	laf-mir-15a	pca-mir-15a	meu-mir-15a	mdo-mir-15a	gga-mir-15a	mga-mir-15a	tgu-mir-15a	hsa-mir-15b	ptr-mir-15b	ggo-mir-15b	ppy-mir-15b	mml-mir-15b	mmu-mir-15b	rno-mir-15b	ocu-mir-15b	bta-mir-15b	ssc-mir-15b	cfa-mir-15b	fca-mir-15b	eca-mir-15b	pva-mir-15b	eeu-mir-15b	ete-mir-15b	gga-mir-15b	oan-mir-15c	gga-mir-15c	tgu-mir-15c	dre-mir-15a-1	dre-mir-15a-2	cin-mir-15
+mir-16	hsa-mir-16-1	ptr-mir-16-1	ggo-mir-16-1	ppy-mir-16-1	mml-mir-16-1	cja-mir-16-1	tsy-mir-16-1	oga-mir-16-1	tbe-mir-16-1	cpo-mir-16-1	dor-mir-16-1	mmu-mir-16-1	str-mir-16-1	opr-mir-16-1	ocu-mir-16-1	bta-mir-16-1	ttr-mir-16-1	vpa-mir-16-1	cfa-mir-16-1	mlu-mir-16-1	pva-mir-16-1	eeu-mir-16-1	sar-mir-16-1	cho-mir-16-1	laf-mir-16-1	pca-mir-16-1	meu-mir-16-1	mdo-mir-16-1	tgu-mir-16-1	hsa-mir-16-2	ptr-mir-16-2	ppy-mir-16-2	mml-mir-16-2	mmu-mir-16-2	rno-mir-16-2	cfa-mir-16-2	fca-mir-16-2	ete-mir-16-2	ggo-mir-16	ppy-mir-16	mdo-mir-16	bta-mir-16b	oan-mir-16b	bta-mir-16a	oan-mir-16c	gga-mir-16c	tgu-mir-16c
+mir-17	hsa-mir-17	ptr-mir-17	ggo-mir-17	ppy-mir-17	mml-mir-17	cja-mir-17	tsy-mir-17	mmr-mir-17	oga-mir-17	tbe-mir-17	cpo-mir-17	dor-mir-17	mmu-mir-17	rno-mir-17	str-mir-17	opr-mir-17	ocu-mir-17	bta-mir-17	ttr-mir-17	vpa-mir-17	ssc-mir-17	cfa-mir-17	fca-mir-17	eca-mir-17	mlu-mir-17	pva-mir-17	eeu-mir-17	sar-mir-17	laf-mir-17	meu-mir-17	mdo-mir-17	oan-mir-17	aca-mir-17	ptr-mir-17-2	mml-mir-17-2	rno-mir-17-2	pca-mir-17-2	rno-mir-17-1	tgu-mir-17a	dre-mir-17a-1	dre-mir-17a-2
+mir-10	hsa-mir-10a	ptr-mir-10a	ggo-mir-10a	ppy-mir-10a	mml-mir-10a	cja-mir-10a	tsy-mir-10a	mmr-mir-10a	oga-mir-10a	tbe-mir-10a	cpo-mir-10a	mmu-mir-10a	rno-mir-10a	opr-mir-10a	ocu-mir-10a	bta-mir-10a	ssc-mir-10a	fca-mir-10a	eca-mir-10a	pva-mir-10a	eeu-mir-10a	cho-mir-10a	ete-mir-10a	laf-mir-10a	meu-mir-10a	mdo-mir-10a	oan-mir-10a	gga-mir-10a	mga-mir-10a	hsa-mir-10b	ptr-mir-10b	ggo-mir-10b	ppy-mir-10b	mml-mir-10b	dor-mir-10b	mmu-mir-10b	rno-mir-10b	str-mir-10b	bta-mir-10b	ttr-mir-10b	vpa-mir-10b	ssc-mir-10b	cfa-mir-10b	eca-mir-10b	mlu-mir-10b	pca-mir-10b	xtr-mir-10b	cfa-mir-10	dre-mir-10b-1	dre-mir-10b-2	dre-mir-10d
+mir-11	dme-mir-11
+mir-12	dme-mir-12
+mir-2145	hsa-mir-2145-1	ptr-mir-2145-1	ppy-mir-2145-1	cja-mir-2145-1	tsy-mir-2145-1	mmr-mir-2145-1	cpo-mir-2145-1	str-mir-2145-1	ttr-mir-2145-1	cfa-mir-2145-1	mlu-mir-2145-1	cho-mir-2145-1	ete-mir-2145-1	pca-mir-2145-1	meu-mir-2145-1	aca-mir-2145-1	mmu-mir-2145-2
+mir-3163	hsa-mir-3163	ggo-mir-3163
+mir-3162	hsa-mir-3162
+mir-3161	hsa-mir-3161
+mir-3160	hsa-mir-3160-1	hsa-mir-3160-2
+mir-3167	hsa-mir-3167	ggo-mir-3167	ppy-mir-3167
+mir-3166	hsa-mir-3166
+mir-3165	hsa-mir-3165	ggo-mir-3165
+mir-3164	hsa-mir-3164	ggo-mir-3164	ppy-mir-3164
+mir-4208	cin-mir-4208
+mir-3169	hsa-mir-3169	ggo-mir-3169
+mir-3168	hsa-mir-3168	ggo-mir-3168	ppy-mir-3168
+lin-4	cel-lin-4
+mir-428	xtr-mir-428
+mir-429	oga-mir-429	tbe-mir-429	cpo-mir-429	dor-mir-429	mmu-mir-429	bta-mir-429	ttr-mir-429	ssc-mir-429	fca-mir-429	eca-mir-429	mlu-mir-429	pva-mir-429	eeu-mir-429	sar-mir-429	laf-mir-429	dre-mir-429b
+mir-427	xtr-mir-427-1	xtr-mir-427-2	xtr-mir-427-3
+mir-424	hsa-mir-424	ptr-mir-424	ggo-mir-424	ppy-mir-424	mml-mir-424	cja-mir-424	tsy-mir-424	mmr-mir-424	cpo-mir-424	str-mir-424	bta-mir-424	ssc-mir-424	cfa-mir-424	eca-mir-424
+mir-425	hsa-mir-425	ptr-mir-425	ppy-mir-425	mml-mir-425	mmr-mir-425	tbe-mir-425	cpo-mir-425	mmu-mir-425	rno-mir-425	str-mir-425	ocu-mir-425	bta-mir-425	ttr-mir-425	vpa-mir-425	ssc-mir-425	cfa-mir-425	fca-mir-425	pva-mir-425	sar-mir-425	ete-mir-425	laf-mir-425
+mir-422	hsa-mir-422a	ptr-mir-422a	ggo-mir-422a	ppy-mir-422a
+mir-423	hsa-mir-423	ptr-mir-423	ggo-mir-423	ppy-mir-423	mml-mir-423	cja-mir-423	tsy-mir-423	oga-mir-423	tbe-mir-423	cpo-mir-423	dor-mir-423	mmu-mir-423	rno-mir-423	opr-mir-423	ocu-mir-423	bta-mir-423	vpa-mir-423	ssc-mir-423	cfa-mir-423	eca-mir-423	mlu-mir-423	pva-mir-423	eeu-mir-423	cho-mir-423	ete-mir-423	laf-mir-423	cfa-mir-423a
+mir-421	hsa-mir-421	ptr-mir-421	ggo-mir-421	mml-mir-421	cja-mir-421	tsy-mir-421	oga-mir-421	tbe-mir-421	mmu-mir-421	rno-mir-421	ocu-mir-421	bta-mir-421	ttr-mir-421	vpa-mir-421	ssc-mir-421	cfa-mir-421	fca-mir-421	eca-mir-421	pva-mir-421	eeu-mir-421	sar-mir-421	laf-mir-421
+mir-2500	dme-mir-2500
+mir-3097	mmu-mir-3097
+mir-3096	mmu-mir-3096
+mir-3095	mmu-mir-3095
+mir-3094	mmu-mir-3094
+mir-3093	mmu-mir-3093
+mir-3092	mmu-mir-3092
+mir-3091	mmu-mir-3091
+mir-3090
+mir-3099	mmu-mir-3099	rno-mir-3099
+mir-3098	mmu-mir-3098
+mir-2501	dme-mir-2501
+mir-981	dme-mir-981
+mir-3549	rno-mir-3549
+mir-3548	hsa-mir-3548	ggo-mir-3548	ppy-mir-3548	tbe-mir-3548	cpo-mir-3548	dor-mir-3548	rno-mir-3548	opr-mir-3548	bta-mir-3548	ttr-mir-3548	cfa-mir-3548	fca-mir-3548	mlu-mir-3548	pva-mir-3548	eeu-mir-3548	sar-mir-3548	ete-mir-3548	laf-mir-3548	pca-mir-3548
+mir-980	dme-mir-980
+mir-3545	hsa-mir-3545	ggo-mir-3545	ppy-mir-3545	mmr-mir-3545	cpo-mir-3545	ttr-mir-3545	cfa-mir-3545	pva-mir-3545
+mir-3544	hsa-mir-3544	ggo-mir-3544	ppy-mir-3544	cja-mir-3544	tsy-mir-3544	cpo-mir-3544	dor-mir-3544	ocu-mir-3544	laf-mir-3544
+mir-3547	rno-mir-3547
+mir-3546	hsa-mir-3546	ggo-mir-3546	ppy-mir-3546	cja-mir-3546	mmr-mir-3546	oga-mir-3546	tbe-mir-3546	cpo-mir-3546	dor-mir-3546	rno-mir-3546	str-mir-3546	opr-mir-3546	ocu-mir-3546	bta-mir-3546	ssc-mir-3546	cfa-mir-3546	fca-mir-3546	mlu-mir-3546	pva-mir-3546	cho-mir-3546	ete-mir-3546	laf-mir-3546	pca-mir-3546
+mir-3541	rno-mir-3541
+mir-3540	gga-mir-3540
+mir-3543	rno-mir-3543
+mir-3542	rno-mir-3542
+mir-982	dme-mir-982
+mir-985	dme-mir-985
+mir-4182	cin-mir-4182
+mir-984	dme-mir-984
+mir-987	dme-mir-987
+mir-986	dme-mir-986
+mir-66	cel-mir-66
+mir-4308	hsa-mir-4308	ppy-mir-4308
+mir-4309	hsa-mir-4309	ggo-mir-4309	ppy-mir-4309
+mir-4302	hsa-mir-4302
+mir-4303	hsa-mir-4303	ggo-mir-4303	ppy-mir-4303
+mir-4300	hsa-mir-4300
+mir-4301	hsa-mir-4301
+mir-4306	hsa-mir-4306
+mir-4307	hsa-mir-4307
+mir-4304	hsa-mir-4304	ggo-mir-4304
+mir-4305	hsa-mir-4305	ggo-mir-4305	cja-mir-4305
+mir-3431	dor-mir-3431	ttr-mir-3431	laf-mir-3431
+mir-3432	bta-mir-3432-1	bta-mir-3432-2
+bantam	dme-bantam
+mir-1342	oan-mir-1342
+mir-4018	cin-mir-4018a	cin-mir-4018b
+mir-4019	cin-mir-4019
+mir-4016	cin-mir-4016-1	cin-mir-4016-2
+mir-4017	cin-mir-4017-1	cin-mir-4017-2
+mir-4014	cin-mir-4014-1	cin-mir-4014-2
+mir-4015	cin-mir-4015-1	cin-mir-4015-2
+mir-4012	cin-mir-4012-1	cin-mir-4012-2
+mir-4013	cin-mir-4013a	cin-mir-4013b
+mir-4010	cin-mir-4010-1	cin-mir-4010-2
+mir-4011	cin-mir-4011a	cin-mir-4011b
+mir-2959	tgu-mir-2959
+mir-2958	tgu-mir-2958
+mir-71	cel-mir-71
+mir-1792	gga-mir-1792
+mir-1793	gga-mir-1793
+mir-1790	gga-mir-1790
+mir-1791	gga-mir-1791	mga-mir-1791	tgu-mir-1791
+mir-1796	gga-mir-1796
+mir-1797	gga-mir-1797
+mir-1794	gga-mir-1794	mga-mir-1794
+mir-1795	gga-mir-1795
+mir-1798	gga-mir-1798
+mir-1799	gga-mir-1799
+mir-1550	gga-mir-1550	mga-mir-1550
+mir-1551	gga-mir-1551
+mir-1552	gga-mir-1552
+mir-1553	gga-mir-1553
+mir-1554	gga-mir-1554
+mir-1555	gga-mir-1555	mga-mir-1555
+mir-1556	gga-mir-1556
+mir-1557	gga-mir-1557
+mir-1558	gga-mir-1558
+mir-1559	gga-mir-1559	tgu-mir-1559
+mir-1008	dme-mir-1008
+mir-1009	dme-mir-1009
+mir-1778	gga-mir-1778	mga-mir-1778
+mir-1779	gga-mir-1779
+mir-2207	cel-mir-2207
+mir-1958	mmu-mir-1958
+mir-1959	mmu-mir-1959
+mir-1770	gga-mir-1770	mga-mir-1770
+mir-1955	mmu-mir-1955	fca-mir-1955
+mir-1956	hsa-mir-1956	ggo-mir-1956	ppy-mir-1956	mml-mir-1956	cja-mir-1956	tbe-mir-1956	rno-mir-1956	str-mir-1956	ocu-mir-1956	vpa-mir-1956	cfa-mir-1956	fca-mir-1956	laf-mir-1956	pca-mir-1956
+mir-1957
+mir-1950	mmu-mir-1950
+mir-1951	mmu-mir-1951
+mir-1776	gga-mir-1776	mga-mir-1776
+mir-1777	bta-mir-1777b	fca-mir-1777b	bta-mir-1777a	gga-mir-1777
+mir-523	hsa-mir-523	ptr-mir-523	ggo-mir-523	ppy-mir-523	hsa-mir-523b	mml-mir-523a
+mir-522	hsa-mir-522	ptr-mir-522	ggo-mir-522	ppy-mir-522
+mir-521	hsa-mir-521-2	ptr-mir-521-2	ggo-mir-521-2	ppy-mir-521-2	mml-mir-521-2	hsa-mir-521-1	ptr-mir-521-1	ppy-mir-521-1	hsa-mir-521	mml-mir-521
+mir-520	hsa-mir-520e	ptr-mir-520e	ppy-mir-520e	hsa-mir-520f	ptr-mir-520f	ppy-mir-520f	hsa-mir-520a	ptr-mir-520a	ppy-mir-520a	mml-mir-520a	hsa-mir-520b	ptr-mir-520b	ppy-mir-520b	hsa-mir-520c	ptr-mir-520c	ppy-mir-520c	hsa-mir-520d	ptr-mir-520d	ppy-mir-520d	hsa-mir-520g	ptr-mir-520g	ppy-mir-520g	hsa-mir-520h	ptr-mir-520h	ppy-mir-520h
+mir-527	hsa-mir-527	ptr-mir-527	ggo-mir-527	ppy-mir-527
+mir-526	hsa-mir-526b	ptr-mir-526b	ppy-mir-526b	mml-mir-526b	hsa-mir-526a-1	ptr-mir-526a-1	hsa-mir-526a-2	ptr-mir-526a-2
+mir-525	hsa-mir-525	ptr-mir-525	ggo-mir-525	ppy-mir-525	mml-mir-525
+mir-524	hsa-mir-524	ptr-mir-524	ggo-mir-524	ppy-mir-524
+mir-2977	tgu-mir-2977
+mir-2976	tgu-mir-2976-1	tgu-mir-2976-3	tgu-mir-2976-2
+mir-2975	tgu-mir-2975
+mir-2974	tgu-mir-2974
+mir-2973	tgu-mir-2973
+mir-2972	tgu-mir-2972
+mir-2971	tgu-mir-2971
+mir-2970	tgu-mir-2970
+mir-2379	bta-mir-2379
+mir-2378	bta-mir-2378
+mir-2371	bta-mir-2371
+mir-2370	bta-mir-2370
+mir-2373	bta-mir-2373
+mir-2372	bta-mir-2372
+mir-2375	bta-mir-2375
+mir-2374	bta-mir-2374
+mir-2377	bta-mir-2377
+mir-2376	bta-mir-2376
+mir-181	tsy-mir-181a-2	oga-mir-181a-2	tbe-mir-181a-2	cpo-mir-181a-2	str-mir-181a-2	opr-mir-181a-2	ocu-mir-181a-2	ttr-mir-181a-2	vpa-mir-181a-2	cfa-mir-181a-2	fca-mir-181a-2	mlu-mir-181a-2	pva-mir-181a-2	sar-mir-181a-2	cho-mir-181a-2	laf-mir-181a-2	pca-mir-181a-2	mdo-mir-181a-2	oan-mir-181a-2	mga-mir-181a-2	aca-mir-181a-2	hsa-mir-181b-1	ptr-mir-181b-1	mml-mir-181b-1	mmu-mir-181b-1	rno-mir-181b-1	ssc-mir-181b-1	cfa-mir-181b-1	gga-mir-181b-1	tgu-mir-181b-1	hsa-mir-181c	ptr-mir-181c	ggo-mir-181c	ppy-mir-181c	mml-mir-181c	mmu-mir-181c	rno-mir-181c	bta-mir-181c	ssc-mir-181c	cfa-mir-181c	mdo-mir-181c	hsa-mir-181a-1	ptr-mir-181a-1	ggo-mir-181a-1	ppy-mir-181a-1	mml-mir-181a-1	mmu-mir-181a-1	rno-mir-181a-1	ssc-mir-181a-1	cfa-mir-181a-1	tgu-mir-181a-1	hsa-mir-181b-2	ptr-mir-181b-2	ppy-mir-181b-2	mml-mir-181b-2	bta-mir-181b-2	ssc-mir-181b-2	cfa-mir-181b-2	hsa-mir-181d	ptr-mir-181d	ppy-mir-181d	mml-mir-181d	mmu-mir-181d	rno-mir-181d	bta-mir-181d	ssc-mir-181d	cfa-mir-181d	ggo-mir-181b	ppy-mir-181b	mdo-mir-181b	eca-mir-181a	mdo-mir-181a	cin-mir-181
+mir-183	hsa-mir-183	ptr-mir-183	ggo-mir-183	ppy-mir-183	mml-mir-183	cja-mir-183	tsy-mir-183	mmr-mir-183	oga-mir-183	cpo-mir-183	dor-mir-183	mmu-mir-183	rno-mir-183	str-mir-183	opr-mir-183	ocu-mir-183	bta-mir-183	ttr-mir-183	vpa-mir-183	ssc-mir-183	cfa-mir-183	fca-mir-183	eca-mir-183	mlu-mir-183	sar-mir-183	ete-mir-183	pca-mir-183
+mir-1179	hsa-mir-1179	ptr-mir-1179	ggo-mir-1179	ppy-mir-1179	mml-mir-1179	eca-mir-1179
+mir-185	hsa-mir-185	ptr-mir-185	ggo-mir-185	ppy-mir-185	mml-mir-185	cja-mir-185	oga-mir-185	tbe-mir-185	cpo-mir-185	dor-mir-185	mmu-mir-185	rno-mir-185	str-mir-185	opr-mir-185	ocu-mir-185	ttr-mir-185	ssc-mir-185	cfa-mir-185	fca-mir-185	mlu-mir-185	laf-mir-185	pca-mir-185
+mir-184	hsa-mir-184	ptr-mir-184	ppy-mir-184	mml-mir-184	cja-mir-184	tbe-mir-184	cpo-mir-184	mmu-mir-184	str-mir-184	opr-mir-184	ocu-mir-184	bta-mir-184	ttr-mir-184	vpa-mir-184	ssc-mir-184	cfa-mir-184	fca-mir-184	eca-mir-184	pva-mir-184	ete-mir-184	laf-mir-184	pca-mir-184	meu-mir-184	mdo-mir-184	dre-mir-184-2
+mir-187	hsa-mir-187	ggo-mir-187	ppy-mir-187	mml-mir-187	cja-mir-187	tsy-mir-187	mmr-mir-187	cpo-mir-187	dor-mir-187	mmu-mir-187	str-mir-187	opr-mir-187	ocu-mir-187	bta-mir-187	ttr-mir-187	ssc-mir-187	cfa-mir-187	fca-mir-187	eca-mir-187	mlu-mir-187	sar-mir-187	cho-mir-187	laf-mir-187
+mir-186	hsa-mir-186	ptr-mir-186	ggo-mir-186	ppy-mir-186	mml-mir-186	cja-mir-186	tsy-mir-186	mmr-mir-186	oga-mir-186	tbe-mir-186	cpo-mir-186	dor-mir-186	mmu-mir-186	rno-mir-186	opr-mir-186	ocu-mir-186	bta-mir-186	ttr-mir-186	vpa-mir-186	ssc-mir-186	cfa-mir-186	eca-mir-186	mlu-mir-186	pva-mir-186	eeu-mir-186	sar-mir-186	cho-mir-186	ete-mir-186	laf-mir-186	pca-mir-186
+mir-637	hsa-mir-637	ptr-mir-637	ppy-mir-637
+mir-636	hsa-mir-636	ppy-mir-636	mml-mir-636
+mir-635	hsa-mir-635	ptr-mir-635	ggo-mir-635
+mir-634	hsa-mir-634	ptr-mir-634	ggo-mir-634	ppy-mir-634
+mir-633	hsa-mir-633	ptr-mir-633	ggo-mir-633	ppy-mir-633	mml-mir-633
+mir-632	hsa-mir-632	ptr-mir-632	ggo-mir-632	mml-mir-632	mmr-mir-632	oga-mir-632	cfa-mir-632	eca-mir-632
+mir-631	hsa-mir-631	ptr-mir-631	ggo-mir-631	ppy-mir-631	mml-mir-631	cja-mir-631
+mir-630	hsa-mir-630	ptr-mir-630	ppy-mir-630
+mir-3934	hsa-mir-3934
+mir-3935	hsa-mir-3935	ggo-mir-3935	mml-mir-3935
+mir-3936	hsa-mir-3936
+mir-3937	hsa-mir-3937	ptr-mir-3937	ggo-mir-3937	ppy-mir-3937
+mir-3938	hsa-mir-3938	ggo-mir-3938	ppy-mir-3938	mml-mir-3938
+mir-3939	hsa-mir-3939
+mir-3156	hsa-mir-3156-1	ptr-mir-3156-1	ggo-mir-3156-1	ppy-mir-3156-1	hsa-mir-3156-2	hsa-mir-3156-3
+mir-3157	hsa-mir-3157	ggo-mir-3157
+mir-3154	hsa-mir-3154	ppy-mir-3154	cja-mir-3154	mmr-mir-3154	oga-mir-3154	mmu-mir-3154	opr-mir-3154	cfa-mir-3154	fca-mir-3154	laf-mir-3154
+mir-3155	hsa-mir-3155	ggo-mir-3155	ppy-mir-3155
+mir-3152	hsa-mir-3152	ggo-mir-3152	cja-mir-3152
+mir-3153	hsa-mir-3153	ggo-mir-3153	ppy-mir-3153
+mir-3150	hsa-mir-3150	ggo-mir-3150	hsa-mir-3150b
+mir-3151	hsa-mir-3151	ggo-mir-3151
+mir-3158	hsa-mir-3158-1	ggo-mir-3158-1	hsa-mir-3158-2
+mir-3159	hsa-mir-3159	ggo-mir-3159	ppy-mir-3159
+mir-989	dme-mir-989
+mir-988	dme-mir-988
+mir-459	gac-mir-459	tru-mir-459	tni-mir-459
+mir-458	oan-mir-458	mga-mir-458	xtr-mir-458
+mir-453	hsa-mir-453	ptr-mir-453	ggo-mir-453	ppy-mir-453	mml-mir-453	cja-mir-453	ttr-mir-453	cfa-mir-453	fca-mir-453
+mir-452	hsa-mir-452	ptr-mir-452	ggo-mir-452	ppy-mir-452	mml-mir-452	cja-mir-452	mmr-mir-452	oga-mir-452	tbe-mir-452	cpo-mir-452	dor-mir-452	mmu-mir-452	str-mir-452	opr-mir-452	ocu-mir-452	bta-mir-452	ttr-mir-452	vpa-mir-452	ssc-mir-452	cfa-mir-452	fca-mir-452	mlu-mir-452	pva-mir-452	ete-mir-452	laf-mir-452
+mir-451	hsa-mir-451	ptr-mir-451	ggo-mir-451	ppy-mir-451	cja-mir-451	tsy-mir-451	mmr-mir-451	oga-mir-451	tbe-mir-451	cpo-mir-451	dor-mir-451	mmu-mir-451	rno-mir-451	str-mir-451	opr-mir-451	ocu-mir-451	bta-mir-451	ttr-mir-451	vpa-mir-451	ssc-mir-451	cfa-mir-451	fca-mir-451	eca-mir-451	mlu-mir-451	pva-mir-451	sar-mir-451	laf-mir-451	eca-mir-451a
+mir-450	hsa-mir-450a-1	ptr-mir-450a-1	ggo-mir-450a-1	mml-mir-450a-1	tsy-mir-450a-1	cpo-mir-450a-1	opr-mir-450a-1	ocu-mir-450a-1	ttr-mir-450a-1	vpa-mir-450a-1	ssc-mir-450a-1	eca-mir-450a-1	mlu-mir-450a-1	pva-mir-450a-1	cho-mir-450a-1	laf-mir-450a-1	hsa-mir-450a-2	ptr-mir-450a-2	ppy-mir-450a-2	mml-mir-450a-2	hsa-mir-450b	ptr-mir-450b	ppy-mir-450b	mml-mir-450b	cja-mir-450b	ssc-mir-450b	cfa-mir-450b	eca-mir-450b	ssc-mir-450a	cfa-mir-450a	eca-mir-450a	str-mir-450c	bta-mir-450	bta-mir-450-1
+mir-457	dre-mir-457a	dre-mir-457b
+mir-456	gga-mir-456	mga-mir-456	tgu-mir-456	aca-mir-456	xtr-mir-456
+mir-455	hsa-mir-455	ptr-mir-455	ggo-mir-455	ppy-mir-455	mml-mir-455	cja-mir-455	mmr-mir-455	oga-mir-455	cpo-mir-455	dor-mir-455	mmu-mir-455	rno-mir-455	str-mir-455	opr-mir-455	ocu-mir-455	bta-mir-455	ttr-mir-455	vpa-mir-455	ssc-mir-455	cfa-mir-455	fca-mir-455	mlu-mir-455	pva-mir-455	eeu-mir-455	ete-mir-455	laf-mir-455	pca-mir-455	mdo-mir-455	gga-mir-455	mga-mir-455	tgu-mir-455	aca-mir-455	xtr-mir-455	dre-mir-455	gac-mir-455	ola-mir-455	tru-mir-455	tni-mir-455	cho-mir-455b
+mir-454	hsa-mir-454	ptr-mir-454	mml-mir-454	cja-mir-454	str-mir-454	bta-mir-454	cfa-mir-454	eca-mir-454	oan-mir-454	hsa-mir-454a	ggo-mir-454a	mml-mir-454a	bta-mir-454a	ttr-mir-454a	ssc-mir-454a	cfa-mir-454a	laf-mir-454a	pca-mir-454a	meu-mir-454a	gga-mir-454b	mga-mir-454b	aca-mir-454b
+mir-4220	cin-mir-4220
+mir-2458	bta-mir-2458
+mir-3202	hsa-mir-3202-1	ptr-mir-3202-1	ggo-mir-3202-1	ppy-mir-3202-1	hsa-mir-3202-2
+mir-3200	hsa-mir-3200	ggo-mir-3200	tsy-mir-3200	oga-mir-3200	eca-mir-3200
+mir-3201	hsa-mir-3201
+mir-TAR	ete-mir-TAR
+mir-800	cel-mir-800
+mir-2456	bta-mir-2456
+mir-3109	mmu-mir-3109
+mir-2451	bta-mir-2451
+mir-4319	hsa-mir-4319
+mir-4318	hsa-mir-4318
+mir-4315	hsa-mir-4315-1	hsa-mir-4315-2
+mir-4314	hsa-mir-4314
+mir-4317	hsa-mir-4317
+mir-4316	hsa-mir-4316	ggo-mir-4316
+mir-4311	hsa-mir-4311	ggo-mir-4311	ppy-mir-4311
+mir-4310	hsa-mir-4310
+mir-4313	hsa-mir-4313	ggo-mir-4313	ppy-mir-4313
+mir-4312	hsa-mir-4312	ggo-mir-4312	ppy-mir-4312	mml-mir-4312
+mir-1808	gga-mir-1808
+mir-1809	gga-mir-1809
+mir-1687	gga-mir-1687
+mir-1800	gga-mir-1800
+mir-4001	cin-mir-4001a-1	cin-mir-4001i	cin-mir-4001a-2	cin-mir-4001c	cin-mir-4001d	cin-mir-4001e	cin-mir-4001f	cin-mir-4001g	cin-mir-4001b-1	cin-mir-4001h	cin-mir-4001b-2
+mir-4000	cin-mir-4000c	cin-mir-4000d	cin-mir-4000a-1	cin-mir-4000b-1	cin-mir-4000e	cin-mir-4000a-3	cin-mir-4000a-2	cin-mir-4000f	cin-mir-4000g	cin-mir-4000h	cin-mir-4000b-2	cin-mir-4000i
+mir-4003	cin-mir-4003a-1	cin-mir-4003c	cin-mir-4003a-2	cin-mir-4003a-3	cin-mir-4003a-4	cin-mir-4003b	cin-mir-4003d
+mir-1801	gga-mir-1801
+mir-4005	cin-mir-4005a	cin-mir-4005b	cin-mir-4005c
+mir-4004	cin-mir-4004
+mir-4007	cin-mir-4007
+mir-4006	cin-mir-4006b	cin-mir-4006c	cin-mir-4006d	cin-mir-4006a-1	cin-mir-4006e	cin-mir-4006a-2	cin-mir-4006a-3	cin-mir-4006f	cin-mir-4006g
+mir-4009	cin-mir-4009a	cin-mir-4009b	cin-mir-4009c
+mir-4008	cin-mir-4008a	cin-mir-4008b	cin-mir-4008c
+mir-324	hsa-mir-324	ptr-mir-324	ggo-mir-324	ppy-mir-324	mml-mir-324	cja-mir-324	tsy-mir-324	mmr-mir-324	oga-mir-324	tbe-mir-324	cpo-mir-324	dor-mir-324	mmu-mir-324	rno-mir-324	str-mir-324	ocu-mir-324	bta-mir-324	ttr-mir-324	ssc-mir-324	cfa-mir-324	fca-mir-324	eca-mir-324	mlu-mir-324	pva-mir-324	eeu-mir-324	sar-mir-324	ete-mir-324	laf-mir-324
+mir-1021	cel-mir-1021
+mir-891	hsa-mir-891a	ptr-mir-891a	ggo-mir-891a	ppy-mir-891a	hsa-mir-891b	ptr-mir-891b	ppy-mir-891b	mml-mir-891
+mir-326	hsa-mir-326	ptr-mir-326	ggo-mir-326	ppy-mir-326	cja-mir-326	mmr-mir-326	oga-mir-326	tbe-mir-326	cpo-mir-326	dor-mir-326	mmu-mir-326	str-mir-326	opr-mir-326	ocu-mir-326	bta-mir-326	ttr-mir-326	vpa-mir-326	ssc-mir-326	cfa-mir-326	eca-mir-326	laf-mir-326	pca-mir-326
+mir-70	cel-mir-70
+mir-1785	gga-mir-1785
+mir-1784	gga-mir-1784	mga-mir-1784	tgu-mir-1784
+mir-1787	gga-mir-1787	mga-mir-1787
+mir-1786	gga-mir-1786
+mir-1781	gga-mir-1781	mga-mir-1781
+mir-1780	gga-mir-1780
+mir-1783	gga-mir-1783
+mir-1782	gga-mir-1782
+mir-1789	gga-mir-1789
+mir-1788	tru-mir-1788	tni-mir-1788
+mir-1543	mdo-mir-1543
+mir-1542	meu-mir-1542-2	mdo-mir-1542-2	mdo-mir-1542-1
+mir-1541	mdo-mir-1541
+mir-1540	meu-mir-1540	mdo-mir-1540
+mir-1547	meu-mir-1547	mdo-mir-1547
+mir-1546	meu-mir-1546	mdo-mir-1546
+mir-1545	mdo-mir-1545
+mir-1544	mdo-mir-1544
+mir-1549	mdo-mir-1549
+mir-1548	meu-mir-1548	mdo-mir-1548
+mir-1019	cel-mir-1019
+mir-1018	cel-mir-1018
+mir-2894	bta-mir-2894
+mir-2895	bta-mir-2895
+mir-1769	gga-mir-1769	mga-mir-1769
+mir-1768	gga-mir-1768
+mir-2890	bta-mir-2890
+mir-2891	bta-mir-2891
+mir-1949	mmu-mir-1949	rno-mir-1949
+mir-1948	mmu-mir-1948
+mir-1947	mmu-mir-1947
+mir-1946	mmu-mir-1946a	mmu-mir-1946b
+mir-1945	mmu-mir-1945
+mir-1944	mmu-mir-1944
+mir-1943	mmu-mir-1943
+mir-1942	mmu-mir-1942
+mir-1941	mmu-mir-1941
+mir-1940	mmu-mir-1940
+mir-246	cel-mir-246
+mir-247	cel-mir-247
+mir-1627	gga-mir-1627
+mir-532	hsa-mir-532	ptr-mir-532	ggo-mir-532	ppy-mir-532	mml-mir-532	cja-mir-532	tsy-mir-532	mmr-mir-532	oga-mir-532	cpo-mir-532	dor-mir-532	mmu-mir-532	rno-mir-532	ocu-mir-532	bta-mir-532	ttr-mir-532	vpa-mir-532	ssc-mir-532	cfa-mir-532	eca-mir-532	eeu-mir-532	sar-mir-532	laf-mir-532
+mir-245	cel-mir-245
+mir-539	hsa-mir-539	ptr-mir-539	ppy-mir-539	mml-mir-539	cja-mir-539	tsy-mir-539	cpo-mir-539	dor-mir-539	mmu-mir-539	opr-mir-539	ocu-mir-539	bta-mir-539	ttr-mir-539	cfa-mir-539	eca-mir-539	mlu-mir-539
+mir-243	cel-mir-243
+mir-240	cel-mir-240
+mir-1301	hsa-mir-1301	ppy-mir-1301	eca-mir-1301
+mir-1303	hsa-mir-1303	ptr-mir-1303	ppy-mir-1303
+mir-1302	hsa-mir-1302-1	ptr-mir-1302-1	ggo-mir-1302-1	hsa-mir-1302-2	ptr-mir-1302-2	ppy-mir-1302-2	hsa-mir-1302-3	ptr-mir-1302-3	hsa-mir-1302-4	hsa-mir-1302-6	ptr-mir-1302-6	hsa-mir-1302-7	ptr-mir-1302-7	hsa-mir-1302-8	ptr-mir-1302-8	hsa-mir-1302-9	hsa-mir-1302-10	hsa-mir-1302-11	eca-mir-1302b-2	eca-mir-1302d-4	eca-mir-1302c-5	eca-mir-1302e-6	eca-mir-1302e-7
+mir-1305	hsa-mir-1305	ppy-mir-1305
+mir-1304	hsa-mir-1304
+mir-1307	hsa-mir-1307	ptr-mir-1307	ggo-mir-1307	ppy-mir-1307	mml-mir-1307	ssc-mir-1307	cfa-mir-1307
+mir-1306	hsa-mir-1306	ptr-mir-1306	ggo-mir-1306	ppy-mir-1306	mml-mir-1306	cja-mir-1306	oga-mir-1306	tbe-mir-1306	cpo-mir-1306	dor-mir-1306	mmu-mir-1306	rno-mir-1306	str-mir-1306	opr-mir-1306	ocu-mir-1306	bta-mir-1306	ttr-mir-1306	vpa-mir-1306	ssc-mir-1306	cfa-mir-1306	fca-mir-1306	pva-mir-1306	eeu-mir-1306	sar-mir-1306	ete-mir-1306	laf-mir-1306	pca-mir-1306	mdo-mir-1306	gga-mir-1306	mga-mir-1306	aca-mir-1306	xtr-mir-1306	gac-mir-1306	ola-mir-1306	tru-mir-1306	tni-mir-1306
+mir-934	hsa-mir-934	ptr-mir-934	ggo-mir-934	ppy-mir-934
+mir-2308	bta-mir-2308
+mir-2309	bta-mir-2309
+mir-3078	mmu-mir-3078
+mir-2304	bta-mir-2304
+mir-2305	bta-mir-2305
+mir-2306	bta-mir-2306
+mir-2307	bta-mir-2307
+mir-2300	bta-mir-2300a	bta-mir-2300b
+mir-2301	bta-mir-2301
+mir-2302	bta-mir-2302
+mir-2303	bta-mir-2303
+mir-628	hsa-mir-628	ptr-mir-628	ggo-mir-628	ppy-mir-628	mml-mir-628	cja-mir-628	tsy-mir-628	mmr-mir-628	oga-mir-628	tbe-mir-628	str-mir-628	ocu-mir-628	bta-mir-628	ttr-mir-628	vpa-mir-628	ssc-mir-628	cfa-mir-628	fca-mir-628	pva-mir-628	cho-mir-628	ete-mir-628	laf-mir-628	pca-mir-628	eca-mir-628a
+mir-629	hsa-mir-629	ggo-mir-629
+mir-198	hsa-mir-198	ptr-mir-198	ggo-mir-198	ppy-mir-198	mml-mir-198
+mir-199	hsa-mir-199a-1	ptr-mir-199a-1	ggo-mir-199a-1	ppy-mir-199a-1	cja-mir-199a-1	cpo-mir-199a-1	mmu-mir-199a-1	str-mir-199a-1	ttr-mir-199a-1	cfa-mir-199a-1	fca-mir-199a-1	eca-mir-199a-1	mlu-mir-199a-1	pva-mir-199a-1	laf-mir-199a-1	pca-mir-199a-1	meu-mir-199a-1	hsa-mir-199a-2	ptr-mir-199a-2	ppy-mir-199a-2	mmu-mir-199a-2	hsa-mir-199b	ptr-mir-199b	ppy-mir-199b	mmu-mir-199b	bta-mir-199b	ssc-mir-199b	eca-mir-199b	mdo-mir-199b	ggo-mir-199a	ppy-mir-199a	rno-mir-199a	eca-mir-199a	xtr-mir-199a	bta-mir-199c	cfa-mir-199-1	gga-mir-199-1	tgu-mir-199-1	cfa-mir-199-2	gga-mir-199-2	tgu-mir-199-2	dre-mir-199-3	oan-mir-199
+mir-196	hsa-mir-196a-1	ptr-mir-196a-1	mml-mir-196a-1	cja-mir-196a-1	tsy-mir-196a-1	mmr-mir-196a-1	str-mir-196a-1	opr-mir-196a-1	bta-mir-196a-1	cfa-mir-196a-1	fca-mir-196a-1	mlu-mir-196a-1	pva-mir-196a-1	eeu-mir-196a-1	sar-mir-196a-1	cho-mir-196a-1	laf-mir-196a-1	hsa-mir-196a-2	ptr-mir-196a-2	ggo-mir-196a-2	ppy-mir-196a-2	mml-mir-196a-2	oga-mir-196a-2	tbe-mir-196a-2	cpo-mir-196a-2	dor-mir-196a-2	mmu-mir-196a-2	ocu-mir-196a-2	bta-mir-196a-2	cfa-mir-196a-2	eca-mir-196a-2	pca-mir-196a-2	hsa-mir-196b	ptr-mir-196b	ppy-mir-196b	mml-mir-196b	mmu-mir-196b	rno-mir-196b	bta-mir-196b	vpa-mir-196b	ssc-mir-196b	cfa-mir-196b	eca-mir-196b	ete-mir-196b	mdo-mir-196b	oan-mir-196b	ggo-mir-196-1	ppy-mir-196-1	ggo-mir-196-2	ppy-mir-196-2	rno-mir-196a	ssc-mir-196a	rno-mir-196c	gga-mir-196-3	dre-mir-196d	cin-mir-196
+mir-197	hsa-mir-197	ptr-mir-197	ggo-mir-197	ppy-mir-197	mml-mir-197	cja-mir-197	oga-mir-197	cpo-mir-197	bta-mir-197	cfa-mir-197	fca-mir-197	eca-mir-197
+mir-194	hsa-mir-194-1	ggo-mir-194-1	ppy-mir-194-1	mml-mir-194-1	cja-mir-194-1	tsy-mir-194-1	oga-mir-194-1	ocu-mir-194-1	ttr-mir-194-1	vpa-mir-194-1	cfa-mir-194-1	fca-mir-194-1	mlu-mir-194-1	pva-mir-194-1	eeu-mir-194-1	cho-mir-194-1	ete-mir-194-1	hsa-mir-194-2	mmu-mir-194-2	rno-mir-194-2	bta-mir-194-2	ptr-mir-194	ggo-mir-194	ppy-mir-194	cfa-mir-194	bta-mir-194a	pca-mir-194a	dre-mir-194b
+mir-195	hsa-mir-195	ptr-mir-195	ggo-mir-195	ppy-mir-195	mml-mir-195	mmr-mir-195	cpo-mir-195	dor-mir-195	mmu-mir-195	rno-mir-195	str-mir-195	ocu-mir-195	bta-mir-195	ttr-mir-195	cfa-mir-195	eca-mir-195	mlu-mir-195	pva-mir-195	sar-mir-195	laf-mir-195
+mir-192	hsa-mir-192	ptr-mir-192	ggo-mir-192	ppy-mir-192	mml-mir-192	cja-mir-192	cpo-mir-192	dor-mir-192	mmu-mir-192	opr-mir-192	bta-mir-192	ttr-mir-192	ssc-mir-192	cfa-mir-192	eca-mir-192	pva-mir-192	eeu-mir-192	laf-mir-192	pca-mir-192	oan-mir-192
+mir-193	hsa-mir-193a	ptr-mir-193a	ppy-mir-193a	mml-mir-193a	mmu-mir-193a	bta-mir-193a	ssc-mir-193a	cfa-mir-193a	eca-mir-193a	hsa-mir-193b	ptr-mir-193b	ppy-mir-193b	mml-mir-193b	tsy-mir-193b	mmr-mir-193b	tbe-mir-193b	mmu-mir-193b	str-mir-193b	opr-mir-193b	bta-mir-193b	cfa-mir-193b	eca-mir-193b	mlu-mir-193b	sar-mir-193b	cho-mir-193b	oan-mir-193b	mga-mir-193b	hsa-mir-193	ggo-mir-193	ppy-mir-193	mml-mir-193	cja-mir-193	oga-mir-193	cpo-mir-193	dor-mir-193	mmu-mir-193	ocu-mir-193	bta-mir-193	ttr-mir-193	cfa-mir-193	fca-mir-193	pva-mir-193	ete-mir-193	laf-mir-193	pca-mir-193	meu-mir-193	mdo-mir-193	bta-mir-193a-2	dre-mir-193a-1	dre-mir-193a-3
+mir-622	hsa-mir-622	ggo-mir-622	ppy-mir-622	mml-mir-622	cja-mir-622	tsy-mir-622	cpo-mir-622
+mir-191	hsa-mir-191	ptr-mir-191	ggo-mir-191	ppy-mir-191	mml-mir-191	cja-mir-191	mmr-mir-191	tbe-mir-191	cpo-mir-191	mmu-mir-191	rno-mir-191	str-mir-191	opr-mir-191	ocu-mir-191	bta-mir-191	ttr-mir-191	ssc-mir-191	cfa-mir-191	eca-mir-191	pva-mir-191	eeu-mir-191	sar-mir-191	laf-mir-191	pca-mir-191	meu-mir-191	mdo-mir-191
+mir-3927	hsa-mir-3927	ggo-mir-3927	mml-mir-3927
+mir-3148	hsa-mir-3148	ggo-mir-3148	ppy-mir-3148	cja-mir-3148
+mir-3925	hsa-mir-3925	ggo-mir-3925	ppy-mir-3925
+mir-3924	hsa-mir-3924
+mir-3923	hsa-mir-3923	ggo-mir-3923
+mir-3922	hsa-mir-3922
+mir-3921	hsa-mir-3921
+mir-3920	hsa-mir-3920	ggo-mir-3920
+mir-3141	hsa-mir-3141
+mir-3140	hsa-mir-3140	ggo-mir-3140	ppy-mir-3140	cja-mir-3140
+mir-3143	hsa-mir-3143
+mir-3142	hsa-mir-3142	ggo-mir-3142
+mir-3145	hsa-mir-3145	ggo-mir-3145
+mir-3144	hsa-mir-3144	ppy-mir-3144
+mir-3147	hsa-mir-3147
+mir-3146	hsa-mir-3146	ggo-mir-3146	ppy-mir-3146
+mir-2410	bta-mir-2410
+mir-2411	bta-mir-2411	ttr-mir-2411	vpa-mir-2411	ssc-mir-2411	laf-mir-2411
+mir-2412	bta-mir-2412
+mir-2413	bta-mir-2413
+mir-2414	hsa-mir-2414	ggo-mir-2414	ppy-mir-2414	mml-mir-2414	cja-mir-2414	tsy-mir-2414	mmr-mir-2414	oga-mir-2414	tbe-mir-2414	cpo-mir-2414	mmu-mir-2414	rno-mir-2414	opr-mir-2414	bta-mir-2414	ttr-mir-2414	cfa-mir-2414	fca-mir-2414	mlu-mir-2414	pva-mir-2414	eeu-mir-2414	ete-mir-2414	laf-mir-2414	pca-mir-2414
+mir-2415	bta-mir-2415
+mir-2416	bta-mir-2416
+mir-2417	bta-mir-2417
+mir-2418	bta-mir-2418
+mir-2419	bta-mir-2419
+mir-996	dme-mir-996
+mir-997	dme-mir-997
+mir-994	dme-mir-994
+mir-995	dme-mir-995
+mir-992	dme-mir-992
+mir-993	dme-mir-993
+mir-990	dme-mir-990
+mir-991	dme-mir-991
+mir-998	dme-mir-998
+mir-999	dme-mir-999
+mir-448	hsa-mir-448	ptr-mir-448	ggo-mir-448	ppy-mir-448	mml-mir-448	mmu-mir-448	rno-mir-448	cfa-mir-448	eca-mir-448
+mir-449	hsa-mir-449a	ptr-mir-449a	ggo-mir-449a	ppy-mir-449a	mml-mir-449a	cja-mir-449a	tsy-mir-449a	mmr-mir-449a	dor-mir-449a	str-mir-449a	bta-mir-449a	ssc-mir-449a	cfa-mir-449a	eca-mir-449a	sar-mir-449a	cho-mir-449a	hsa-mir-449b	ptr-mir-449b	ppy-mir-449b	mml-mir-449b	oga-mir-449b	bta-mir-449b	ttr-mir-449b	hsa-mir-449c	tbe-mir-449c	vpa-mir-449c	pva-mir-449c	eeu-mir-449c	bta-mir-449d
+mir-1741	gga-mir-1741
+mir-2991	tgu-mir-2991
+mir-1740	gga-mir-1740
+mir-1743	gga-mir-1743	mga-mir-1743
+mir-1742	gga-mir-1742
+mir-1745	gga-mir-1745-1	gga-mir-1745-2
+mir-1744	gga-mir-1744
+mir-1747	gga-mir-1747
+mir-1746	gga-mir-1746
+mir-4051	cin-mir-4051
+mir-4258	hsa-mir-4258	ggo-mir-4258
+mir-4259	hsa-mir-4259
+mir-4254	hsa-mir-4254	ggo-mir-4254	ppy-mir-4254
+mir-4255	hsa-mir-4255
+mir-4256	hsa-mir-4256
+mir-4257	hsa-mir-4257
+mir-4251	hsa-mir-4251
+mir-4252	hsa-mir-4252	mml-mir-4252	cja-mir-4252
+mir-4253	hsa-mir-4253
+mir-284	dme-mir-284
+mir-4074	cin-mir-4074
+mir-4075	cin-mir-4075
+mir-4076	cin-mir-4076
+mir-4077	cin-mir-4077a	cin-mir-4077b	cin-mir-4077c	cin-mir-4077d
+mir-4070	cin-mir-4070
+mir-1699	gga-mir-1699
+mir-4072	cin-mir-4072
+mir-4073	cin-mir-4073
+mir-4078	cin-mir-4078
+mir-4079	cin-mir-4079
+mir-1697	gga-mir-1697
+mir-1696	gga-mir-1696
+mir-1695	gga-mir-1695
+mir-1694	gga-mir-1694
+mir-1693	gga-mir-1693
+mir-1692	gga-mir-1692
+mir-1691	gga-mir-1691
+mir-1690	gga-mir-1690
+mir-4108	cin-mir-4108
+mir-4109	cin-mir-4109
+mir-4100	cin-mir-4100
+mir-4101	cin-mir-4101
+mir-4102	cin-mir-4102
+mir-4103	cin-mir-4103
+mir-4104	cin-mir-4104
+mir-4105	cin-mir-4105
+mir-4106	cin-mir-4106
+mir-4107	cin-mir-4107
+mir-4002	cin-mir-4002
+mir-1363	oan-mir-1363
+mir-1362	oan-mir-1362
+mir-1576	gga-mir-1576
+mir-1577	gga-mir-1577
+mir-1574	gga-mir-1574
+mir-1575	gga-mir-1575
+mir-1572	gga-mir-1572
+mir-1573	gga-mir-1573
+mir-1570	gga-mir-1570
+mir-1571	gga-mir-1571	mga-mir-1571
+mir-1578	gga-mir-1578
+mir-1579	gga-mir-1579
+mir-1972	hsa-mir-1972-1	ggo-mir-1972-1	ppy-mir-1972-1	mml-mir-1972-1	hsa-mir-1972-2
+mir-1973	hsa-mir-1973
+mir-1202	hsa-mir-1202	ptr-mir-1202	ppy-mir-1202
+mir-1203	hsa-mir-1203	ptr-mir-1203	ggo-mir-1203	mml-mir-1203
+mir-1204	hsa-mir-1204	ptr-mir-1204	ggo-mir-1204	ppy-mir-1204	mml-mir-1204
+mir-1205	hsa-mir-1205	ptr-mir-1205	ppy-mir-1205
+mir-1206	hsa-mir-1206	ptr-mir-1206
+mir-1207	hsa-mir-1207	ptr-mir-1207	ppy-mir-1207
+mir-1208	hsa-mir-1208	ptr-mir-1208	ppy-mir-1208
+mir-1757	gga-mir-1757
+mir-1754	gga-mir-1754
+mir-1755	gga-mir-1755
+mir-1752	gga-mir-1752
+mir-1753	gga-mir-1753-1	gga-mir-1753-2
+mir-2889	bta-mir-2889
+mir-2888	bta-mir-2888-1	bta-mir-2888-2
+mir-299	hsa-mir-299	ptr-mir-299	ggo-mir-299	ppy-mir-299	mml-mir-299	cja-mir-299	mmr-mir-299	oga-mir-299	tbe-mir-299	cpo-mir-299	dor-mir-299	mmu-mir-299	rno-mir-299	str-mir-299	opr-mir-299	ocu-mir-299	bta-mir-299	ttr-mir-299	vpa-mir-299	ssc-mir-299	cfa-mir-299	fca-mir-299	eca-mir-299	mlu-mir-299	pva-mir-299	cho-mir-299	laf-mir-299
+mir-298	hsa-mir-298	ptr-mir-298	ggo-mir-298	ppy-mir-298	mml-mir-298
+mir-295	mmu-mir-295	mmu-mir-295-1	rno-mir-295-2
+mir-294	mmu-mir-294
+mir-297	hsa-mir-297	ptr-mir-297	mml-mir-297	mmu-mir-297a-1	mmu-mir-297a-2	mmu-mir-297b	mmu-mir-297a-3	mmu-mir-297a-4	mmu-mir-297a-5	mmu-mir-297a-6	mmu-mir-297c
+mir-296	hsa-mir-296	ptr-mir-296	ggo-mir-296	ppy-mir-296	mml-mir-296	cja-mir-296	tbe-mir-296	laf-mir-296
+mir-291	mmu-mir-291a	mmu-mir-291b
+mir-290	mmu-mir-290
+mir-293	mmu-mir-293
+mir-292	hsa-mir-292	ggo-mir-292	ppy-mir-292	mml-mir-292
+mir-2955	tgu-mir-2955
+mir-2954	gga-mir-2954	tgu-mir-2954
+mir-2957	hsa-mir-2957	ggo-mir-2957	ppy-mir-2957	mml-mir-2957	cja-mir-2957	oga-mir-2957	tbe-mir-2957	cpo-mir-2957	mmu-mir-2957	opr-mir-2957	ocu-mir-2957	ttr-mir-2957	vpa-mir-2957	ssc-mir-2957	cfa-mir-2957	fca-mir-2957	mlu-mir-2957	pva-mir-2957	eeu-mir-2957	cho-mir-2957	laf-mir-2957
+mir-2956	tgu-mir-2956-1	tgu-mir-2956-2
+mir-509	hsa-mir-509-1	ptr-mir-509-1	ggo-mir-509-1	ppy-mir-509-1	mml-mir-509-1	hsa-mir-509-2	ppy-mir-509-2	mml-mir-509-2	hsa-mir-509-3	ppy-mir-509-3	hsa-mir-509a	ptr-mir-509a-1	ptr-mir-509b	ptr-mir-509a-2
+mir-508	ppy-mir-508	mml-mir-508	cja-mir-508	ocu-mir-508
+mir-2953	cel-mir-2953
+mir-1684	gga-mir-1684
+mir-504	hsa-mir-504	ptr-mir-504	ggo-mir-504	ppy-mir-504	mml-mir-504	cja-mir-504	tsy-mir-504	tbe-mir-504	cpo-mir-504	dor-mir-504	mmu-mir-504	str-mir-504	ocu-mir-504	bta-mir-504	ttr-mir-504	ssc-mir-504	cfa-mir-504	eca-mir-504	mlu-mir-504	pva-mir-504	eeu-mir-504	cho-mir-504	ete-mir-504	laf-mir-504
+mir-507	oga-mir-507	ssc-mir-507	eca-mir-507
+mir-506	hsa-mir-506	ptr-mir-506	ggo-mir-506	ppy-mir-506
+mir-501	hsa-mir-501	ptr-mir-501	ggo-mir-501	mml-mir-501	cja-mir-501	tsy-mir-501	oga-mir-501	tbe-mir-501	str-mir-501	bta-mir-501	ttr-mir-501	vpa-mir-501	cfa-mir-501	fca-mir-501	mlu-mir-501	pva-mir-501	sar-mir-501
+mir-500	hsa-mir-500a	ggo-mir-500a	ppy-mir-500a	mml-mir-500a	cja-mir-500a	tsy-mir-500a	mmr-mir-500a	oga-mir-500a	dor-mir-500a	ocu-mir-500a	bta-mir-500a	ttr-mir-500a	vpa-mir-500a	cfa-mir-500a	eca-mir-500a	mlu-mir-500a	pva-mir-500a	hsa-mir-500b	ptr-mir-500	ppy-mir-500	mml-mir-500	bta-mir-500	ssc-mir-500	cfa-mir-500	eca-mir-500	ptr-mir-500-2
+mir-503	hsa-mir-503	ptr-mir-503	ggo-mir-503	ppy-mir-503	mml-mir-503	tsy-mir-503	mmr-mir-503	cpo-mir-503	ttr-mir-503	ssc-mir-503	cfa-mir-503	eca-mir-503	pva-mir-503
+mir-502	hsa-mir-502	ptr-mir-502	ggo-mir-502	ppy-mir-502	mml-mir-502	tsy-mir-502	oga-mir-502	mmu-mir-502	rno-mir-502	opr-mir-502	ocu-mir-502	bta-mir-502	ttr-mir-502	cfa-mir-502	fca-mir-502	eca-mir-502	pva-mir-502	eeu-mir-502	sar-mir-502	laf-mir-502	bta-mir-502a-1	bta-mir-502a-2	bta-mir-502b
+mir-1378	oan-mir-1378
+mir-1379	oan-mir-1379
+mir-iab-4	dme-mir-iab-4	dme-mir-iab-4as
+mir-1374	oan-mir-1374
+mir-1375	oan-mir-1375
+mir-1376	oan-mir-1376
+mir-1377	oan-mir-1377
+mir-1370	oan-mir-1370
+mir-1371	oan-mir-1371
+mir-1372	oan-mir-1372
+mir-1373	oan-mir-1373
+mir-2985	hsa-mir-2985-1	ggo-mir-2985-1	ppy-mir-2985-1	mml-mir-2985-1	cja-mir-2985-1	tsy-mir-2985-1	mmr-mir-2985-1	oga-mir-2985-1	tbe-mir-2985-1	cpo-mir-2985-1	dor-mir-2985-1	mmu-mir-2985-1	rno-mir-2985-1	opr-mir-2985-1	ocu-mir-2985-1	bta-mir-2985-1	ttr-mir-2985-1	vpa-mir-2985-1	cfa-mir-2985-1	fca-mir-2985-1	mlu-mir-2985-1	pva-mir-2985-1	eeu-mir-2985-1	cho-mir-2985-1	ete-mir-2985-1	laf-mir-2985-1	meu-mir-2985-1	mdo-mir-2985-1	oan-mir-2985-1	gga-mir-2985-1	mga-mir-2985-1	tgu-mir-2985-1	aca-mir-2985-1	xtr-mir-2985-1	dre-mir-2985-1	rno-mir-2985	tgu-mir-2985	tgu-mir-2985-2
+mir-2319	bta-mir-2319a	bta-mir-2319b
+mir-2318	bta-mir-2318
+mir-2317	bta-mir-2317
+mir-2316	bta-mir-2316
+mir-2315	bta-mir-2315
+mir-2314	bta-mir-2314
+mir-2313	bta-mir-2313
+mir-2312	bta-mir-2312
+mir-2311	bta-mir-2311
+mir-2310	bta-mir-2310
+mir-619	hsa-mir-619	ptr-mir-619	ggo-mir-619	ppy-mir-619
+mir-618	hsa-mir-618	ptr-mir-618	ggo-mir-618	ppy-mir-618
+mir-1192	mmu-mir-1192
+mir-1193	hsa-mir-1193	ggo-mir-1193	ppy-mir-1193	mml-mir-1193	cja-mir-1193	tsy-mir-1193	oga-mir-1193	tbe-mir-1193	cpo-mir-1193	ttr-mir-1193	cfa-mir-1193	mlu-mir-1193	pva-mir-1193	pca-mir-1193
+mir-1194	mmu-mir-1194
+mir-1195	mmu-mir-1195
+mir-1196	mmu-mir-1196
+mir-1197	hsa-mir-1197	ptr-mir-1197	ppy-mir-1197	mmu-mir-1197	bta-mir-1197
+mir-1198	mmu-mir-1198
+mir-1199	mmu-mir-1199
+mir-613	hsa-mir-613	ptr-mir-613	ppy-mir-613
+mir-612	hsa-mir-612	ptr-mir-612	ggo-mir-612	ppy-mir-612	mml-mir-612
+mir-615	hsa-mir-615	ptr-mir-615	ggo-mir-615	ppy-mir-615	mml-mir-615	cja-mir-615	mmr-mir-615	oga-mir-615	cpo-mir-615	dor-mir-615	mmu-mir-615	rno-mir-615	str-mir-615	bta-mir-615	ttr-mir-615	ssc-mir-615	cfa-mir-615	pva-mir-615	laf-mir-615	pca-mir-615
+mir-614	hsa-mir-614	ptr-mir-614	ggo-mir-614	ppy-mir-614
+mir-617	hsa-mir-617	ptr-mir-617	ggo-mir-617	ppy-mir-617
+mir-616	hsa-mir-616	ptr-mir-616	ggo-mir-616	ppy-mir-616	cja-mir-616
+mir-871	mmu-mir-871
+mir-873	hsa-mir-873	ptr-mir-873	ppy-mir-873	mmu-mir-873	rno-mir-873	bta-mir-873	eca-mir-873	oan-mir-873
+mir-872	mmr-mir-872	cpo-mir-872	mmu-mir-872	rno-mir-872	str-mir-872	opr-mir-872	ocu-mir-872	vpa-mir-872	eca-mir-872
+mir-3138	hsa-mir-3138	ggo-mir-3138
+mir-3139	hsa-mir-3139	ggo-mir-3139	ppy-mir-3139
+mir-877	hsa-mir-877	ppy-mir-877	mml-mir-877
+mir-876	hsa-mir-876	ptr-mir-876	ggo-mir-876	ppy-mir-876	mml-mir-876	cja-mir-876	tsy-mir-876	mmr-mir-876	oga-mir-876	tbe-mir-876	cpo-mir-876	dor-mir-876	rno-mir-876	str-mir-876	opr-mir-876	ocu-mir-876	bta-mir-876	ttr-mir-876	vpa-mir-876	ssc-mir-876	cfa-mir-876	fca-mir-876	eca-mir-876	mlu-mir-876	pva-mir-876	eeu-mir-876	sar-mir-876	cho-mir-876	ete-mir-876	laf-mir-876	pca-mir-876
+mir-879	mmu-mir-879	rno-mir-879
+mir-878	mmu-mir-878
+mir-3136	hsa-mir-3136	ggo-mir-3136	ppy-mir-3136
+mir-3137	hsa-mir-3137	ggo-mir-3137	ppy-mir-3137
+mir-3130	hsa-mir-3130-1	ggo-mir-3130-1	hsa-mir-3130-2
+mir-3131	hsa-mir-3131	ggo-mir-3131
+mir-3132	hsa-mir-3132	ggo-mir-3132	ppy-mir-3132	mml-mir-3132
+mir-3133	hsa-mir-3133	ggo-mir-3133	ppy-mir-3133
+mir-2403	bta-mir-2403
+mir-2402	bta-mir-2402
+mir-2401	bta-mir-2401
+mir-2400	bta-mir-2400
+mir-2407	bta-mir-2407
+mir-2406	bta-mir-2406
+mir-2405	bta-mir-2405
+mir-2404	bta-mir-2404-1	bta-mir-2404-2
+mir-2409	bta-mir-2409
+mir-2408	bta-mir-2408
+mir-471	mmu-mir-471	rno-mir-471
+mir-470	mmu-mir-470
+mir-277	dme-mir-277
+mir-276	dme-mir-276a	dme-mir-276b
+mir-275	dme-mir-275
+mir-274	dme-mir-274
+mir-273	cel-mir-273
+mir-272	cel-mir-272
+mir-271	cel-mir-271
+mir-270	cel-mir-270
+mir-279	dme-mir-279
+mir-278	dme-mir-278
+mir-3682	hsa-mir-3682	ggo-mir-3682
+mir-3683	hsa-mir-3683	ggo-mir-3683	ppy-mir-3683
+mir-3680	hsa-mir-3680	ggo-mir-3680
+mir-3681	hsa-mir-3681	ggo-mir-3681	ppy-mir-3681
+mir-3686	hsa-mir-3686	ggo-mir-3686	ppy-mir-3686	mml-mir-3686
+mir-3687	hsa-mir-3687	ggo-mir-3687
+mir-3684	hsa-mir-3684
+mir-3685	hsa-mir-3685
+mir-3688	hsa-mir-3688	ggo-mir-3688	ppy-mir-3688	mml-mir-3688	cja-mir-3688
+mir-3689	hsa-mir-3689a	ggo-mir-3689a	hsa-mir-3689b
+mir-230	cel-mir-230
+mir-3918	hsa-mir-3918	ggo-mir-3918
+mir-3919	hsa-mir-3919
+mir-3912	hsa-mir-3912	ggo-mir-3912	ppy-mir-3912	mml-mir-3912
+mir-3913	hsa-mir-3913-1	hsa-mir-3913-2
+mir-3910	hsa-mir-3910-1	hsa-mir-3910-2
+mir-3911	hsa-mir-3911
+mir-3916	hsa-mir-3916	ggo-mir-3916	ppy-mir-3916	mml-mir-3916
+mir-3917	hsa-mir-3917	ppy-mir-3917	mml-mir-3917	cja-mir-3917	ttr-mir-3917	vpa-mir-3917
+mir-3914	hsa-mir-3914-1	ggo-mir-3914-1	ppy-mir-3914-1	mml-mir-3914-1	hsa-mir-3914-2
+mir-3915	hsa-mir-3915
+mir-3596	cpo-mir-3596d	mmu-mir-3596d	rno-mir-3596d	pca-mir-3596d	rno-mir-3596b	rno-mir-3596c	rno-mir-3596a	bta-mir-3596
+mir-3597	hsa-mir-3597-1	ggo-mir-3597-1	ppy-mir-3597-1	cja-mir-3597-1	oga-mir-3597-1	mmu-mir-3597-1	rno-mir-3597-1	ttr-mir-3597-1	ssc-mir-3597-1	cfa-mir-3597-1	eca-mir-3597-1	pva-mir-3597-1	ete-mir-3597-1	rno-mir-3597-3	rno-mir-3597-2
+mir-3594	rno-mir-3594
+mir-3595	cja-mir-3595	mmr-mir-3595	dor-mir-3595	str-mir-3595	opr-mir-3595	ocu-mir-3595	mlu-mir-3595	laf-mir-3595
+mir-3592	rno-mir-3592
+mir-3593	hsa-mir-3593	ggo-mir-3593	ppy-mir-3593	cja-mir-3593	mmr-mir-3593	opr-mir-3593	ocu-mir-3593	vpa-mir-3593
+mir-3590	hsa-mir-3590	ggo-mir-3590	ppy-mir-3590	cja-mir-3590	mmr-mir-3590	oga-mir-3590	dor-mir-3590	str-mir-3590	ocu-mir-3590	ttr-mir-3590	ssc-mir-3590	cfa-mir-3590	fca-mir-3590	pva-mir-3590	eeu-mir-3590	sar-mir-3590	ete-mir-3590	laf-mir-3590	pca-mir-3590	mdo-mir-3590
+mir-3591	hsa-mir-3591	ggo-mir-3591	ppy-mir-3591	cja-mir-3591	tsy-mir-3591	mmr-mir-3591	oga-mir-3591	tbe-mir-3591	dor-mir-3591	mmu-mir-3591	str-mir-3591	opr-mir-3591	ocu-mir-3591	bta-mir-3591	ttr-mir-3591	vpa-mir-3591	ssc-mir-3591	cfa-mir-3591	fca-mir-3591	eca-mir-3591	mlu-mir-3591	pva-mir-3591	eeu-mir-3591	laf-mir-3591	pca-mir-3591	meu-mir-3591	mdo-mir-3591	oan-mir-3591	gga-mir-3591	mga-mir-3591	xtr-mir-3591	gac-mir-3591	ola-mir-3591	tru-mir-3591	tni-mir-3591
+mir-3598	cin-mir-3598
+mir-3599	cin-mir-3599
+mir-567	hsa-mir-567	ptr-mir-567	ppy-mir-567	mml-mir-567
+mir-1623	gga-mir-1623
+mir-3668	hsa-mir-3668	ggo-mir-3668	ppy-mir-3668
+mir-3669	hsa-mir-3669
+mir-1621	gga-mir-1621
+mir-3660	hsa-mir-3660	ggo-mir-3660	ppy-mir-3660	mml-mir-3660	cja-mir-3660	dor-mir-3660	str-mir-3660	bta-mir-3660	ttr-mir-3660	vpa-mir-3660	ssc-mir-3660	cfa-mir-3660	fca-mir-3660	laf-mir-3660	pca-mir-3660
+mir-3661	hsa-mir-3661
+mir-3662	hsa-mir-3662
+mir-3663	hsa-mir-3663	ggo-mir-3663
+mir-3664	hsa-mir-3664	ggo-mir-3664
+mir-3665	hsa-mir-3665
+mir-3666	hsa-mir-3666	ggo-mir-3666	ppy-mir-3666	mml-mir-3666	cja-mir-3666	tsy-mir-3666	tbe-mir-3666	mmu-mir-3666	str-mir-3666	fca-mir-3666	pca-mir-3666
+mir-3667	hsa-mir-3667	ggo-mir-3667
+mir-2968	gga-mir-2968	mga-mir-2968	tgu-mir-2968	aca-mir-2968
+mir-8	dme-mir-8
+mir-9	hsa-mir-9-1	ptr-mir-9-1	ppy-mir-9-1	mml-mir-9-1	mmu-mir-9-1	rno-mir-9-1	ssc-mir-9-1	cfa-mir-9-1	hsa-mir-9-2	ptr-mir-9-2	ppy-mir-9-2	mml-mir-9-2	mmu-mir-9-2	rno-mir-9-2	bta-mir-9-2	ssc-mir-9-2	cfa-mir-9-2	mdo-mir-9-2	oan-mir-9-2	gga-mir-9-2	tgu-mir-9-2	tni-mir-9-2	hsa-mir-9-3	ppy-mir-9-3	mml-mir-9-3	mmu-mir-9-3	rno-mir-9-3	cfa-mir-9-3	hsa-mir-9a	ggo-mir-9a	ppy-mir-9a	mml-mir-9a	cja-mir-9a	mmr-mir-9a	oga-mir-9a	tbe-mir-9a	cpo-mir-9a	dor-mir-9a	mmu-mir-9a	rno-mir-9a	str-mir-9a	opr-mir-9a	ocu-mir-9a	bta-mir-9a	ttr-mir-9a	ssc-mir-9a	cfa-mir-9a	fca-mir-9a	eca-mir-9a	mlu-mir-9a	pva-mir-9a	eeu-mir-9a	sar-mir-9a	cho-mir-9a	ete-mir-9a	laf-mir-9a	pca-mir-9a	meu-mir-9a	mdo-mir-9a	oan-mir-9a	gga-mir-9a	mga-mir-9a	aca-mir-9a	ggo-mir-9	eca-mir-9a-2	xtr-mir-9a-2	xtr-mir-9a-1	xtr-mir-9b	dre-mir-9-4	tni-mir-9-4	dre-mir-9-5	dre-mir-9-6	dre-mir-9-7	dme-mir-9c
+mir-1624	gga-mir-1624
+mir-2	dme-mir-2a-1	dme-mir-2a-2	dme-mir-2b-1	dme-mir-2b-2	dme-mir-2c	dme-mir-2
+mir-3	dme-mir-3
+mir-1	hsa-mir-1-2	ptr-mir-1-2	mml-mir-1-2	mmu-mir-1-2	bta-mir-1-2	cfa-mir-1-2	tgu-mir-1-2	hsa-mir-1-1	ptr-mir-1-1	ppy-mir-1-1	mml-mir-1-1	cja-mir-1-1	mmr-mir-1-1	oga-mir-1-1	dor-mir-1-1	mmu-mir-1-1	bta-mir-1-1	ttr-mir-1-1	ssc-mir-1-1	cfa-mir-1-1	fca-mir-1-1	mlu-mir-1-1	pva-mir-1-1	eeu-mir-1-1	laf-mir-1-1	pca-mir-1-1	tgu-mir-1-1	mml-mir-1	mmu-mir-1	bta-mir-1	cfa-mir-1	eca-mir-1	mdo-mir-1	oan-mir-1	mmu-mir-1-2-as	oan-mir-1a	gga-mir-1a-2	gga-mir-1a-1	gga-mir-1c
+mir-6	dme-mir-6-1	dme-mir-6-2	dme-mir-6-3
+mir-7	hsa-mir-7-1	ptr-mir-7-1	ggo-mir-7-1	ppy-mir-7-1	mml-mir-7-1	cja-mir-7-1	tsy-mir-7-1	oga-mir-7-1	cpo-mir-7-1	dor-mir-7-1	mmu-mir-7-1	rno-mir-7-1	str-mir-7-1	opr-mir-7-1	ocu-mir-7-1	ttr-mir-7-1	vpa-mir-7-1	cfa-mir-7-1	fca-mir-7-1	mlu-mir-7-1	pva-mir-7-1	eeu-mir-7-1	sar-mir-7-1	cho-mir-7-1	laf-mir-7-1	oan-mir-7-1	gga-mir-7-1	mga-mir-7-1	tgu-mir-7-1	aca-mir-7-1	xtr-mir-7-1	ola-mir-7-1	hsa-mir-7-2	ptr-mir-7-2	ggo-mir-7-2	ppy-mir-7-2	mml-mir-7-2	cfa-mir-7-2	hsa-mir-7-3	ptr-mir-7-3	ggo-mir-7-3	ppy-mir-7-3	mml-mir-7-3	cfa-mir-7-3	hsa-mir-7a-1	mmu-mir-7a-1	rno-mir-7a-1	mmu-mir-7a-2	mmu-mir-7b	mdo-mir-7	tgu-mir-7-4	dre-mir-7a-3
+mir-4	dme-mir-4
+mir-5	dme-mir-5
+mir-2969	tgu-mir-2969
+mir-4209	cin-mir-4209
+mir-4067	cin-mir-4067
+mir-4066	cin-mir-4066
+mir-4065	cin-mir-4065
+mir-4064	cin-mir-4064
+mir-4063	cin-mir-4063
+mir-4062	cin-mir-4062
+mir-4061	cin-mir-4061
+mir-4060	cin-mir-4060
+mir-4069	cin-mir-4069
+mir-4068	cin-mir-4068
+mir-2188	mga-mir-2188	ola-mir-2188	tru-mir-2188	tni-mir-2188
+mir-2189	dre-mir-2189
+mir-4119	cin-mir-4119
+mir-4118	cin-mir-4118
+mir-4113	cin-mir-4113
+mir-4112	cin-mir-4112
+mir-4111	cin-mir-4111
+mir-4110	cin-mir-4110
+mir-4117	cin-mir-4117
+mir-4116	cin-mir-4116
+mir-4115	cin-mir-4115
+mir-4114	cin-mir-4114
+mir-1569	gga-mir-1569-1	gga-mir-1569-2
+mir-1568	gga-mir-1568
+mir-1561	gga-mir-1561
+mir-1560	gga-mir-1560
+mir-1563	gga-mir-1563
+mir-1562	gga-mir-1562
+mir-1565	gga-mir-1565
+mir-1564	gga-mir-1564
+mir-1567	gga-mir-1567
+mir-1566	gga-mir-1566
+mir-1965	mmu-mir-1965
+mir-1964	mmu-mir-1964
+mir-1967	mmu-mir-1967
+mir-1966	mmu-mir-1966
+mir-1961	mmu-mir-1961
+mir-1960	mmu-mir-1960
+mir-1963	mmu-mir-1963
+mir-1962	mmu-mir-1962
+mir-1749	gga-mir-1749
+mir-1748	gga-mir-1748	mga-mir-1748
+mir-1969	mmu-mir-1969
+mir-1968	mmu-mir-1968
+mir-288	dme-mir-288
+mir-289	dme-mir-289
+mir-282	dme-mir-282
+mir-283	dme-mir-283
+mir-280	dme-mir-280
+mir-281	cin-mir-281	dme-mir-281-1	dme-mir-281-2
+mir-286	dme-mir-286
+mir-287	dme-mir-287
+mir-2465	bta-mir-2465
+mir-285	dme-mir-285
+mir-518	hsa-mir-518f	ptr-mir-518f	ggo-mir-518f	ppy-mir-518f	hsa-mir-518b	ptr-mir-518b	hsa-mir-518c	ptr-mir-518c	ppy-mir-518c	mml-mir-518c	hsa-mir-518e	ptr-mir-518e	hsa-mir-518a-1	hsa-mir-518d	ptr-mir-518d	hsa-mir-518a-2	hsa-mir-518a	mml-mir-518a
+mir-519	hsa-mir-519e	ptr-mir-519e	ppy-mir-519e	hsa-mir-519c	ptr-mir-519c	ggo-mir-519c	hsa-mir-519b	ptr-mir-519b	ppy-mir-519b	hsa-mir-519d	ptr-mir-519d	ppy-mir-519d	hsa-mir-519a-1	hsa-mir-519a-2	hsa-mir-519a	mml-mir-519a	ppy-mir-519f
+mir-1976	hsa-mir-1976	ggo-mir-1976	ppy-mir-1976	mml-mir-1976	cja-mir-1976
+mir-1698	gga-mir-1698	mga-mir-1698
+mir-512	hsa-mir-512-1	ggo-mir-512-1	ppy-mir-512-1	hsa-mir-512-2	ppy-mir-512-2	hsa-mir-512	ptr-mir-512	ppy-mir-512	mml-mir-512
+mir-513	hsa-mir-513a-1	ptr-mir-513a-1	ppy-mir-513a-1	mml-mir-513a-1	hsa-mir-513a-2	ptr-mir-513a-2	ppy-mir-513a-2	mml-mir-513a-2	hsa-mir-513b	ptr-mir-513b	ggo-mir-513b	ppy-mir-513b	hsa-mir-513c	ppy-mir-513c	hsa-mir-513a-3	ptr-mir-513a-3	ppy-mir-513a-3	mml-mir-513b-1	mml-mir-513b-2
+mir-510	hsa-mir-510	ggo-mir-510	ppy-mir-510	mml-mir-510
+mir-511	hsa-mir-511-1	ggo-mir-511-1	ppy-mir-511-1	hsa-mir-511-2	ppy-mir-511-2	hsa-mir-511	ptr-mir-511	mml-mir-511	tsy-mir-511	cpo-mir-511	str-mir-511
+mir-516	hsa-mir-516b-2	ptr-mir-516b-2	ppy-mir-516b-2	hsa-mir-516b-1	ptr-mir-516b-1	ggo-mir-516b-1	ppy-mir-516b-1	hsa-mir-516a-1	ptr-mir-516a-1	ppy-mir-516a-1	hsa-mir-516a-2	ptr-mir-516a-2	ppy-mir-516a-2	mml-mir-516
+mir-517	hsa-mir-517a	ptr-mir-517a	ggo-mir-517a	ppy-mir-517a	hsa-mir-517b	ppy-mir-517b	hsa-mir-517c	ppy-mir-517c	hsa-mir-517	ptr-mir-517b-1	ptr-mir-517b-2
+mir-514	hsa-mir-514-1	ptr-mir-514-1	ggo-mir-514-1	ppy-mir-514-1	mml-mir-514-1	hsa-mir-514-2	ptr-mir-514-2	ppy-mir-514-2	hsa-mir-514-3	ptr-mir-514-3	ppy-mir-514-3	hsa-mir-514b	cfa-mir-514	ptr-mir-514-4
+mir-515	hsa-mir-515-1	ptr-mir-515-1	ggo-mir-515-1	ppy-mir-515-1	hsa-mir-515-2	ptr-mir-515-2	ppy-mir-515-2
+mir-1369	oan-mir-1369
+mir-1368	oan-mir-1368
+mir-1367	oan-mir-1367
+mir-1366	oan-mir-1366
+mir-1365	oan-mir-1365
+mir-1364	oan-mir-1364
+mir-2464	bta-mir-2464
+mir-1981	mmu-mir-1981
+mir-1361	oan-mir-1361
+mir-1360	oan-mir-1360
+mir-2322	bta-mir-2322
+mir-2323	bta-mir-2323
+mir-2320	bta-mir-2320	ssc-mir-2320
+mir-2321	bta-mir-2321
+mir-2326	bta-mir-2326
+mir-2327	bta-mir-2327
+mir-2324	bta-mir-2324
+mir-2325	bta-mir-2325a	bta-mir-2325b	bta-mir-2325c
+mir-2986	tgu-mir-2986
+mir-2987	tgu-mir-2987
+mir-2328	bta-mir-2328
+mir-2329	bta-mir-2329-1	bta-mir-2329-2
+mir-2982	tgu-mir-2982
+mir-2983	tgu-mir-2983
+mir-2980	tgu-mir-2980-1	tgu-mir-2980-2
+mir-2981	tgu-mir-2981
+mir-2467	bta-mir-2467
+mir-2962	tgu-mir-2962
+mir-606	hsa-mir-606	ptr-mir-606	ggo-mir-606	ppy-mir-606
+mir-607	hsa-mir-607	ggo-mir-607
+mir-604	hsa-mir-604	ptr-mir-604	ggo-mir-604	ppy-mir-604	mml-mir-604
+mir-605	hsa-mir-605	ptr-mir-605	ggo-mir-605	ppy-mir-605	mml-mir-605
+mir-602	hsa-mir-602	ptr-mir-602	ppy-mir-602
+mir-603	hsa-mir-603	ggo-mir-603	ppy-mir-603
+mir-600	hsa-mir-600	ptr-mir-600	ppy-mir-600	mml-mir-600
+mir-601	hsa-mir-601	ptr-mir-601	ppy-mir-601	mml-mir-601
+mir-608	hsa-mir-608
+mir-609	hsa-mir-609	ptr-mir-609	ggo-mir-609	ppy-mir-609	mml-mir-609
+mir-1183	hsa-mir-1183	ptr-mir-1183	ppy-mir-1183
+mir-1182	hsa-mir-1182	ptr-mir-1182	ggo-mir-1182	mml-mir-1182
+mir-1181	hsa-mir-1181	ptr-mir-1181	ggo-mir-1181	ppy-mir-1181
+mir-1180	hsa-mir-1180	ppy-mir-1180
+mir-1187	mmu-mir-1187
+mir-1186	mmu-mir-1186	mmu-mir-1186b
+mir-1185	hsa-mir-1185-2	ptr-mir-1185-2	ggo-mir-1185-2	ppy-mir-1185-2	mml-mir-1185-2	tsy-mir-1185-2	mmr-mir-1185-2	oga-mir-1185-2	tbe-mir-1185-2	cpo-mir-1185-2	str-mir-1185-2	bta-mir-1185-2	ttr-mir-1185-2	cfa-mir-1185-2	fca-mir-1185-2	pva-mir-1185-2	hsa-mir-1185-1	ptr-mir-1185-1	ppy-mir-1185-1	bta-mir-1185	eca-mir-1185
+mir-1184	hsa-mir-1184-1	ptr-mir-1184-1	ggo-mir-1184-1	mml-mir-1184-1	str-mir-1184-1	ssc-mir-1184-1	hsa-mir-1184-2	hsa-mir-1184-3	ptr-mir-1184
+mir-1188	hsa-mir-1188	ppy-mir-1188	mml-mir-1188	mmu-mir-1188	rno-mir-1188	pva-mir-1188
+mir-2186	dre-mir-2186
+mir-2187	dre-mir-2187
+mir-2184	ola-mir-2184
+mir-2185	tgu-mir-2185
+mir-2182	hsa-mir-2182	mmu-mir-2182	vpa-mir-2182	pca-mir-2182	aca-mir-2182
+mir-2183	mmu-mir-2183
+mir-3129	hsa-mir-3129	ggo-mir-3129
+mir-3128	hsa-mir-3128	ggo-mir-3128	ppy-mir-3128
+mir-3127	hsa-mir-3127	ggo-mir-3127	mml-mir-3127
+mir-3126	hsa-mir-3126	ggo-mir-3126	mml-mir-3126
+mir-3125	hsa-mir-3125	ggo-mir-3125
+mir-3124	hsa-mir-3124
+mir-3123	hsa-mir-3123	ggo-mir-3123	ppy-mir-3123
+mir-3122	hsa-mir-3122	ggo-mir-3122
+mir-3121	hsa-mir-3121	ggo-mir-3121	ppy-mir-3121
+mir-3120	hsa-mir-3120	ggo-mir-3120	ppy-mir-3120	mml-mir-3120	cja-mir-3120	tsy-mir-3120	mmr-mir-3120	oga-mir-3120	tbe-mir-3120	cpo-mir-3120	dor-mir-3120	mmu-mir-3120	rno-mir-3120	str-mir-3120	ocu-mir-3120	bta-mir-3120	ttr-mir-3120	ssc-mir-3120	cfa-mir-3120	eca-mir-3120	mlu-mir-3120	pva-mir-3120	eeu-mir-3120	sar-mir-3120	ete-mir-3120	laf-mir-3120	pca-mir-3120	mdo-mir-3120	mga-mir-3120	aca-mir-3120	xtr-mir-3120	dre-mir-3120	gac-mir-3120	ola-mir-3120
+mir-2436	bta-mir-2436
+mir-2437	bta-mir-2437
+mir-2434	bta-mir-2434
+mir-2435	bta-mir-2435
+mir-2432	bta-mir-2432
+mir-2433	hsa-mir-2433	ppy-mir-2433	mml-mir-2433	cja-mir-2433
+mir-2430	bta-mir-2430
+mir-2431	bta-mir-2431
+mir-2438	bta-mir-2438
+mir-2439	bta-mir-2439	mlu-mir-2439	pva-mir-2439
+mir-462	dre-mir-462
+mir-463	mmu-mir-463
+mir-460	gga-mir-460a	tgu-mir-460a	gga-mir-460b
+mir-461	dre-mir-461
+mir-466	hsa-mir-466	mmu-mir-466a	mmu-mir-466b-1	mmu-mir-466b-2	mmu-mir-466b-3	mmu-mir-466c-1	mmu-mir-466e	mmu-mir-466f-1	mmu-mir-466f-2	mmu-mir-466f-3	mmu-mir-466g	mmu-mir-466h	mmu-mir-466d	mmu-mir-466l	mmu-mir-466i	mmu-mir-466f-4	mmu-mir-466k	mmu-mir-466j	mmu-mir-466m	mmu-mir-466o	mmu-mir-466c-2	mmu-mir-466b-4	mmu-mir-466b-5	mmu-mir-466b-6	mmu-mir-466b-7	mmu-mir-466p	mmu-mir-466n	mmu-mir-466b-8	rno-mir-466c
+mir-467	mmu-mir-467a-1	mmu-mir-467b	mmu-mir-467c	mmu-mir-467d	mmu-mir-467e	mmu-mir-467f	mmu-mir-467g	mmu-mir-467h	mmu-mir-467a-2	mmu-mir-467a-3	mmu-mir-467a-4	mmu-mir-467a-5	mmu-mir-467a-6	mmu-mir-467a-7	mmu-mir-467a-8	mmu-mir-467a-9	mmu-mir-467a-10
+mir-464	mmu-mir-464
+mir-465	mmu-mir-465a	mmu-mir-465b-1	mmu-mir-465b-2	mmu-mir-465c-1	mmu-mir-465c-2	mmu-mir-465
+mir-1983	mmu-mir-1983
+mir-1982	mmu-mir-1982
+mir-468	mmu-mir-468
+mir-469	mmu-mir-469
+mir-264	cel-mir-264
+mir-265	cel-mir-265
+mir-266	cel-mir-266
+mir-267	cel-mir-267
+mir-260	cel-mir-260
+mir-261	cel-mir-261
+mir-262	cel-mir-262
+mir-263	dme-mir-263a	dme-mir-263b
+mir-268	cel-mir-268
+mir-269	cel-mir-269

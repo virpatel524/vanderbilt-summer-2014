@@ -1,0 +1,2398 @@
+hsa|miRviewer:hsa-mir-3691
+hsa|miRviewer:hsa-mir-3690
+mmu|miRviewer:mmu-mir-3057
+hsa|miRviewer:hsa-mir-3059 ggo|miRviewer:ggo-mir-3059 ppy|miRviewer:ppy-mir-3059 mml|miRviewer:mml-mir-3059 cja|miRviewer:cja-mir-3059 tsy|miRviewer:tsy-mir-3059 bta|miRviewer:bta-mir-3059 pva|miRviewer:pva-mir-3059 sar|miRviewer:sar-mir-3059 cho|miRviewer:cho-mir-3059 pca|miRviewer:pca-mir-3059
+tbe|miRviewer:tbe-mir-2053 cfa|miRviewer:cfa-mir-2053
+hsa|miRviewer:hsa-mir-2054
+bta|miRviewer:bta-mir-2462
+hsa|miRviewer:hsa-mir-3909
+hsa|miRviewer:hsa-mir-3908
+hsa|miRviewer:hsa-mir-3907
+dor|miRviewer:dor-mir-3589
+hsa|miRviewer:hsa-mir-3588 ggo|miRviewer:ggo-mir-3588 ppy|miRviewer:ppy-mir-3588 mml|miRviewer:mml-mir-3588 cja|miRviewer:cja-mir-3588 tsy|miRviewer:tsy-mir-3588 cpo|miRviewer:cpo-mir-3588 str|miRviewer:str-mir-3588 ttr|miRviewer:ttr-mir-3588 vpa|miRviewer:vpa-mir-3588 cfa|miRviewer:cfa-mir-3588 pva|miRviewer:pva-mir-3588 eeu|miRviewer:eeu-mir-3588
+hsa|miRviewer:hsa-mir-4270
+hsa|miRviewer:hsa-mir-4271
+hsa|miRviewer:hsa-mir-4276
+hsa|miRviewer:hsa-mir-4277
+hsa|miRviewer:hsa-mir-4274
+hsa|miRviewer:hsa-mir-4275
+hsa|miRviewer:hsa-mir-3581 ggo|miRviewer:ggo-mir-3581 ppy|miRviewer:ppy-mir-3581 oga|miRviewer:oga-mir-3581 pva|miRviewer:pva-mir-3581
+rno|miRviewer:rno-mir-3580
+hsa|miRviewer:hsa-mir-4278
+gga|miRviewer:gga-mir-3582 mga|miRviewer:mga-mir-3582 tgu|miRviewer:tgu-mir-3582 xtr|miRviewer:xtr-mir-3582
+rno|miRviewer:rno-mir-3585
+rno|miRviewer:rno-mir-3584
+rno|miRviewer:rno-mir-3587
+rno|miRviewer:rno-mir-3586
+bta|miRviewer:bta-mir-2896
+bta|miRviewer:bta-mir-2897
+mmu|miRviewer:mmu-mir-3475
+mmu|miRviewer:mmu-mir-3474
+mmu|miRviewer:mmu-mir-3471-1
+mmu|miRviewer:mmu-mir-3471-2
+mmu|miRviewer:mmu-mir-3470b
+mmu|miRviewer:mmu-mir-3473
+mmu|miRviewer:mmu-mir-3472
+ggo|miRviewer:ggo-mir-3679
+mmu|miRviewer:mmu-mir-3058
+bta|miRviewer:bta-mir-2892
+hsa|miRviewer:hsa-mir-3673
+ppy|miRviewer:ppy-mir-3672
+hsa|miRviewer:hsa-mir-3671
+hsa|miRviewer:hsa-mir-3670
+hsa|miRviewer:hsa-mir-3677 ggo|miRviewer:ggo-mir-3677
+hsa|miRviewer:hsa-mir-3676
+hsa|miRviewer:hsa-mir-3675
+hsa|miRviewer:hsa-mir-3674
+gga|miRviewer:gga-mir-1762
+gga|miRviewer:gga-mir-1760
+bta|miRviewer:bta-mir-2898
+bta|miRviewer:bta-mir-2899
+cin|miRviewer:cin-mir-4053
+hsa|miRviewer:hsa-mir-4298
+hsa|miRviewer:hsa-mir-4299
+hsa|miRviewer:hsa-mir-4290
+hsa|miRviewer:hsa-mir-4291
+hsa|miRviewer:hsa-mir-4292
+hsa|miRviewer:hsa-mir-4293
+hsa|miRviewer:hsa-mir-4294
+hsa|miRviewer:hsa-mir-4295 ggo|miRviewer:ggo-mir-4295 ppy|miRviewer:ppy-mir-4295
+hsa|miRviewer:hsa-mir-4296
+hsa|miRviewer:hsa-mir-4297 ppy|miRviewer:ppy-mir-4297
+hsa|miRviewer:hsa-mir-940 ggo|miRviewer:ggo-mir-940
+ptr|miRviewer:ptr-mir-943 ggo|miRviewer:ggo-mir-943
+hsa|miRviewer:hsa-mir-942 ptr|miRviewer:ptr-mir-942 ggo|miRviewer:ggo-mir-942
+cja|miRviewer:cja-mir-2861
+hsa|miRviewer:hsa-mir-1226 ptr|miRviewer:ptr-mir-1226 ggo|miRviewer:ggo-mir-1226 ppy|miRviewer:ppy-mir-1226 mml|miRviewer:mml-mir-1226
+ptr|miRviewer:ptr-mir-1227
+gga|miRviewer:gga-mir-1736
+hsa|miRviewer:hsa-mir-1225 ptr|miRviewer:ptr-mir-1225 ppy|miRviewer:ppy-mir-1225 mml|miRviewer:mml-mir-1225
+hsa|miRviewer:hsa-mir-4273
+ggo|miRviewer:ggo-mir-563 ppy|miRviewer:ppy-mir-563
+hsa|miRviewer:hsa-mir-1229
+oan|miRviewer:oan-mir-1352
+oan|miRviewer:oan-mir-1353
+oan|miRviewer:oan-mir-1350
+oan|miRviewer:oan-mir-1351
+oan|miRviewer:oan-mir-1356
+oan|miRviewer:oan-mir-1357
+oan|miRviewer:oan-mir-1354
+oan|miRviewer:oan-mir-1355
+oan|miRviewer:oan-mir-1358
+oan|miRviewer:oan-mir-1359
+rno|miRviewer:rno-mir-3583
+bta|miRviewer:bta-mir-2335
+bta|miRviewer:bta-mir-2337
+hsa|miRviewer:hsa-mir-4279
+bta|miRviewer:bta-mir-2331
+bta|miRviewer:bta-mir-2330
+bta|miRviewer:bta-mir-2333
+bta|miRviewer:bta-mir-2332
+gga|miRviewer:gga-mir-1641
+gga|miRviewer:gga-mir-1642
+bta|miRviewer:bta-mir-2339
+bta|miRviewer:bta-mir-2338
+hsa|miRviewer:hsa-mir-383 ptr|miRviewer:ptr-mir-383 ggo|miRviewer:ggo-mir-383 ppy|miRviewer:ppy-mir-383 mml|miRviewer:mml-mir-383 cja|miRviewer:cja-mir-383 tsy|miRviewer:tsy-mir-383 tbe|miRviewer:tbe-mir-383 ttr|miRviewer:ttr-mir-383 cfa|miRviewer:cfa-mir-383 eca|miRviewer:eca-mir-383 ete|miRviewer:ete-mir-383 laf|miRviewer:laf-mir-383 pca|miRviewer:pca-mir-383
+hsa|miRviewer:hsa-mir-382 ptr|miRviewer:ptr-mir-382 ggo|miRviewer:ggo-mir-382 mml|miRviewer:mml-mir-382 cja|miRviewer:cja-mir-382 tsy|miRviewer:tsy-mir-382 mmr|miRviewer:mmr-mir-382 oga|miRviewer:oga-mir-382 cpo|miRviewer:cpo-mir-382 ocu|miRviewer:ocu-mir-382 bta|miRviewer:bta-mir-382 ttr|miRviewer:ttr-mir-382 ssc|miRviewer:ssc-mir-382 cfa|miRviewer:cfa-mir-382 fca|miRviewer:fca-mir-382 eca|miRviewer:eca-mir-382 pva|miRviewer:pva-mir-382 cho|miRviewer:cho-mir-382 laf|miRviewer:laf-mir-382 pca|miRviewer:pca-mir-382
+hsa|miRviewer:hsa-mir-381 ptr|miRviewer:ptr-mir-381 ggo|miRviewer:ggo-mir-381 ppy|miRviewer:ppy-mir-381 mml|miRviewer:mml-mir-381 tsy|miRviewer:tsy-mir-381 mmu|miRviewer:mmu-mir-381
+ppy|miRviewer:ppy-mir-380 mml|miRviewer:mml-mir-380 laf|miRviewer:laf-mir-380
+tsy|miRviewer:tsy-mir-384 mmr|miRviewer:mmr-mir-384 dor|miRviewer:dor-mir-384 opr|miRviewer:opr-mir-384 ocu|miRviewer:ocu-mir-384 cfa|miRviewer:cfa-mir-384
+mmu|miRviewer:mmu-mir-673
+tsy|miRviewer:tsy-mir-672 mmu|miRviewer:mmu-mir-672 ocu|miRviewer:ocu-mir-672
+hsa|miRviewer:hsa-mir-671 ptr|miRviewer:ptr-mir-671 ggo|miRviewer:ggo-mir-671 ppy|miRviewer:ppy-mir-671 mml|miRviewer:mml-mir-671 tsy|miRviewer:tsy-mir-671 cpo|miRviewer:cpo-mir-671 cfa|miRviewer:cfa-mir-671 ete|miRviewer:ete-mir-671
+mmr|miRviewer:mmr-mir-670
+mml|miRviewer:mml-mir-675
+ppy|miRviewer:ppy-mir-675a
+ppy|miRviewer:ppy-mir-675b
+mmu|miRviewer:mmu-mir-674 rno|miRviewer:rno-mir-674
+mmu|miRviewer:mmu-mir-679
+mmu|miRviewer:mmu-mir-678
+mmu|miRviewer:mmu-mir-3112
+hsa|miRviewer:hsa-mir-2428 ggo|miRviewer:ggo-mir-2428
+mmu|miRviewer:mmu-mir-3110
+hsa|miRviewer:hsa-mir-3116-1
+hsa|miRviewer:hsa-mir-3116-2
+hsa|miRviewer:hsa-mir-3117
+hsa|miRviewer:hsa-mir-3115
+bta|miRviewer:bta-mir-2421
+bta|miRviewer:bta-mir-2420
+hsa|miRviewer:hsa-mir-3118-1 ptr|miRviewer:ptr-mir-3118-1
+hsa|miRviewer:hsa-mir-3118-2
+hsa|miRviewer:hsa-mir-3118-3
+hsa|miRviewer:hsa-mir-3118-4
+hsa|miRviewer:hsa-mir-3118-5
+hsa|miRviewer:hsa-mir-3118-6
+hsa|miRviewer:hsa-mir-3119-1 ggo|miRviewer:ggo-mir-3119-1
+hsa|miRviewer:hsa-mir-3119-2
+bta|miRviewer:bta-mir-2425
+bta|miRviewer:bta-mir-2424-1
+bta|miRviewer:bta-mir-2424-2
+bta|miRviewer:bta-mir-2427
+bta|miRviewer:bta-mir-2426
+bta|miRviewer:bta-mir-2466
+bta|miRviewer:bta-mir-2461
+bta|miRviewer:bta-mir-2460
+bta|miRviewer:bta-mir-2463
+hsa|miRviewer:hsa-mir-499 ggo|miRviewer:ggo-mir-499 mmr|miRviewer:mmr-mir-499 tbe|miRviewer:tbe-mir-499 cfa|miRviewer:cfa-mir-499
+hsa|miRviewer:hsa-mir-497 ptr|miRviewer:ptr-mir-497 ggo|miRviewer:ggo-mir-497 mml|miRviewer:mml-mir-497 cja|miRviewer:cja-mir-497 rno|miRviewer:rno-mir-497 ocu|miRviewer:ocu-mir-497 ttr|miRviewer:ttr-mir-497 ssc|miRviewer:ssc-mir-497 fca|miRviewer:fca-mir-497 eca|miRviewer:eca-mir-497 pva|miRviewer:pva-mir-497 sar|miRviewer:sar-mir-497
+cja|miRviewer:cja-mir-496 tsy|miRviewer:tsy-mir-496
+hsa|miRviewer:hsa-mir-495 ptr|miRviewer:ptr-mir-495 ggo|miRviewer:ggo-mir-495 ppy|miRviewer:ppy-mir-495 mml|miRviewer:mml-mir-495 cja|miRviewer:cja-mir-495 mmr|miRviewer:mmr-mir-495 oga|miRviewer:oga-mir-495
+hsa|miRviewer:hsa-mir-494 ptr|miRviewer:ptr-mir-494 ggo|miRviewer:ggo-mir-494 ppy|miRviewer:ppy-mir-494 ttr|miRviewer:ttr-mir-494 cfa|miRviewer:cfa-mir-494 eca|miRviewer:eca-mir-494
+rno|miRviewer:rno-mir-493 cfa|miRviewer:cfa-mir-493 pva|miRviewer:pva-mir-493
+eca|miRviewer:eca-mir-493a
+eca|miRviewer:eca-mir-493b
+hsa|miRviewer:hsa-mir-492
+eca|miRviewer:eca-mir-492-1
+eca|miRviewer:eca-mir-492-2
+tsy|miRviewer:tsy-mir-491 oga|miRviewer:oga-mir-491 bta|miRviewer:bta-mir-491 ttr|miRviewer:ttr-mir-491 vpa|miRviewer:vpa-mir-491 ssc|miRviewer:ssc-mir-491 cfa|miRviewer:cfa-mir-491 fca|miRviewer:fca-mir-491 eca|miRviewer:eca-mir-491 eeu|miRviewer:eeu-mir-491
+vpa|miRviewer:vpa-mir-490 cfa|miRviewer:cfa-mir-490 fca|miRviewer:fca-mir-490 eca|miRviewer:eca-mir-490 cho|miRviewer:cho-mir-490
+tgu|miRviewer:tgu-mir-490-1
+tgu|miRviewer:tgu-mir-490-2
+dme|miRviewer:dme-mir-252
+mmu|miRviewer:mmu-mir-709
+hsa|miRviewer:hsa-mir-708 ptr|miRviewer:ptr-mir-708 ppy|miRviewer:ppy-mir-708 mml|miRviewer:mml-mir-708 cja|miRviewer:cja-mir-708
+mmu|miRviewer:mmu-mir-707
+mmu|miRviewer:mmu-mir-706
+mmu|miRviewer:mmu-mir-705
+mmu|miRviewer:mmu-mir-704
+mmu|miRviewer:mmu-mir-703
+mmu|miRviewer:mmu-mir-702
+mmu|miRviewer:mmu-mir-701
+cpo|miRviewer:cpo-mir-700
+hsa|miRviewer:hsa-mir-924 ptr|miRviewer:ptr-mir-924 ppy|miRviewer:ppy-mir-924
+hsa|miRviewer:hsa-mir-922 ptr|miRviewer:ptr-mir-922 ggo|miRviewer:ggo-mir-922
+hsa|miRviewer:hsa-mir-921
+hsa|miRviewer:hsa-mir-920 ggo|miRviewer:ggo-mir-920
+mmu|miRviewer:mmu-mir-3066
+mmu|miRviewer:mmu-mir-3067
+mmu|miRviewer:mmu-mir-3064
+mmu|miRviewer:mmu-mir-3062
+mmu|miRviewer:mmu-mir-3063
+mmu|miRviewer:mmu-mir-3060
+mmu|miRviewer:mmu-mir-3061
+mmu|miRviewer:mmu-mir-3068
+mmu|miRviewer:mmu-mir-3069
+hsa|miRviewer:hsa-mir-4265
+hsa|miRviewer:hsa-mir-4264
+hsa|miRviewer:hsa-mir-4267
+hsa|miRviewer:hsa-mir-4266 ppy|miRviewer:ppy-mir-4266
+hsa|miRviewer:hsa-mir-4261
+hsa|miRviewer:hsa-mir-4260
+hsa|miRviewer:hsa-mir-4263
+hsa|miRviewer:hsa-mir-4262
+hsa|miRviewer:hsa-mir-4269
+hsa|miRviewer:hsa-mir-4268
+mmu|miRviewer:mmu-mir-742
+mmu|miRviewer:mmu-mir-741
+hsa|miRviewer:hsa-mir-3648
+hsa|miRviewer:hsa-mir-3649
+ppy|miRviewer:ppy-mir-3646
+hsa|miRviewer:hsa-mir-3647
+cpo|miRviewer:cpo-mir-212 ttr|miRviewer:ttr-mir-212 ssc|miRviewer:ssc-mir-212 cfa|miRviewer:cfa-mir-212 eca|miRviewer:eca-mir-212
+hsa|miRviewer:hsa-mir-4289 ggo|miRviewer:ggo-mir-4289
+hsa|miRviewer:hsa-mir-4288
+hsa|miRviewer:hsa-mir-4283-1
+hsa|miRviewer:hsa-mir-4283-2
+hsa|miRviewer:hsa-mir-4282
+hsa|miRviewer:hsa-mir-4281
+hsa|miRviewer:hsa-mir-4280 ggo|miRviewer:ggo-mir-4280
+hsa|miRviewer:hsa-mir-4287
+hsa|miRviewer:hsa-mir-4286
+hsa|miRviewer:hsa-mir-4285
+hsa|miRviewer:hsa-mir-4284 ggo|miRviewer:ggo-mir-4284
+hsa|miRviewer:hsa-mir-624 ptr|miRviewer:ptr-mir-624
+hsa|miRviewer:hsa-mir-625
+hsa|miRviewer:hsa-mir-626 ptr|miRviewer:ptr-mir-626
+hsa|miRviewer:hsa-mir-627 ptr|miRviewer:ptr-mir-627
+hsa|miRviewer:hsa-mir-620
+hsa|miRviewer:hsa-mir-621
+hsa|miRviewer:hsa-mir-190 ggo|miRviewer:ggo-mir-190 ppy|miRviewer:ppy-mir-190 mml|miRviewer:mml-mir-190 cja|miRviewer:cja-mir-190 tsy|miRviewer:tsy-mir-190 mmr|miRviewer:mmr-mir-190 tbe|miRviewer:tbe-mir-190 cpo|miRviewer:cpo-mir-190 opr|miRviewer:opr-mir-190 ocu|miRviewer:ocu-mir-190 bta|miRviewer:bta-mir-190 ttr|miRviewer:ttr-mir-190 ssc|miRviewer:ssc-mir-190 cfa|miRviewer:cfa-mir-190 fca|miRviewer:fca-mir-190 eca|miRviewer:eca-mir-190 mlu|miRviewer:mlu-mir-190 sar|miRviewer:sar-mir-190 cho|miRviewer:cho-mir-190 ete|miRviewer:ete-mir-190 laf|miRviewer:laf-mir-190 pca|miRviewer:pca-mir-190 oan|miRviewer:oan-mir-190
+bta|miRviewer:bta-mir-190b vpa|miRviewer:vpa-mir-190b
+ptr|miRviewer:ptr-mir-190a mml|miRviewer:mml-mir-190a bta|miRviewer:bta-mir-190a cfa|miRviewer:cfa-mir-190a oan|miRviewer:oan-mir-190a
+ptr|miRviewer:ptr-mir-623
+hsa|miRviewer:hsa-mir-3149
+hsa|miRviewer:hsa-mir-3926-1
+hsa|miRviewer:hsa-mir-3926-2
+gga|miRviewer:gga-mir-1723
+gga|miRviewer:gga-mir-1722
+bta|miRviewer:bta-mir-1721
+rno|miRviewer:rno-mir-3575
+mga|miRviewer:mga-mir-1729
+hsa|miRviewer:hsa-mir-3678 ggo|miRviewer:ggo-mir-3678
+hsa|miRviewer:hsa-mir-3929
+hsa|miRviewer:hsa-mir-3928
+oan|miRviewer:oan-mir-1345
+oan|miRviewer:oan-mir-1344
+oan|miRviewer:oan-mir-1347
+oan|miRviewer:oan-mir-1346
+oan|miRviewer:oan-mir-1341
+oan|miRviewer:oan-mir-1340
+ggo|miRviewer:ggo-mir-1343 ppy|miRviewer:ppy-mir-1343 opr|miRviewer:opr-mir-1343 bta|miRviewer:bta-mir-1343 ttr|miRviewer:ttr-mir-1343 vpa|miRviewer:vpa-mir-1343 ssc|miRviewer:ssc-mir-1343 cfa|miRviewer:cfa-mir-1343 fca|miRviewer:fca-mir-1343
+bta|miRviewer:bta-mir-1434
+oan|miRviewer:oan-mir-1349
+oan|miRviewer:oan-mir-1348
+gga|miRviewer:gga-mir-1653
+gga|miRviewer:gga-mir-1656
+gga|miRviewer:gga-mir-1655
+hsa|miRviewer:hsa-mir-660 ptr|miRviewer:ptr-mir-660 ggo|miRviewer:ggo-mir-660 ppy|miRviewer:ppy-mir-660 cja|miRviewer:cja-mir-660 mmr|miRviewer:mmr-mir-660 oga|miRviewer:oga-mir-660
+ggo|miRviewer:ggo-mir-661
+hsa|miRviewer:hsa-mir-662
+ggo|miRviewer:ggo-mir-663
+ptr|miRviewer:ptr-mir-663a
+rno|miRviewer:rno-mir-664-2
+mmu|miRviewer:mmu-mir-666
+mmu|miRviewer:mmu-mir-667 rno|miRviewer:rno-mir-667
+hsa|miRviewer:hsa-mir-668 ptr|miRviewer:ptr-mir-668 ggo|miRviewer:ggo-mir-668 ppy|miRviewer:ppy-mir-668 mml|miRviewer:mml-mir-668 cja|miRviewer:cja-mir-668 oga|miRviewer:oga-mir-668 dor|miRviewer:dor-mir-668 str|miRviewer:str-mir-668
+mmu|miRviewer:mmu-mir-669a-1
+mmu|miRviewer:mmu-mir-669a-2
+mmu|miRviewer:mmu-mir-669a-3
+mmu|miRviewer:mmu-mir-669c
+mmu|miRviewer:mmu-mir-669k
+mmu|miRviewer:mmu-mir-669g
+mmu|miRviewer:mmu-mir-669d
+mmu|miRviewer:mmu-mir-669j
+mmu|miRviewer:mmu-mir-669f
+mmu|miRviewer:mmu-mir-669i
+mmu|miRviewer:mmu-mir-669h
+mmu|miRviewer:mmu-mir-669e
+mmu|miRviewer:mmu-mir-669l
+mmu|miRviewer:mmu-mir-669m-1
+mmu|miRviewer:mmu-mir-669o
+mmu|miRviewer:mmu-mir-669n
+mmu|miRviewer:mmu-mir-669d-2
+mmu|miRviewer:mmu-mir-669a-4
+mmu|miRviewer:mmu-mir-669a-5
+mmu|miRviewer:mmu-mir-669a-6
+mmu|miRviewer:mmu-mir-669a-7
+mmu|miRviewer:mmu-mir-669p-1
+mmu|miRviewer:mmu-mir-669a-8
+mmu|miRviewer:mmu-mir-669a-9
+mmu|miRviewer:mmu-mir-669p-2
+mmu|miRviewer:mmu-mir-669a-10
+mmu|miRviewer:mmu-mir-669a-11
+mmu|miRviewer:mmu-mir-669a-12
+bta|miRviewer:bta-mir-669
+mml|miRviewer:mml-mir-1239
+hsa|miRviewer:hsa-mir-1238
+hsa|miRviewer:hsa-mir-1231
+mml|miRviewer:mml-mir-1230
+hsa|miRviewer:hsa-mir-1233-2
+ptr|miRviewer:ptr-mir-1233-3
+ppy|miRviewer:ppy-mir-1233
+mml|miRviewer:mml-mir-1232
+mml|miRviewer:mml-mir-1235
+hsa|miRviewer:hsa-mir-1234
+hsa|miRviewer:hsa-mir-1237 ptr|miRviewer:ptr-mir-1237
+hsa|miRviewer:hsa-mir-1236 ptr|miRviewer:ptr-mir-1236
+mmu|miRviewer:mmu-mir-3105
+mmu|miRviewer:mmu-mir-3104
+mmu|miRviewer:mmu-mir-3101
+mmu|miRviewer:mmu-mir-3100
+mmu|miRviewer:mmu-mir-3103
+mmu|miRviewer:mmu-mir-3102
+bta|miRviewer:bta-mir-2454
+bta|miRviewer:bta-mir-2455
+bta|miRviewer:bta-mir-2457
+mmu|miRviewer:mmu-mir-804
+mmu|miRviewer:mmu-mir-3108
+bta|miRviewer:bta-mir-2452
+bta|miRviewer:bta-mir-2453
+bta|miRviewer:bta-mir-2298
+bta|miRviewer:bta-mir-2299
+bta|miRviewer:bta-mir-2292
+bta|miRviewer:bta-mir-2293
+bta|miRviewer:bta-mir-2291
+bta|miRviewer:bta-mir-2296
+bta|miRviewer:bta-mir-2297
+bta|miRviewer:bta-mir-2294
+bta|miRviewer:bta-mir-2295
+tsy|miRviewer:tsy-mir-488 oga|miRviewer:oga-mir-488 tbe|miRviewer:tbe-mir-488 dor|miRviewer:dor-mir-488 ttr|miRviewer:ttr-mir-488 ssc|miRviewer:ssc-mir-488 eca|miRviewer:eca-mir-488 laf|miRviewer:laf-mir-488 pca|miRviewer:pca-mir-488
+ppy|miRviewer:ppy-mir-489 tbe|miRviewer:tbe-mir-489
+hsa|miRviewer:hsa-mir-484 ptr|miRviewer:ptr-mir-484 ggo|miRviewer:ggo-mir-484 ppy|miRviewer:ppy-mir-484 mml|miRviewer:mml-mir-484
+hsa|miRviewer:hsa-mir-485 ptr|miRviewer:ptr-mir-485 ggo|miRviewer:ggo-mir-485 ppy|miRviewer:ppy-mir-485 mml|miRviewer:mml-mir-485 mmr|miRviewer:mmr-mir-485 oga|miRviewer:oga-mir-485 vpa|miRviewer:vpa-mir-485 cfa|miRviewer:cfa-mir-485 mlu|miRviewer:mlu-mir-485 pva|miRviewer:pva-mir-485
+str|miRviewer:str-mir-486 laf|miRviewer:laf-mir-486
+cja|miRviewer:cja-mir-487a oga|miRviewer:oga-mir-487a tbe|miRviewer:tbe-mir-487a laf|miRviewer:laf-mir-487a pca|miRviewer:pca-mir-487a
+tsy|miRviewer:tsy-mir-487b bta|miRviewer:bta-mir-487b ssc|miRviewer:ssc-mir-487b cfa|miRviewer:cfa-mir-487b
+hsa|miRviewer:hsa-mir-718 ggo|miRviewer:ggo-mir-718 ssc|miRviewer:ssc-mir-718
+mmu|miRviewer:mmu-mir-719
+mmu|miRviewer:mmu-mir-714
+mmu|miRviewer:mmu-mir-715
+mmu|miRviewer:mmu-mir-717
+mmu|miRviewer:mmu-mir-710
+hsa|miRviewer:hsa-mir-711 ptr|miRviewer:ptr-mir-711 ppy|miRviewer:ppy-mir-711 mml|miRviewer:mml-mir-711
+mmu|miRviewer:mmu-mir-712
+mmu|miRviewer:mmu-mir-713
+mmu|miRviewer:mmu-mir-3079
+hsa|miRviewer:hsa-mir-935 ptr|miRviewer:ptr-mir-935 bta|miRviewer:bta-mir-935 pca|miRviewer:pca-mir-935
+hsa|miRviewer:hsa-mir-936 ptr|miRviewer:ptr-mir-936
+ptr|miRviewer:ptr-mir-937
+hsa|miRviewer:hsa-mir-933 ptr|miRviewer:ptr-mir-933 mml|miRviewer:mml-mir-933
+bta|miRviewer:bta-mir-3071 ttr|miRviewer:ttr-mir-3071 ssc|miRviewer:ssc-mir-3071 cfa|miRviewer:cfa-mir-3071 fca|miRviewer:fca-mir-3071 pva|miRviewer:pva-mir-3071 laf|miRviewer:laf-mir-3071 pca|miRviewer:pca-mir-3071
+mmu|miRviewer:mmu-mir-3070a
+mmu|miRviewer:mmu-mir-3073
+mmu|miRviewer:mmu-mir-3072
+hsa|miRviewer:hsa-mir-938
+hsa|miRviewer:hsa-mir-939 ptr|miRviewer:ptr-mir-939 ggo|miRviewer:ggo-mir-939
+mmu|miRviewer:mmu-mir-3077
+mmu|miRviewer:mmu-mir-3076
+cfa|miRviewer:cfa-mir-1840
+cfa|miRviewer:cfa-mir-1841
+hsa|miRviewer:hsa-mir-95 ptr|miRviewer:ptr-mir-95 ggo|miRviewer:ggo-mir-95 ppy|miRviewer:ppy-mir-95 mml|miRviewer:mml-mir-95 cja|miRviewer:cja-mir-95
+hsa|miRviewer:hsa-mir-96 ptr|miRviewer:ptr-mir-96 ggo|miRviewer:ggo-mir-96 ppy|miRviewer:ppy-mir-96 mml|miRviewer:mml-mir-96 tsy|miRviewer:tsy-mir-96 mmr|miRviewer:mmr-mir-96 oga|miRviewer:oga-mir-96 str|miRviewer:str-mir-96 ocu|miRviewer:ocu-mir-96 ttr|miRviewer:ttr-mir-96 cfa|miRviewer:cfa-mir-96 fca|miRviewer:fca-mir-96 eca|miRviewer:eca-mir-96 ete|miRviewer:ete-mir-96 laf|miRviewer:laf-mir-96 pca|miRviewer:pca-mir-96
+hsa|miRviewer:hsa-mir-92a-1 ggo|miRviewer:ggo-mir-92a-1 mml|miRviewer:mml-mir-92a-1 cja|miRviewer:cja-mir-92a-1 tsy|miRviewer:tsy-mir-92a-1 mmr|miRviewer:mmr-mir-92a-1 oga|miRviewer:oga-mir-92a-1 cpo|miRviewer:cpo-mir-92a-1 str|miRviewer:str-mir-92a-1 bta|miRviewer:bta-mir-92a-1 ttr|miRviewer:ttr-mir-92a-1 vpa|miRviewer:vpa-mir-92a-1 ssc|miRviewer:ssc-mir-92a-1 cfa|miRviewer:cfa-mir-92a-1 fca|miRviewer:fca-mir-92a-1 pva|miRviewer:pva-mir-92a-1
+eca|miRviewer:eca-mir-92a-2
+mml|miRviewer:mml-mir-92b eca|miRviewer:eca-mir-92b
+ptr|miRviewer:ptr-mir-92-1 ggo|miRviewer:ggo-mir-92-1 ppy|miRviewer:ppy-mir-92-1
+ggo|miRviewer:ggo-mir-92-2 ppy|miRviewer:ppy-mir-92-2
+oan|miRviewer:oan-mir-92d
+cin|miRviewer:cin-mir-92e
+oga|miRviewer:oga-mir-93 tbe|miRviewer:tbe-mir-93 cpo|miRviewer:cpo-mir-93 str|miRviewer:str-mir-93 ocu|miRviewer:ocu-mir-93 ttr|miRviewer:ttr-mir-93 cfa|miRviewer:cfa-mir-93 eca|miRviewer:eca-mir-93 pva|miRviewer:pva-mir-93 laf|miRviewer:laf-mir-93 pca|miRviewer:pca-mir-93
+xtr|miRviewer:xtr-mir-93a
+xtr|miRviewer:xtr-mir-93b
+ssc|miRviewer:ssc-mir-98 cfa|miRviewer:cfa-mir-98 fca|miRviewer:fca-mir-98
+hsa|miRviewer:hsa-mir-99a ptr|miRviewer:ptr-mir-99a ggo|miRviewer:ggo-mir-99a mml|miRviewer:mml-mir-99a cja|miRviewer:cja-mir-99a oga|miRviewer:oga-mir-99a tbe|miRviewer:tbe-mir-99a ocu|miRviewer:ocu-mir-99a bta|miRviewer:bta-mir-99a vpa|miRviewer:vpa-mir-99a ssc|miRviewer:ssc-mir-99a mlu|miRviewer:mlu-mir-99a pva|miRviewer:pva-mir-99a
+hsa|miRviewer:hsa-mir-99b ptr|miRviewer:ptr-mir-99b mml|miRviewer:mml-mir-99b mmu|miRviewer:mmu-mir-99b rno|miRviewer:rno-mir-99b bta|miRviewer:bta-mir-99b ttr|miRviewer:ttr-mir-99b ssc|miRviewer:ssc-mir-99b eca|miRviewer:eca-mir-99b
+cfa|miRviewer:cfa-mir-99a-1
+cfa|miRviewer:cfa-mir-99a-2
+oan|miRviewer:oan-mir-99
+tgu|miRviewer:tgu-mir-99-1
+tgu|miRviewer:tgu-mir-99-2
+bta|miRviewer:bta-mir-2887-1
+bta|miRviewer:bta-mir-2887-2
+hsa|miRviewer:hsa-mir-3651
+hsa|miRviewer:hsa-mir-3650
+hsa|miRviewer:hsa-mir-3652
+hsa|miRviewer:hsa-mir-3655
+hsa|miRviewer:hsa-mir-3654
+ggo|miRviewer:ggo-mir-3657
+hsa|miRviewer:hsa-mir-3656
+ggo|miRviewer:ggo-mir-3659
+hsa|miRviewer:hsa-mir-3658
+bta|miRviewer:bta-mir-2885
+bta|miRviewer:bta-mir-2883
+bta|miRviewer:bta-mir-2882
+ppy|miRviewer:ppy-mir-1537
+ppy|miRviewer:ppy-mir-1538
+hsa|miRviewer:hsa-mir-1539
+oan|miRviewer:oan-mir-1406
+oan|miRviewer:oan-mir-1407
+oan|miRviewer:oan-mir-1404
+oan|miRviewer:oan-mir-1405
+oan|miRviewer:oan-mir-1402
+oan|miRviewer:oan-mir-1403
+oan|miRviewer:oan-mir-1400
+meu|miRviewer:meu-mir-1401
+oan|miRviewer:oan-mir-1408
+oan|miRviewer:oan-mir-1409
+gga|miRviewer:gga-mir-1664
+gga|miRviewer:gga-mir-1662 mga|miRviewer:mga-mir-1662
+oan|miRviewer:oan-mir-1398
+oan|miRviewer:oan-mir-1399
+oan|miRviewer:oan-mir-1396
+oan|miRviewer:oan-mir-1394
+oan|miRviewer:oan-mir-1395
+oan|miRviewer:oan-mir-1392
+oan|miRviewer:oan-mir-1393
+oan|miRviewer:oan-mir-1390
+oan|miRviewer:oan-mir-1391
+hsa|miRviewer:hsa-mir-659
+hsa|miRviewer:hsa-mir-129-1 ptr|miRviewer:ptr-mir-129-1 ppy|miRviewer:ppy-mir-129-1 mml|miRviewer:mml-mir-129-1 cja|miRviewer:cja-mir-129-1 mmr|miRviewer:mmr-mir-129-1 oga|miRviewer:oga-mir-129-1 tbe|miRviewer:tbe-mir-129-1 cfa|miRviewer:cfa-mir-129-1 fca|miRviewer:fca-mir-129-1
+hsa|miRviewer:hsa-mir-129-2 ptr|miRviewer:ptr-mir-129-2 ppy|miRviewer:ppy-mir-129-2
+eca|miRviewer:eca-mir-129a
+eca|miRviewer:eca-mir-129b
+hsa|miRviewer:hsa-mir-128-1 ptr|miRviewer:ptr-mir-128-1 ggo|miRviewer:ggo-mir-128-1 ppy|miRviewer:ppy-mir-128-1 mml|miRviewer:mml-mir-128-1 cja|miRviewer:cja-mir-128-1 tsy|miRviewer:tsy-mir-128-1 oga|miRviewer:oga-mir-128-1 tbe|miRviewer:tbe-mir-128-1 cpo|miRviewer:cpo-mir-128-1 dor|miRviewer:dor-mir-128-1 mmu|miRviewer:mmu-mir-128-1 rno|miRviewer:rno-mir-128-1 opr|miRviewer:opr-mir-128-1 ocu|miRviewer:ocu-mir-128-1 bta|miRviewer:bta-mir-128-1 ttr|miRviewer:ttr-mir-128-1 vpa|miRviewer:vpa-mir-128-1 ssc|miRviewer:ssc-mir-128-1 cfa|miRviewer:cfa-mir-128-1 fca|miRviewer:fca-mir-128-1 mlu|miRviewer:mlu-mir-128-1 pva|miRviewer:pva-mir-128-1 eeu|miRviewer:eeu-mir-128-1 cho|miRviewer:cho-mir-128-1 ete|miRviewer:ete-mir-128-1 meu|miRviewer:meu-mir-128-1 mdo|miRviewer:mdo-mir-128-1
+mml|miRviewer:mml-mir-128a
+mml|miRviewer:mml-mir-128b
+hsa|miRviewer:hsa-mir-127 ptr|miRviewer:ptr-mir-127 ggo|miRviewer:ggo-mir-127 ppy|miRviewer:ppy-mir-127 cja|miRviewer:cja-mir-127 tsy|miRviewer:tsy-mir-127 oga|miRviewer:oga-mir-127 cpo|miRviewer:cpo-mir-127 dor|miRviewer:dor-mir-127 mmu|miRviewer:mmu-mir-127 ocu|miRviewer:ocu-mir-127 ttr|miRviewer:ttr-mir-127 vpa|miRviewer:vpa-mir-127 cfa|miRviewer:cfa-mir-127 fca|miRviewer:fca-mir-127 eca|miRviewer:eca-mir-127 mlu|miRviewer:mlu-mir-127 pva|miRviewer:pva-mir-127 eeu|miRviewer:eeu-mir-127 cho|miRviewer:cho-mir-127 laf|miRviewer:laf-mir-127
+oga|miRviewer:oga-mir-126 cfa|miRviewer:cfa-mir-126 fca|miRviewer:fca-mir-126 eeu|miRviewer:eeu-mir-126
+dre|miRviewer:dre-mir-126b
+hsa|miRviewer:hsa-mir-657
+hsa|miRviewer:hsa-mir-124-1 ggo|miRviewer:ggo-mir-124-1 mml|miRviewer:mml-mir-124-1 cja|miRviewer:cja-mir-124-1 cpo|miRviewer:cpo-mir-124-1 dor|miRviewer:dor-mir-124-1 mmu|miRviewer:mmu-mir-124-1 rno|miRviewer:rno-mir-124-1 opr|miRviewer:opr-mir-124-1 ocu|miRviewer:ocu-mir-124-1 bta|miRviewer:bta-mir-124-1 ttr|miRviewer:ttr-mir-124-1 ssc|miRviewer:ssc-mir-124-1 cfa|miRviewer:cfa-mir-124-1 fca|miRviewer:fca-mir-124-1 mlu|miRviewer:mlu-mir-124-1 ete|miRviewer:ete-mir-124-1 pca|miRviewer:pca-mir-124-1 meu|miRviewer:meu-mir-124-1 mdo|miRviewer:mdo-mir-124-1
+cfa|miRviewer:cfa-mir-124-2 eca|miRviewer:eca-mir-124-2
+mmu|miRviewer:mmu-mir-124-3
+ptr|miRviewer:ptr-mir-124a ggo|miRviewer:ggo-mir-124a
+mml|miRviewer:mml-mir-124a-1
+bta|miRviewer:bta-mir-124b
+eca|miRviewer:eca-mir-124
+mdo|miRviewer:mdo-mir-124a-3
+dre|miRviewer:dre-mir-124-4
+dre|miRviewer:dre-mir-124-5
+dre|miRviewer:dre-mir-124-6
+hsa|miRviewer:hsa-mir-651 ggo|miRviewer:ggo-mir-651
+mmr|miRviewer:mmr-mir-122 str|miRviewer:str-mir-122 opr|miRviewer:opr-mir-122 ocu|miRviewer:ocu-mir-122 cfa|miRviewer:cfa-mir-122 eca|miRviewer:eca-mir-122 mlu|miRviewer:mlu-mir-122 pva|miRviewer:pva-mir-122
+mml|miRviewer:mml-mir-122a
+gga|miRviewer:gga-mir-122-1
+gga|miRviewer:gga-mir-122-2
+gga|miRviewer:gga-mir-122b
+hsa|miRviewer:hsa-mir-652 ptr|miRviewer:ptr-mir-652 ggo|miRviewer:ggo-mir-652 ppy|miRviewer:ppy-mir-652 cja|miRviewer:cja-mir-652 str|miRviewer:str-mir-652 ssc|miRviewer:ssc-mir-652 cfa|miRviewer:cfa-mir-652 eca|miRviewer:eca-mir-652
+bta|miRviewer:bta-mir-1248-1
+bta|miRviewer:bta-mir-1248-2
+cja|miRviewer:cja-mir-1249 mmr|miRviewer:mmr-mir-1249 cpo|miRviewer:cpo-mir-1249 pva|miRviewer:pva-mir-1249
+hsa|miRviewer:hsa-mir-654 ptr|miRviewer:ptr-mir-654 ggo|miRviewer:ggo-mir-654 ppy|miRviewer:ppy-mir-654 mml|miRviewer:mml-mir-654
+hsa|miRviewer:hsa-mir-1244-1
+hsa|miRviewer:hsa-mir-1244-2 ptr|miRviewer:ptr-mir-1244-2
+hsa|miRviewer:hsa-mir-1244-3 ptr|miRviewer:ptr-mir-1244-3
+ptr|miRviewer:ptr-mir-1244-4
+ptr|miRviewer:ptr-mir-1244-5
+ptr|miRviewer:ptr-mir-1244-6
+ptr|miRviewer:ptr-mir-1244-7
+ptr|miRviewer:ptr-mir-1244-8
+ptr|miRviewer:ptr-mir-1244-9
+ptr|miRviewer:ptr-mir-1244-10
+ptr|miRviewer:ptr-mir-1244-11
+ppy|miRviewer:ppy-mir-1244
+hsa|miRviewer:hsa-mir-1245
+hsa|miRviewer:hsa-mir-1246 ptr|miRviewer:ptr-mir-1246
+hsa|miRviewer:hsa-mir-1247 ptr|miRviewer:ptr-mir-1247 ppy|miRviewer:ppy-mir-1247
+hsa|miRviewer:hsa-mir-125b-1 ptr|miRviewer:ptr-mir-125b-1 ggo|miRviewer:ggo-mir-125b-1 ppy|miRviewer:ppy-mir-125b-1 mml|miRviewer:mml-mir-125b-1 cfa|miRviewer:cfa-mir-125b-1
+mml|miRviewer:mml-mir-125a cja|miRviewer:cja-mir-125a cpo|miRviewer:cpo-mir-125a cfa|miRviewer:cfa-mir-125a fca|miRviewer:fca-mir-125a eca|miRviewer:eca-mir-125a
+hsa|miRviewer:hsa-mir-125b-2 ptr|miRviewer:ptr-mir-125b-2 ggo|miRviewer:ggo-mir-125b-2 ppy|miRviewer:ppy-mir-125b-2 mml|miRviewer:mml-mir-125b-2 tsy|miRviewer:tsy-mir-125b-2 str|miRviewer:str-mir-125b-2 ocu|miRviewer:ocu-mir-125b-2 vpa|miRviewer:vpa-mir-125b-2 ssc|miRviewer:ssc-mir-125b-2 cfa|miRviewer:cfa-mir-125b-2 eeu|miRviewer:eeu-mir-125b-2 ete|miRviewer:ete-mir-125b-2 aca|miRviewer:aca-mir-125b-2
+tgu|miRviewer:tgu-mir-125-1
+tgu|miRviewer:tgu-mir-125-2
+dre|miRviewer:dre-mir-125a-1
+dre|miRviewer:dre-mir-125a-2
+dre|miRviewer:dre-mir-125b-3
+dre|miRviewer:dre-mir-125c
+gga|miRviewer:gga-mir-1715
+hsa|miRviewer:hsa-mir-656 ptr|miRviewer:ptr-mir-656 ppy|miRviewer:ppy-mir-656
+bta|miRviewer:bta-mir-2449
+bta|miRviewer:bta-mir-2448
+bta|miRviewer:bta-mir-2447
+bta|miRviewer:bta-mir-2446
+bta|miRviewer:bta-mir-2445
+bta|miRviewer:bta-mir-2444
+bta|miRviewer:bta-mir-2443
+bta|miRviewer:bta-mir-2442
+bta|miRviewer:bta-mir-2441
+hsa|miRviewer:hsa-mir-650
+mml|miRviewer:mml-mir-650a-1
+mml|miRviewer:mml-mir-650a-2
+mml|miRviewer:mml-mir-650b
+mml|miRviewer:mml-mir-650c
+mml|miRviewer:mml-mir-650d
+bta|miRviewer:bta-mir-2289
+bta|miRviewer:bta-mir-2288
+bta|miRviewer:bta-mir-2285a
+bta|miRviewer:bta-mir-2285d
+bta|miRviewer:bta-mir-2285b
+bta|miRviewer:bta-mir-2285c
+bta|miRviewer:bta-mir-2284i
+bta|miRviewer:bta-mir-2284s
+bta|miRviewer:bta-mir-2284l
+bta|miRviewer:bta-mir-2284j
+bta|miRviewer:bta-mir-2284t
+bta|miRviewer:bta-mir-2284d
+bta|miRviewer:bta-mir-2284n
+bta|miRviewer:bta-mir-2284g
+bta|miRviewer:bta-mir-2284p
+bta|miRviewer:bta-mir-2284u
+bta|miRviewer:bta-mir-2284f
+bta|miRviewer:bta-mir-2284a
+bta|miRviewer:bta-mir-2284k
+bta|miRviewer:bta-mir-2284c
+bta|miRviewer:bta-mir-2284v
+bta|miRviewer:bta-mir-2284q
+bta|miRviewer:bta-mir-2284m
+bta|miRviewer:bta-mir-2284b
+bta|miRviewer:bta-mir-2284r
+bta|miRviewer:bta-mir-2284h
+bta|miRviewer:bta-mir-2284o
+bta|miRviewer:bta-mir-2284e
+bta|miRviewer:bta-mir-2284w
+bta|miRviewer:bta-mir-2284x
+bta|miRviewer:bta-mir-2287
+bta|miRviewer:bta-mir-2286
+mmu|miRviewer:mmu-mir-721
+ptr|miRviewer:ptr-mir-720
+gac|miRviewer:gac-mir-727
+mml|miRviewer:mml-mir-1241
+rno|miRviewer:rno-mir-347
+hsa|miRviewer:hsa-mir-346 ptr|miRviewer:ptr-mir-346 ggo|miRviewer:ggo-mir-346 ppy|miRviewer:ppy-mir-346 cja|miRviewer:cja-mir-346 mmr|miRviewer:mmr-mir-346 cpo|miRviewer:cpo-mir-346 str|miRviewer:str-mir-346 opr|miRviewer:opr-mir-346 ocu|miRviewer:ocu-mir-346 eca|miRviewer:eca-mir-346
+mmu|miRviewer:mmu-mir-344-1
+mmu|miRviewer:mmu-mir-344d-3
+mmu|miRviewer:mmu-mir-344d-1
+mmu|miRviewer:mmu-mir-344d-2
+mmu|miRviewer:mmu-mir-344-2
+mmu|miRviewer:mmu-mir-344e
+mmu|miRviewer:mmu-mir-344b
+mmu|miRviewer:mmu-mir-344c
+mmu|miRviewer:mmu-mir-344g
+mmu|miRviewer:mmu-mir-344f
+mmu|miRviewer:mmu-mir-344a-1
+rno|miRviewer:rno-mir-344b-2
+rno|miRviewer:rno-mir-344a-2
+rno|miRviewer:rno-mir-344b-1
+mmu|miRviewer:mmu-mir-343
+mmu|miRviewer:mmu-mir-341 rno|miRviewer:rno-mir-341
+hsa|miRviewer:hsa-mir-340 ptr|miRviewer:ptr-mir-340 ggo|miRviewer:ggo-mir-340 ssc|miRviewer:ssc-mir-340
+hsa|miRviewer:hsa-mir-1243
+rno|miRviewer:rno-mir-349
+hsa|miRviewer:hsa-mir-3713 ggo|miRviewer:ggo-mir-3713
+dme|miRviewer:dme-mir-87
+bta|miRviewer:bta-mir-2459
+bta|miRviewer:bta-mir-2440
+hsa|miRviewer:hsa-mir-3620
+hsa|miRviewer:hsa-mir-3621 ggo|miRviewer:ggo-mir-3621
+hsa|miRviewer:hsa-mir-3622a
+hsa|miRviewer:hsa-mir-3622b
+hsa|miRviewer:hsa-mir-4272
+gga|miRviewer:gga-mir-3530
+gga|miRviewer:gga-mir-3536
+gga|miRviewer:gga-mir-3537
+mmu|miRviewer:mmu-mir-882
+mmu|miRviewer:mmu-mir-883a
+mmu|miRviewer:mmu-mir-883b
+mmu|miRviewer:mmu-mir-883
+hsa|miRviewer:hsa-mir-337 ptr|miRviewer:ptr-mir-337 ggo|miRviewer:ggo-mir-337 ppy|miRviewer:ppy-mir-337 mml|miRviewer:mml-mir-337 cja|miRviewer:cja-mir-337
+hsa|miRviewer:hsa-mir-887 ptr|miRviewer:ptr-mir-887 ggo|miRviewer:ggo-mir-887 ppy|miRviewer:ppy-mir-887 mml|miRviewer:mml-mir-887
+bta|miRviewer:bta-mir-2450c
+bta|miRviewer:bta-mir-2450b
+bta|miRviewer:bta-mir-2450a
+bta|miRviewer:bta-mir-2893
+oan|miRviewer:oan-mir-1419a
+oan|miRviewer:oan-mir-1419b-1
+oan|miRviewer:oan-mir-1419c-1
+oan|miRviewer:oan-mir-1419d
+oan|miRviewer:oan-mir-1419e
+oan|miRviewer:oan-mir-1419c-2
+oan|miRviewer:oan-mir-1419c-3
+oan|miRviewer:oan-mir-1419b-2
+oan|miRviewer:oan-mir-1419f
+oan|miRviewer:oan-mir-1419g
+oan|miRviewer:oan-mir-1418
+oan|miRviewer:oan-mir-1411
+oan|miRviewer:oan-mir-1410
+oan|miRviewer:oan-mir-1413
+mmu|miRviewer:mmu-mir-1191
+oan|miRviewer:oan-mir-1415
+oan|miRviewer:oan-mir-1414
+oan|miRviewer:oan-mir-1417
+mga|miRviewer:mga-mir-1416
+oga|miRviewer:oga-mir-1895 mmu|miRviewer:mmu-mir-1895 rno|miRviewer:rno-mir-1895 mlu|miRviewer:mlu-mir-1895 ete|miRviewer:ete-mir-1895
+str|miRviewer:str-mir-1894
+mmu|miRviewer:mmu-mir-1896
+gga|miRviewer:gga-mir-1674
+hsa|miRviewer:hsa-mir-1893 ggo|miRviewer:ggo-mir-1893 ppy|miRviewer:ppy-mir-1893 mmr|miRviewer:mmr-mir-1893 oga|miRviewer:oga-mir-1893 ocu|miRviewer:ocu-mir-1893 bta|miRviewer:bta-mir-1893 cfa|miRviewer:cfa-mir-1893 pva|miRviewer:pva-mir-1893 sar|miRviewer:sar-mir-1893 cho|miRviewer:cho-mir-1893 ete|miRviewer:ete-mir-1893 laf|miRviewer:laf-mir-1893
+mmu|miRviewer:mmu-mir-1892
+mmu|miRviewer:mmu-mir-1899
+cfa|miRviewer:cfa-mir-1898 eca|miRviewer:eca-mir-1898
+oan|miRviewer:oan-mir-1381
+oan|miRviewer:oan-mir-1380
+oan|miRviewer:oan-mir-1383
+oan|miRviewer:oan-mir-1382
+oan|miRviewer:oan-mir-1385
+oan|miRviewer:oan-mir-1384
+oan|miRviewer:oan-mir-1387
+oan|miRviewer:oan-mir-1386
+oan|miRviewer:oan-mir-1389
+hsa|miRviewer:hsa-mir-19a ptr|miRviewer:ptr-mir-19a ggo|miRviewer:ggo-mir-19a ppy|miRviewer:ppy-mir-19a mml|miRviewer:mml-mir-19a cja|miRviewer:cja-mir-19a mmr|miRviewer:mmr-mir-19a oga|miRviewer:oga-mir-19a cpo|miRviewer:cpo-mir-19a dor|miRviewer:dor-mir-19a str|miRviewer:str-mir-19a bta|miRviewer:bta-mir-19a ttr|miRviewer:ttr-mir-19a ssc|miRviewer:ssc-mir-19a cfa|miRviewer:cfa-mir-19a fca|miRviewer:fca-mir-19a mlu|miRviewer:mlu-mir-19a sar|miRviewer:sar-mir-19a laf|miRviewer:laf-mir-19a meu|miRviewer:meu-mir-19a mdo|miRviewer:mdo-mir-19a
+hsa|miRviewer:hsa-mir-19b-1 ptr|miRviewer:ptr-mir-19b-1 ggo|miRviewer:ggo-mir-19b-1 ppy|miRviewer:ppy-mir-19b-1 mml|miRviewer:mml-mir-19b-1 ssc|miRviewer:ssc-mir-19b-1 cfa|miRviewer:cfa-mir-19b-1
+dre|miRviewer:dre-mir-19c
+dre|miRviewer:dre-mir-19d
+ggo|miRviewer:ggo-mir-648
+hsa|miRviewer:hsa-mir-649
+hsa|miRviewer:hsa-mir-138-2 ggo|miRviewer:ggo-mir-138-2 ppy|miRviewer:ppy-mir-138-2 mml|miRviewer:mml-mir-138-2 cja|miRviewer:cja-mir-138-2 tsy|miRviewer:tsy-mir-138-2 mmr|miRviewer:mmr-mir-138-2 oga|miRviewer:oga-mir-138-2 cpo|miRviewer:cpo-mir-138-2 dor|miRviewer:dor-mir-138-2 mmu|miRviewer:mmu-mir-138-2 str|miRviewer:str-mir-138-2 opr|miRviewer:opr-mir-138-2 ocu|miRviewer:ocu-mir-138-2 bta|miRviewer:bta-mir-138-2 ttr|miRviewer:ttr-mir-138-2 cho|miRviewer:cho-mir-138-2 laf|miRviewer:laf-mir-138-2 pca|miRviewer:pca-mir-138-2
+ssc|miRviewer:ssc-mir-138-1 mlu|miRviewer:mlu-mir-138-1
+cfa|miRviewer:cfa-mir-138b
+cfa|miRviewer:cfa-mir-138a
+hsa|miRviewer:hsa-mir-139 ptr|miRviewer:ptr-mir-139 ggo|miRviewer:ggo-mir-139 ppy|miRviewer:ppy-mir-139 mml|miRviewer:mml-mir-139 cja|miRviewer:cja-mir-139 dor|miRviewer:dor-mir-139 mmu|miRviewer:mmu-mir-139 rno|miRviewer:rno-mir-139 str|miRviewer:str-mir-139 ssc|miRviewer:ssc-mir-139 fca|miRviewer:fca-mir-139 mlu|miRviewer:mlu-mir-139
+tsy|miRviewer:tsy-mir-134 mmr|miRviewer:mmr-mir-134
+hsa|miRviewer:hsa-mir-135a-1 ptr|miRviewer:ptr-mir-135a-1 ggo|miRviewer:ggo-mir-135a-1 ppy|miRviewer:ppy-mir-135a-1 mml|miRviewer:mml-mir-135a-1 mmr|miRviewer:mmr-mir-135a-1 tbe|miRviewer:tbe-mir-135a-1 ocu|miRviewer:ocu-mir-135a-1 fca|miRviewer:fca-mir-135a-1 mlu|miRviewer:mlu-mir-135a-1 laf|miRviewer:laf-mir-135a-1 pca|miRviewer:pca-mir-135a-1
+hsa|miRviewer:hsa-mir-135a-2 ptr|miRviewer:ptr-mir-135a-2 mml|miRviewer:mml-mir-135a-2 bta|miRviewer:bta-mir-135a-2 vpa|miRviewer:vpa-mir-135a-2 cfa|miRviewer:cfa-mir-135a-2 eca|miRviewer:eca-mir-135a-2
+str|miRviewer:str-mir-135b
+ggo|miRviewer:ggo-mir-135 ppy|miRviewer:ppy-mir-135
+ssc|miRviewer:ssc-mir-135-1
+ssc|miRviewer:ssc-mir-135-2
+gga|miRviewer:gga-mir-135a-3
+dre|miRviewer:dre-mir-135c-1
+dre|miRviewer:dre-mir-135c-2
+dre|miRviewer:dre-mir-135c-3
+cpo|miRviewer:cpo-mir-136 ttr|miRviewer:ttr-mir-136 ssc|miRviewer:ssc-mir-136 cfa|miRviewer:cfa-mir-136 fca|miRviewer:fca-mir-136 eca|miRviewer:eca-mir-136 mlu|miRviewer:mlu-mir-136 pva|miRviewer:pva-mir-136 laf|miRviewer:laf-mir-136 pca|miRviewer:pca-mir-136
+hsa|miRviewer:hsa-mir-137 ptr|miRviewer:ptr-mir-137 ppy|miRviewer:ppy-mir-137 mml|miRviewer:mml-mir-137 cja|miRviewer:cja-mir-137 tsy|miRviewer:tsy-mir-137 mmu|miRviewer:mmu-mir-137 ocu|miRviewer:ocu-mir-137 bta|miRviewer:bta-mir-137 ttr|miRviewer:ttr-mir-137 ssc|miRviewer:ssc-mir-137 cfa|miRviewer:cfa-mir-137 eca|miRviewer:eca-mir-137 pva|miRviewer:pva-mir-137 sar|miRviewer:sar-mir-137 ete|miRviewer:ete-mir-137 laf|miRviewer:laf-mir-137 pca|miRviewer:pca-mir-137 meu|miRviewer:meu-mir-137 mdo|miRviewer:mdo-mir-137 oan|miRviewer:oan-mir-137 tgu|miRviewer:tgu-mir-137 aca|miRviewer:aca-mir-137
+oan|miRviewer:oan-mir-137a
+oan|miRviewer:oan-mir-137b
+xtr|miRviewer:xtr-mir-137-1
+xtr|miRviewer:xtr-mir-137-2
+xtr|miRviewer:xtr-mir-137-3
+laf|miRviewer:laf-mir-130a
+cfa|miRviewer:cfa-mir-130b
+dre|miRviewer:dre-mir-130a-1
+dre|miRviewer:dre-mir-130a-2
+dre|miRviewer:dre-mir-130c-1
+dre|miRviewer:dre-mir-130c-2
+tni|miRviewer:tni-mir-130
+hsa|miRviewer:hsa-mir-647
+cpo|miRviewer:cpo-mir-132 mmu|miRviewer:mmu-mir-132 bta|miRviewer:bta-mir-132 ttr|miRviewer:ttr-mir-132 ssc|miRviewer:ssc-mir-132 cfa|miRviewer:cfa-mir-132 fca|miRviewer:fca-mir-132 mlu|miRviewer:mlu-mir-132 pva|miRviewer:pva-mir-132 eeu|miRviewer:eeu-mir-132 ete|miRviewer:ete-mir-132 laf|miRviewer:laf-mir-132
+dre|miRviewer:dre-mir-132-2
+cpo|miRviewer:cpo-mir-133a-1 dor|miRviewer:dor-mir-133a-1 mmu|miRviewer:mmu-mir-133a-1 rno|miRviewer:rno-mir-133a-1 str|miRviewer:str-mir-133a-1 ete|miRviewer:ete-mir-133a-1
+hsa|miRviewer:hsa-mir-133b ptr|miRviewer:ptr-mir-133b oga|miRviewer:oga-mir-133b rno|miRviewer:rno-mir-133b bta|miRviewer:bta-mir-133b cfa|miRviewer:cfa-mir-133b eca|miRviewer:eca-mir-133b mlu|miRviewer:mlu-mir-133b
+ggo|miRviewer:ggo-mir-133a ppy|miRviewer:ppy-mir-133a mml|miRviewer:mml-mir-133a cfa|miRviewer:cfa-mir-133a eca|miRviewer:eca-mir-133a
+tgu|miRviewer:tgu-mir-133-1
+tgu|miRviewer:tgu-mir-133-2
+tgu|miRviewer:tgu-mir-133-3
+xtr|miRviewer:xtr-mir-133d
+hsa|miRviewer:hsa-mir-18a ptr|miRviewer:ptr-mir-18a ggo|miRviewer:ggo-mir-18a ppy|miRviewer:ppy-mir-18a cja|miRviewer:cja-mir-18a tsy|miRviewer:tsy-mir-18a mmr|miRviewer:mmr-mir-18a oga|miRviewer:oga-mir-18a tbe|miRviewer:tbe-mir-18a cpo|miRviewer:cpo-mir-18a dor|miRviewer:dor-mir-18a str|miRviewer:str-mir-18a opr|miRviewer:opr-mir-18a ocu|miRviewer:ocu-mir-18a bta|miRviewer:bta-mir-18a ttr|miRviewer:ttr-mir-18a ssc|miRviewer:ssc-mir-18a cfa|miRviewer:cfa-mir-18a fca|miRviewer:fca-mir-18a eca|miRviewer:eca-mir-18a mlu|miRviewer:mlu-mir-18a pva|miRviewer:pva-mir-18a eeu|miRviewer:eeu-mir-18a sar|miRviewer:sar-mir-18a laf|miRviewer:laf-mir-18a meu|miRviewer:meu-mir-18a mdo|miRviewer:mdo-mir-18a aca|miRviewer:aca-mir-18a
+hsa|miRviewer:hsa-mir-18b ppy|miRviewer:ppy-mir-18b mml|miRviewer:mml-mir-18b eca|miRviewer:eca-mir-18b
+ggo|miRviewer:ggo-mir-18 ppy|miRviewer:ppy-mir-18 mml|miRviewer:mml-mir-18 ssc|miRviewer:ssc-mir-18 mdo|miRviewer:mdo-mir-18
+dre|miRviewer:dre-mir-18c
+gga|miRviewer:gga-mir-1708
+hsa|miRviewer:hsa-mir-1258 ptr|miRviewer:ptr-mir-1258
+hsa|miRviewer:hsa-mir-1257
+hsa|miRviewer:hsa-mir-1255a ggo|miRviewer:ggo-mir-1255a
+hsa|miRviewer:hsa-mir-1255b-1
+hsa|miRviewer:hsa-mir-1255b-2
+hsa|miRviewer:hsa-mir-1255b ptr|miRviewer:ptr-mir-1255b
+hsa|miRviewer:hsa-mir-1253 ptr|miRviewer:ptr-mir-1253
+hsa|miRviewer:hsa-mir-1252
+hsa|miRviewer:hsa-mir-1251 ptr|miRviewer:ptr-mir-1251 ggo|miRviewer:ggo-mir-1251 ppy|miRviewer:ppy-mir-1251 mml|miRviewer:mml-mir-1251 cja|miRviewer:cja-mir-1251 tsy|miRviewer:tsy-mir-1251 mmr|miRviewer:mmr-mir-1251 oga|miRviewer:oga-mir-1251 tbe|miRviewer:tbe-mir-1251 cpo|miRviewer:cpo-mir-1251 mmu|miRviewer:mmu-mir-1251 rno|miRviewer:rno-mir-1251 str|miRviewer:str-mir-1251 ocu|miRviewer:ocu-mir-1251 ssc|miRviewer:ssc-mir-1251 pva|miRviewer:pva-mir-1251 sar|miRviewer:sar-mir-1251 laf|miRviewer:laf-mir-1251
+bta|miRviewer:bta-mir-2472
+bta|miRviewer:bta-mir-2473
+bta|miRviewer:bta-mir-2470
+bta|miRviewer:bta-mir-2471
+bta|miRviewer:bta-mir-2476
+bta|miRviewer:bta-mir-2477
+bta|miRviewer:bta-mir-2474
+bta|miRviewer:bta-mir-2475
+bta|miRviewer:bta-mir-2478
+bta|miRviewer:bta-mir-2479
+hsa|miRviewer:hsa-mir-2276 ggo|miRviewer:ggo-mir-2276
+hsa|miRviewer:hsa-mir-2277
+hsa|miRviewer:hsa-mir-2278 ggo|miRviewer:ggo-mir-2278
+ptr|miRviewer:ptr-mir-739 ggo|miRviewer:ggo-mir-739 mmr|miRviewer:mmr-mir-739 oga|miRviewer:oga-mir-739 tbe|miRviewer:tbe-mir-739 cpo|miRviewer:cpo-mir-739 dor|miRviewer:dor-mir-739 str|miRviewer:str-mir-739 opr|miRviewer:opr-mir-739 ocu|miRviewer:ocu-mir-739 ttr|miRviewer:ttr-mir-739 vpa|miRviewer:vpa-mir-739 ssc|miRviewer:ssc-mir-739 fca|miRviewer:fca-mir-739 mlu|miRviewer:mlu-mir-739 pva|miRviewer:pva-mir-739 eeu|miRviewer:eeu-mir-739 sar|miRviewer:sar-mir-739 cho|miRviewer:cho-mir-739 ete|miRviewer:ete-mir-739 pca|miRviewer:pca-mir-739
+mmu|miRviewer:mmu-mir-221
+tbe|miRviewer:tbe-mir-222 ete|miRviewer:ete-mir-222
+mdo|miRviewer:mdo-mir-222a
+oan|miRviewer:oan-mir-222b
+gga|miRviewer:gga-mir-222-1 tgu|miRviewer:tgu-mir-222-1
+gga|miRviewer:gga-mir-222-2 tgu|miRviewer:tgu-mir-222-2
+hsa|miRviewer:hsa-mir-223 ptr|miRviewer:ptr-mir-223 ggo|miRviewer:ggo-mir-223 pva|miRviewer:pva-mir-223
+ttr|miRviewer:ttr-mir-224 eca|miRviewer:eca-mir-224 ete|miRviewer:ete-mir-224
+bta|miRviewer:bta-mir-2384-1
+bta|miRviewer:bta-mir-2384-2
+bta|miRviewer:bta-mir-2385
+bta|miRviewer:bta-mir-2386
+mmr|miRviewer:mmr-mir-2387 ttr|miRviewer:ttr-mir-2387
+bta|miRviewer:bta-mir-2380
+bta|miRviewer:bta-mir-2381
+bta|miRviewer:bta-mir-2382
+bta|miRviewer:bta-mir-2383
+bta|miRviewer:bta-mir-2388
+bta|miRviewer:bta-mir-2389
+mmu|miRviewer:mmu-mir-351
+rno|miRviewer:rno-mir-352
+cin|miRviewer:cin-mir-78
+gga|miRviewer:gga-mir-3528
+gga|miRviewer:gga-mir-3525
+oan|miRviewer:oan-mir-1420a
+oan|miRviewer:oan-mir-1420b
+oan|miRviewer:oan-mir-1420c
+oan|miRviewer:oan-mir-1420d
+oan|miRviewer:oan-mir-1420e
+oan|miRviewer:oan-mir-1420f
+oan|miRviewer:oan-mir-1420g
+oan|miRviewer:oan-mir-1421a
+oan|miRviewer:oan-mir-1421b
+oan|miRviewer:oan-mir-1421c
+oan|miRviewer:oan-mir-1421d
+oan|miRviewer:oan-mir-1421e
+oan|miRviewer:oan-mir-1421f
+oan|miRviewer:oan-mir-1421g-1
+oan|miRviewer:oan-mir-1421h
+oan|miRviewer:oan-mir-1421i-1
+oan|miRviewer:oan-mir-1421j
+oan|miRviewer:oan-mir-1421k-1
+oan|miRviewer:oan-mir-1421l-1
+oan|miRviewer:oan-mir-1421m
+oan|miRviewer:oan-mir-1421n-1
+oan|miRviewer:oan-mir-1421o
+oan|miRviewer:oan-mir-1421p-1
+oan|miRviewer:oan-mir-1421q
+oan|miRviewer:oan-mir-1421r
+oan|miRviewer:oan-mir-1421s
+oan|miRviewer:oan-mir-1421t
+oan|miRviewer:oan-mir-1421n-2
+oan|miRviewer:oan-mir-1421u
+oan|miRviewer:oan-mir-1421v
+oan|miRviewer:oan-mir-1421w
+oan|miRviewer:oan-mir-1421x
+oan|miRviewer:oan-mir-1421y-1
+oan|miRviewer:oan-mir-1421z
+oan|miRviewer:oan-mir-1421aa
+oan|miRviewer:oan-mir-1421ab-1
+oan|miRviewer:oan-mir-1421ac-1
+oan|miRviewer:oan-mir-1421ad
+oan|miRviewer:oan-mir-1421ae
+oan|miRviewer:oan-mir-1421af
+oan|miRviewer:oan-mir-1421y-2
+oan|miRviewer:oan-mir-1421y-3
+oan|miRviewer:oan-mir-1421ag-1
+oan|miRviewer:oan-mir-1421ab-2
+oan|miRviewer:oan-mir-1421ac-2
+oan|miRviewer:oan-mir-1421ah
+oan|miRviewer:oan-mir-1421ai
+oan|miRviewer:oan-mir-1421aj
+oan|miRviewer:oan-mir-1421g-2
+oan|miRviewer:oan-mir-1421g-3
+oan|miRviewer:oan-mir-1421i-2
+oan|miRviewer:oan-mir-1421i-3
+oan|miRviewer:oan-mir-1421k-2
+oan|miRviewer:oan-mir-1421k-3
+oan|miRviewer:oan-mir-1421l-2
+oan|miRviewer:oan-mir-1421p-2
+oan|miRviewer:oan-mir-1421ak
+oan|miRviewer:oan-mir-1421al
+oan|miRviewer:oan-mir-1421am
+oan|miRviewer:oan-mir-1421ag-2
+oan|miRviewer:oan-mir-1422a
+oan|miRviewer:oan-mir-1422e
+oan|miRviewer:oan-mir-1422h
+oan|miRviewer:oan-mir-1422b-1
+oan|miRviewer:oan-mir-1422f
+oan|miRviewer:oan-mir-1422g
+oan|miRviewer:oan-mir-1422c
+oan|miRviewer:oan-mir-1422i
+oan|miRviewer:oan-mir-1422k
+oan|miRviewer:oan-mir-1422l
+oan|miRviewer:oan-mir-1422j
+oan|miRviewer:oan-mir-1422d
+oan|miRviewer:oan-mir-1422m
+oan|miRviewer:oan-mir-1422n
+oan|miRviewer:oan-mir-1422o
+oan|miRviewer:oan-mir-1422b-2
+oan|miRviewer:oan-mir-1422p
+oan|miRviewer:oan-mir-1422q
+ggo|miRviewer:ggo-mir-3714
+gga|miRviewer:gga-mir-1649
+bta|miRviewer:bta-mir-2336
+hsa|miRviewer:hsa-mir-1469 ppy|miRviewer:ppy-mir-1469
+gga|miRviewer:gga-mir-1464
+gga|miRviewer:gga-mir-1465
+gga|miRviewer:gga-mir-1466
+gga|miRviewer:gga-mir-1467
+gga|miRviewer:gga-mir-1460
+eca|miRviewer:eca-mir-1461
+gga|miRviewer:gga-mir-1462
+gga|miRviewer:gga-mir-1463
+gga|miRviewer:gga-mir-1604
+gga|miRviewer:gga-mir-1602
+bta|miRviewer:bta-mir-1603
+gga|miRviewer:gga-mir-1608
+gga|miRviewer:gga-mir-1609-1
+gga|miRviewer:gga-mir-1609-2
+ptr|miRviewer:ptr-mir-101-1 ggo|miRviewer:ggo-mir-101-1 ppy|miRviewer:ppy-mir-101-1 mml|miRviewer:mml-mir-101-1 cja|miRviewer:cja-mir-101-1 mmr|miRviewer:mmr-mir-101-1 tbe|miRviewer:tbe-mir-101-1 dor|miRviewer:dor-mir-101-1 mmu|miRviewer:mmu-mir-101-1 rno|miRviewer:rno-mir-101-1 str|miRviewer:str-mir-101-1 opr|miRviewer:opr-mir-101-1 ocu|miRviewer:ocu-mir-101-1 bta|miRviewer:bta-mir-101-1 ttr|miRviewer:ttr-mir-101-1 vpa|miRviewer:vpa-mir-101-1 cfa|miRviewer:cfa-mir-101-1 fca|miRviewer:fca-mir-101-1 pva|miRviewer:pva-mir-101-1 cho|miRviewer:cho-mir-101-1 ete|miRviewer:ete-mir-101-1 laf|miRviewer:laf-mir-101-1 oan|miRviewer:oan-mir-101-1
+hsa|miRviewer:hsa-mir-101-2 ptr|miRviewer:ptr-mir-101-2 ppy|miRviewer:ppy-mir-101-2 mml|miRviewer:mml-mir-101-2 cfa|miRviewer:cfa-mir-101-2 eca|miRviewer:eca-mir-101-2
+mmu|miRviewer:mmu-mir-101a rno|miRviewer:rno-mir-101a
+xtr|miRviewer:xtr-mir-101a-2
+xtr|miRviewer:xtr-mir-101a-1
+tsy|miRviewer:tsy-mir-100 eca|miRviewer:eca-mir-100
+tgu|miRviewer:tgu-mir-100-1
+hsa|miRviewer:hsa-mir-103-2 ptr|miRviewer:ptr-mir-103-2 ggo|miRviewer:ggo-mir-103-2 ppy|miRviewer:ppy-mir-103-2 mml|miRviewer:mml-mir-103-2 cja|miRviewer:cja-mir-103-2 tsy|miRviewer:tsy-mir-103-2 mmr|miRviewer:mmr-mir-103-2 oga|miRviewer:oga-mir-103-2 cpo|miRviewer:cpo-mir-103-2 str|miRviewer:str-mir-103-2 ocu|miRviewer:ocu-mir-103-2 bta|miRviewer:bta-mir-103-2 ttr|miRviewer:ttr-mir-103-2 vpa|miRviewer:vpa-mir-103-2 cfa|miRviewer:cfa-mir-103-2 mlu|miRviewer:mlu-mir-103-2 pva|miRviewer:pva-mir-103-2 eeu|miRviewer:eeu-mir-103-2 sar|miRviewer:sar-mir-103-2 cho|miRviewer:cho-mir-103-2 laf|miRviewer:laf-mir-103-2
+hsa|miRviewer:hsa-mir-103-1 ptr|miRviewer:ptr-mir-103-1 mml|miRviewer:mml-mir-103-1 mmu|miRviewer:mmu-mir-103-1 rno|miRviewer:rno-mir-103-1 bta|miRviewer:bta-mir-103-1 cfa|miRviewer:cfa-mir-103-1
+hsa|miRviewer:hsa-mir-103-1-as
+hsa|miRviewer:hsa-mir-103-2-as
+tgu|miRviewer:tgu-mir-103-3
+hsa|miRviewer:hsa-mir-105-1 ggo|miRviewer:ggo-mir-105-1 ppy|miRviewer:ppy-mir-105-1 mml|miRviewer:mml-mir-105-1 mmr|miRviewer:mmr-mir-105-1 oga|miRviewer:oga-mir-105-1 tbe|miRviewer:tbe-mir-105-1 str|miRviewer:str-mir-105-1
+hsa|miRviewer:hsa-mir-105-2 ppy|miRviewer:ppy-mir-105-2 mml|miRviewer:mml-mir-105-2 ssc|miRviewer:ssc-mir-105-2
+ptr|miRviewer:ptr-mir-105
+bta|miRviewer:bta-mir-105b
+bta|miRviewer:bta-mir-105a cfa|miRviewer:cfa-mir-105a
+hsa|miRviewer:hsa-mir-107 ptr|miRviewer:ptr-mir-107 ggo|miRviewer:ggo-mir-107 ppy|miRviewer:ppy-mir-107 mml|miRviewer:mml-mir-107 cja|miRviewer:cja-mir-107 tsy|miRviewer:tsy-mir-107 mmr|miRviewer:mmr-mir-107 oga|miRviewer:oga-mir-107 opr|miRviewer:opr-mir-107 ocu|miRviewer:ocu-mir-107 bta|miRviewer:bta-mir-107 ttr|miRviewer:ttr-mir-107 vpa|miRviewer:vpa-mir-107 ssc|miRviewer:ssc-mir-107 cfa|miRviewer:cfa-mir-107 mlu|miRviewer:mlu-mir-107 pca|miRviewer:pca-mir-107 xtr|miRviewer:xtr-mir-107
+eca|miRviewer:eca-mir-107b
+eca|miRviewer:eca-mir-107a
+ptr|miRviewer:ptr-mir-106a ggo|miRviewer:ggo-mir-106a ppy|miRviewer:ppy-mir-106a mml|miRviewer:mml-mir-106a cja|miRviewer:cja-mir-106a tsy|miRviewer:tsy-mir-106a tbe|miRviewer:tbe-mir-106a str|miRviewer:str-mir-106a ttr|miRviewer:ttr-mir-106a vpa|miRviewer:vpa-mir-106a fca|miRviewer:fca-mir-106a pva|miRviewer:pva-mir-106a eeu|miRviewer:eeu-mir-106a sar|miRviewer:sar-mir-106a
+hsa|miRviewer:hsa-mir-106b ptr|miRviewer:ptr-mir-106b ggo|miRviewer:ggo-mir-106b ppy|miRviewer:ppy-mir-106b ete|miRviewer:ete-mir-106b
+hsa|miRviewer:hsa-mir-1262 ptr|miRviewer:ptr-mir-1262
+ptr|miRviewer:ptr-mir-1263
+hsa|miRviewer:hsa-mir-1260
+hsa|miRviewer:hsa-mir-1260b ggo|miRviewer:ggo-mir-1260b mml|miRviewer:mml-mir-1260b
+hsa|miRviewer:hsa-mir-1261 ggo|miRviewer:ggo-mir-1261
+hsa|miRviewer:hsa-mir-1266 ptr|miRviewer:ptr-mir-1266 ggo|miRviewer:ggo-mir-1266
+hsa|miRviewer:hsa-mir-1267
+ocu|miRviewer:ocu-mir-1264 vpa|miRviewer:vpa-mir-1264 ssc|miRviewer:ssc-mir-1264 cfa|miRviewer:cfa-mir-1264 eca|miRviewer:eca-mir-1264 laf|miRviewer:laf-mir-1264
+hsa|miRviewer:hsa-mir-1265
+hsa|miRviewer:hsa-mir-1268
+mmu|miRviewer:mmu-mir-691
+mmu|miRviewer:mmu-mir-690
+mmu|miRviewer:mmu-mir-693
+mmu|miRviewer:mmu-mir-692-1
+mmu|miRviewer:mmu-mir-692-2
+mmu|miRviewer:mmu-mir-695
+mmu|miRviewer:mmu-mir-694
+mmu|miRviewer:mmu-mir-697
+mmu|miRviewer:mmu-mir-696
+mmu|miRviewer:mmu-mir-698
+bta|miRviewer:bta-mir-2469
+bta|miRviewer:bta-mir-2468
+hsa|miRviewer:hsa-mir-1288 ggo|miRviewer:ggo-mir-1288 mml|miRviewer:mml-mir-1288
+ptr|miRviewer:ptr-mir-1289-1
+hsa|miRviewer:hsa-mir-1289-2
+eca|miRviewer:eca-mir-1289
+hsa|miRviewer:hsa-mir-2052
+hsa|miRviewer:hsa-mir-1280 ptr|miRviewer:ptr-mir-1280 ggo|miRviewer:ggo-mir-1280 ppy|miRviewer:ppy-mir-1280
+cja|miRviewer:cja-mir-1281 ssc|miRviewer:ssc-mir-1281 cfa|miRviewer:cfa-mir-1281
+hsa|miRviewer:hsa-mir-1282 ggo|miRviewer:ggo-mir-1282 mml|miRviewer:mml-mir-1282 cja|miRviewer:cja-mir-1282 tsy|miRviewer:tsy-mir-1282 mmr|miRviewer:mmr-mir-1282 oga|miRviewer:oga-mir-1282 tbe|miRviewer:tbe-mir-1282 mmu|miRviewer:mmu-mir-1282 rno|miRviewer:rno-mir-1282 str|miRviewer:str-mir-1282 opr|miRviewer:opr-mir-1282 ocu|miRviewer:ocu-mir-1282 ssc|miRviewer:ssc-mir-1282 cfa|miRviewer:cfa-mir-1282 eca|miRviewer:eca-mir-1282 pva|miRviewer:pva-mir-1282 sar|miRviewer:sar-mir-1282 ete|miRviewer:ete-mir-1282 laf|miRviewer:laf-mir-1282
+hsa|miRviewer:hsa-mir-1282-1 ptr|miRviewer:ptr-mir-1282-1
+ptr|miRviewer:ptr-mir-1282-2
+hsa|miRviewer:hsa-mir-1283-2
+hsa|miRviewer:hsa-mir-1283
+ppy|miRviewer:ppy-mir-1283a
+ppy|miRviewer:ppy-mir-1283b
+ptr|miRviewer:ptr-mir-1284
+hsa|miRviewer:hsa-mir-1285-1 ggo|miRviewer:ggo-mir-1285-1
+hsa|miRviewer:hsa-mir-1285-2
+hsa|miRviewer:hsa-mir-1285 ptr|miRviewer:ptr-mir-1285
+ppy|miRviewer:ppy-mir-1285a
+ppy|miRviewer:ppy-mir-1285b
+hsa|miRviewer:hsa-mir-1286 ptr|miRviewer:ptr-mir-1286 ggo|miRviewer:ggo-mir-1286 ppy|miRviewer:ppy-mir-1286
+mmu|miRviewer:mmu-mir-743a
+mmu|miRviewer:mmu-mir-743b
+bta|miRviewer:bta-mir-214 ttr|miRviewer:ttr-mir-214 ssc|miRviewer:ssc-mir-214 cfa|miRviewer:cfa-mir-214 eca|miRviewer:eca-mir-214 mlu|miRviewer:mlu-mir-214 eeu|miRviewer:eeu-mir-214 ete|miRviewer:ete-mir-214
+cja|miRviewer:cja-mir-217 cpo|miRviewer:cpo-mir-217 eca|miRviewer:eca-mir-217
+dre|miRviewer:dre-mir-217-2
+ggo|miRviewer:ggo-mir-216a ppy|miRviewer:ppy-mir-216a cja|miRviewer:cja-mir-216a
+ppy|miRviewer:ppy-mir-216b mml|miRviewer:mml-mir-216b mmr|miRviewer:mmr-mir-216b
+gga|miRviewer:gga-mir-216c
+dre|miRviewer:dre-mir-216a-1
+dre|miRviewer:dre-mir-216a-2
+dre|miRviewer:dre-mir-216b-1
+dre|miRviewer:dre-mir-216b-2
+oga|miRviewer:oga-mir-210
+hsa|miRviewer:hsa-mir-744 ptr|miRviewer:ptr-mir-744 ppy|miRviewer:ppy-mir-744
+hsa|miRviewer:hsa-mir-219-1 ggo|miRviewer:ggo-mir-219-1 tbe|miRviewer:tbe-mir-219-1
+hsa|miRviewer:hsa-mir-219-2 ptr|miRviewer:ptr-mir-219-2 ppy|miRviewer:ppy-mir-219-2 mml|miRviewer:mml-mir-219-2 opr|miRviewer:opr-mir-219-2 cfa|miRviewer:cfa-mir-219-2 eca|miRviewer:eca-mir-219-2 mlu|miRviewer:mlu-mir-219-2 eeu|miRviewer:eeu-mir-219-2 pca|miRviewer:pca-mir-219-2
+dre|miRviewer:dre-mir-219-3
+hsa|miRviewer:hsa-mir-218-1 ptr|miRviewer:ptr-mir-218-1 ggo|miRviewer:ggo-mir-218-1 ppy|miRviewer:ppy-mir-218-1 mml|miRviewer:mml-mir-218-1 tsy|miRviewer:tsy-mir-218-1 tbe|miRviewer:tbe-mir-218-1 cpo|miRviewer:cpo-mir-218-1 str|miRviewer:str-mir-218-1 ocu|miRviewer:ocu-mir-218-1 cho|miRviewer:cho-mir-218-1
+hsa|miRviewer:hsa-mir-218-2 ptr|miRviewer:ptr-mir-218-2 ppy|miRviewer:ppy-mir-218-2 mml|miRviewer:mml-mir-218-2 bta|miRviewer:bta-mir-218-2 cfa|miRviewer:cfa-mir-218-2
+hsa|miRviewer:hsa-mir-218 ggo|miRviewer:ggo-mir-218 laf|miRviewer:laf-mir-218
+dre|miRviewer:dre-mir-218a-1
+dre|miRviewer:dre-mir-218a-2
+hsa|miRviewer:hsa-mir-584 ptr|miRviewer:ptr-mir-584 ggo|miRviewer:ggo-mir-584 ppy|miRviewer:ppy-mir-584
+bta|miRviewer:bta-mir-584-2
+bta|miRviewer:bta-mir-584-3
+bta|miRviewer:bta-mir-584-4
+bta|miRviewer:bta-mir-584-6
+bta|miRviewer:bta-mir-584-7
+bta|miRviewer:bta-mir-584-1
+bta|miRviewer:bta-mir-584-8
+hsa|miRviewer:hsa-mir-587 ptr|miRviewer:ptr-mir-587 ggo|miRviewer:ggo-mir-587
+hsa|miRviewer:hsa-mir-581 ppy|miRviewer:ppy-mir-581
+ptr|miRviewer:ptr-mir-580 ggo|miRviewer:ggo-mir-580
+ggo|miRviewer:ggo-mir-583
+ttr|miRviewer:ttr-mir-582 eca|miRviewer:eca-mir-582 mlu|miRviewer:mlu-mir-582
+ggo|miRviewer:ggo-mir-589
+hsa|miRviewer:hsa-mir-588 ptr|miRviewer:ptr-mir-588 ggo|miRviewer:ggo-mir-588
+bta|miRviewer:bta-mir-2397
+bta|miRviewer:bta-mir-2396
+bta|miRviewer:bta-mir-2395
+bta|miRviewer:bta-mir-2394
+bta|miRviewer:bta-mir-2393
+bta|miRviewer:bta-mir-2392
+bta|miRviewer:bta-mir-2391
+bta|miRviewer:bta-mir-2390
+cfa|miRviewer:cfa-mir-1844
+cfa|miRviewer:cfa-mir-1842
+bta|miRviewer:bta-mir-2399
+bta|miRviewer:bta-mir-2398
+mmr|miRviewer:mmr-mir-361 opr|miRviewer:opr-mir-361 bta|miRviewer:bta-mir-361 ssc|miRviewer:ssc-mir-361 mlu|miRviewer:mlu-mir-361
+tbe|miRviewer:tbe-mir-363 ttr|miRviewer:ttr-mir-363 fca|miRviewer:fca-mir-363 eca|miRviewer:eca-mir-363 pva|miRviewer:pva-mir-363
+tsy|miRviewer:tsy-mir-362 mmr|miRviewer:mmr-mir-362
+hsa|miRviewer:hsa-mir-365-1 ptr|miRviewer:ptr-mir-365-1 ggo|miRviewer:ggo-mir-365-1 ppy|miRviewer:ppy-mir-365-1 mml|miRviewer:mml-mir-365-1 cja|miRviewer:cja-mir-365-1 tsy|miRviewer:tsy-mir-365-1 mmr|miRviewer:mmr-mir-365-1 oga|miRviewer:oga-mir-365-1 cpo|miRviewer:cpo-mir-365-1 str|miRviewer:str-mir-365-1 vpa|miRviewer:vpa-mir-365-1 ssc|miRviewer:ssc-mir-365-1 cfa|miRviewer:cfa-mir-365-1 mlu|miRviewer:mlu-mir-365-1 pva|miRviewer:pva-mir-365-1 sar|miRviewer:sar-mir-365-1 laf|miRviewer:laf-mir-365-1 pca|miRviewer:pca-mir-365-1
+hsa|miRviewer:hsa-mir-365-2 ppy|miRviewer:ppy-mir-365-2 ssc|miRviewer:ssc-mir-365-2 cfa|miRviewer:cfa-mir-365-2
+dre|miRviewer:dre-mir-365-3
+dre|miRviewer:dre-mir-365-4
+hsa|miRviewer:hsa-mir-367 ptr|miRviewer:ptr-mir-367 ggo|miRviewer:ggo-mir-367
+hsa|miRviewer:hsa-mir-369 ptr|miRviewer:ptr-mir-369 ggo|miRviewer:ggo-mir-369 ppy|miRviewer:ppy-mir-369 mml|miRviewer:mml-mir-369 tsy|miRviewer:tsy-mir-369 oga|miRviewer:oga-mir-369 bta|miRviewer:bta-mir-369 ttr|miRviewer:ttr-mir-369 pva|miRviewer:pva-mir-369
+mmu|miRviewer:mmu-mir-2139
+mga|miRviewer:mga-mir-2131
+mmu|miRviewer:mmu-mir-2137
+mmu|miRviewer:mmu-mir-2136
+bta|miRviewer:bta-mir-2489
+bta|miRviewer:bta-mir-2488
+ssc|miRviewer:ssc-mir-2483
+bta|miRviewer:bta-mir-2482
+bta|miRviewer:bta-mir-2481
+bta|miRviewer:bta-mir-2480
+bta|miRviewer:bta-mir-2487
+bta|miRviewer:bta-mir-2486
+bta|miRviewer:bta-mir-2485
+bta|miRviewer:bta-mir-2484
+bta|miRviewer:bta-mir-2902-1
+bta|miRviewer:bta-mir-2902-2
+bta|miRviewer:bta-mir-2903
+hsa|miRviewer:hsa-mir-3609
+bta|miRviewer:bta-mir-3602
+hsa|miRviewer:hsa-mir-3603 ggo|miRviewer:ggo-mir-3603 ppy|miRviewer:ppy-mir-3603 mml|miRviewer:mml-mir-3603 cja|miRviewer:cja-mir-3603 mmr|miRviewer:mmr-mir-3603 pva|miRviewer:pva-mir-3603
+hsa|miRviewer:hsa-mir-3600 ggo|miRviewer:ggo-mir-3600 ppy|miRviewer:ppy-mir-3600 tsy|miRviewer:tsy-mir-3600 mmr|miRviewer:mmr-mir-3600 oga|miRviewer:oga-mir-3600 tbe|miRviewer:tbe-mir-3600 cpo|miRviewer:cpo-mir-3600 dor|miRviewer:dor-mir-3600 mmu|miRviewer:mmu-mir-3600 rno|miRviewer:rno-mir-3600 opr|miRviewer:opr-mir-3600 ocu|miRviewer:ocu-mir-3600 bta|miRviewer:bta-mir-3600 ttr|miRviewer:ttr-mir-3600 vpa|miRviewer:vpa-mir-3600 ssc|miRviewer:ssc-mir-3600 cfa|miRviewer:cfa-mir-3600 fca|miRviewer:fca-mir-3600 mlu|miRviewer:mlu-mir-3600 pva|miRviewer:pva-mir-3600 eeu|miRviewer:eeu-mir-3600 sar|miRviewer:sar-mir-3600 laf|miRviewer:laf-mir-3600
+bta|miRviewer:bta-mir-3601
+hsa|miRviewer:hsa-mir-3606
+hsa|miRviewer:hsa-mir-3607
+bta|miRviewer:bta-mir-3604-2
+hsa|miRviewer:hsa-mir-3605
+gga|miRviewer:gga-mir-1636
+hsa|miRviewer:hsa-mir-2909
+bta|miRviewer:bta-mir-2429
+mmu|miRviewer:mmu-mir-3113
+bta|miRviewer:bta-mir-2423
+bta|miRviewer:bta-mir-2422
+cin|miRviewer:cin-mir-1473
+hsa|miRviewer:hsa-mir-1471 ggo|miRviewer:ggo-mir-1471
+gga|miRviewer:gga-mir-1611
+gga|miRviewer:gga-mir-1619
+hsa|miRviewer:hsa-mir-1275 ptr|miRviewer:ptr-mir-1275
+hsa|miRviewer:hsa-mir-1274a
+hsa|miRviewer:hsa-mir-1274b
+hsa|miRviewer:hsa-mir-1277 ppy|miRviewer:ppy-mir-1277
+hsa|miRviewer:hsa-mir-1276 ptr|miRviewer:ptr-mir-1276
+cfa|miRviewer:cfa-mir-1271
+ggo|miRviewer:ggo-mir-1270-1
+hsa|miRviewer:hsa-mir-1270-2
+ppy|miRviewer:ppy-mir-1270
+hsa|miRviewer:hsa-mir-1273c
+hsa|miRviewer:hsa-mir-1273d
+hsa|miRviewer:hsa-mir-1273e
+hsa|miRviewer:hsa-mir-1272
+hsa|miRviewer:hsa-mir-1279
+hsa|miRviewer:hsa-mir-1278
+mmu|miRviewer:mmu-mir-688
+mmu|miRviewer:mmu-mir-686
+mmu|miRviewer:mmu-mir-687
+mmu|miRviewer:mmu-mir-684-1
+mmu|miRviewer:mmu-mir-684-2
+eca|miRviewer:eca-mir-684
+mmu|miRviewer:mmu-mir-682
+mmu|miRviewer:mmu-mir-683-1
+mmu|miRviewer:mmu-mir-683-2
+mmu|miRviewer:mmu-mir-680-1
+mmu|miRviewer:mmu-mir-680-2
+mmu|miRviewer:mmu-mir-680-3
+mmu|miRviewer:mmu-mir-681
+hsa|miRviewer:hsa-mir-1299
+hsa|miRviewer:hsa-mir-1298 ptr|miRviewer:ptr-mir-1298 ggo|miRviewer:ggo-mir-1298
+hsa|miRviewer:hsa-mir-1293 ptr|miRviewer:ptr-mir-1293
+hsa|miRviewer:hsa-mir-1292 ptr|miRviewer:ptr-mir-1292 ggo|miRviewer:ggo-mir-1292
+ptr|miRviewer:ptr-mir-1290
+hsa|miRviewer:hsa-mir-1297
+ptr|miRviewer:ptr-mir-1297-1
+ptr|miRviewer:ptr-mir-1297-2
+ocu|miRviewer:ocu-mir-1296
+ggo|miRviewer:ggo-mir-1295 ppy|miRviewer:ppy-mir-1295
+hsa|miRviewer:hsa-mir-1294
+mmr|miRviewer:mmr-mir-202 oga|miRviewer:oga-mir-202 str|miRviewer:str-mir-202 pca|miRviewer:pca-mir-202
+tgu|miRviewer:tgu-mir-202-1
+tgu|miRviewer:tgu-mir-202-2
+ggo|miRviewer:ggo-mir-203 mmr|miRviewer:mmr-mir-203
+dre|miRviewer:dre-mir-203a
+dre|miRviewer:dre-mir-203b
+tbe|miRviewer:tbe-mir-200b bta|miRviewer:bta-mir-200b eca|miRviewer:eca-mir-200b
+hsa|miRviewer:hsa-mir-200c ggo|miRviewer:ggo-mir-200c ppy|miRviewer:ppy-mir-200c mml|miRviewer:mml-mir-200c cja|miRviewer:cja-mir-200c mmu|miRviewer:mmu-mir-200c rno|miRviewer:rno-mir-200c ocu|miRviewer:ocu-mir-200c bta|miRviewer:bta-mir-200c cfa|miRviewer:cfa-mir-200c
+cin|miRviewer:cin-mir-200
+mmu|miRviewer:mmu-mir-201
+hsa|miRviewer:hsa-mir-206 ptr|miRviewer:ptr-mir-206 ggo|miRviewer:ggo-mir-206 ppy|miRviewer:ppy-mir-206 mml|miRviewer:mml-mir-206 cja|miRviewer:cja-mir-206
+eca|miRviewer:eca-mir-206-2
+dre|miRviewer:dre-mir-206-1
+hsa|miRviewer:hsa-mir-204 ptr|miRviewer:ptr-mir-204 ggo|miRviewer:ggo-mir-204 ppy|miRviewer:ppy-mir-204 mml|miRviewer:mml-mir-204 cja|miRviewer:cja-mir-204 tsy|miRviewer:tsy-mir-204 mmr|miRviewer:mmr-mir-204 oga|miRviewer:oga-mir-204 tbe|miRviewer:tbe-mir-204 cpo|miRviewer:cpo-mir-204 dor|miRviewer:dor-mir-204 mmu|miRviewer:mmu-mir-204 str|miRviewer:str-mir-204 ocu|miRviewer:ocu-mir-204 bta|miRviewer:bta-mir-204 ttr|miRviewer:ttr-mir-204 vpa|miRviewer:vpa-mir-204 cfa|miRviewer:cfa-mir-204 mlu|miRviewer:mlu-mir-204 pva|miRviewer:pva-mir-204 eeu|miRviewer:eeu-mir-204 cho|miRviewer:cho-mir-204 ete|miRviewer:ete-mir-204 laf|miRviewer:laf-mir-204 pca|miRviewer:pca-mir-204
+eca|miRviewer:eca-mir-204b-2
+gga|miRviewer:gga-mir-204-2 mga|miRviewer:mga-mir-204-2 tgu|miRviewer:tgu-mir-204-2
+tgu|miRviewer:tgu-mir-204-3
+tgu|miRviewer:tgu-mir-204-4
+tgu|miRviewer:tgu-mir-204-5
+tni|miRviewer:tni-mir-204b
+tni|miRviewer:tni-mir-204a
+hsa|miRviewer:hsa-mir-205 ptr|miRviewer:ptr-mir-205 ggo|miRviewer:ggo-mir-205 ppy|miRviewer:ppy-mir-205 tsy|miRviewer:tsy-mir-205 oga|miRviewer:oga-mir-205 tbe|miRviewer:tbe-mir-205 opr|miRviewer:opr-mir-205 ocu|miRviewer:ocu-mir-205 ttr|miRviewer:ttr-mir-205 eca|miRviewer:eca-mir-205 cho|miRviewer:cho-mir-205
+gga|miRviewer:gga-mir-205b
+hsa|miRviewer:hsa-mir-758 ptr|miRviewer:ptr-mir-758 ggo|miRviewer:ggo-mir-758 ppy|miRviewer:ppy-mir-758 cja|miRviewer:cja-mir-758 oga|miRviewer:oga-mir-758 mlu|miRviewer:mlu-mir-758
+hsa|miRviewer:hsa-mir-759 ptr|miRviewer:ptr-mir-759 ggo|miRviewer:ggo-mir-759 ppy|miRviewer:ppy-mir-759 mml|miRviewer:mml-mir-759 cja|miRviewer:cja-mir-759 tsy|miRviewer:tsy-mir-759 mmr|miRviewer:mmr-mir-759 oga|miRviewer:oga-mir-759 dor|miRviewer:dor-mir-759 str|miRviewer:str-mir-759 ocu|miRviewer:ocu-mir-759 fca|miRviewer:fca-mir-759 ete|miRviewer:ete-mir-759 pca|miRviewer:pca-mir-759
+hsa|miRviewer:hsa-mir-208a ptr|miRviewer:ptr-mir-208a ggo|miRviewer:ggo-mir-208a cja|miRviewer:cja-mir-208a mmr|miRviewer:mmr-mir-208a bta|miRviewer:bta-mir-208a ssc|miRviewer:ssc-mir-208a eca|miRviewer:eca-mir-208a pva|miRviewer:pva-mir-208a
+bta|miRviewer:bta-mir-208b ttr|miRviewer:ttr-mir-208b ssc|miRviewer:ssc-mir-208b cfa|miRviewer:cfa-mir-208b eca|miRviewer:eca-mir-208b
+hsa|miRviewer:hsa-mir-592 ptr|miRviewer:ptr-mir-592 ggo|miRviewer:ggo-mir-592 ppy|miRviewer:ppy-mir-592 mml|miRviewer:mml-mir-592 cja|miRviewer:cja-mir-592 mmr|miRviewer:mmr-mir-592 oga|miRviewer:oga-mir-592 tbe|miRviewer:tbe-mir-592 cpo|miRviewer:cpo-mir-592 dor|miRviewer:dor-mir-592 ocu|miRviewer:ocu-mir-592 bta|miRviewer:bta-mir-592 vpa|miRviewer:vpa-mir-592 ssc|miRviewer:ssc-mir-592 eca|miRviewer:eca-mir-592 sar|miRviewer:sar-mir-592
+ptr|miRviewer:ptr-mir-593
+mmr|miRviewer:mmr-mir-590 cfa|miRviewer:cfa-mir-590
+ptr|miRviewer:ptr-mir-591 ppy|miRviewer:ppy-mir-591
+hsa|miRviewer:hsa-mir-597 ptr|miRviewer:ptr-mir-597
+hsa|miRviewer:hsa-mir-595
+hsa|miRviewer:hsa-mir-644
+mml|miRviewer:mml-mir-378 cja|miRviewer:cja-mir-378 cpo|miRviewer:cpo-mir-378 dor|miRviewer:dor-mir-378 mmu|miRviewer:mmu-mir-378 rno|miRviewer:rno-mir-378 str|miRviewer:str-mir-378 ocu|miRviewer:ocu-mir-378 bta|miRviewer:bta-mir-378 ttr|miRviewer:ttr-mir-378 cfa|miRviewer:cfa-mir-378 fca|miRviewer:fca-mir-378 eca|miRviewer:eca-mir-378 mlu|miRviewer:mlu-mir-378 ete|miRviewer:ete-mir-378 pca|miRviewer:pca-mir-378
+hsa|miRviewer:hsa-mir-378b
+hsa|miRviewer:hsa-mir-378c
+bta|miRviewer:bta-mir-378-2
+ssc|miRviewer:ssc-mir-378-1
+ppy|miRviewer:ppy-mir-379 mml|miRviewer:mml-mir-379 cpo|miRviewer:cpo-mir-379 mmu|miRviewer:mmu-mir-379 ete|miRviewer:ete-mir-379
+hsa|miRviewer:hsa-mir-376c ptr|miRviewer:ptr-mir-376c ppy|miRviewer:ppy-mir-376c mml|miRviewer:mml-mir-376c cfa|miRviewer:cfa-mir-376c
+hsa|miRviewer:hsa-mir-376a-1 ptr|miRviewer:ptr-mir-376a-1 ppy|miRviewer:ppy-mir-376a-1 mml|miRviewer:mml-mir-376a-1 cfa|miRviewer:cfa-mir-376a-1
+mmr|miRviewer:mmr-mir-376b
+hsa|miRviewer:hsa-mir-376a-2 ptr|miRviewer:ptr-mir-376a-2 ppy|miRviewer:ppy-mir-376a-2 mml|miRviewer:mml-mir-376a-2
+eca|miRviewer:eca-mir-376a
+bta|miRviewer:bta-mir-376d
+cfa|miRviewer:cfa-mir-376a-3
+hsa|miRviewer:hsa-mir-377 ptr|miRviewer:ptr-mir-377 ggo|miRviewer:ggo-mir-377 ppy|miRviewer:ppy-mir-377 mml|miRviewer:mml-mir-377 cja|miRviewer:cja-mir-377 tsy|miRviewer:tsy-mir-377 mmr|miRviewer:mmr-mir-377 oga|miRviewer:oga-mir-377 dor|miRviewer:dor-mir-377 opr|miRviewer:opr-mir-377 bta|miRviewer:bta-mir-377 cfa|miRviewer:cfa-mir-377 fca|miRviewer:fca-mir-377 eca|miRviewer:eca-mir-377 laf|miRviewer:laf-mir-377
+mml|miRviewer:mml-mir-374a
+bta|miRviewer:bta-mir-374b ssc|miRviewer:ssc-mir-374b cfa|miRviewer:cfa-mir-374b eca|miRviewer:eca-mir-374b
+tsy|miRviewer:tsy-mir-374 oga|miRviewer:oga-mir-374 bta|miRviewer:bta-mir-374 ttr|miRviewer:ttr-mir-374 vpa|miRviewer:vpa-mir-374 ssc|miRviewer:ssc-mir-374 cfa|miRviewer:cfa-mir-374 eca|miRviewer:eca-mir-374 eeu|miRviewer:eeu-mir-374
+hsa|miRviewer:hsa-mir-375 ptr|miRviewer:ptr-mir-375 ggo|miRviewer:ggo-mir-375 ppy|miRviewer:ppy-mir-375 mml|miRviewer:mml-mir-375 cja|miRviewer:cja-mir-375 mmr|miRviewer:mmr-mir-375 oga|miRviewer:oga-mir-375 tbe|miRviewer:tbe-mir-375 cpo|miRviewer:cpo-mir-375 mmu|miRviewer:mmu-mir-375 ocu|miRviewer:ocu-mir-375 bta|miRviewer:bta-mir-375 ttr|miRviewer:ttr-mir-375 cfa|miRviewer:cfa-mir-375 fca|miRviewer:fca-mir-375 eca|miRviewer:eca-mir-375 mlu|miRviewer:mlu-mir-375 pva|miRviewer:pva-mir-375 eeu|miRviewer:eeu-mir-375 laf|miRviewer:laf-mir-375
+dre|miRviewer:dre-mir-375-1
+dre|miRviewer:dre-mir-375-2
+hsa|miRviewer:hsa-mir-372 ptr|miRviewer:ptr-mir-372 ppy|miRviewer:ppy-mir-372
+hsa|miRviewer:hsa-mir-373 ggo|miRviewer:ggo-mir-373
+ggo|miRviewer:ggo-mir-370 mml|miRviewer:mml-mir-370 oga|miRviewer:oga-mir-370
+hsa|miRviewer:hsa-mir-1200 ppy|miRviewer:ppy-mir-1200
+bta|miRviewer:bta-mir-2886
+mmu|miRviewer:mmu-mir-1970
+mmu|miRviewer:mmu-mir-1971
+hsa|miRviewer:hsa-mir-3619
+hsa|miRviewer:hsa-mir-3618 ggo|miRviewer:ggo-mir-3618 ppy|miRviewer:ppy-mir-3618 mml|miRviewer:mml-mir-3618 cja|miRviewer:cja-mir-3618 mmr|miRviewer:mmr-mir-3618 oga|miRviewer:oga-mir-3618 tbe|miRviewer:tbe-mir-3618 cpo|miRviewer:cpo-mir-3618 dor|miRviewer:dor-mir-3618 mmu|miRviewer:mmu-mir-3618 rno|miRviewer:rno-mir-3618 str|miRviewer:str-mir-3618 opr|miRviewer:opr-mir-3618 ocu|miRviewer:ocu-mir-3618 bta|miRviewer:bta-mir-3618 ttr|miRviewer:ttr-mir-3618 vpa|miRviewer:vpa-mir-3618 ssc|miRviewer:ssc-mir-3618 cfa|miRviewer:cfa-mir-3618 fca|miRviewer:fca-mir-3618 pva|miRviewer:pva-mir-3618 eeu|miRviewer:eeu-mir-3618 sar|miRviewer:sar-mir-3618 ete|miRviewer:ete-mir-3618 laf|miRviewer:laf-mir-3618 pca|miRviewer:pca-mir-3618
+hsa|miRviewer:hsa-mir-3615
+hsa|miRviewer:hsa-mir-3614
+hsa|miRviewer:hsa-mir-3617 ggo|miRviewer:ggo-mir-3617
+hsa|miRviewer:hsa-mir-3611
+ssc|miRviewer:ssc-mir-3610 eca|miRviewer:eca-mir-3610
+hsa|miRviewer:hsa-mir-3613 mml|miRviewer:mml-mir-3613
+hsa|miRviewer:hsa-mir-3612 ggo|miRviewer:ggo-mir-3612
+bta|miRviewer:bta-mir-2881
+gga|miRviewer:gga-mir-1759 mga|miRviewer:mga-mir-1759
+gga|miRviewer:gga-mir-1756a
+gga|miRviewer:gga-mir-1756b
+mmu|miRviewer:mmu-mir-3075
+mmu|miRviewer:mmu-mir-3074 rno|miRviewer:rno-mir-3074
+hsa|miRviewer:hsa-mir-3074-1 ggo|miRviewer:ggo-mir-3074-1 ppy|miRviewer:ppy-mir-3074-1 mml|miRviewer:mml-mir-3074-1 cja|miRviewer:cja-mir-3074-1 mmr|miRviewer:mmr-mir-3074-1 oga|miRviewer:oga-mir-3074-1 tbe|miRviewer:tbe-mir-3074-1 str|miRviewer:str-mir-3074-1 bta|miRviewer:bta-mir-3074-1 ttr|miRviewer:ttr-mir-3074-1 vpa|miRviewer:vpa-mir-3074-1 ssc|miRviewer:ssc-mir-3074-1 fca|miRviewer:fca-mir-3074-1 pva|miRviewer:pva-mir-3074-1 eeu|miRviewer:eeu-mir-3074-1
+mmu|miRviewer:mmu-mir-3074-2
+hsa|miRviewer:hsa-mir-505 ptr|miRviewer:ptr-mir-505 ggo|miRviewer:ggo-mir-505 ppy|miRviewer:ppy-mir-505 mml|miRviewer:mml-mir-505 cja|miRviewer:cja-mir-505 tsy|miRviewer:tsy-mir-505 tbe|miRviewer:tbe-mir-505 dor|miRviewer:dor-mir-505 str|miRviewer:str-mir-505 ttr|miRviewer:ttr-mir-505 vpa|miRviewer:vpa-mir-505 cfa|miRviewer:cfa-mir-505 eca|miRviewer:eca-mir-505 pca|miRviewer:pca-mir-505
+gga|miRviewer:gga-mir-1594
+gga|miRviewer:gga-mir-1596
+gga|miRviewer:gga-mir-1591
+ggo|miRviewer:ggo-mir-1910
+tbe|miRviewer:tbe-mir-1912 ocu|miRviewer:ocu-mir-1912
+hsa|miRviewer:hsa-mir-1913 ggo|miRviewer:ggo-mir-1913
+hsa|miRviewer:hsa-mir-1914
+hsa|miRviewer:hsa-mir-1915 ggo|miRviewer:ggo-mir-1915
+eca|miRviewer:eca-mir-769b
+ptr|miRviewer:ptr-mir-765
+hsa|miRviewer:hsa-mir-761 ggo|miRviewer:ggo-mir-761 ppy|miRviewer:ppy-mir-761 mml|miRviewer:mml-mir-761 cja|miRviewer:cja-mir-761 oga|miRviewer:oga-mir-761 tbe|miRviewer:tbe-mir-761 cpo|miRviewer:cpo-mir-761 dor|miRviewer:dor-mir-761 str|miRviewer:str-mir-761 ocu|miRviewer:ocu-mir-761 ttr|miRviewer:ttr-mir-761 vpa|miRviewer:vpa-mir-761 ssc|miRviewer:ssc-mir-761 cfa|miRviewer:cfa-mir-761 eca|miRviewer:eca-mir-761 mlu|miRviewer:mlu-mir-761 sar|miRviewer:sar-mir-761 ete|miRviewer:ete-mir-761 laf|miRviewer:laf-mir-761
+hsa|miRviewer:hsa-mir-760 ptr|miRviewer:ptr-mir-760 ggo|miRviewer:ggo-mir-760 mml|miRviewer:mml-mir-760 ocu|miRviewer:ocu-mir-760 ttr|miRviewer:ttr-mir-760
+oga|miRviewer:oga-mir-762
+gga|miRviewer:gga-mir-1628
+gga|miRviewer:gga-mir-1629
+hsa|miRviewer:hsa-mir-569
+gga|miRviewer:gga-mir-1622
+hsa|miRviewer:hsa-mir-566 ptr|miRviewer:ptr-mir-566
+gga|miRviewer:gga-mir-1626
+hsa|miRviewer:hsa-mir-562 ptr|miRviewer:ptr-mir-562 ggo|miRviewer:ggo-mir-562
+hsa|miRviewer:hsa-mir-561 ggo|miRviewer:ggo-mir-561
+gga|miRviewer:gga-mir-1625
+hsa|miRviewer:hsa-mir-1825 ptr|miRviewer:ptr-mir-1825
+hsa|miRviewer:hsa-mir-1827
+tsy|miRviewer:tsy-mir-302a ocu|miRviewer:ocu-mir-302a
+hsa|miRviewer:hsa-mir-302c ptr|miRviewer:ptr-mir-302c ppy|miRviewer:ppy-mir-302c mml|miRviewer:mml-mir-302c
+hsa|miRviewer:hsa-mir-302d ptr|miRviewer:ptr-mir-302d
+hsa|miRviewer:hsa-mir-302e ptr|miRviewer:ptr-mir-302e
+hsa|miRviewer:hsa-mir-302f
+oan|miRviewer:oan-mir-302-2
+oan|miRviewer:oan-mir-302-1
+xtr|miRviewer:xtr-mir-302
+hsa|miRviewer:hsa-mir-301a ptr|miRviewer:ptr-mir-301a ggo|miRviewer:ggo-mir-301a mml|miRviewer:mml-mir-301a cja|miRviewer:cja-mir-301a tsy|miRviewer:tsy-mir-301a mmr|miRviewer:mmr-mir-301a oga|miRviewer:oga-mir-301a tbe|miRviewer:tbe-mir-301a cpo|miRviewer:cpo-mir-301a dor|miRviewer:dor-mir-301a ocu|miRviewer:ocu-mir-301a bta|miRviewer:bta-mir-301a vpa|miRviewer:vpa-mir-301a cfa|miRviewer:cfa-mir-301a eca|miRviewer:eca-mir-301a pva|miRviewer:pva-mir-301a ete|miRviewer:ete-mir-301a laf|miRviewer:laf-mir-301a mdo|miRviewer:mdo-mir-301a
+hsa|miRviewer:hsa-mir-301b ptr|miRviewer:ptr-mir-301b ppy|miRviewer:ppy-mir-301b mml|miRviewer:mml-mir-301b mlu|miRviewer:mlu-mir-301b
+xtr|miRviewer:xtr-mir-301-1
+xtr|miRviewer:xtr-mir-301-2
+dre|miRviewer:dre-mir-301a-1
+dre|miRviewer:dre-mir-301a-2
+dre|miRviewer:dre-mir-301c
+ptr|miRviewer:ptr-mir-300 ppy|miRviewer:ppy-mir-300
+hsa|miRviewer:hsa-mir-2110
+hsa|miRviewer:hsa-mir-2113 ggo|miRviewer:ggo-mir-2113 ppy|miRviewer:ppy-mir-2113 mml|miRviewer:mml-mir-2113 cja|miRviewer:cja-mir-2113 mmr|miRviewer:mmr-mir-2113 tbe|miRviewer:tbe-mir-2113 ocu|miRviewer:ocu-mir-2113 ssc|miRviewer:ssc-mir-2113 cfa|miRviewer:cfa-mir-2113 fca|miRviewer:fca-mir-2113 mlu|miRviewer:mlu-mir-2113
+hsa|miRviewer:hsa-mir-3199-1
+hsa|miRviewer:hsa-mir-3199-2
+hsa|miRviewer:hsa-mir-2115
+hsa|miRviewer:hsa-mir-2114 ptr|miRviewer:ptr-mir-2114 ppy|miRviewer:ppy-mir-2114 mml|miRviewer:mml-mir-2114
+hsa|miRviewer:hsa-mir-3193
+hsa|miRviewer:hsa-mir-3190
+hsa|miRviewer:hsa-mir-3191
+hsa|miRviewer:hsa-mir-3196
+hsa|miRviewer:hsa-mir-3197 ggo|miRviewer:ggo-mir-3197
+hsa|miRviewer:hsa-mir-3194
+hsa|miRviewer:hsa-mir-3195
+hsa|miRviewer:hsa-mir-944 ptr|miRviewer:ptr-mir-944
+hsa|miRviewer:hsa-mir-941-1
+hsa|miRviewer:hsa-mir-941-2
+hsa|miRviewer:hsa-mir-941-3
+hsa|miRviewer:hsa-mir-941-4
+ggo|miRviewer:ggo-mir-412 cja|miRviewer:cja-mir-412 oga|miRviewer:oga-mir-412 ttr|miRviewer:ttr-mir-412
+hsa|miRviewer:hsa-mir-411 ptr|miRviewer:ptr-mir-411 ggo|miRviewer:ggo-mir-411 ppy|miRviewer:ppy-mir-411 mml|miRviewer:mml-mir-411 tsy|miRviewer:tsy-mir-411 mmr|miRviewer:mmr-mir-411 oga|miRviewer:oga-mir-411 tbe|miRviewer:tbe-mir-411 cpo|miRviewer:cpo-mir-411 dor|miRviewer:dor-mir-411 mmu|miRviewer:mmu-mir-411 rno|miRviewer:rno-mir-411 opr|miRviewer:opr-mir-411 ocu|miRviewer:ocu-mir-411 bta|miRviewer:bta-mir-411 ttr|miRviewer:ttr-mir-411 vpa|miRviewer:vpa-mir-411 ssc|miRviewer:ssc-mir-411 cfa|miRviewer:cfa-mir-411 fca|miRviewer:fca-mir-411 eca|miRviewer:eca-mir-411 mlu|miRviewer:mlu-mir-411 pva|miRviewer:pva-mir-411 cho|miRviewer:cho-mir-411 laf|miRviewer:laf-mir-411 pca|miRviewer:pca-mir-411
+bta|miRviewer:bta-mir-410 ttr|miRviewer:ttr-mir-410
+ssc|miRviewer:ssc-mir-3574 pva|miRviewer:pva-mir-3574
+mmu|miRviewer:mmu-mir-1190
+rno|miRviewer:rno-mir-3576
+ggo|miRviewer:ggo-mir-3577
+hsa|miRviewer:hsa-mir-3570 ggo|miRviewer:ggo-mir-3570 ppy|miRviewer:ppy-mir-3570 cja|miRviewer:cja-mir-3570 tsy|miRviewer:tsy-mir-3570 oga|miRviewer:oga-mir-3570 str|miRviewer:str-mir-3570 ocu|miRviewer:ocu-mir-3570 fca|miRviewer:fca-mir-3570
+rno|miRviewer:rno-mir-3571
+rno|miRviewer:rno-mir-3572
+rno|miRviewer:rno-mir-3573
+hsa|miRviewer:hsa-mir-3578 ggo|miRviewer:ggo-mir-3578 cja|miRviewer:cja-mir-3578 tsy|miRviewer:tsy-mir-3578 mmr|miRviewer:mmr-mir-3578 oga|miRviewer:oga-mir-3578 cpo|miRviewer:cpo-mir-3578 ocu|miRviewer:ocu-mir-3578 bta|miRviewer:bta-mir-3578 ttr|miRviewer:ttr-mir-3578 cfa|miRviewer:cfa-mir-3578 fca|miRviewer:fca-mir-3578 pva|miRviewer:pva-mir-3578 cho|miRviewer:cho-mir-3578 laf|miRviewer:laf-mir-3578 pca|miRviewer:pca-mir-3578
+rno|miRviewer:rno-mir-3579
+hsa|miRviewer:hsa-mir-611 ggo|miRviewer:ggo-mir-611
+hsa|miRviewer:hsa-mir-610 ggo|miRviewer:ggo-mir-610
+oga|miRviewer:oga-mir-875 tbe|miRviewer:tbe-mir-875 str|miRviewer:str-mir-875 cfa|miRviewer:cfa-mir-875 fca|miRviewer:fca-mir-875
+hsa|miRviewer:hsa-mir-874 ptr|miRviewer:ptr-mir-874 ggo|miRviewer:ggo-mir-874 ppy|miRviewer:ppy-mir-874 cja|miRviewer:cja-mir-874 tbe|miRviewer:tbe-mir-874 rno|miRviewer:rno-mir-874 ssc|miRviewer:ssc-mir-874 cfa|miRviewer:cfa-mir-874 eca|miRviewer:eca-mir-874 cho|miRviewer:cho-mir-874 laf|miRviewer:laf-mir-874
+hsa|miRviewer:hsa-mir-3134 ggo|miRviewer:ggo-mir-3134 ppy|miRviewer:ppy-mir-3134
+hsa|miRviewer:hsa-mir-3135 ggo|miRviewer:ggo-mir-3135
+gga|miRviewer:gga-mir-1587
+gga|miRviewer:gga-mir-1585
+bta|miRviewer:bta-mir-1584
+gga|miRviewer:gga-mir-1582
+gga|miRviewer:gga-mir-1454
+gga|miRviewer:gga-mir-1457
+gga|miRviewer:gga-mir-1456
+gga|miRviewer:gga-mir-1453
+gga|miRviewer:gga-mir-1452
+gga|miRviewer:gga-mir-1459
+gga|miRviewer:gga-mir-1458
+mmu|miRviewer:mmu-mir-1903 rno|miRviewer:rno-mir-1903
+cpo|miRviewer:cpo-mir-1902
+mmu|miRviewer:mmu-mir-1901
+mmu|miRviewer:mmu-mir-1900 rno|miRviewer:rno-mir-1900
+mmu|miRviewer:mmu-mir-1907 rno|miRviewer:rno-mir-1907
+mmu|miRviewer:mmu-mir-1906-1
+mmu|miRviewer:mmu-mir-1906-2
+cja|miRviewer:cja-mir-1905a mmr|miRviewer:mmr-mir-1905a
+eca|miRviewer:eca-mir-1905b
+mmu|miRviewer:mmu-mir-1904
+hsa|miRviewer:hsa-mir-1909
+hsa|miRviewer:hsa-mir-770 ptr|miRviewer:ptr-mir-770 ggo|miRviewer:ggo-mir-770 ppy|miRviewer:ppy-mir-770 mml|miRviewer:mml-mir-770
+ttr|miRviewer:ttr-mir-2904-1 ssc|miRviewer:ssc-mir-2904-1 cfa|miRviewer:cfa-mir-2904-1 fca|miRviewer:fca-mir-2904-1
+bta|miRviewer:bta-mir-2904-2
+bta|miRviewer:bta-mir-2904-3
+hsa|miRviewer:hsa-mir-578
+hsa|miRviewer:hsa-mir-579 ptr|miRviewer:ptr-mir-579
+bta|miRviewer:bta-mir-2900
+ssc|miRviewer:ssc-mir-574 cfa|miRviewer:cfa-mir-574
+hsa|miRviewer:hsa-mir-575 ptr|miRviewer:ptr-mir-575
+hsa|miRviewer:hsa-mir-577 ptr|miRviewer:ptr-mir-577 ppy|miRviewer:ppy-mir-577
+hsa|miRviewer:hsa-mir-571
+ptr|miRviewer:ptr-mir-572
+bta|miRviewer:bta-mir-2340
+bta|miRviewer:bta-mir-2341
+bta|miRviewer:bta-mir-2342
+bta|miRviewer:bta-mir-2343
+bta|miRviewer:bta-mir-2344
+bta|miRviewer:bta-mir-2345
+bta|miRviewer:bta-mir-2346
+bta|miRviewer:bta-mir-2347
+bta|miRviewer:bta-mir-2348
+bta|miRviewer:bta-mir-2349
+cfa|miRviewer:cfa-mir-1837-1
+cfa|miRviewer:cfa-mir-1837-2
+cfa|miRviewer:cfa-mir-1837-3
+cfa|miRviewer:cfa-mir-1837-4
+cfa|miRviewer:cfa-mir-1836
+bta|miRviewer:bta-mir-1835
+eca|miRviewer:eca-mir-1839
+cfa|miRviewer:cfa-mir-1838
+ttr|miRviewer:ttr-mir-32 vpa|miRviewer:vpa-mir-32 ssc|miRviewer:ssc-mir-32 fca|miRviewer:fca-mir-32 pva|miRviewer:pva-mir-32 sar|miRviewer:sar-mir-32 cho|miRviewer:cho-mir-32
+cpo|miRviewer:cpo-mir-33a
+hsa|miRviewer:hsa-mir-33b ptr|miRviewer:ptr-mir-33b eca|miRviewer:eca-mir-33b
+csa|miRviewer:csa-mir-33-2
+hsa|miRviewer:hsa-mir-30a ptr|miRviewer:ptr-mir-30a ggo|miRviewer:ggo-mir-30a ppy|miRviewer:ppy-mir-30a tbe|miRviewer:tbe-mir-30a cfa|miRviewer:cfa-mir-30a fca|miRviewer:fca-mir-30a sar|miRviewer:sar-mir-30a cho|miRviewer:cho-mir-30a laf|miRviewer:laf-mir-30a pca|miRviewer:pca-mir-30a
+mml|miRviewer:mml-mir-30c-2 ssc|miRviewer:ssc-mir-30c-2 cfa|miRviewer:cfa-mir-30c-2
+hsa|miRviewer:hsa-mir-30d ptr|miRviewer:ptr-mir-30d ggo|miRviewer:ggo-mir-30d ppy|miRviewer:ppy-mir-30d mml|miRviewer:mml-mir-30d
+hsa|miRviewer:hsa-mir-30b ptr|miRviewer:ptr-mir-30b ppy|miRviewer:ppy-mir-30b mml|miRviewer:mml-mir-30b
+hsa|miRviewer:hsa-mir-30c-1 ptr|miRviewer:ptr-mir-30c-1 ppy|miRviewer:ppy-mir-30c-1 mml|miRviewer:mml-mir-30c-1 cfa|miRviewer:cfa-mir-30c-1
+hsa|miRviewer:hsa-mir-30e ptr|miRviewer:ptr-mir-30e ppy|miRviewer:ppy-mir-30e eca|miRviewer:eca-mir-30e mlu|miRviewer:mlu-mir-30e
+bta|miRviewer:bta-mir-30f
+dre|miRviewer:dre-mir-30e-2
+tsy|miRviewer:tsy-mir-31 mmr|miRviewer:mmr-mir-31 ocu|miRviewer:ocu-mir-31 cfa|miRviewer:cfa-mir-31 eca|miRviewer:eca-mir-31 laf|miRviewer:laf-mir-31
+xtr|miRviewer:xtr-mir-31b
+dme|miRviewer:dme-mir-31a
+cfa|miRviewer:cfa-mir-34a pca|miRviewer:pca-mir-34a
+hsa|miRviewer:hsa-mir-34c ptr|miRviewer:ptr-mir-34c ppy|miRviewer:ppy-mir-34c cja|miRviewer:cja-mir-34c tbe|miRviewer:tbe-mir-34c cfa|miRviewer:cfa-mir-34c fca|miRviewer:fca-mir-34c pva|miRviewer:pva-mir-34c
+tgu|miRviewer:tgu-mir-34c-1
+tgu|miRviewer:tgu-mir-34c-2
+xtr|miRviewer:xtr-mir-34b-2
+xtr|miRviewer:xtr-mir-34b-4
+xtr|miRviewer:xtr-mir-34b-3
+xtr|miRviewer:xtr-mir-34b-1
+hsa|miRviewer:hsa-mir-3189
+hsa|miRviewer:hsa-mir-3188
+hsa|miRviewer:hsa-mir-3185
+hsa|miRviewer:hsa-mir-3184
+hsa|miRviewer:hsa-mir-3187
+hsa|miRviewer:hsa-mir-3181
+hsa|miRviewer:hsa-mir-3180-1
+hsa|miRviewer:hsa-mir-3180-2
+hsa|miRviewer:hsa-mir-3180-3
+hsa|miRviewer:hsa-mir-3180-4
+hsa|miRviewer:hsa-mir-3180-5
+hsa|miRviewer:hsa-mir-3183
+hsa|miRviewer:hsa-mir-3182
+oan|miRviewer:oan-mir-1325
+hsa|miRviewer:hsa-mir-409 ptr|miRviewer:ptr-mir-409 ggo|miRviewer:ggo-mir-409 ppy|miRviewer:ppy-mir-409 mml|miRviewer:mml-mir-409 oga|miRviewer:oga-mir-409 eca|miRviewer:eca-mir-409 pva|miRviewer:pva-mir-409
+oan|miRviewer:oan-mir-1412
+hsa|miRviewer:hsa-mir-4321
+rno|miRviewer:rno-mir-3566
+rno|miRviewer:rno-mir-3565
+rno|miRviewer:rno-mir-3564
+ggo|miRviewer:ggo-mir-3563 ppy|miRviewer:ppy-mir-3563 ttr|miRviewer:ttr-mir-3563
+rno|miRviewer:rno-mir-3562
+rno|miRviewer:rno-mir-3561
+rno|miRviewer:rno-mir-3560
+rno|miRviewer:rno-mir-3569
+rno|miRviewer:rno-mir-3568
+hsa|miRviewer:hsa-mir-4324
+hsa|miRviewer:hsa-mir-4325
+hsa|miRviewer:hsa-mir-4326
+hsa|miRviewer:hsa-mir-4327
+hsa|miRviewer:hsa-mir-4320
+gga|miRviewer:gga-mir-1677 mga|miRviewer:mga-mir-1677
+hsa|miRviewer:hsa-mir-4322
+hsa|miRviewer:hsa-mir-4323 ggo|miRviewer:ggo-mir-4323
+gga|miRviewer:gga-mir-1676
+hsa|miRviewer:hsa-mir-4328
+hsa|miRviewer:hsa-mir-4329
+mmu|miRviewer:mmu-mir-1954
+gga|miRviewer:gga-mir-1771
+mmu|miRviewer:mmu-mir-1952
+mmu|miRviewer:mmu-mir-1953
+oan|miRviewer:oan-mir-1330
+oan|miRviewer:oan-mir-1331
+oan|miRviewer:oan-mir-1332
+oan|miRviewer:oan-mir-1333
+oan|miRviewer:oan-mir-1334
+oan|miRviewer:oan-mir-1335
+oan|miRviewer:oan-mir-1336
+oan|miRviewer:oan-mir-1337
+oan|miRviewer:oan-mir-1338
+oan|miRviewer:oan-mir-1339
+cja|miRviewer:cja-mir-149 cfa|miRviewer:cfa-mir-149
+hsa|miRviewer:hsa-mir-148a ptr|miRviewer:ptr-mir-148a ggo|miRviewer:ggo-mir-148a ppy|miRviewer:ppy-mir-148a mml|miRviewer:mml-mir-148a cja|miRviewer:cja-mir-148a oga|miRviewer:oga-mir-148a tbe|miRviewer:tbe-mir-148a cpo|miRviewer:cpo-mir-148a laf|miRviewer:laf-mir-148a
+hsa|miRviewer:hsa-mir-148b ptr|miRviewer:ptr-mir-148b ppy|miRviewer:ppy-mir-148b mml|miRviewer:mml-mir-148b tsy|miRviewer:tsy-mir-148b bta|miRviewer:bta-mir-148b ssc|miRviewer:ssc-mir-148b cfa|miRviewer:cfa-mir-148b eca|miRviewer:eca-mir-148b
+hsa|miRviewer:hsa-mir-145 ptr|miRviewer:ptr-mir-145 ggo|miRviewer:ggo-mir-145 ppy|miRviewer:ppy-mir-145 mmr|miRviewer:mmr-mir-145 oga|miRviewer:oga-mir-145 tbe|miRviewer:tbe-mir-145 bta|miRviewer:bta-mir-145 ttr|miRviewer:ttr-mir-145 cfa|miRviewer:cfa-mir-145 eca|miRviewer:eca-mir-145 mlu|miRviewer:mlu-mir-145 pva|miRviewer:pva-mir-145 ete|miRviewer:ete-mir-145 laf|miRviewer:laf-mir-145
+hsa|miRviewer:hsa-mir-144 ggo|miRviewer:ggo-mir-144 vpa|miRviewer:vpa-mir-144 ssc|miRviewer:ssc-mir-144 eca|miRviewer:eca-mir-144 sar|miRviewer:sar-mir-144
+fca|miRviewer:fca-mir-147
+ptr|miRviewer:ptr-mir-147a
+gga|miRviewer:gga-mir-147-1
+gga|miRviewer:gga-mir-147-2
+cfa|miRviewer:cfa-mir-146a
+gga|miRviewer:gga-mir-146c-1
+gga|miRviewer:gga-mir-146c-2
+tgu|miRviewer:tgu-mir-146c
+xtr|miRviewer:xtr-mir-146
+dre|miRviewer:dre-mir-146b-1
+dre|miRviewer:dre-mir-146b-2
+ggo|miRviewer:ggo-mir-141 cja|miRviewer:cja-mir-141 mmr|miRviewer:mmr-mir-141 oga|miRviewer:oga-mir-141 str|miRviewer:str-mir-141 fca|miRviewer:fca-mir-141 eca|miRviewer:eca-mir-141 pva|miRviewer:pva-mir-141
+ptr|miRviewer:ptr-mir-141-1
+ptr|miRviewer:ptr-mir-141-2
+hsa|miRviewer:hsa-mir-140 ptr|miRviewer:ptr-mir-140 ggo|miRviewer:ggo-mir-140 ppy|miRviewer:ppy-mir-140 mml|miRviewer:mml-mir-140 cja|miRviewer:cja-mir-140 mmr|miRviewer:mmr-mir-140 tbe|miRviewer:tbe-mir-140 cpo|miRviewer:cpo-mir-140 mmu|miRviewer:mmu-mir-140 str|miRviewer:str-mir-140 opr|miRviewer:opr-mir-140 ocu|miRviewer:ocu-mir-140 bta|miRviewer:bta-mir-140 ttr|miRviewer:ttr-mir-140 ssc|miRviewer:ssc-mir-140 cfa|miRviewer:cfa-mir-140 eca|miRviewer:eca-mir-140 mlu|miRviewer:mlu-mir-140 pva|miRviewer:pva-mir-140 eeu|miRviewer:eeu-mir-140 ete|miRviewer:ete-mir-140 laf|miRviewer:laf-mir-140 meu|miRviewer:meu-mir-140 mdo|miRviewer:mdo-mir-140
+oga|miRviewer:oga-mir-143 dor|miRviewer:dor-mir-143 str|miRviewer:str-mir-143 ocu|miRviewer:ocu-mir-143 cfa|miRviewer:cfa-mir-143 fca|miRviewer:fca-mir-143 cho|miRviewer:cho-mir-143 ete|miRviewer:ete-mir-143 laf|miRviewer:laf-mir-143
+dre|miRviewer:dre-mir-143-1
+dre|miRviewer:dre-mir-143-2
+hsa|miRviewer:hsa-mir-142 ptr|miRviewer:ptr-mir-142 ggo|miRviewer:ggo-mir-142 ppy|miRviewer:ppy-mir-142 mml|miRviewer:mml-mir-142 cja|miRviewer:cja-mir-142 mmr|miRviewer:mmr-mir-142 oga|miRviewer:oga-mir-142 cpo|miRviewer:cpo-mir-142 dor|miRviewer:dor-mir-142 mmu|miRviewer:mmu-mir-142 rno|miRviewer:rno-mir-142 str|miRviewer:str-mir-142 opr|miRviewer:opr-mir-142 ocu|miRviewer:ocu-mir-142 bta|miRviewer:bta-mir-142 ssc|miRviewer:ssc-mir-142 cfa|miRviewer:cfa-mir-142 fca|miRviewer:fca-mir-142 eca|miRviewer:eca-mir-142 pva|miRviewer:pva-mir-142 eeu|miRviewer:eeu-mir-142 sar|miRviewer:sar-mir-142 ete|miRviewer:ete-mir-142 laf|miRviewer:laf-mir-142 pca|miRviewer:pca-mir-142
+xtr|miRviewer:xtr-mir-142-1
+xtr|miRviewer:xtr-mir-142-2
+dre|miRviewer:dre-mir-142a
+dre|miRviewer:dre-mir-142b
+hsa|miRviewer:hsa-mir-642a
+hsa|miRviewer:hsa-mir-642b mml|miRviewer:mml-mir-642b
+hsa|miRviewer:hsa-mir-642 ptr|miRviewer:ptr-mir-642 ggo|miRviewer:ggo-mir-642
+hsa|miRviewer:hsa-mir-643
+hsa|miRviewer:hsa-mir-640 ggo|miRviewer:ggo-mir-640
+hsa|miRviewer:hsa-mir-646 ptr|miRviewer:ptr-mir-646
+mmu|miRviewer:mmu-mir-1936
+dor|miRviewer:dor-mir-1937b-4
+mmu|miRviewer:mmu-mir-1937a
+mmu|miRviewer:mmu-mir-1937b-1
+mmu|miRviewer:mmu-mir-1937c
+mmu|miRviewer:mmu-mir-1937b-3
+mmu|miRviewer:mmu-mir-1937b-5
+mmu|miRviewer:mmu-mir-1934
+mmu|miRviewer:mmu-mir-1932
+mmu|miRviewer:mmu-mir-1933
+mmu|miRviewer:mmu-mir-1930
+mmu|miRviewer:mmu-mir-1931
+hsa|miRviewer:hsa-mir-645 ptr|miRviewer:ptr-mir-645 ggo|miRviewer:ggo-mir-645
+mmu|miRviewer:mmu-mir-1938
+mmu|miRviewer:mmu-mir-1939
+bta|miRviewer:bta-mir-2917
+ptr|miRviewer:ptr-mir-549 ppy|miRviewer:ppy-mir-549
+hsa|miRviewer:hsa-mir-548a-1
+hsa|miRviewer:hsa-mir-548a-2
+hsa|miRviewer:hsa-mir-548a-3
+hsa|miRviewer:hsa-mir-548c ptr|miRviewer:ptr-mir-548c
+hsa|miRviewer:hsa-mir-548d-1
+hsa|miRviewer:hsa-mir-548d-2
+hsa|miRviewer:hsa-mir-548e
+hsa|miRviewer:hsa-mir-548j
+hsa|miRviewer:hsa-mir-548k ptr|miRviewer:ptr-mir-548k
+hsa|miRviewer:hsa-mir-548l
+hsa|miRviewer:hsa-mir-548f-1
+hsa|miRviewer:hsa-mir-548f-2
+hsa|miRviewer:hsa-mir-548f-3
+hsa|miRviewer:hsa-mir-548f-4
+hsa|miRviewer:hsa-mir-548f-5
+hsa|miRviewer:hsa-mir-548g
+hsa|miRviewer:hsa-mir-548n
+hsa|miRviewer:hsa-mir-548m
+hsa|miRviewer:hsa-mir-548o
+hsa|miRviewer:hsa-mir-548h-1
+hsa|miRviewer:hsa-mir-548h-2
+hsa|miRviewer:hsa-mir-548h-3
+hsa|miRviewer:hsa-mir-548h-4
+hsa|miRviewer:hsa-mir-548p ptr|miRviewer:ptr-mir-548p
+hsa|miRviewer:hsa-mir-548i-1
+hsa|miRviewer:hsa-mir-548i-2
+hsa|miRviewer:hsa-mir-548i-3
+hsa|miRviewer:hsa-mir-548i-4
+hsa|miRviewer:hsa-mir-548q
+hsa|miRviewer:hsa-mir-548s
+hsa|miRviewer:hsa-mir-548t
+hsa|miRviewer:hsa-mir-548u
+hsa|miRviewer:hsa-mir-548v
+hsa|miRviewer:hsa-mir-548w
+hsa|miRviewer:hsa-mir-548x
+hsa|miRviewer:hsa-mir-548y
+hsa|miRviewer:hsa-mir-548z
+hsa|miRviewer:hsa-mir-548aa-1
+hsa|miRviewer:hsa-mir-548aa-2
+ptr|miRviewer:ptr-mir-548h
+ptr|miRviewer:ptr-mir-548i-5
+ptr|miRviewer:ptr-mir-548i-6
+mml|miRviewer:mml-mir-548a
+mml|miRviewer:mml-mir-548d
+mml|miRviewer:mml-mir-548f
+oga|miRviewer:oga-mir-541 dor|miRviewer:dor-mir-541
+mmu|miRviewer:mmu-mir-540 rno|miRviewer:rno-mir-540
+hsa|miRviewer:hsa-mir-543 ggo|miRviewer:ggo-mir-543 ppy|miRviewer:ppy-mir-543 tbe|miRviewer:tbe-mir-543 cfa|miRviewer:cfa-mir-543
+str|miRviewer:str-mir-542 ocu|miRviewer:ocu-mir-542 vpa|miRviewer:vpa-mir-542 cfa|miRviewer:cfa-mir-542
+mmr|miRviewer:mmr-mir-545
+hsa|miRviewer:hsa-mir-544 ptr|miRviewer:ptr-mir-544 ggo|miRviewer:ggo-mir-544 ppy|miRviewer:ppy-mir-544 mml|miRviewer:mml-mir-544 cja|miRviewer:cja-mir-544 mmr|miRviewer:mmr-mir-544 oga|miRviewer:oga-mir-544 tbe|miRviewer:tbe-mir-544
+hsa|miRviewer:hsa-mir-544b
+bta|miRviewer:bta-mir-544a
+eca|miRviewer:eca-mir-544-2
+mmu|miRviewer:mmu-mir-547
+mmu|miRviewer:mmu-mir-546
+bta|miRviewer:bta-mir-2353
+bta|miRviewer:bta-mir-2352
+bta|miRviewer:bta-mir-2351
+bta|miRviewer:bta-mir-2350
+bta|miRviewer:bta-mir-2357
+bta|miRviewer:bta-mir-2356
+ppy|miRviewer:ppy-mir-2355 cja|miRviewer:cja-mir-2355 tbe|miRviewer:tbe-mir-2355 cfa|miRviewer:cfa-mir-2355
+bta|miRviewer:bta-mir-2354
+gga|miRviewer:gga-mir-1803 mga|miRviewer:mga-mir-1803
+bta|miRviewer:bta-mir-2359
+bta|miRviewer:bta-mir-2358
+gga|miRviewer:gga-mir-1806
+gga|miRviewer:gga-mir-1807 mga|miRviewer:mga-mir-1807
+gga|miRviewer:gga-mir-1805 mga|miRviewer:mga-mir-1805
+ocu|miRviewer:ocu-mir-325 cfa|miRviewer:cfa-mir-325
+hsa|miRviewer:hsa-mir-892a ggo|miRviewer:ggo-mir-892a
+mml|miRviewer:mml-mir-892b
+hsa|miRviewer:hsa-mir-892
+mmu|miRviewer:mmu-mir-327
+hsa|miRviewer:hsa-mir-890 ptr|miRviewer:ptr-mir-890
+hsa|miRviewer:hsa-mir-320a ggo|miRviewer:ggo-mir-320a ppy|miRviewer:ppy-mir-320a mml|miRviewer:mml-mir-320a mmr|miRviewer:mmr-mir-320a mmu|miRviewer:mmu-mir-320a str|miRviewer:str-mir-320a laf|miRviewer:laf-mir-320a
+hsa|miRviewer:hsa-mir-320b-1 ptr|miRviewer:ptr-mir-320b-1
+hsa|miRviewer:hsa-mir-320c-1 ptr|miRviewer:ptr-mir-320c-1
+hsa|miRviewer:hsa-mir-320b-2 ptr|miRviewer:ptr-mir-320b-2
+hsa|miRviewer:hsa-mir-320d-1 ptr|miRviewer:ptr-mir-320d-1
+hsa|miRviewer:hsa-mir-320c-2 ptr|miRviewer:ptr-mir-320c-2
+hsa|miRviewer:hsa-mir-320d-2 ppy|miRviewer:ppy-mir-320d-2
+hsa|miRviewer:hsa-mir-320e
+hsa|miRviewer:hsa-mir-320 cfa|miRviewer:cfa-mir-320
+ptr|miRviewer:ptr-mir-320d-3
+bta|miRviewer:bta-mir-320b
+bta|miRviewer:bta-mir-320-1
+hsa|miRviewer:hsa-mir-323 ptr|miRviewer:ptr-mir-323 ggo|miRviewer:ggo-mir-323 ppy|miRviewer:ppy-mir-323 mml|miRviewer:mml-mir-323 cja|miRviewer:cja-mir-323 tsy|miRviewer:tsy-mir-323 oga|miRviewer:oga-mir-323 tbe|miRviewer:tbe-mir-323 ocu|miRviewer:ocu-mir-323 bta|miRviewer:bta-mir-323 cfa|miRviewer:cfa-mir-323 eca|miRviewer:eca-mir-323 mlu|miRviewer:mlu-mir-323
+hsa|miRviewer:hsa-mir-323b
+tsy|miRviewer:tsy-mir-322 mmr|miRviewer:mmr-mir-322 str|miRviewer:str-mir-322
+ppy|miRviewer:ppy-mir-329-1
+ptr|miRviewer:ptr-mir-329-2 ppy|miRviewer:ppy-mir-329-2
+ggo|miRviewer:ggo-mir-329 ppy|miRviewer:ppy-mir-329 tsy|miRviewer:tsy-mir-329 oga|miRviewer:oga-mir-329 tbe|miRviewer:tbe-mir-329 bta|miRviewer:bta-mir-329 ttr|miRviewer:ttr-mir-329 pva|miRviewer:pva-mir-329
+bta|miRviewer:bta-mir-329a
+bta|miRviewer:bta-mir-329b cfa|miRviewer:cfa-mir-329b
+eca|miRviewer:eca-mir-328
+fca|miRviewer:fca-mir-328a
+rno|miRviewer:rno-mir-328b
+tsy|miRviewer:tsy-mir-21 mmr|miRviewer:mmr-mir-21 oga|miRviewer:oga-mir-21 tbe|miRviewer:tbe-mir-21 cpo|miRviewer:cpo-mir-21 dor|miRviewer:dor-mir-21 rno|miRviewer:rno-mir-21 bta|miRviewer:bta-mir-21 ttr|miRviewer:ttr-mir-21 vpa|miRviewer:vpa-mir-21 ssc|miRviewer:ssc-mir-21 cfa|miRviewer:cfa-mir-21 fca|miRviewer:fca-mir-21 eca|miRviewer:eca-mir-21 mlu|miRviewer:mlu-mir-21 pva|miRviewer:pva-mir-21 laf|miRviewer:laf-mir-21 pca|miRviewer:pca-mir-21
+dre|miRviewer:dre-mir-21-1
+dre|miRviewer:dre-mir-21-2
+hsa|miRviewer:hsa-mir-20a ptr|miRviewer:ptr-mir-20a ggo|miRviewer:ggo-mir-20a ppy|miRviewer:ppy-mir-20a mml|miRviewer:mml-mir-20a cja|miRviewer:cja-mir-20a tbe|miRviewer:tbe-mir-20a str|miRviewer:str-mir-20a ocu|miRviewer:ocu-mir-20a bta|miRviewer:bta-mir-20a ttr|miRviewer:ttr-mir-20a ssc|miRviewer:ssc-mir-20a fca|miRviewer:fca-mir-20a eca|miRviewer:eca-mir-20a mlu|miRviewer:mlu-mir-20a pva|miRviewer:pva-mir-20a cho|miRviewer:cho-mir-20a
+mml|miRviewer:mml-mir-20b
+oan|miRviewer:oan-mir-20a-1
+oan|miRviewer:oan-mir-20a-2
+bta|miRviewer:bta-mir-23a cfa|miRviewer:cfa-mir-23a fca|miRviewer:fca-mir-23a pva|miRviewer:pva-mir-23a
+hsa|miRviewer:hsa-mir-23b ptr|miRviewer:ptr-mir-23b ppy|miRviewer:ppy-mir-23b mml|miRviewer:mml-mir-23b ocu|miRviewer:ocu-mir-23b bta|miRviewer:bta-mir-23b ttr|miRviewer:ttr-mir-23b cfa|miRviewer:cfa-mir-23b eca|miRviewer:eca-mir-23b mlu|miRviewer:mlu-mir-23b cho|miRviewer:cho-mir-23b ete|miRviewer:ete-mir-23b
+hsa|miRviewer:hsa-mir-23c ptr|miRviewer:ptr-mir-23c
+tgu|miRviewer:tgu-mir-23
+dre|miRviewer:dre-mir-23a-3
+hsa|miRviewer:hsa-mir-22 ptr|miRviewer:ptr-mir-22 ggo|miRviewer:ggo-mir-22 ppy|miRviewer:ppy-mir-22 mml|miRviewer:mml-mir-22 tsy|miRviewer:tsy-mir-22 mmr|miRviewer:mmr-mir-22 oga|miRviewer:oga-mir-22 tbe|miRviewer:tbe-mir-22 cpo|miRviewer:cpo-mir-22 dor|miRviewer:dor-mir-22 rno|miRviewer:rno-mir-22 opr|miRviewer:opr-mir-22 ocu|miRviewer:ocu-mir-22 bta|miRviewer:bta-mir-22 ttr|miRviewer:ttr-mir-22 vpa|miRviewer:vpa-mir-22 ssc|miRviewer:ssc-mir-22 cfa|miRviewer:cfa-mir-22 fca|miRviewer:fca-mir-22 eca|miRviewer:eca-mir-22 mlu|miRviewer:mlu-mir-22 pva|miRviewer:pva-mir-22 eeu|miRviewer:eeu-mir-22 sar|miRviewer:sar-mir-22 laf|miRviewer:laf-mir-22
+dre|miRviewer:dre-mir-22a
+dre|miRviewer:dre-mir-22b
+hsa|miRviewer:hsa-mir-25 ggo|miRviewer:ggo-mir-25 ppy|miRviewer:ppy-mir-25 mml|miRviewer:mml-mir-25 cja|miRviewer:cja-mir-25 oga|miRviewer:oga-mir-25 tbe|miRviewer:tbe-mir-25 mmu|miRviewer:mmu-mir-25 eca|miRviewer:eca-mir-25 ete|miRviewer:ete-mir-25 laf|miRviewer:laf-mir-25
+xtr|miRviewer:xtr-mir-25-1
+xtr|miRviewer:xtr-mir-25-2
+hsa|miRviewer:hsa-mir-24-1 ptr|miRviewer:ptr-mir-24-1 ppy|miRviewer:ppy-mir-24-1 mml|miRviewer:mml-mir-24-1 bta|miRviewer:bta-mir-24-1
+xtr|miRviewer:xtr-mir-24a
+xtr|miRviewer:xtr-mir-24b
+dre|miRviewer:dre-mir-24-4
+dre|miRviewer:dre-mir-24-3
+hsa|miRviewer:hsa-mir-27a ptr|miRviewer:ptr-mir-27a ggo|miRviewer:ggo-mir-27a mml|miRviewer:mml-mir-27a laf|miRviewer:laf-mir-27a pca|miRviewer:pca-mir-27a
+hsa|miRviewer:hsa-mir-27b ptr|miRviewer:ptr-mir-27b ppy|miRviewer:ppy-mir-27b mml|miRviewer:mml-mir-27b mmr|miRviewer:mmr-mir-27b oga|miRviewer:oga-mir-27b mmu|miRviewer:mmu-mir-27b rno|miRviewer:rno-mir-27b ete|miRviewer:ete-mir-27b
+tgu|miRviewer:tgu-mir-27
+xtr|miRviewer:xtr-mir-27c-1
+xtr|miRviewer:xtr-mir-27c-2
+dre|miRviewer:dre-mir-27c
+dre|miRviewer:dre-mir-27d
+dre|miRviewer:dre-mir-27e
+hsa|miRviewer:hsa-mir-26a-1 ptr|miRviewer:ptr-mir-26a-1 ggo|miRviewer:ggo-mir-26a-1 ppy|miRviewer:ppy-mir-26a-1 mml|miRviewer:mml-mir-26a-1 cja|miRviewer:cja-mir-26a-1 mmr|miRviewer:mmr-mir-26a-1 cfa|miRviewer:cfa-mir-26a-1 pva|miRviewer:pva-mir-26a-1
+hsa|miRviewer:hsa-mir-26b ptr|miRviewer:ptr-mir-26b ppy|miRviewer:ppy-mir-26b mml|miRviewer:mml-mir-26b cfa|miRviewer:cfa-mir-26b
+hsa|miRviewer:hsa-mir-26a-2 ptr|miRviewer:ptr-mir-26a-2 ppy|miRviewer:ppy-mir-26a-2 mml|miRviewer:mml-mir-26a-2 oga|miRviewer:oga-mir-26a-2 str|miRviewer:str-mir-26a-2 bta|miRviewer:bta-mir-26a-2 ttr|miRviewer:ttr-mir-26a-2 eeu|miRviewer:eeu-mir-26a-2 laf|miRviewer:laf-mir-26a-2
+mdo|miRviewer:mdo-mir-26-3
+tru|miRviewer:tru-mir-26
+dre|miRviewer:dre-mir-26a-3
+hsa|miRviewer:hsa-mir-29a ptr|miRviewer:ptr-mir-29a ggo|miRviewer:ggo-mir-29a ppy|miRviewer:ppy-mir-29a mml|miRviewer:mml-mir-29a bta|miRviewer:bta-mir-29a ssc|miRviewer:ssc-mir-29a cfa|miRviewer:cfa-mir-29a eca|miRviewer:eca-mir-29a
+hsa|miRviewer:hsa-mir-29b-1 ptr|miRviewer:ptr-mir-29b-1 ggo|miRviewer:ggo-mir-29b-1 ppy|miRviewer:ppy-mir-29b-1 mml|miRviewer:mml-mir-29b-1 cja|miRviewer:cja-mir-29b-1 mmr|miRviewer:mmr-mir-29b-1 oga|miRviewer:oga-mir-29b-1 tbe|miRviewer:tbe-mir-29b-1 cpo|miRviewer:cpo-mir-29b-1 dor|miRviewer:dor-mir-29b-1 mmu|miRviewer:mmu-mir-29b-1 ocu|miRviewer:ocu-mir-29b-1 bta|miRviewer:bta-mir-29b-1 cfa|miRviewer:cfa-mir-29b-1 pva|miRviewer:pva-mir-29b-1 laf|miRviewer:laf-mir-29b-1 pca|miRviewer:pca-mir-29b-1
+hsa|miRviewer:hsa-mir-29b-2 ptr|miRviewer:ptr-mir-29b-2 ggo|miRviewer:ggo-mir-29b-2 ppy|miRviewer:ppy-mir-29b-2 mml|miRviewer:mml-mir-29b-2 tsy|miRviewer:tsy-mir-29b-2 mmu|miRviewer:mmu-mir-29b-2 rno|miRviewer:rno-mir-29b-2 str|miRviewer:str-mir-29b-2 bta|miRviewer:bta-mir-29b-2 vpa|miRviewer:vpa-mir-29b-2 cfa|miRviewer:cfa-mir-29b-2 fca|miRviewer:fca-mir-29b-2 eca|miRviewer:eca-mir-29b-2
+hsa|miRviewer:hsa-mir-29c ptr|miRviewer:ptr-mir-29c ppy|miRviewer:ppy-mir-29c mml|miRviewer:mml-mir-29c mmu|miRviewer:mmu-mir-29c rno|miRviewer:rno-mir-29c bta|miRviewer:bta-mir-29c ssc|miRviewer:ssc-mir-29c eca|miRviewer:eca-mir-29c
+bta|miRviewer:bta-mir-29d
+bta|miRviewer:bta-mir-29e
+eca|miRviewer:eca-mir-29b
+cfa|miRviewer:cfa-mir-29c-1
+cfa|miRviewer:cfa-mir-29c-2 eca|miRviewer:eca-mir-29c-2
+oan|miRviewer:oan-mir-29a-1
+dre|miRviewer:dre-mir-29b-3
+cin|miRviewer:cin-mir-29
+mmr|miRviewer:mmr-mir-28 ttr|miRviewer:ttr-mir-28 cfa|miRviewer:cfa-mir-28 eca|miRviewer:eca-mir-28 laf|miRviewer:laf-mir-28
+hsa|miRviewer:hsa-mir-3170 ggo|miRviewer:ggo-mir-3170 ppy|miRviewer:ppy-mir-3170
+hsa|miRviewer:hsa-mir-3171
+hsa|miRviewer:hsa-mir-3173
+hsa|miRviewer:hsa-mir-3174
+hsa|miRviewer:hsa-mir-3175 ggo|miRviewer:ggo-mir-3175
+ggo|miRviewer:ggo-mir-3176
+hsa|miRviewer:hsa-mir-3177
+hsa|miRviewer:hsa-mir-3178
+ggo|miRviewer:ggo-mir-3179-1
+hsa|miRviewer:hsa-mir-3179-2
+hsa|miRviewer:hsa-mir-3179-3
+hsa|miRviewer:hsa-mir-431 ptr|miRviewer:ptr-mir-431 ppy|miRviewer:ppy-mir-431 mml|miRviewer:mml-mir-431
+dre|miRviewer:dre-mir-430b-1
+dre|miRviewer:dre-mir-430c-1
+dre|miRviewer:dre-mir-430c-2
+dre|miRviewer:dre-mir-430c-3
+dre|miRviewer:dre-mir-430c-4
+dre|miRviewer:dre-mir-430c-5
+dre|miRviewer:dre-mir-430c-6
+dre|miRviewer:dre-mir-430c-7
+dre|miRviewer:dre-mir-430c-8
+dre|miRviewer:dre-mir-430c-9
+dre|miRviewer:dre-mir-430c-10
+dre|miRviewer:dre-mir-430c-11
+dre|miRviewer:dre-mir-430c-12
+dre|miRviewer:dre-mir-430c-13
+dre|miRviewer:dre-mir-430c-14
+dre|miRviewer:dre-mir-430c-15
+dre|miRviewer:dre-mir-430c-16
+dre|miRviewer:dre-mir-430c-17
+dre|miRviewer:dre-mir-430c-18
+dre|miRviewer:dre-mir-430c-19
+dre|miRviewer:dre-mir-430c-20
+dre|miRviewer:dre-mir-430c-21
+dre|miRviewer:dre-mir-430a-2
+dre|miRviewer:dre-mir-430a-3
+dre|miRviewer:dre-mir-430a-4
+dre|miRviewer:dre-mir-430a-5
+dre|miRviewer:dre-mir-430a-6
+dre|miRviewer:dre-mir-430a-7
+dre|miRviewer:dre-mir-430a-8
+dre|miRviewer:dre-mir-430a-9
+dre|miRviewer:dre-mir-430a-10
+dre|miRviewer:dre-mir-430a-11
+dre|miRviewer:dre-mir-430a-12
+dre|miRviewer:dre-mir-430a-13
+dre|miRviewer:dre-mir-430a-14
+dre|miRviewer:dre-mir-430a-15
+dre|miRviewer:dre-mir-430a-16
+dre|miRviewer:dre-mir-430a-17
+dre|miRviewer:dre-mir-430a-18
+dre|miRviewer:dre-mir-430a-19
+dre|miRviewer:dre-mir-430a-20
+dre|miRviewer:dre-mir-430a-21
+dre|miRviewer:dre-mir-430a-22
+dre|miRviewer:dre-mir-430a-23
+dre|miRviewer:dre-mir-430i-1
+dre|miRviewer:dre-mir-430i-2
+dre|miRviewer:dre-mir-430i-3
+dre|miRviewer:dre-mir-430b-2
+dre|miRviewer:dre-mir-430b-3
+dre|miRviewer:dre-mir-430b-4
+dre|miRviewer:dre-mir-430b-6
+dre|miRviewer:dre-mir-430b-7
+dre|miRviewer:dre-mir-430b-8
+dre|miRviewer:dre-mir-430b-9
+dre|miRviewer:dre-mir-430b-10
+dre|miRviewer:dre-mir-430b-11
+dre|miRviewer:dre-mir-430b-12
+dre|miRviewer:dre-mir-430b-13
+dre|miRviewer:dre-mir-430b-14
+dre|miRviewer:dre-mir-430b-15
+dre|miRviewer:dre-mir-430b-16
+dre|miRviewer:dre-mir-430b-17
+dre|miRviewer:dre-mir-430b-18
+dre|miRviewer:dre-mir-430b-5
+dre|miRviewer:dre-mir-430b-19
+dre|miRviewer:dre-mir-430b-20
+dre|miRviewer:dre-mir-430b-21
+dre|miRviewer:dre-mir-430b-22
+dre|miRviewer:dre-mir-430b-23
+dre|miRviewer:dre-mir-430j
+ola|miRviewer:ola-mir-430d-1
+ola|miRviewer:ola-mir-430d-2
+ola|miRviewer:ola-mir-430d-3
+hsa|miRviewer:hsa-mir-433 ptr|miRviewer:ptr-mir-433 ppy|miRviewer:ppy-mir-433 mmu|miRviewer:mmu-mir-433 rno|miRviewer:rno-mir-433 cfa|miRviewer:cfa-mir-433
+str|miRviewer:str-mir-432
+mmu|miRviewer:mmu-mir-434
+mmu|miRviewer:mmu-mir-3084
+hsa|miRviewer:hsa-mir-3085 ggo|miRviewer:ggo-mir-3085 ppy|miRviewer:ppy-mir-3085 mml|miRviewer:mml-mir-3085 laf|miRviewer:laf-mir-3085
+mmu|miRviewer:mmu-mir-3086
+mmu|miRviewer:mmu-mir-3087
+mmu|miRviewer:mmu-mir-3080
+mmu|miRviewer:mmu-mir-3081
+mmu|miRviewer:mmu-mir-3082
+mmu|miRviewer:mmu-mir-3083
+mmu|miRviewer:mmu-mir-3088
+mmu|miRviewer:mmu-mir-3089
+hsa|miRviewer:hsa-let-7a-1 ptr|miRviewer:ptr-let-7a-1 ppy|miRviewer:ppy-let-7a-1 mml|miRviewer:mml-let-7a-1 bta|miRviewer:bta-let-7a-1
+hsa|miRviewer:hsa-let-7a-2 ptr|miRviewer:ptr-let-7a-2 ppy|miRviewer:ppy-let-7a-2 bta|miRviewer:bta-let-7a-2 mdo|miRviewer:mdo-let-7a-2
+mmr|miRviewer:mmr-let-7a-3
+ptr|miRviewer:ptr-let-7b ppy|miRviewer:ppy-let-7b mml|miRviewer:mml-let-7b
+hsa|miRviewer:hsa-let-7c ptr|miRviewer:ptr-let-7c ppy|miRviewer:ppy-let-7c mml|miRviewer:mml-let-7c tbe|miRviewer:tbe-let-7c str|miRviewer:str-let-7c bta|miRviewer:bta-let-7c ttr|miRviewer:ttr-let-7c vpa|miRviewer:vpa-let-7c cfa|miRviewer:cfa-let-7c eca|miRviewer:eca-let-7c eeu|miRviewer:eeu-let-7c sar|miRviewer:sar-let-7c cho|miRviewer:cho-let-7c gga|miRviewer:gga-let-7c
+hsa|miRviewer:hsa-let-7d ptr|miRviewer:ptr-let-7d ppy|miRviewer:ppy-let-7d mml|miRviewer:mml-let-7d
+hsa|miRviewer:hsa-let-7e ptr|miRviewer:ptr-let-7e ppy|miRviewer:ppy-let-7e mml|miRviewer:mml-let-7e bta|miRviewer:bta-let-7e
+hsa|miRviewer:hsa-let-7f-1 ptr|miRviewer:ptr-let-7f-1 ppy|miRviewer:ppy-let-7f-1 mml|miRviewer:mml-let-7f-1 bta|miRviewer:bta-let-7f-1 mdo|miRviewer:mdo-let-7f-1
+hsa|miRviewer:hsa-let-7f-2 ptr|miRviewer:ptr-let-7f-2 ppy|miRviewer:ppy-let-7f-2 mml|miRviewer:mml-let-7f-2 mmu|miRviewer:mmu-let-7f-2 rno|miRviewer:rno-let-7f-2 bta|miRviewer:bta-let-7f-2
+hsa|miRviewer:hsa-let-7g ptr|miRviewer:ptr-let-7g ppy|miRviewer:ppy-let-7g mml|miRviewer:mml-let-7g mmu|miRviewer:mmu-let-7g bta|miRviewer:bta-let-7g ssc|miRviewer:ssc-let-7g cfa|miRviewer:cfa-let-7g eca|miRviewer:eca-let-7g mdo|miRviewer:mdo-let-7g gga|miRviewer:gga-let-7g
+hsa|miRviewer:hsa-let-7i ptr|miRviewer:ptr-let-7i ppy|miRviewer:ppy-let-7i mml|miRviewer:mml-let-7i mmu|miRviewer:mmu-let-7i rno|miRviewer:rno-let-7i bta|miRviewer:bta-let-7i ssc|miRviewer:ssc-let-7i mdo|miRviewer:mdo-let-7i gga|miRviewer:gga-let-7i tgu|miRviewer:tgu-let-7i
+mmu|miRviewer:mmu-let-7c-1 rno|miRviewer:rno-let-7c-1 tgu|miRviewer:tgu-let-7c-1
+gga|miRviewer:gga-let-7k
+tgu|miRviewer:tgu-let-7a-4
+tgu|miRviewer:tgu-let-7g-1
+tgu|miRviewer:tgu-let-7g-2
+xtr|miRviewer:xtr-let-7e-1
+xtr|miRviewer:xtr-let-7e-2
+dre|miRviewer:dre-let-7a-5
+dre|miRviewer:dre-let-7a-6
+dre|miRviewer:dre-let-7d-1
+dre|miRviewer:dre-let-7d-2
+dre|miRviewer:dre-let-7h
+rno|miRviewer:rno-mir-3558
+rno|miRviewer:rno-mir-3559
+rno|miRviewer:rno-mir-3553
+rno|miRviewer:rno-mir-3550
+rno|miRviewer:rno-mir-3551
+hsa|miRviewer:hsa-mir-3556b ggo|miRviewer:ggo-mir-3556b ppy|miRviewer:ppy-mir-3556b mml|miRviewer:mml-mir-3556b cja|miRviewer:cja-mir-3556b tsy|miRviewer:tsy-mir-3556b mmr|miRviewer:mmr-mir-3556b
+rno|miRviewer:rno-mir-3556a
+ocu|miRviewer:ocu-mir-3557 cfa|miRviewer:cfa-mir-3557 fca|miRviewer:fca-mir-3557 cho|miRviewer:cho-mir-3557 ete|miRviewer:ete-mir-3557 pca|miRviewer:pca-mir-3557
+tsy|miRviewer:tsy-mir-3554 mmr|miRviewer:mmr-mir-3554
+rno|miRviewer:rno-mir-3555
+ssc|miRviewer:ssc-mir-4337
+ssc|miRviewer:ssc-mir-4336
+ssc|miRviewer:ssc-mir-4335
+ssc|miRviewer:ssc-mir-4334
+ssc|miRviewer:ssc-mir-4333
+ssc|miRviewer:ssc-mir-4332
+ssc|miRviewer:ssc-mir-4331
+hsa|miRviewer:hsa-mir-4330 ggo|miRviewer:ggo-mir-4330
+ssc|miRviewer:ssc-mir-4339
+ssc|miRviewer:ssc-mir-4338
+ppy|miRviewer:ppy-mir-1178
+dor|miRviewer:dor-mir-182
+cja|miRviewer:cja-mir-188 oga|miRviewer:oga-mir-188 dor|miRviewer:dor-mir-188 bta|miRviewer:bta-mir-188 ttr|miRviewer:ttr-mir-188 eca|miRviewer:eca-mir-188
+hsa|miRviewer:hsa-mir-1323 ptr|miRviewer:ptr-mir-1323 ggo|miRviewer:ggo-mir-1323 ppy|miRviewer:ppy-mir-1323
+hsa|miRviewer:hsa-mir-1322 ptr|miRviewer:ptr-mir-1322
+hsa|miRviewer:hsa-mir-1321
+oan|miRviewer:oan-mir-1327
+oan|miRviewer:oan-mir-1326
+cin|miRviewer:cin-mir-1497
+hsa|miRviewer:hsa-mir-1324 ptr|miRviewer:ptr-mir-1324 ggo|miRviewer:ggo-mir-1324
+hsa|miRviewer:hsa-mir-1324-1 ptr|miRviewer:ptr-mir-1324-1
+ptr|miRviewer:ptr-mir-1324-2
+oan|miRviewer:oan-mir-1328
+ggo|miRviewer:ggo-mir-152 oga|miRviewer:oga-mir-152 dor|miRviewer:dor-mir-152 ocu|miRviewer:ocu-mir-152 ttr|miRviewer:ttr-mir-152 cfa|miRviewer:cfa-mir-152
+hsa|miRviewer:hsa-mir-153-1 ggo|miRviewer:ggo-mir-153-1 ppy|miRviewer:ppy-mir-153-1 mml|miRviewer:mml-mir-153-1 laf|miRviewer:laf-mir-153-1 pca|miRviewer:pca-mir-153-1
+hsa|miRviewer:hsa-mir-153-2 ppy|miRviewer:ppy-mir-153-2 mml|miRviewer:mml-mir-153-2 cja|miRviewer:cja-mir-153-2 tsy|miRviewer:tsy-mir-153-2 mmr|miRviewer:mmr-mir-153-2 oga|miRviewer:oga-mir-153-2 cpo|miRviewer:cpo-mir-153-2 rno|miRviewer:rno-mir-153-2 str|miRviewer:str-mir-153-2 ocu|miRviewer:ocu-mir-153-2 bta|miRviewer:bta-mir-153-2 ttr|miRviewer:ttr-mir-153-2 pva|miRviewer:pva-mir-153-2 cho|miRviewer:cho-mir-153-2
+eca|miRviewer:eca-mir-153 gga|miRviewer:gga-mir-153 mga|miRviewer:mga-mir-153 tgu|miRviewer:tgu-mir-153 gac|miRviewer:gac-mir-153 ola|miRviewer:ola-mir-153 tru|miRviewer:tru-mir-153
+dre|miRviewer:dre-mir-153b
+dre|miRviewer:dre-mir-153a
+dre|miRviewer:dre-mir-153c
+hsa|miRviewer:hsa-mir-151 ptr|miRviewer:ptr-mir-151 ggo|miRviewer:ggo-mir-151 ppy|miRviewer:ppy-mir-151 mml|miRviewer:mml-mir-151 ocu|miRviewer:ocu-mir-151 eca|miRviewer:eca-mir-151 mlu|miRviewer:mlu-mir-151 pva|miRviewer:pva-mir-151
+hsa|miRviewer:hsa-mir-154 ptr|miRviewer:ptr-mir-154 ggo|miRviewer:ggo-mir-154 ppy|miRviewer:ppy-mir-154 tbe|miRviewer:tbe-mir-154
+tsy|miRviewer:tsy-mir-155 cfa|miRviewer:cfa-mir-155 fca|miRviewer:fca-mir-155 mlu|miRviewer:mlu-mir-155 pva|miRviewer:pva-mir-155
+mmu|miRviewer:mmu-mir-1929
+mmu|miRviewer:mmu-mir-1928
+mmu|miRviewer:mmu-mir-1927
+hsa|miRviewer:hsa-mir-556 ptr|miRviewer:ptr-mir-556 ggo|miRviewer:ggo-mir-556
+hsa|miRviewer:hsa-mir-557
+hsa|miRviewer:hsa-mir-554 ptr|miRviewer:ptr-mir-554 ggo|miRviewer:ggo-mir-554
+hsa|miRviewer:hsa-mir-555 ptr|miRviewer:ptr-mir-555 ggo|miRviewer:ggo-mir-555
+hsa|miRviewer:hsa-mir-552 ptr|miRviewer:ptr-mir-552
+hsa|miRviewer:hsa-mir-553 ptr|miRviewer:ptr-mir-553
+hsa|miRviewer:hsa-mir-550a-1
+hsa|miRviewer:hsa-mir-550a-2
+hsa|miRviewer:hsa-mir-550b-1
+hsa|miRviewer:hsa-mir-550b-2
+hsa|miRviewer:hsa-mir-550
+ptr|miRviewer:ptr-mir-550-1
+ptr|miRviewer:ptr-mir-550-2
+ptr|miRviewer:ptr-mir-550-3
+ptr|miRviewer:ptr-mir-551a ggo|miRviewer:ggo-mir-551a ppy|miRviewer:ppy-mir-551a
+mmr|miRviewer:mmr-mir-551b tbe|miRviewer:tbe-mir-551b dor|miRviewer:dor-mir-551b vpa|miRviewer:vpa-mir-551b
+hsa|miRviewer:hsa-mir-558
+ptr|miRviewer:ptr-mir-559
+bta|miRviewer:bta-mir-2366
+bta|miRviewer:bta-mir-2367
+bta|miRviewer:bta-mir-2364
+bta|miRviewer:bta-mir-2365
+bta|miRviewer:bta-mir-2362
+bta|miRviewer:bta-mir-2363-1
+bta|miRviewer:bta-mir-2363-2
+bta|miRviewer:bta-mir-2360
+bta|miRviewer:bta-mir-2361
+bta|miRviewer:bta-mir-1814a
+bta|miRviewer:bta-mir-1814b
+bta|miRviewer:bta-mir-1814c
+gga|miRviewer:gga-mir-1814
+gga|miRviewer:gga-mir-1811
+bta|miRviewer:bta-mir-2368
+bta|miRviewer:bta-mir-2369
+mmu|miRviewer:mmu-mir-880
+mmu|miRviewer:mmu-mir-881
+ggo|miRviewer:ggo-mir-330 cja|miRviewer:cja-mir-330 oga|miRviewer:oga-mir-330 cfa|miRviewer:cfa-mir-330 fca|miRviewer:fca-mir-330
+ggo|miRviewer:ggo-mir-331 mml|miRviewer:mml-mir-331 oga|miRviewer:oga-mir-331 tbe|miRviewer:tbe-mir-331 dor|miRviewer:dor-mir-331 str|miRviewer:str-mir-331 ocu|miRviewer:ocu-mir-331 bta|miRviewer:bta-mir-331 vpa|miRviewer:vpa-mir-331 ssc|miRviewer:ssc-mir-331 cfa|miRviewer:cfa-mir-331 mlu|miRviewer:mlu-mir-331 pva|miRviewer:pva-mir-331 cho|miRviewer:cho-mir-331 ete|miRviewer:ete-mir-331 laf|miRviewer:laf-mir-331
+rno|miRviewer:rno-mir-336
+hsa|miRviewer:hsa-mir-885 ptr|miRviewer:ptr-mir-885 ggo|miRviewer:ggo-mir-885 ppy|miRviewer:ppy-mir-885 mml|miRviewer:mml-mir-885 tsy|miRviewer:tsy-mir-885 mmr|miRviewer:mmr-mir-885 ocu|miRviewer:ocu-mir-885
+mmr|miRviewer:mmr-mir-335 oga|miRviewer:oga-mir-335 cpo|miRviewer:cpo-mir-335 dor|miRviewer:dor-mir-335 ttr|miRviewer:ttr-mir-335 ssc|miRviewer:ssc-mir-335 cfa|miRviewer:cfa-mir-335 mlu|miRviewer:mlu-mir-335 pva|miRviewer:pva-mir-335
+hsa|miRviewer:hsa-mir-888
+hsa|miRviewer:hsa-mir-889 ptr|miRviewer:ptr-mir-889 ppy|miRviewer:ppy-mir-889 mml|miRviewer:mml-mir-889
+bta|miRviewer:bta-mir-338 ssc|miRviewer:ssc-mir-338 eca|miRviewer:eca-mir-338 pva|miRviewer:pva-mir-338
+xtr|miRviewer:xtr-mir-338-2
+xtr|miRviewer:xtr-mir-338-3
+dre|miRviewer:dre-mir-338-4
+bta|miRviewer:bta-mir-339b
+hsa|miRviewer:hsa-mir-3941
+ggo|miRviewer:ggo-mir-3940
+hsa|miRviewer:hsa-mir-3943 ggo|miRviewer:ggo-mir-3943 ppy|miRviewer:ppy-mir-3943
+hsa|miRviewer:hsa-mir-3942
+hsa|miRviewer:hsa-mir-3945
+hsa|miRviewer:hsa-mir-3944
+hsa|miRviewer:hsa-mir-15a ptr|miRviewer:ptr-mir-15a ggo|miRviewer:ggo-mir-15a ppy|miRviewer:ppy-mir-15a mml|miRviewer:mml-mir-15a cja|miRviewer:cja-mir-15a tsy|miRviewer:tsy-mir-15a mmr|miRviewer:mmr-mir-15a oga|miRviewer:oga-mir-15a tbe|miRviewer:tbe-mir-15a cpo|miRviewer:cpo-mir-15a dor|miRviewer:dor-mir-15a opr|miRviewer:opr-mir-15a bta|miRviewer:bta-mir-15a ttr|miRviewer:ttr-mir-15a ssc|miRviewer:ssc-mir-15a cfa|miRviewer:cfa-mir-15a eca|miRviewer:eca-mir-15a cho|miRviewer:cho-mir-15a pca|miRviewer:pca-mir-15a
+mml|miRviewer:mml-mir-15b mmu|miRviewer:mmu-mir-15b cfa|miRviewer:cfa-mir-15b fca|miRviewer:fca-mir-15b eca|miRviewer:eca-mir-15b pva|miRviewer:pva-mir-15b
+gga|miRviewer:gga-mir-15c
+dre|miRviewer:dre-mir-15a-1
+dre|miRviewer:dre-mir-15a-2
+cin|miRviewer:cin-mir-15
+hsa|miRviewer:hsa-mir-16-1 ptr|miRviewer:ptr-mir-16-1 ggo|miRviewer:ggo-mir-16-1 ppy|miRviewer:ppy-mir-16-1 mml|miRviewer:mml-mir-16-1 cja|miRviewer:cja-mir-16-1 tsy|miRviewer:tsy-mir-16-1 oga|miRviewer:oga-mir-16-1 cfa|miRviewer:cfa-mir-16-1
+rno|miRviewer:rno-mir-16-2
+ggo|miRviewer:ggo-mir-16 ppy|miRviewer:ppy-mir-16
+hsa|miRviewer:hsa-mir-17 ptr|miRviewer:ptr-mir-17 ggo|miRviewer:ggo-mir-17 mml|miRviewer:mml-mir-17 cja|miRviewer:cja-mir-17 tsy|miRviewer:tsy-mir-17 mmr|miRviewer:mmr-mir-17 oga|miRviewer:oga-mir-17 tbe|miRviewer:tbe-mir-17 cpo|miRviewer:cpo-mir-17 dor|miRviewer:dor-mir-17 str|miRviewer:str-mir-17 ocu|miRviewer:ocu-mir-17 bta|miRviewer:bta-mir-17 ttr|miRviewer:ttr-mir-17 vpa|miRviewer:vpa-mir-17 ssc|miRviewer:ssc-mir-17 cfa|miRviewer:cfa-mir-17 fca|miRviewer:fca-mir-17 eca|miRviewer:eca-mir-17 pva|miRviewer:pva-mir-17 eeu|miRviewer:eeu-mir-17 sar|miRviewer:sar-mir-17
+ptr|miRviewer:ptr-mir-17-2 mml|miRviewer:mml-mir-17-2
+rno|miRviewer:rno-mir-17-1
+tgu|miRviewer:tgu-mir-17a
+dre|miRviewer:dre-mir-17a-1
+dre|miRviewer:dre-mir-17a-2
+hsa|miRviewer:hsa-mir-10a ptr|miRviewer:ptr-mir-10a ggo|miRviewer:ggo-mir-10a mml|miRviewer:mml-mir-10a cja|miRviewer:cja-mir-10a tsy|miRviewer:tsy-mir-10a mmr|miRviewer:mmr-mir-10a oga|miRviewer:oga-mir-10a tbe|miRviewer:tbe-mir-10a opr|miRviewer:opr-mir-10a ocu|miRviewer:ocu-mir-10a ssc|miRviewer:ssc-mir-10a fca|miRviewer:fca-mir-10a pva|miRviewer:pva-mir-10a cho|miRviewer:cho-mir-10a mdo|miRviewer:mdo-mir-10a
+dor|miRviewer:dor-mir-10b str|miRviewer:str-mir-10b ssc|miRviewer:ssc-mir-10b cfa|miRviewer:cfa-mir-10b eca|miRviewer:eca-mir-10b mlu|miRviewer:mlu-mir-10b
+cfa|miRviewer:cfa-mir-10
+dre|miRviewer:dre-mir-10b-1
+dre|miRviewer:dre-mir-10b-2
+dre|miRviewer:dre-mir-10d
+mmu|miRviewer:mmu-mir-2145-2
+hsa|miRviewer:hsa-mir-3163 ggo|miRviewer:ggo-mir-3163
+hsa|miRviewer:hsa-mir-3162
+hsa|miRviewer:hsa-mir-3161
+hsa|miRviewer:hsa-mir-3160-1
+hsa|miRviewer:hsa-mir-3160-2
+hsa|miRviewer:hsa-mir-3166
+hsa|miRviewer:hsa-mir-3165 ggo|miRviewer:ggo-mir-3165
+hsa|miRviewer:hsa-mir-3164
+hsa|miRviewer:hsa-mir-3169
+hsa|miRviewer:hsa-mir-3168 ggo|miRviewer:ggo-mir-3168 ppy|miRviewer:ppy-mir-3168
+dre|miRviewer:dre-mir-429b
+mmr|miRviewer:mmr-mir-425 tbe|miRviewer:tbe-mir-425 bta|miRviewer:bta-mir-425 ttr|miRviewer:ttr-mir-425 cfa|miRviewer:cfa-mir-425 fca|miRviewer:fca-mir-425 pva|miRviewer:pva-mir-425 ete|miRviewer:ete-mir-425 laf|miRviewer:laf-mir-425
+hsa|miRviewer:hsa-mir-422a ptr|miRviewer:ptr-mir-422a
+ptr|miRviewer:ptr-mir-423 ggo|miRviewer:ggo-mir-423 ppy|miRviewer:ppy-mir-423 mml|miRviewer:mml-mir-423 cja|miRviewer:cja-mir-423 tsy|miRviewer:tsy-mir-423 oga|miRviewer:oga-mir-423 tbe|miRviewer:tbe-mir-423 cpo|miRviewer:cpo-mir-423 dor|miRviewer:dor-mir-423 mmu|miRviewer:mmu-mir-423 rno|miRviewer:rno-mir-423 ocu|miRviewer:ocu-mir-423 bta|miRviewer:bta-mir-423 vpa|miRviewer:vpa-mir-423 ssc|miRviewer:ssc-mir-423 cfa|miRviewer:cfa-mir-423 eca|miRviewer:eca-mir-423 mlu|miRviewer:mlu-mir-423 pva|miRviewer:pva-mir-423 eeu|miRviewer:eeu-mir-423 ete|miRviewer:ete-mir-423 laf|miRviewer:laf-mir-423
+cfa|miRviewer:cfa-mir-423a
+hsa|miRviewer:hsa-mir-421 ptr|miRviewer:ptr-mir-421 ggo|miRviewer:ggo-mir-421 mml|miRviewer:mml-mir-421 cja|miRviewer:cja-mir-421 tsy|miRviewer:tsy-mir-421 tbe|miRviewer:tbe-mir-421 mmu|miRviewer:mmu-mir-421 ocu|miRviewer:ocu-mir-421 bta|miRviewer:bta-mir-421 ttr|miRviewer:ttr-mir-421 vpa|miRviewer:vpa-mir-421 ssc|miRviewer:ssc-mir-421 cfa|miRviewer:cfa-mir-421 fca|miRviewer:fca-mir-421 eca|miRviewer:eca-mir-421 pva|miRviewer:pva-mir-421 sar|miRviewer:sar-mir-421 laf|miRviewer:laf-mir-421
+mmu|miRviewer:mmu-mir-3097
+mmu|miRviewer:mmu-mir-3096
+mmu|miRviewer:mmu-mir-3095
+mmu|miRviewer:mmu-mir-3094
+mmu|miRviewer:mmu-mir-3093
+mmu|miRviewer:mmu-mir-3092
+mmu|miRviewer:mmu-mir-3091
+mmu|miRviewer:mmu-mir-3099
+mmu|miRviewer:mmu-mir-3098
+rno|miRviewer:rno-mir-3549
+pva|miRviewer:pva-mir-3548
+hsa|miRviewer:hsa-mir-3545 mmr|miRviewer:mmr-mir-3545
+hsa|miRviewer:hsa-mir-3544 ggo|miRviewer:ggo-mir-3544 ppy|miRviewer:ppy-mir-3544 cja|miRviewer:cja-mir-3544
+rno|miRviewer:rno-mir-3547
+hsa|miRviewer:hsa-mir-3546 ggo|miRviewer:ggo-mir-3546 cja|miRviewer:cja-mir-3546 bta|miRviewer:bta-mir-3546 ssc|miRviewer:ssc-mir-3546 pva|miRviewer:pva-mir-3546
+rno|miRviewer:rno-mir-3541
+rno|miRviewer:rno-mir-3543
+rno|miRviewer:rno-mir-3542
+hsa|miRviewer:hsa-mir-4308
+hsa|miRviewer:hsa-mir-4309 ggo|miRviewer:ggo-mir-4309
+hsa|miRviewer:hsa-mir-4302
+hsa|miRviewer:hsa-mir-4303 ggo|miRviewer:ggo-mir-4303 ppy|miRviewer:ppy-mir-4303
+hsa|miRviewer:hsa-mir-4300
+hsa|miRviewer:hsa-mir-4301
+hsa|miRviewer:hsa-mir-4306
+hsa|miRviewer:hsa-mir-4307
+hsa|miRviewer:hsa-mir-4304
+hsa|miRviewer:hsa-mir-4305 ggo|miRviewer:ggo-mir-4305
+bta|miRviewer:bta-mir-3432-1
+bta|miRviewer:bta-mir-3432-2
+oan|miRviewer:oan-mir-1342
+cin|miRviewer:cin-mir-4018a
+cin|miRviewer:cin-mir-4018b
+gga|miRviewer:gga-mir-1791
+gga|miRviewer:gga-mir-1797
+gga|miRviewer:gga-mir-1794
+gga|miRviewer:gga-mir-1551
+gga|miRviewer:gga-mir-1552
+gga|miRviewer:gga-mir-1553
+gga|miRviewer:gga-mir-1554
+gga|miRviewer:gga-mir-1555
+gga|miRviewer:gga-mir-1556
+gga|miRviewer:gga-mir-1557
+gga|miRviewer:gga-mir-1558
+gga|miRviewer:gga-mir-1559
+gga|miRviewer:gga-mir-1778
+mmu|miRviewer:mmu-mir-1958
+mmu|miRviewer:mmu-mir-1959
+gga|miRviewer:gga-mir-1770
+ppy|miRviewer:ppy-mir-1956 mml|miRviewer:mml-mir-1956 cja|miRviewer:cja-mir-1956 fca|miRviewer:fca-mir-1956
+mmu|miRviewer:mmu-mir-1950
+mmu|miRviewer:mmu-mir-1951
+gga|miRviewer:gga-mir-1776
+bta|miRviewer:bta-mir-1777a
+gga|miRviewer:gga-mir-1777
+hsa|miRviewer:hsa-mir-523 ptr|miRviewer:ptr-mir-523 ggo|miRviewer:ggo-mir-523
+hsa|miRviewer:hsa-mir-523b
+mml|miRviewer:mml-mir-523a
+hsa|miRviewer:hsa-mir-522 ptr|miRviewer:ptr-mir-522 ggo|miRviewer:ggo-mir-522
+ppy|miRviewer:ppy-mir-521-2
+hsa|miRviewer:hsa-mir-521-1 ptr|miRviewer:ptr-mir-521-1
+hsa|miRviewer:hsa-mir-521
+hsa|miRviewer:hsa-mir-520e ptr|miRviewer:ptr-mir-520e
+hsa|miRviewer:hsa-mir-520f ptr|miRviewer:ptr-mir-520f
+hsa|miRviewer:hsa-mir-520a ppy|miRviewer:ppy-mir-520a
+hsa|miRviewer:hsa-mir-520b ptr|miRviewer:ptr-mir-520b
+hsa|miRviewer:hsa-mir-520c ptr|miRviewer:ptr-mir-520c
+ptr|miRviewer:ptr-mir-520d
+hsa|miRviewer:hsa-mir-520g
+hsa|miRviewer:hsa-mir-527
+ptr|miRviewer:ptr-mir-526b
+hsa|miRviewer:hsa-mir-526a-1 ptr|miRviewer:ptr-mir-526a-1
+hsa|miRviewer:hsa-mir-526a-2 ptr|miRviewer:ptr-mir-526a-2
+hsa|miRviewer:hsa-mir-525 ggo|miRviewer:ggo-mir-525
+hsa|miRviewer:hsa-mir-524 ptr|miRviewer:ptr-mir-524 ggo|miRviewer:ggo-mir-524
+bta|miRviewer:bta-mir-2379
+bta|miRviewer:bta-mir-2378
+bta|miRviewer:bta-mir-2371
+bta|miRviewer:bta-mir-2370
+bta|miRviewer:bta-mir-2373
+bta|miRviewer:bta-mir-2372
+bta|miRviewer:bta-mir-2375
+bta|miRviewer:bta-mir-2374
+bta|miRviewer:bta-mir-2377
+bta|miRviewer:bta-mir-2376
+hsa|miRviewer:hsa-mir-181b-1 ptr|miRviewer:ptr-mir-181b-1 cfa|miRviewer:cfa-mir-181b-1
+hsa|miRviewer:hsa-mir-181c ptr|miRviewer:ptr-mir-181c ggo|miRviewer:ggo-mir-181c cfa|miRviewer:cfa-mir-181c
+hsa|miRviewer:hsa-mir-181a-1 ptr|miRviewer:ptr-mir-181a-1 ppy|miRviewer:ppy-mir-181a-1 mml|miRviewer:mml-mir-181a-1 cfa|miRviewer:cfa-mir-181a-1
+hsa|miRviewer:hsa-mir-181b-2 ssc|miRviewer:ssc-mir-181b-2 cfa|miRviewer:cfa-mir-181b-2
+cin|miRviewer:cin-mir-181
+tsy|miRviewer:tsy-mir-183 dor|miRviewer:dor-mir-183 ocu|miRviewer:ocu-mir-183 bta|miRviewer:bta-mir-183 vpa|miRviewer:vpa-mir-183 ssc|miRviewer:ssc-mir-183 cfa|miRviewer:cfa-mir-183 fca|miRviewer:fca-mir-183 eca|miRviewer:eca-mir-183 mlu|miRviewer:mlu-mir-183
+hsa|miRviewer:hsa-mir-1179 ptr|miRviewer:ptr-mir-1179 ggo|miRviewer:ggo-mir-1179 mml|miRviewer:mml-mir-1179
+hsa|miRviewer:hsa-mir-185 ptr|miRviewer:ptr-mir-185 ggo|miRviewer:ggo-mir-185 ppy|miRviewer:ppy-mir-185 cja|miRviewer:cja-mir-185 oga|miRviewer:oga-mir-185 dor|miRviewer:dor-mir-185 mmu|miRviewer:mmu-mir-185 cfa|miRviewer:cfa-mir-185 fca|miRviewer:fca-mir-185 mlu|miRviewer:mlu-mir-185
+cfa|miRviewer:cfa-mir-184
+dre|miRviewer:dre-mir-184-2
+hsa|miRviewer:hsa-mir-187 ggo|miRviewer:ggo-mir-187 cja|miRviewer:cja-mir-187 mmr|miRviewer:mmr-mir-187 ocu|miRviewer:ocu-mir-187
+ttr|miRviewer:ttr-mir-186 vpa|miRviewer:vpa-mir-186 cfa|miRviewer:cfa-mir-186 eca|miRviewer:eca-mir-186 cho|miRviewer:cho-mir-186 laf|miRviewer:laf-mir-186 pca|miRviewer:pca-mir-186
+hsa|miRviewer:hsa-mir-637
+ppy|miRviewer:ppy-mir-636 mml|miRviewer:mml-mir-636
+hsa|miRviewer:hsa-mir-635 ptr|miRviewer:ptr-mir-635
+hsa|miRviewer:hsa-mir-634 ptr|miRviewer:ptr-mir-634 ggo|miRviewer:ggo-mir-634
+ptr|miRviewer:ptr-mir-630
+hsa|miRviewer:hsa-mir-3934
+hsa|miRviewer:hsa-mir-3935 ggo|miRviewer:ggo-mir-3935
+hsa|miRviewer:hsa-mir-3936
+hsa|miRviewer:hsa-mir-3937
+ggo|miRviewer:ggo-mir-3938
+hsa|miRviewer:hsa-mir-3939
+hsa|miRviewer:hsa-mir-3156-1 ggo|miRviewer:ggo-mir-3156-1
+hsa|miRviewer:hsa-mir-3156-2
+hsa|miRviewer:hsa-mir-3156-3
+hsa|miRviewer:hsa-mir-3157 ggo|miRviewer:ggo-mir-3157
+ggo|miRviewer:ggo-mir-3155
+ggo|miRviewer:ggo-mir-3152
+hsa|miRviewer:hsa-mir-3153
+hsa|miRviewer:hsa-mir-3150 ggo|miRviewer:ggo-mir-3150
+hsa|miRviewer:hsa-mir-3150b
+hsa|miRviewer:hsa-mir-3158-2
+hsa|miRviewer:hsa-mir-3159
+ptr|miRviewer:ptr-mir-453 ppy|miRviewer:ppy-mir-453
+hsa|miRviewer:hsa-mir-452 ptr|miRviewer:ptr-mir-452 ggo|miRviewer:ggo-mir-452 ppy|miRviewer:ppy-mir-452 mml|miRviewer:mml-mir-452 oga|miRviewer:oga-mir-452 ocu|miRviewer:ocu-mir-452
+mmr|miRviewer:mmr-mir-451 tbe|miRviewer:tbe-mir-451 fca|miRviewer:fca-mir-451 mlu|miRviewer:mlu-mir-451
+eca|miRviewer:eca-mir-451a
+hsa|miRviewer:hsa-mir-450a-2 ptr|miRviewer:ptr-mir-450a-2 mml|miRviewer:mml-mir-450a-2
+hsa|miRviewer:hsa-mir-450b ptr|miRviewer:ptr-mir-450b ppy|miRviewer:ppy-mir-450b
+str|miRviewer:str-mir-450c
+bta|miRviewer:bta-mir-450
+bta|miRviewer:bta-mir-450-1
+dre|miRviewer:dre-mir-457a
+dre|miRviewer:dre-mir-457b
+gga|miRviewer:gga-mir-456 mga|miRviewer:mga-mir-456
+hsa|miRviewer:hsa-mir-455 ptr|miRviewer:ptr-mir-455 ggo|miRviewer:ggo-mir-455 ppy|miRviewer:ppy-mir-455 mml|miRviewer:mml-mir-455 cja|miRviewer:cja-mir-455 mmr|miRviewer:mmr-mir-455 oga|miRviewer:oga-mir-455 cpo|miRviewer:cpo-mir-455 opr|miRviewer:opr-mir-455 ocu|miRviewer:ocu-mir-455 bta|miRviewer:bta-mir-455 ttr|miRviewer:ttr-mir-455 vpa|miRviewer:vpa-mir-455 ssc|miRviewer:ssc-mir-455 cfa|miRviewer:cfa-mir-455 fca|miRviewer:fca-mir-455 mlu|miRviewer:mlu-mir-455 pva|miRviewer:pva-mir-455 ete|miRviewer:ete-mir-455 laf|miRviewer:laf-mir-455 pca|miRviewer:pca-mir-455
+cho|miRviewer:cho-mir-455b
+ttr|miRviewer:ttr-mir-454a
+bta|miRviewer:bta-mir-2458
+hsa|miRviewer:hsa-mir-3202-1
+hsa|miRviewer:hsa-mir-3202-2
+hsa|miRviewer:hsa-mir-3201
+ete|miRviewer:ete-mir-TAR
+bta|miRviewer:bta-mir-2456
+mmu|miRviewer:mmu-mir-3109
+bta|miRviewer:bta-mir-2451
+hsa|miRviewer:hsa-mir-4319
+hsa|miRviewer:hsa-mir-4318
+hsa|miRviewer:hsa-mir-4315-1
+hsa|miRviewer:hsa-mir-4315-2
+hsa|miRviewer:hsa-mir-4314
+hsa|miRviewer:hsa-mir-4317
+hsa|miRviewer:hsa-mir-4316
+ppy|miRviewer:ppy-mir-4311
+hsa|miRviewer:hsa-mir-4310
+hsa|miRviewer:hsa-mir-4313 ggo|miRviewer:ggo-mir-4313
+hsa|miRviewer:hsa-mir-4312
+hsa|miRviewer:hsa-mir-324 ptr|miRviewer:ptr-mir-324 ggo|miRviewer:ggo-mir-324 ppy|miRviewer:ppy-mir-324 mml|miRviewer:mml-mir-324 cja|miRviewer:cja-mir-324 tsy|miRviewer:tsy-mir-324 mmr|miRviewer:mmr-mir-324 oga|miRviewer:oga-mir-324 str|miRviewer:str-mir-324 ttr|miRviewer:ttr-mir-324 eca|miRviewer:eca-mir-324 mlu|miRviewer:mlu-mir-324 pva|miRviewer:pva-mir-324
+ggo|miRviewer:ggo-mir-891a ppy|miRviewer:ppy-mir-891a
+hsa|miRviewer:hsa-mir-891b ppy|miRviewer:ppy-mir-891b
+mml|miRviewer:mml-mir-891
+oga|miRviewer:oga-mir-326
+gga|miRviewer:gga-mir-1787
+mga|miRviewer:mga-mir-1781
+mdo|miRviewer:mdo-mir-1543
+meu|miRviewer:meu-mir-1542-2
+mdo|miRviewer:mdo-mir-1542-1
+mdo|miRviewer:mdo-mir-1541
+meu|miRviewer:meu-mir-1540 mdo|miRviewer:mdo-mir-1540
+meu|miRviewer:meu-mir-1547
+meu|miRviewer:meu-mir-1546 mdo|miRviewer:mdo-mir-1546
+mdo|miRviewer:mdo-mir-1545
+mdo|miRviewer:mdo-mir-1544
+mdo|miRviewer:mdo-mir-1549
+meu|miRviewer:meu-mir-1548 mdo|miRviewer:mdo-mir-1548
+bta|miRviewer:bta-mir-2894
+bta|miRviewer:bta-mir-2895
+gga|miRviewer:gga-mir-1769 mga|miRviewer:mga-mir-1769
+gga|miRviewer:gga-mir-1768
+bta|miRviewer:bta-mir-2890
+bta|miRviewer:bta-mir-2891
+mmu|miRviewer:mmu-mir-1949
+mmu|miRviewer:mmu-mir-1948
+mmu|miRviewer:mmu-mir-1947
+mmu|miRviewer:mmu-mir-1946a
+mmu|miRviewer:mmu-mir-1946b
+mmu|miRviewer:mmu-mir-1945
+mmu|miRviewer:mmu-mir-1944
+mmu|miRviewer:mmu-mir-1943
+mmu|miRviewer:mmu-mir-1942
+mmu|miRviewer:mmu-mir-1941
+mmu|miRviewer:mmu-mir-1940
+mmr|miRviewer:mmr-mir-532
+hsa|miRviewer:hsa-mir-1301 ppy|miRviewer:ppy-mir-1301
+hsa|miRviewer:hsa-mir-1303 ptr|miRviewer:ptr-mir-1303
+hsa|miRviewer:hsa-mir-1302-1 ptr|miRviewer:ptr-mir-1302-1 ggo|miRviewer:ggo-mir-1302-1
+hsa|miRviewer:hsa-mir-1302-3
+hsa|miRviewer:hsa-mir-1302-6 ptr|miRviewer:ptr-mir-1302-6
+hsa|miRviewer:hsa-mir-1302-7
+hsa|miRviewer:hsa-mir-1302-8 ptr|miRviewer:ptr-mir-1302-8
+hsa|miRviewer:hsa-mir-1302-9
+hsa|miRviewer:hsa-mir-1302-10
+hsa|miRviewer:hsa-mir-1302-11
+eca|miRviewer:eca-mir-1302b-2
+eca|miRviewer:eca-mir-1302d-4
+eca|miRviewer:eca-mir-1302c-5
+eca|miRviewer:eca-mir-1302e-6
+eca|miRviewer:eca-mir-1302e-7
+hsa|miRviewer:hsa-mir-1305
+hsa|miRviewer:hsa-mir-1304
+hsa|miRviewer:hsa-mir-1307 ptr|miRviewer:ptr-mir-1307 ggo|miRviewer:ggo-mir-1307 ppy|miRviewer:ppy-mir-1307 mml|miRviewer:mml-mir-1307
+cpo|miRviewer:cpo-mir-1306 mmu|miRviewer:mmu-mir-1306 rno|miRviewer:rno-mir-1306 str|miRviewer:str-mir-1306 bta|miRviewer:bta-mir-1306 vpa|miRviewer:vpa-mir-1306 cfa|miRviewer:cfa-mir-1306 fca|miRviewer:fca-mir-1306 eeu|miRviewer:eeu-mir-1306 sar|miRviewer:sar-mir-1306
+hsa|miRviewer:hsa-mir-934 ptr|miRviewer:ptr-mir-934 ggo|miRviewer:ggo-mir-934
+bta|miRviewer:bta-mir-2308
+bta|miRviewer:bta-mir-2309
+mmu|miRviewer:mmu-mir-3078
+bta|miRviewer:bta-mir-2304
+bta|miRviewer:bta-mir-2305
+bta|miRviewer:bta-mir-2306
+bta|miRviewer:bta-mir-2307
+bta|miRviewer:bta-mir-2300a
+bta|miRviewer:bta-mir-2300b
+bta|miRviewer:bta-mir-2301
+bta|miRviewer:bta-mir-2302
+bta|miRviewer:bta-mir-2303
+hsa|miRviewer:hsa-mir-628 ptr|miRviewer:ptr-mir-628 ggo|miRviewer:ggo-mir-628 ppy|miRviewer:ppy-mir-628 oga|miRviewer:oga-mir-628 bta|miRviewer:bta-mir-628 ttr|miRviewer:ttr-mir-628 cfa|miRviewer:cfa-mir-628 fca|miRviewer:fca-mir-628
+eca|miRviewer:eca-mir-628a
+hsa|miRviewer:hsa-mir-629
+ptr|miRviewer:ptr-mir-198 ppy|miRviewer:ppy-mir-198
+hsa|miRviewer:hsa-mir-199a-2 ptr|miRviewer:ptr-mir-199a-2 ppy|miRviewer:ppy-mir-199a-2
+hsa|miRviewer:hsa-mir-199b ptr|miRviewer:ptr-mir-199b bta|miRviewer:bta-mir-199b ssc|miRviewer:ssc-mir-199b eca|miRviewer:eca-mir-199b
+ggo|miRviewer:ggo-mir-199a ppy|miRviewer:ppy-mir-199a
+bta|miRviewer:bta-mir-199c
+gga|miRviewer:gga-mir-199-2
+oan|miRviewer:oan-mir-199
+hsa|miRviewer:hsa-mir-196a-1 ptr|miRviewer:ptr-mir-196a-1 mml|miRviewer:mml-mir-196a-1
+hsa|miRviewer:hsa-mir-196a-2 ptr|miRviewer:ptr-mir-196a-2 ggo|miRviewer:ggo-mir-196a-2 ppy|miRviewer:ppy-mir-196a-2 mml|miRviewer:mml-mir-196a-2 oga|miRviewer:oga-mir-196a-2 tbe|miRviewer:tbe-mir-196a-2 cpo|miRviewer:cpo-mir-196a-2 dor|miRviewer:dor-mir-196a-2 mmu|miRviewer:mmu-mir-196a-2 ocu|miRviewer:ocu-mir-196a-2 bta|miRviewer:bta-mir-196a-2 cfa|miRviewer:cfa-mir-196a-2 eca|miRviewer:eca-mir-196a-2 pca|miRviewer:pca-mir-196a-2
+hsa|miRviewer:hsa-mir-196b ptr|miRviewer:ptr-mir-196b ppy|miRviewer:ppy-mir-196b mml|miRviewer:mml-mir-196b mmu|miRviewer:mmu-mir-196b rno|miRviewer:rno-mir-196b bta|miRviewer:bta-mir-196b vpa|miRviewer:vpa-mir-196b ssc|miRviewer:ssc-mir-196b cfa|miRviewer:cfa-mir-196b ete|miRviewer:ete-mir-196b
+ggo|miRviewer:ggo-mir-196-1 ppy|miRviewer:ppy-mir-196-1
+ggo|miRviewer:ggo-mir-196-2 ppy|miRviewer:ppy-mir-196-2
+rno|miRviewer:rno-mir-196a
+rno|miRviewer:rno-mir-196c
+gga|miRviewer:gga-mir-196-3
+dre|miRviewer:dre-mir-196d
+cin|miRviewer:cin-mir-196
+hsa|miRviewer:hsa-mir-197 ptr|miRviewer:ptr-mir-197 ggo|miRviewer:ggo-mir-197 ppy|miRviewer:ppy-mir-197 mml|miRviewer:mml-mir-197 cja|miRviewer:cja-mir-197 oga|miRviewer:oga-mir-197 cpo|miRviewer:cpo-mir-197 cfa|miRviewer:cfa-mir-197 fca|miRviewer:fca-mir-197 eca|miRviewer:eca-mir-197
+ggo|miRviewer:ggo-mir-194-1
+dre|miRviewer:dre-mir-194b
+eca|miRviewer:eca-mir-195
+hsa|miRviewer:hsa-mir-192 ptr|miRviewer:ptr-mir-192 ggo|miRviewer:ggo-mir-192 ppy|miRviewer:ppy-mir-192 ttr|miRviewer:ttr-mir-192
+cfa|miRviewer:cfa-mir-193a
+tsy|miRviewer:tsy-mir-193b mmr|miRviewer:mmr-mir-193b tbe|miRviewer:tbe-mir-193b opr|miRviewer:opr-mir-193b bta|miRviewer:bta-mir-193b eca|miRviewer:eca-mir-193b mlu|miRviewer:mlu-mir-193b cho|miRviewer:cho-mir-193b
+cpo|miRviewer:cpo-mir-193 cfa|miRviewer:cfa-mir-193 fca|miRviewer:fca-mir-193
+bta|miRviewer:bta-mir-193a-2
+dre|miRviewer:dre-mir-193a-1
+dre|miRviewer:dre-mir-193a-3
+mmr|miRviewer:mmr-mir-191 tbe|miRviewer:tbe-mir-191 str|miRviewer:str-mir-191 ocu|miRviewer:ocu-mir-191 bta|miRviewer:bta-mir-191 cfa|miRviewer:cfa-mir-191 eca|miRviewer:eca-mir-191 pva|miRviewer:pva-mir-191 eeu|miRviewer:eeu-mir-191 sar|miRviewer:sar-mir-191 laf|miRviewer:laf-mir-191 pca|miRviewer:pca-mir-191
+ggo|miRviewer:ggo-mir-3927
+hsa|miRviewer:hsa-mir-3148 ggo|miRviewer:ggo-mir-3148
+hsa|miRviewer:hsa-mir-3925 ggo|miRviewer:ggo-mir-3925
+hsa|miRviewer:hsa-mir-3924
+hsa|miRviewer:hsa-mir-3922
+hsa|miRviewer:hsa-mir-3921
+hsa|miRviewer:hsa-mir-3141
+hsa|miRviewer:hsa-mir-3140 ggo|miRviewer:ggo-mir-3140 ppy|miRviewer:ppy-mir-3140
+hsa|miRviewer:hsa-mir-3143
+hsa|miRviewer:hsa-mir-3142
+hsa|miRviewer:hsa-mir-3145 ggo|miRviewer:ggo-mir-3145
+hsa|miRviewer:hsa-mir-3144
+hsa|miRviewer:hsa-mir-3147
+hsa|miRviewer:hsa-mir-3146 ppy|miRviewer:ppy-mir-3146
+bta|miRviewer:bta-mir-2410
+bta|miRviewer:bta-mir-2412
+bta|miRviewer:bta-mir-2413
+hsa|miRviewer:hsa-mir-2414 ggo|miRviewer:ggo-mir-2414 ppy|miRviewer:ppy-mir-2414 mml|miRviewer:mml-mir-2414 cja|miRviewer:cja-mir-2414 tsy|miRviewer:tsy-mir-2414 mmr|miRviewer:mmr-mir-2414 oga|miRviewer:oga-mir-2414 tbe|miRviewer:tbe-mir-2414 rno|miRviewer:rno-mir-2414 opr|miRviewer:opr-mir-2414 ttr|miRviewer:ttr-mir-2414 mlu|miRviewer:mlu-mir-2414
+bta|miRviewer:bta-mir-2415
+bta|miRviewer:bta-mir-2416
+bta|miRviewer:bta-mir-2417
+bta|miRviewer:bta-mir-2418
+bta|miRviewer:bta-mir-2419
+hsa|miRviewer:hsa-mir-448 ptr|miRviewer:ptr-mir-448 ggo|miRviewer:ggo-mir-448 ppy|miRviewer:ppy-mir-448
+hsa|miRviewer:hsa-mir-449b ptr|miRviewer:ptr-mir-449b
+bta|miRviewer:bta-mir-449d
+gga|miRviewer:gga-mir-1743 mga|miRviewer:mga-mir-1743
+ggo|miRviewer:ggo-mir-4258
+hsa|miRviewer:hsa-mir-4259
+hsa|miRviewer:hsa-mir-4254 ggo|miRviewer:ggo-mir-4254
+hsa|miRviewer:hsa-mir-4255
+hsa|miRviewer:hsa-mir-4256
+hsa|miRviewer:hsa-mir-4257
+hsa|miRviewer:hsa-mir-4251
+hsa|miRviewer:hsa-mir-4253
+cin|miRviewer:cin-mir-4076
+oan|miRviewer:oan-mir-1363
+oan|miRviewer:oan-mir-1362
+gga|miRviewer:gga-mir-1574
+gga|miRviewer:gga-mir-1575
+gga|miRviewer:gga-mir-1572
+gga|miRviewer:gga-mir-1573
+gga|miRviewer:gga-mir-1570
+gga|miRviewer:gga-mir-1571
+hsa|miRviewer:hsa-mir-1972-1
+hsa|miRviewer:hsa-mir-1972-2
+hsa|miRviewer:hsa-mir-1973
+hsa|miRviewer:hsa-mir-1202 ptr|miRviewer:ptr-mir-1202
+ggo|miRviewer:ggo-mir-1203
+hsa|miRviewer:hsa-mir-1204 ggo|miRviewer:ggo-mir-1204 ppy|miRviewer:ppy-mir-1204 mml|miRviewer:mml-mir-1204
+hsa|miRviewer:hsa-mir-1205 ptr|miRviewer:ptr-mir-1205 ppy|miRviewer:ppy-mir-1205
+hsa|miRviewer:hsa-mir-1206 ptr|miRviewer:ptr-mir-1206
+ptr|miRviewer:ptr-mir-1207
+hsa|miRviewer:hsa-mir-1208 ptr|miRviewer:ptr-mir-1208
+gga|miRviewer:gga-mir-1753-1
+gga|miRviewer:gga-mir-1753-2
+bta|miRviewer:bta-mir-2889
+bta|miRviewer:bta-mir-2888-1
+bta|miRviewer:bta-mir-2888-2
+ptr|miRviewer:ptr-mir-299 ggo|miRviewer:ggo-mir-299 ppy|miRviewer:ppy-mir-299 oga|miRviewer:oga-mir-299 ttr|miRviewer:ttr-mir-299 fca|miRviewer:fca-mir-299 mlu|miRviewer:mlu-mir-299
+hsa|miRviewer:hsa-mir-298 ptr|miRviewer:ptr-mir-298 ggo|miRviewer:ggo-mir-298
+mmu|miRviewer:mmu-mir-295
+mmu|miRviewer:mmu-mir-295-1
+rno|miRviewer:rno-mir-295-2
+mmu|miRviewer:mmu-mir-294
+mmu|miRviewer:mmu-mir-297a-1
+mmu|miRviewer:mmu-mir-297a-2
+mmu|miRviewer:mmu-mir-297b
+mmu|miRviewer:mmu-mir-297a-3
+mmu|miRviewer:mmu-mir-297a-4
+mmu|miRviewer:mmu-mir-297a-5
+mmu|miRviewer:mmu-mir-297a-6
+mmu|miRviewer:mmu-mir-297c
+mmu|miRviewer:mmu-mir-291a
+mmu|miRviewer:mmu-mir-291b
+mmu|miRviewer:mmu-mir-290
+mmu|miRviewer:mmu-mir-293
+gga|miRviewer:gga-mir-2954 tgu|miRviewer:tgu-mir-2954
+hsa|miRviewer:hsa-mir-2957 ggo|miRviewer:ggo-mir-2957 ppy|miRviewer:ppy-mir-2957 mml|miRviewer:mml-mir-2957 cja|miRviewer:cja-mir-2957 oga|miRviewer:oga-mir-2957 tbe|miRviewer:tbe-mir-2957 cpo|miRviewer:cpo-mir-2957 laf|miRviewer:laf-mir-2957
+hsa|miRviewer:hsa-mir-509-2
+hsa|miRviewer:hsa-mir-509a
+ptr|miRviewer:ptr-mir-509a-1
+ptr|miRviewer:ptr-mir-509b
+ptr|miRviewer:ptr-mir-509a-2
+gga|miRviewer:gga-mir-1684
+ttr|miRviewer:ttr-mir-504 cfa|miRviewer:cfa-mir-504 eca|miRviewer:eca-mir-504
+ggo|miRviewer:ggo-mir-506
+oga|miRviewer:oga-mir-501 bta|miRviewer:bta-mir-501 ttr|miRviewer:ttr-mir-501 vpa|miRviewer:vpa-mir-501 cfa|miRviewer:cfa-mir-501 mlu|miRviewer:mlu-mir-501 pva|miRviewer:pva-mir-501
+hsa|miRviewer:hsa-mir-500a ppy|miRviewer:ppy-mir-500a cja|miRviewer:cja-mir-500a
+hsa|miRviewer:hsa-mir-500b
+ppy|miRviewer:ppy-mir-500
+ptr|miRviewer:ptr-mir-500-2
+ggo|miRviewer:ggo-mir-502 ppy|miRviewer:ppy-mir-502 mml|miRviewer:mml-mir-502 cfa|miRviewer:cfa-mir-502 eca|miRviewer:eca-mir-502
+bta|miRviewer:bta-mir-502a-1
+bta|miRviewer:bta-mir-502a-2
+bta|miRviewer:bta-mir-502b
+oan|miRviewer:oan-mir-1378
+oan|miRviewer:oan-mir-1379
+oan|miRviewer:oan-mir-1374
+oan|miRviewer:oan-mir-1375
+oan|miRviewer:oan-mir-1376
+oan|miRviewer:oan-mir-1377
+oan|miRviewer:oan-mir-1370
+oan|miRviewer:oan-mir-1371
+oan|miRviewer:oan-mir-1372
+oan|miRviewer:oan-mir-1373
+hsa|miRviewer:hsa-mir-2985-1 ggo|miRviewer:ggo-mir-2985-1 ppy|miRviewer:ppy-mir-2985-1 mml|miRviewer:mml-mir-2985-1 cja|miRviewer:cja-mir-2985-1 tsy|miRviewer:tsy-mir-2985-1 mmr|miRviewer:mmr-mir-2985-1 opr|miRviewer:opr-mir-2985-1 ocu|miRviewer:ocu-mir-2985-1 cfa|miRviewer:cfa-mir-2985-1 mlu|miRviewer:mlu-mir-2985-1 eeu|miRviewer:eeu-mir-2985-1 cho|miRviewer:cho-mir-2985-1 ete|miRviewer:ete-mir-2985-1 laf|miRviewer:laf-mir-2985-1 meu|miRviewer:meu-mir-2985-1 mdo|miRviewer:mdo-mir-2985-1 oan|miRviewer:oan-mir-2985-1 gga|miRviewer:gga-mir-2985-1 mga|miRviewer:mga-mir-2985-1
+rno|miRviewer:rno-mir-2985
+tgu|miRviewer:tgu-mir-2985-2
+bta|miRviewer:bta-mir-2319a
+bta|miRviewer:bta-mir-2319b
+bta|miRviewer:bta-mir-2318
+bta|miRviewer:bta-mir-2317
+bta|miRviewer:bta-mir-2316
+bta|miRviewer:bta-mir-2315
+bta|miRviewer:bta-mir-2314
+bta|miRviewer:bta-mir-2313
+bta|miRviewer:bta-mir-2312
+bta|miRviewer:bta-mir-2311
+bta|miRviewer:bta-mir-2310
+ggo|miRviewer:ggo-mir-619
+ptr|miRviewer:ptr-mir-618
+mmu|miRviewer:mmu-mir-1192
+cja|miRviewer:cja-mir-1193 tsy|miRviewer:tsy-mir-1193
+mmu|miRviewer:mmu-mir-1194
+mmu|miRviewer:mmu-mir-1195
+mmu|miRviewer:mmu-mir-1196
+ppy|miRviewer:ppy-mir-1197
+mmu|miRviewer:mmu-mir-1198
+mmu|miRviewer:mmu-mir-1199
+ptr|miRviewer:ptr-mir-613
+hsa|miRviewer:hsa-mir-615 ptr|miRviewer:ptr-mir-615 ggo|miRviewer:ggo-mir-615 cja|miRviewer:cja-mir-615 mmr|miRviewer:mmr-mir-615 dor|miRviewer:dor-mir-615 ttr|miRviewer:ttr-mir-615 laf|miRviewer:laf-mir-615
+ptr|miRviewer:ptr-mir-614 ggo|miRviewer:ggo-mir-614
+hsa|miRviewer:hsa-mir-617 ptr|miRviewer:ptr-mir-617
+ggo|miRviewer:ggo-mir-616 ppy|miRviewer:ppy-mir-616
+mmu|miRviewer:mmu-mir-871
+hsa|miRviewer:hsa-mir-873 ptr|miRviewer:ptr-mir-873 ppy|miRviewer:ppy-mir-873 eca|miRviewer:eca-mir-873
+vpa|miRviewer:vpa-mir-872
+hsa|miRviewer:hsa-mir-3138 ggo|miRviewer:ggo-mir-3138
+hsa|miRviewer:hsa-mir-3139 ggo|miRviewer:ggo-mir-3139
+hsa|miRviewer:hsa-mir-876 ptr|miRviewer:ptr-mir-876 ggo|miRviewer:ggo-mir-876 ppy|miRviewer:ppy-mir-876 mml|miRviewer:mml-mir-876 cja|miRviewer:cja-mir-876 tsy|miRviewer:tsy-mir-876 oga|miRviewer:oga-mir-876 dor|miRviewer:dor-mir-876 str|miRviewer:str-mir-876 opr|miRviewer:opr-mir-876 ocu|miRviewer:ocu-mir-876 bta|miRviewer:bta-mir-876 ttr|miRviewer:ttr-mir-876 vpa|miRviewer:vpa-mir-876 ssc|miRviewer:ssc-mir-876 cfa|miRviewer:cfa-mir-876 fca|miRviewer:fca-mir-876 pva|miRviewer:pva-mir-876
+mmu|miRviewer:mmu-mir-879
+mmu|miRviewer:mmu-mir-878
+ggo|miRviewer:ggo-mir-3136 ppy|miRviewer:ppy-mir-3136
+hsa|miRviewer:hsa-mir-3137
+hsa|miRviewer:hsa-mir-3130-1
+hsa|miRviewer:hsa-mir-3130-2
+hsa|miRviewer:hsa-mir-3131 ggo|miRviewer:ggo-mir-3131
+hsa|miRviewer:hsa-mir-3133 ppy|miRviewer:ppy-mir-3133
+bta|miRviewer:bta-mir-2403
+bta|miRviewer:bta-mir-2402
+bta|miRviewer:bta-mir-2401
+bta|miRviewer:bta-mir-2400
+bta|miRviewer:bta-mir-2407
+bta|miRviewer:bta-mir-2406
+bta|miRviewer:bta-mir-2405
+bta|miRviewer:bta-mir-2404-1
+bta|miRviewer:bta-mir-2404-2
+bta|miRviewer:bta-mir-2409
+bta|miRviewer:bta-mir-2408
+mmu|miRviewer:mmu-mir-471
+mmu|miRviewer:mmu-mir-470
+hsa|miRviewer:hsa-mir-3682
+ppy|miRviewer:ppy-mir-3681
+hsa|miRviewer:hsa-mir-3687
+hsa|miRviewer:hsa-mir-3684
+hsa|miRviewer:hsa-mir-3685
+hsa|miRviewer:hsa-mir-3688
+hsa|miRviewer:hsa-mir-3689a
+hsa|miRviewer:hsa-mir-3689b
+hsa|miRviewer:hsa-mir-3918
+hsa|miRviewer:hsa-mir-3919
+hsa|miRviewer:hsa-mir-3913-1
+hsa|miRviewer:hsa-mir-3913-2
+hsa|miRviewer:hsa-mir-3910-1
+hsa|miRviewer:hsa-mir-3910-2
+hsa|miRviewer:hsa-mir-3911
+hsa|miRviewer:hsa-mir-3916 ggo|miRviewer:ggo-mir-3916 ppy|miRviewer:ppy-mir-3916 mml|miRviewer:mml-mir-3916
+mml|miRviewer:mml-mir-3917
+hsa|miRviewer:hsa-mir-3914-1 ggo|miRviewer:ggo-mir-3914-1
+hsa|miRviewer:hsa-mir-3914-2
+hsa|miRviewer:hsa-mir-3915
+cpo|miRviewer:cpo-mir-3596d
+rno|miRviewer:rno-mir-3596b
+rno|miRviewer:rno-mir-3596c
+rno|miRviewer:rno-mir-3596a
+bta|miRviewer:bta-mir-3596
+hsa|miRviewer:hsa-mir-3597-1 ggo|miRviewer:ggo-mir-3597-1 ppy|miRviewer:ppy-mir-3597-1 cja|miRviewer:cja-mir-3597-1 oga|miRviewer:oga-mir-3597-1 mmu|miRviewer:mmu-mir-3597-1 rno|miRviewer:rno-mir-3597-1 ttr|miRviewer:ttr-mir-3597-1 ssc|miRviewer:ssc-mir-3597-1 cfa|miRviewer:cfa-mir-3597-1 eca|miRviewer:eca-mir-3597-1 pva|miRviewer:pva-mir-3597-1 ete|miRviewer:ete-mir-3597-1
+rno|miRviewer:rno-mir-3597-3
+rno|miRviewer:rno-mir-3597-2
+rno|miRviewer:rno-mir-3594
+rno|miRviewer:rno-mir-3592
+hsa|miRviewer:hsa-mir-3590 ggo|miRviewer:ggo-mir-3590 ppy|miRviewer:ppy-mir-3590 cja|miRviewer:cja-mir-3590 mmr|miRviewer:mmr-mir-3590 oga|miRviewer:oga-mir-3590 pca|miRviewer:pca-mir-3590
+hsa|miRviewer:hsa-mir-567 ptr|miRviewer:ptr-mir-567
+ggo|miRviewer:ggo-mir-3668 ppy|miRviewer:ppy-mir-3668
+hsa|miRviewer:hsa-mir-3669
+laf|miRviewer:laf-mir-3660
+hsa|miRviewer:hsa-mir-3661
+hsa|miRviewer:hsa-mir-3662
+hsa|miRviewer:hsa-mir-3665
+hsa|miRviewer:hsa-mir-3666 ggo|miRviewer:ggo-mir-3666 ppy|miRviewer:ppy-mir-3666 mml|miRviewer:mml-mir-3666 cja|miRviewer:cja-mir-3666 tsy|miRviewer:tsy-mir-3666 tbe|miRviewer:tbe-mir-3666 str|miRviewer:str-mir-3666 fca|miRviewer:fca-mir-3666
+hsa|miRviewer:hsa-mir-3667
+gga|miRviewer:gga-mir-2968 mga|miRviewer:mga-mir-2968
+hsa|miRviewer:hsa-mir-9-1 ptr|miRviewer:ptr-mir-9-1 ppy|miRviewer:ppy-mir-9-1 mml|miRviewer:mml-mir-9-1 mmu|miRviewer:mmu-mir-9-1 rno|miRviewer:rno-mir-9-1 ssc|miRviewer:ssc-mir-9-1 cfa|miRviewer:cfa-mir-9-1
+hsa|miRviewer:hsa-mir-9-2 ptr|miRviewer:ptr-mir-9-2 mml|miRviewer:mml-mir-9-2 mmu|miRviewer:mmu-mir-9-2 rno|miRviewer:rno-mir-9-2 bta|miRviewer:bta-mir-9-2 ssc|miRviewer:ssc-mir-9-2 cfa|miRviewer:cfa-mir-9-2 oan|miRviewer:oan-mir-9-2
+ppy|miRviewer:ppy-mir-9-3 mmu|miRviewer:mmu-mir-9-3 cfa|miRviewer:cfa-mir-9-3
+hsa|miRviewer:hsa-mir-9a cja|miRviewer:cja-mir-9a mmr|miRviewer:mmr-mir-9a oga|miRviewer:oga-mir-9a cpo|miRviewer:cpo-mir-9a dor|miRviewer:dor-mir-9a mmu|miRviewer:mmu-mir-9a rno|miRviewer:rno-mir-9a str|miRviewer:str-mir-9a bta|miRviewer:bta-mir-9a ttr|miRviewer:ttr-mir-9a ssc|miRviewer:ssc-mir-9a cfa|miRviewer:cfa-mir-9a fca|miRviewer:fca-mir-9a mlu|miRviewer:mlu-mir-9a pva|miRviewer:pva-mir-9a eeu|miRviewer:eeu-mir-9a sar|miRviewer:sar-mir-9a ete|miRviewer:ete-mir-9a laf|miRviewer:laf-mir-9a pca|miRviewer:pca-mir-9a
+ggo|miRviewer:ggo-mir-9
+eca|miRviewer:eca-mir-9a-2
+xtr|miRviewer:xtr-mir-9a-1
+xtr|miRviewer:xtr-mir-9b
+dre|miRviewer:dre-mir-9-4
+dre|miRviewer:dre-mir-9-5
+dre|miRviewer:dre-mir-9-6
+dre|miRviewer:dre-mir-9-7
+dme|miRviewer:dme-mir-9c
+dme|miRviewer:dme-mir-2a-1
+dme|miRviewer:dme-mir-2a-2
+dme|miRviewer:dme-mir-2b-1
+dme|miRviewer:dme-mir-2b-2
+dme|miRviewer:dme-mir-2c
+dme|miRviewer:dme-mir-2
+hsa|miRviewer:hsa-mir-1-2 ptr|miRviewer:ptr-mir-1-2 bta|miRviewer:bta-mir-1-2 cfa|miRviewer:cfa-mir-1-2
+cfa|miRviewer:cfa-mir-1-1 pva|miRviewer:pva-mir-1-1
+mmu|miRviewer:mmu-mir-1-2-as
+oan|miRviewer:oan-mir-1a
+gga|miRviewer:gga-mir-1a-2
+gga|miRviewer:gga-mir-1a-1
+gga|miRviewer:gga-mir-1c
+hsa|miRviewer:hsa-mir-7-1 ptr|miRviewer:ptr-mir-7-1 ggo|miRviewer:ggo-mir-7-1 ppy|miRviewer:ppy-mir-7-1 ocu|miRviewer:ocu-mir-7-1 cfa|miRviewer:cfa-mir-7-1
+mmu|miRviewer:mmu-mir-7a-1
+tgu|miRviewer:tgu-mir-7-4
+dre|miRviewer:dre-mir-7a-3
+gga|miRviewer:gga-mir-1569-1
+gga|miRviewer:gga-mir-1569-2
+gga|miRviewer:gga-mir-1568
+gga|miRviewer:gga-mir-1561
+gga|miRviewer:gga-mir-1560
+gga|miRviewer:gga-mir-1563
+gga|miRviewer:gga-mir-1562
+gga|miRviewer:gga-mir-1565
+gga|miRviewer:gga-mir-1564
+gga|miRviewer:gga-mir-1567
+gga|miRviewer:gga-mir-1566
+mmu|miRviewer:mmu-mir-1965
+mmu|miRviewer:mmu-mir-1964
+mmu|miRviewer:mmu-mir-1967
+mmu|miRviewer:mmu-mir-1966
+mmu|miRviewer:mmu-mir-1961
+mmu|miRviewer:mmu-mir-1960
+mmu|miRviewer:mmu-mir-1963
+mmu|miRviewer:mmu-mir-1962
+gga|miRviewer:gga-mir-1748
+mmu|miRviewer:mmu-mir-1969
+mmu|miRviewer:mmu-mir-1968
+cin|miRviewer:cin-mir-281
+dme|miRviewer:dme-mir-281-1
+dme|miRviewer:dme-mir-281-2
+bta|miRviewer:bta-mir-2465
+hsa|miRviewer:hsa-mir-518f ptr|miRviewer:ptr-mir-518f ggo|miRviewer:ggo-mir-518f ppy|miRviewer:ppy-mir-518f
+hsa|miRviewer:hsa-mir-518b ptr|miRviewer:ptr-mir-518b
+hsa|miRviewer:hsa-mir-518c ppy|miRviewer:ppy-mir-518c
+hsa|miRviewer:hsa-mir-518e ptr|miRviewer:ptr-mir-518e
+hsa|miRviewer:hsa-mir-518a-1
+hsa|miRviewer:hsa-mir-518d
+hsa|miRviewer:hsa-mir-518a-2
+hsa|miRviewer:hsa-mir-519e ptr|miRviewer:ptr-mir-519e
+hsa|miRviewer:hsa-mir-519c ptr|miRviewer:ptr-mir-519c
+hsa|miRviewer:hsa-mir-519b ptr|miRviewer:ptr-mir-519b ppy|miRviewer:ppy-mir-519b
+hsa|miRviewer:hsa-mir-519d
+hsa|miRviewer:hsa-mir-519a-1
+hsa|miRviewer:hsa-mir-519a-2
+mml|miRviewer:mml-mir-519a
+ppy|miRviewer:ppy-mir-519f
+ppy|miRviewer:ppy-mir-1976
+gga|miRviewer:gga-mir-1698
+hsa|miRviewer:hsa-mir-512-2
+hsa|miRviewer:hsa-mir-513a-2
+hsa|miRviewer:hsa-mir-513b ggo|miRviewer:ggo-mir-513b
+hsa|miRviewer:hsa-mir-513c
+hsa|miRviewer:hsa-mir-513a-3 ptr|miRviewer:ptr-mir-513a-3 ppy|miRviewer:ppy-mir-513a-3
+mml|miRviewer:mml-mir-513b-1
+mml|miRviewer:mml-mir-513b-2
+hsa|miRviewer:hsa-mir-511-1 ppy|miRviewer:ppy-mir-511-1
+hsa|miRviewer:hsa-mir-511-2 ppy|miRviewer:ppy-mir-511-2
+hsa|miRviewer:hsa-mir-516b-2 ptr|miRviewer:ptr-mir-516b-2
+hsa|miRviewer:hsa-mir-516b-1 ggo|miRviewer:ggo-mir-516b-1 ppy|miRviewer:ppy-mir-516b-1
+hsa|miRviewer:hsa-mir-516a-1 ptr|miRviewer:ptr-mir-516a-1
+hsa|miRviewer:hsa-mir-516a-2 ptr|miRviewer:ptr-mir-516a-2
+mml|miRviewer:mml-mir-516
+hsa|miRviewer:hsa-mir-517a ptr|miRviewer:ptr-mir-517a ppy|miRviewer:ppy-mir-517a
+hsa|miRviewer:hsa-mir-517b
+hsa|miRviewer:hsa-mir-517c
+hsa|miRviewer:hsa-mir-517
+ptr|miRviewer:ptr-mir-517b-1
+ptr|miRviewer:ptr-mir-517b-2
+hsa|miRviewer:hsa-mir-514-2 ptr|miRviewer:ptr-mir-514-2
+hsa|miRviewer:hsa-mir-514-3 ptr|miRviewer:ptr-mir-514-3
+hsa|miRviewer:hsa-mir-514b
+ptr|miRviewer:ptr-mir-514-4
+hsa|miRviewer:hsa-mir-515-1 ptr|miRviewer:ptr-mir-515-1 ggo|miRviewer:ggo-mir-515-1 ppy|miRviewer:ppy-mir-515-1
+hsa|miRviewer:hsa-mir-515-2 ptr|miRviewer:ptr-mir-515-2 ppy|miRviewer:ppy-mir-515-2
+oan|miRviewer:oan-mir-1369
+oan|miRviewer:oan-mir-1368
+oan|miRviewer:oan-mir-1367
+oan|miRviewer:oan-mir-1366
+oan|miRviewer:oan-mir-1365
+oan|miRviewer:oan-mir-1364
+bta|miRviewer:bta-mir-2464
+mmu|miRviewer:mmu-mir-1981
+oan|miRviewer:oan-mir-1361
+oan|miRviewer:oan-mir-1360
+bta|miRviewer:bta-mir-2322
+bta|miRviewer:bta-mir-2323
+ssc|miRviewer:ssc-mir-2320
+bta|miRviewer:bta-mir-2321
+bta|miRviewer:bta-mir-2326
+bta|miRviewer:bta-mir-2327
+bta|miRviewer:bta-mir-2324
+bta|miRviewer:bta-mir-2325a
+bta|miRviewer:bta-mir-2325b
+bta|miRviewer:bta-mir-2325c
+bta|miRviewer:bta-mir-2329-1
+bta|miRviewer:bta-mir-2329-2
+bta|miRviewer:bta-mir-2467
+ptr|miRviewer:ptr-mir-606 ppy|miRviewer:ppy-mir-606
+hsa|miRviewer:hsa-mir-607
+ptr|miRviewer:ptr-mir-605 ggo|miRviewer:ggo-mir-605 ppy|miRviewer:ppy-mir-605
+hsa|miRviewer:hsa-mir-600 ptr|miRviewer:ptr-mir-600
+ptr|miRviewer:ptr-mir-601
+hsa|miRviewer:hsa-mir-608
+hsa|miRviewer:hsa-mir-1183 ptr|miRviewer:ptr-mir-1183
+hsa|miRviewer:hsa-mir-1182 ptr|miRviewer:ptr-mir-1182 ggo|miRviewer:ggo-mir-1182
+hsa|miRviewer:hsa-mir-1181 ggo|miRviewer:ggo-mir-1181
+hsa|miRviewer:hsa-mir-1180 ppy|miRviewer:ppy-mir-1180
+mmu|miRviewer:mmu-mir-1187
+mmu|miRviewer:mmu-mir-1186
+mmu|miRviewer:mmu-mir-1186b
+tsy|miRviewer:tsy-mir-1185-2 tbe|miRviewer:tbe-mir-1185-2 cfa|miRviewer:cfa-mir-1185-2 fca|miRviewer:fca-mir-1185-2 pva|miRviewer:pva-mir-1185-2
+hsa|miRviewer:hsa-mir-1185-1 ptr|miRviewer:ptr-mir-1185-1 ppy|miRviewer:ppy-mir-1185-1
+bta|miRviewer:bta-mir-1185
+hsa|miRviewer:hsa-mir-1184-1 ptr|miRviewer:ptr-mir-1184-1 ggo|miRviewer:ggo-mir-1184-1 mml|miRviewer:mml-mir-1184-1
+hsa|miRviewer:hsa-mir-1184-2
+hsa|miRviewer:hsa-mir-1184-3
+ptr|miRviewer:ptr-mir-1184
+hsa|miRviewer:hsa-mir-1188
+tgu|miRviewer:tgu-mir-2185
+pca|miRviewer:pca-mir-2182
+mmu|miRviewer:mmu-mir-2183
+hsa|miRviewer:hsa-mir-3129
+hsa|miRviewer:hsa-mir-3128 ggo|miRviewer:ggo-mir-3128 ppy|miRviewer:ppy-mir-3128
+hsa|miRviewer:hsa-mir-3127 ggo|miRviewer:ggo-mir-3127
+hsa|miRviewer:hsa-mir-3126
+ggo|miRviewer:ggo-mir-3125
+hsa|miRviewer:hsa-mir-3124
+hsa|miRviewer:hsa-mir-3123 ggo|miRviewer:ggo-mir-3123
+hsa|miRviewer:hsa-mir-3121 ggo|miRviewer:ggo-mir-3121 ppy|miRviewer:ppy-mir-3121
+hsa|miRviewer:hsa-mir-3120 ggo|miRviewer:ggo-mir-3120 ppy|miRviewer:ppy-mir-3120 mml|miRviewer:mml-mir-3120 cja|miRviewer:cja-mir-3120 mmr|miRviewer:mmr-mir-3120 oga|miRviewer:oga-mir-3120 tbe|miRviewer:tbe-mir-3120 cpo|miRviewer:cpo-mir-3120 mmu|miRviewer:mmu-mir-3120 rno|miRviewer:rno-mir-3120 ocu|miRviewer:ocu-mir-3120 bta|miRviewer:bta-mir-3120 ttr|miRviewer:ttr-mir-3120 ssc|miRviewer:ssc-mir-3120 cfa|miRviewer:cfa-mir-3120 eca|miRviewer:eca-mir-3120 mlu|miRviewer:mlu-mir-3120 pva|miRviewer:pva-mir-3120 eeu|miRviewer:eeu-mir-3120 ete|miRviewer:ete-mir-3120 laf|miRviewer:laf-mir-3120
+bta|miRviewer:bta-mir-2436
+bta|miRviewer:bta-mir-2437
+bta|miRviewer:bta-mir-2434
+bta|miRviewer:bta-mir-2435
+bta|miRviewer:bta-mir-2432
+bta|miRviewer:bta-mir-2430
+bta|miRviewer:bta-mir-2431
+bta|miRviewer:bta-mir-2438
+mmu|miRviewer:mmu-mir-463
+gga|miRviewer:gga-mir-460b
+hsa|miRviewer:hsa-mir-466
+mmu|miRviewer:mmu-mir-466a
+mmu|miRviewer:mmu-mir-466b-1
+mmu|miRviewer:mmu-mir-466b-2
+mmu|miRviewer:mmu-mir-466b-3
+mmu|miRviewer:mmu-mir-466c-1
+mmu|miRviewer:mmu-mir-466e
+mmu|miRviewer:mmu-mir-466f-1
+mmu|miRviewer:mmu-mir-466f-2
+mmu|miRviewer:mmu-mir-466f-3
+mmu|miRviewer:mmu-mir-466g
+mmu|miRviewer:mmu-mir-466h
+mmu|miRviewer:mmu-mir-466d
+mmu|miRviewer:mmu-mir-466l
+mmu|miRviewer:mmu-mir-466i
+mmu|miRviewer:mmu-mir-466f-4
+mmu|miRviewer:mmu-mir-466k
+mmu|miRviewer:mmu-mir-466j
+mmu|miRviewer:mmu-mir-466m
+mmu|miRviewer:mmu-mir-466o
+mmu|miRviewer:mmu-mir-466c-2
+mmu|miRviewer:mmu-mir-466b-4
+mmu|miRviewer:mmu-mir-466b-5
+mmu|miRviewer:mmu-mir-466b-6
+mmu|miRviewer:mmu-mir-466b-7
+mmu|miRviewer:mmu-mir-466p
+mmu|miRviewer:mmu-mir-466n
+mmu|miRviewer:mmu-mir-466b-8
+rno|miRviewer:rno-mir-466c
+mmu|miRviewer:mmu-mir-467a-1
+mmu|miRviewer:mmu-mir-467b
+mmu|miRviewer:mmu-mir-467c
+mmu|miRviewer:mmu-mir-467d
+mmu|miRviewer:mmu-mir-467e
+mmu|miRviewer:mmu-mir-467f
+mmu|miRviewer:mmu-mir-467g
+mmu|miRviewer:mmu-mir-467h
+mmu|miRviewer:mmu-mir-467a-2
+mmu|miRviewer:mmu-mir-467a-3
+mmu|miRviewer:mmu-mir-467a-4
+mmu|miRviewer:mmu-mir-467a-5
+mmu|miRviewer:mmu-mir-467a-6
+mmu|miRviewer:mmu-mir-467a-7
+mmu|miRviewer:mmu-mir-467a-8
+mmu|miRviewer:mmu-mir-467a-9
+mmu|miRviewer:mmu-mir-467a-10
+mmu|miRviewer:mmu-mir-464
+mmu|miRviewer:mmu-mir-465a
+mmu|miRviewer:mmu-mir-465b-1
+mmu|miRviewer:mmu-mir-465b-2
+mmu|miRviewer:mmu-mir-465c-1
+mmu|miRviewer:mmu-mir-465c-2
+mmu|miRviewer:mmu-mir-465
+mmu|miRviewer:mmu-mir-1983
+mmu|miRviewer:mmu-mir-1982
+mmu|miRviewer:mmu-mir-468
+mmu|miRviewer:mmu-mir-469

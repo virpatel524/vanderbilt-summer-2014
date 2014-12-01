@@ -84,7 +84,7 @@ def scrapeall():
 
     for i in mirna[:]:
         main2homo[i] = scrape(i)
-        print mirna.index(i)
+        print mirna.index(i) + 1
 
 
     return main2homo
@@ -93,7 +93,6 @@ def scrapeall():
 
 
 scrapeddata = scrapeall()
-print scrapeddata
 
 def threshold(scrapedata,num):
     homfam = []
@@ -116,7 +115,11 @@ def filewrite(scrapeddata):
     for i in [.5,.6,.75,.8,.85,.95,1.0]:
         temp = threshold(scrapeddata,i)
         temp = [item for item in temp if item != '']
-        print temp
+        fle = open('%.0fthreshold_family.txt' %(i * 100),'w')
+        for value in temp:
+            fle.write(value[:-1] + '\n')
+        fle.close()
+
 
 
 

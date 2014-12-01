@@ -591,7 +591,7 @@ def main():
     # load data
     prot2family, family2prots, species2prots = \
         parse_families(FAMILY_FILE, species_token=SPECIES_TOKEN)
-
+    print TREE_FILE        
     species_tree = dendropy.Tree.get_from_path(TREE_FILE, schema="newick")
 
     # age proteins

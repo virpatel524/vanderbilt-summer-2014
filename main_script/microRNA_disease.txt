@@ -1,5 +1,4 @@
 # List of associated diseases for miRNAs given by HMDD database
-microRNA	Associated Disease
 hsa-mir-1322	Esophageal Neoplasms
 hsa-mir-1323	Breast Neoplasms
 hsa-mir-675	Adrenocortical Carcinoma

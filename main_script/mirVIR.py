@@ -81,7 +81,7 @@ def break_files(mirna_ages,gene_ages,diseases,tree):
 	fle3.close()
 
 	fle4 = open(tree,'r')
-	tree_file = fle4.readlines()
+	tree_text = fle4.readlines()[0]
 	fle4.close()
 
 
@@ -93,8 +93,8 @@ def break_files(mirna_ages,gene_ages,diseases,tree):
 		if line[0] == '#':
 			continue
 		p = breakfile(line)
-		mirna2age[p[0]] = p[1]
-		age2mirna.setdefault(p[1],[]).append(p[0])
+		mirna2age[p[0]] = float(p[1])
+		age2mirna.setdefault(float(p[1]),[]).append(p[0])
 
 	disease2mirna = {}
 	disease2age = {}
@@ -105,13 +105,25 @@ def break_files(mirna_ages,gene_ages,diseases,tree):
 		if line[0] == '#':
 			continue
 		p = breakfile(line)
-		
+		if p[0] not in mirna2age:
+			continue
+		mirna2disease.setdefault(p[0],[]).append(p[1])
+		disease2mirna.setdefault(p[1],[]).append(p[0])
+
+	for disease in disease2mirna:
+		mirnalst = disease2mirna[disease]
+		disease2age[disease] = [mirna2age[mirna] for mirna in mirnalst]
+
+	for age in age2mirna:
+		mirnalst = age2mirna[age]
+		diseaselst = []
+		for mirna in mirnalst:
+			if mirna in mirna2disease:
+				diseaselst = diseaselst + mirna2disease[mirna]
+		age2disease[age] = list(set(diseaselst))
 
 
-
-
-
-
+	return mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age
 
 def main():
 
@@ -138,7 +150,11 @@ def main():
 			family_associations = args[index + 1]
 			
 
-	break_files(mirna_ages, gene_ages, disease_associations, family_associations)
+	mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age = break_files(mirna_ages, gene_ages, disease_associations, family_associations)
+
+	
+
+
 
 
 main()

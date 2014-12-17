@@ -1,0 +1,3 @@
+hsa	Homo sapiens
+ptr	Pan troglodytes
+ggo	Gorilla gorilla

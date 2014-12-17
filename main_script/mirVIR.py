@@ -5,7 +5,7 @@ def breakfile(line):
 	temp = string.replace(temp, "\n", "")
 	temp = temp.split("\t")
 
-	return tem
+	return temp
 
 
 def bincountdict(lst):
@@ -86,37 +86,62 @@ def break_files(mirna_ages,gene_ages,diseases,tree):
 
 
 
+	mirna2age = {}
+	age2mirna = {}
 
+	for line in mirna_ages_unparsed:
+		if line[0] == '#':
+			continue
+		p = breakfile(line)
+		mirna2age[p[0]] = p[1]
+		age2mirna.setdefault(p[1],[]).append(p[0])
 
+	disease2mirna = {}
+	disease2age = {}
+	mirna2disease = {}
+	age2disease = {}
 
-
-
-mirna_ages = ''
-gene_ages = ''
-disease_associations = ''
-family_associations = ''
-
-
-args = sys.argv
-
-for index, arg in enumerate(args):
-	if arg == '-age_file':
-		mirna_ages = args[index + 1]
-		continue
-	if arg == '-gene_ages':
-		gene_ages = args[index + 1]
-		continue
-	if arg == '-diseases':
-		disease_associations = args[index + 1]
-		continue
-	if arg == '-tree' in arg:
-		family_associations = args[index + 1]
+	for line in disease_associations:
+		if line[0] == '#':
+			continue
+		p = breakfile(line)
 		
 
-break_files(mirna_ages, gene_ages, disease_associations, family_associations)
 
 
 
+
+
+
+def main():
+
+
+	mirna_ages = ''
+	gene_ages = ''
+	disease_associations = ''
+	family_associations = ''
+
+
+	args = sys.argv
+
+	for index, arg in enumerate(args):
+		if arg == '-age_file':
+			mirna_ages = args[index + 1]
+			continue
+		if arg == '-gene_ages':
+			gene_ages = args[index + 1]
+			continue
+		if arg == '-diseases':
+			disease_associations = args[index + 1]
+			continue
+		if arg == '-tree' in arg:
+			family_associations = args[index + 1]
+			
+
+	break_files(mirna_ages, gene_ages, disease_associations, family_associations)
+
+
+main()
 
 
 

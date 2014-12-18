@@ -1,6 +1,10 @@
+# easily extendable script that does all of my analyses
+
+
 import sys, os, string, numpy, matplotlib.pyplot as plt, basicmethods
 from scipy.stats import spearmanr
 from distance import hamming
+from numpy import mean
 
 def breakfile(line):
 	temp = line
@@ -184,6 +188,7 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 		mirna2bin_vec[mirna] = make_vector(mirna, mirna2disease, diseaselst)
 
 	family2hamming_distances = {}
+	mirna2family_hamming = {}
 
 
 	for fam in family2disease_members:
@@ -195,11 +200,23 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 				vec1 = ''.join(mirna2bin_vec[mirna])
 				vec2 = ''.join(mirna2bin_vec[other])
 				mir_spec_vec.append(hamming(vec1, vec2))
-
+			mirna2family_hamming[mirna] = mir_spec_vec
 			family_vec.append(mir_spec_vec)
 		family2hamming_distances[fam] = family_vec
 
-	return family2hamming_distances
+	family_average_age = []
+	mirna_max_hamming = []
+
+	for mirna in mirna2family_hamming:
+		fam_name = member2family_name[mirna]	
+		family_average_age.append(mean([mirna2age[mirna] for mirna in family2disease_members[fam_name]]))
+		mirna_max_hamming.append( max(mirna2family_hamming[mirna]))
+
+	print spearmanr(family_average_age, mirna_max_hamming)
+
+
+
+
 
 
 

@@ -1,0 +1,1 @@
+echo $(python mirVIR.py  -age_file hsa_95threshold_family_dollo_age-time.protein_list -gene_ages hgnc_names_2_age.txt -diseases microRNA_disease.txt -families mirviewer_families_scraped.txt )

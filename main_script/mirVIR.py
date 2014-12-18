@@ -1,4 +1,6 @@
 import sys, os, string, numpy, matplotlib.pyplot as plt, basicmethods
+from scipy.stats import spearmanr
+from distance import hamming
 
 def breakfile(line):
 	temp = line
@@ -67,7 +69,7 @@ def bincount(xlab,name,lst,filename):
 
 
 
-def break_files(mirna_ages,gene_ages,diseases,tree):
+def break_files(mirna_ages,gene_ages,diseases,family_associations):
 	fle1 = open(mirna_ages,'r')
 	mirna_ages_unparsed = fle1.readlines()
 	fle1.close()
@@ -80,8 +82,8 @@ def break_files(mirna_ages,gene_ages,diseases,tree):
 	disease_associations = fle3.readlines()
 	fle3.close()
 
-	fle4 = open(tree,'r')
-	tree_text = fle4.readlines()[0]
+	fle4 = open(family_associations,'r')
+	families = fle4.readlines()
 	fle4.close()
 
 
@@ -122,8 +124,80 @@ def break_files(mirna_ages,gene_ages,diseases,tree):
 				diseaselst = diseaselst + mirna2disease[mirna]
 		age2disease[age] = list(set(diseaselst))
 
+	family2members = {}
+	member2family_name = {}
 
-	return mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age
+	for line in families:
+		if line[0] == '#':
+			continue
+		p = breakfile(line)
+		family2members[p[0]] = p[1:]
+		for item in p[1:]:
+			member2family_name[item] = p[0]
+
+
+
+
+
+
+
+
+	return mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name
+
+def disease_number_correlations(mirna2disease,mirna2age):
+	age = []
+	number_disease = []
+
+	for mirna in mirna2disease:
+		age.append(mirna2age[mirna])
+		number_disease.append(len(mirna2disease[mirna]))
+	final_corr = spearmanr(age,number_disease)
+
+
+def make_vector(mirna_name,mirna2disease, diseaselst):
+	bin_vec = []
+
+	for dis in diseaselst:
+		if dis in mirna2disease[mirna_name]:
+			bin_vec.append(1)
+		else:
+			bin_vec.append(0)
+
+
+
+def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, mirna2disease):
+	mirna2hamming = {}
+	family2disease_members = {}
+
+	for fam in family2members:
+		new_mems = []
+		for mirna in family2members[fam]:
+			if mirna in mirna2disease and mirna in mirna2age:
+				new_mems.append(mirna)
+		if len(new_mems) > 4:
+			family2disease_members[fam] = new_mems
+
+	mirna_lst = [alpha for x in family2disease_members.values() for alpha in x]
+
+	for mirna in mirna_lst:
+		mirna2hamming[mirna] = make_vector(mirna, mirna2disease, diseaselst)
+
+
+
+
+
+
+
+
+
+
+
+
+	
+
+
+
+
 
 def main():
 
@@ -146,13 +220,24 @@ def main():
 		if arg == '-diseases':
 			disease_associations = args[index + 1]
 			continue
-		if arg == '-tree' in arg:
+		if arg == '-families' in arg:
 			family_associations = args[index + 1]
 			
 
-	mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age = break_files(mirna_ages, gene_ages, disease_associations, family_associations)
+	mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name = break_files(mirna_ages, gene_ages, disease_associations, family_associations)
 
-	
+
+	disease_number_correlations(mirna2disease, mirna2age)
+
+
+
+
+	a = [dis for alpha in mirna2disease.values() for dis in alpha]
+	diseaselst = sorted(list(set(a)))
+
+	hamming_distance(mirna2age, family2members, member2family_name, diseaselst, mirna2disease)
+
+
 
 
 

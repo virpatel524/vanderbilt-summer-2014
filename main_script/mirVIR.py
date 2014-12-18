@@ -159,14 +159,15 @@ def make_vector(mirna_name,mirna2disease, diseaselst):
 
 	for dis in diseaselst:
 		if dis in mirna2disease[mirna_name]:
-			bin_vec.append(1)
+			bin_vec.append(str(1))
 		else:
-			bin_vec.append(0)
+			bin_vec.append(str(0))
+	return bin_vec
 
 
 
 def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, mirna2disease):
-	mirna2hamming = {}
+	mirna2bin_vec = {}
 	family2disease_members = {}
 
 	for fam in family2members:
@@ -180,7 +181,26 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 	mirna_lst = [alpha for x in family2disease_members.values() for alpha in x]
 
 	for mirna in mirna_lst:
-		mirna2hamming[mirna] = make_vector(mirna, mirna2disease, diseaselst)
+		mirna2bin_vec[mirna] = make_vector(mirna, mirna2disease, diseaselst)
+
+	family2hamming_distances = {}
+
+
+	for fam in family2disease_members:
+		members = family2disease_members[fam]
+		family_vec = []
+		for mirna in members:
+			mir_spec_vec = []
+			for other in members:
+				vec1 = ''.join(mirna2bin_vec[mirna])
+				vec2 = ''.join(mirna2bin_vec[other])
+				mir_spec_vec.append(hamming(vec1, vec2))
+
+			family_vec.append(mir_spec_vec)
+		family2hamming_distances[fam] = family_vec
+
+	return family2hamming_distances
+
 
 
 
@@ -235,7 +255,7 @@ def main():
 	a = [dis for alpha in mirna2disease.values() for dis in alpha]
 	diseaselst = sorted(list(set(a)))
 
-	hamming_distance(mirna2age, family2members, member2family_name, diseaselst, mirna2disease)
+	family2hamming_distances = hamming_distance(mirna2age, family2members, member2family_name, diseaselst, mirna2disease)
 
 
 

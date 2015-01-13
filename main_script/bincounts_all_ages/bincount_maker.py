@@ -37,20 +37,18 @@ def bincount(xlab,name,lst,filename):
 
 
 
-for i in [50,60,75,80,85,95,100]:
-	fle = open('ages/hsa_' + str(i) + 'threshold_family_dollo_age-time.protein_list','r')
-	ages = fle.readlines()
-	fle.close()
 
-	ageslst = []
+fle = open('mirbase_method2_ages.txt','r')
+ages = fle.readlines()
+fle.close()
+ageslst = []
+for line in ages:
+	if line[0] == '#':
+		continue
+	p = breakfile(line)
+	ageslst.append(float(p[1]))
 
-	for line in ages:
-		if line[0] == '#':
-			continue
-		p = breakfile(line)
-		ageslst.append(float(p[1]))
-
-	bincount('Ages', 'Bincount of Ages in %.0f Threshold' %(i), ageslst, 'bincounts/'+str(i)+'thresh_bincount.png')
+bincount('Ages', 'Bincount of Ages in mirBase Method 2' ,ageslst, 'mirbase_method2_ages_bincount.png')
 
 
 	

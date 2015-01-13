@@ -51,4 +51,3 @@ Eutheria		104.7
 Homo		0.0
 Vertebrata		535.7
 Eumetazoa		937.0
-Hominoidea		15.7

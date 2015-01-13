@@ -1,7 +1,17 @@
 # easily extendable script that does all of my analyses
 
+import string
+import re
+import scipy
+import matplotlib.pyplot as plt
+import calendar
+import time
+import sys, os
+import math
+import random
 
-import sys, os, string, numpy, matplotlib.pyplot as plt, basicmethods
+
+import sys, os, string, numpy, matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 from distance import hamming
 from numpy import mean
@@ -70,6 +80,21 @@ def bincount(xlab,name,lst,filename):
 	return
 
 
+def mirna_rates(mirna2age):
+	mirna_ages = list(set(mirna2age.values()))
+	number_in_agecount = {}
+	for age in mirna_ages:
+		number_in_agecount[age] = 0
+
+	for age in mirna2age.values():
+		number_in_agecount[age] = number_in_agecount[age] + 1
+
+	
+
+
+
+
+
 
 
 
@@ -135,9 +160,11 @@ def break_files(mirna_ages,gene_ages,diseases,family_associations):
 		if line[0] == '#':
 			continue
 		p = breakfile(line)
-		family2members[p[0]] = p[1:]
-		for item in p[1:]:
-			member2family_name[item] = p[0]
+		if 'hsa' not in p[1]:
+			continue
+		items = p[1]
+		family2members.setdefault(p[0],[]).append(items)
+		member2family_name[items] = p[0]
 
 
 
@@ -156,6 +183,7 @@ def disease_number_correlations(mirna2disease,mirna2age):
 		age.append(mirna2age[mirna])
 		number_disease.append(len(mirna2disease[mirna]))
 	final_corr = spearmanr(age,number_disease)
+	print final_corr
 
 
 def make_vector(mirna_name,mirna2disease, diseaselst):
@@ -174,6 +202,7 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 	mirna2bin_vec = {}
 	family2disease_members = {}
 
+
 	for fam in family2members:
 		new_mems = []
 		for mirna in family2members[fam]:
@@ -181,6 +210,7 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 				new_mems.append(mirna)
 		if len(new_mems) > 4:
 			family2disease_members[fam] = new_mems
+
 
 	mirna_lst = [alpha for x in family2disease_members.values() for alpha in x]
 
@@ -274,7 +304,7 @@ def main():
 
 	family2hamming_distances = hamming_distance(mirna2age, family2members, member2family_name, diseaselst, mirna2disease)
 
-
+	mirna_rates(mirna2age)
 
 
 

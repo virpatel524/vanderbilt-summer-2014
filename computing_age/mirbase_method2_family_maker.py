@@ -1,6 +1,34 @@
-import scripter
+import string
+import re
+import scipy
+import matplotlib.pyplot as plt
+import calendar
+import time
+import sys, os
+import math
+import random
 
-fle = open("miFam.dat","r")
+
+def breakfile(line):
+	temp = line
+	temp = string.replace(temp, "\n", "")
+	temp = temp.split("\t")
+
+	return temp
+
+
+def bincountdict(lst):
+	countdict = {}
+	for item in lst:
+		if item in countdict:
+			countdict[item] += 1
+		else:
+			countdict[item] = 1
+
+	return countdict
+
+
+fle = open("mirbase_original_data.txt","r")
 text = fle.readlines()
 fle.close()
 mirna2mem = {}
@@ -9,21 +37,21 @@ for line in text:
 	if line[:2] != "MI":
 		continue
 	else:
-		pie = scripter.basicmethods.breakfile(line)
+		pie = breakfile(line)
 		print pie
 		part1 = pie[2][4:]
 		part2 = pie[2][:3]
 		mirna2mem.setdefault(part1,[]).append(part2)
 
 
-fle = open("organ.txt","r")
+fle = open("organisms.txt","r")
 text = fle.readlines()
 fle.close()
 ncbi2name = {}
 species2name = {}
 name2both = {}
 for line in text:
-	pie = scripter.basicmethods.breakfile(line)
+	pie = breakfile(line)
 	if "Virus" in pie[3]:
 		continue
 	ncbi2name[pie[4]] = pie[0]
@@ -46,12 +74,14 @@ for item in badapples:
 
 
 fle = open("famfilenew.txt","w")
-for mirna in mirna2mem:
-	species = mirna2mem[mirna]
+bad_ones = ['aqc','ghb','ssp','fru','hsv','hvt','ebv','rlc','hhv','mcm','pbi','jcv','bkv','mdv','hma','bpc','ksh']
+for mirna_upper in mirna2mem:
+	mirna = mirna_upper.lower()
+	species = [mir for mir in mirna2mem[mirna_upper] if mir not in bad_ones]
+	if species == []:
+		continue
 	string = ""
 	for index, item in enumerate(species):
-		if item == "ssp" or item == "ghb":
-			continue
 		if item != species[-1]:
 			string += "%s|mirBase:%s-%s " % (item,item,mirna)
 		else:

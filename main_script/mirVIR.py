@@ -81,13 +81,28 @@ def bincount(xlab,name,lst,filename):
 
 
 def mirna_rates(mirna2age):
-	mirna_ages = list(set(mirna2age.values()))
+	mirna_ages = sorted(list(set(mirna2age.values())))
 	number_in_agecount = {}
 	for age in mirna_ages:
 		number_in_agecount[age] = 0
 
 	for age in mirna2age.values():
 		number_in_agecount[age] = number_in_agecount[age] + 1
+
+	rates_lst = {}
+	fle = open('rates.txt','w')
+	for i in range(1,len(mirna_ages)):
+		end_age = mirna_ages[i-1]
+		start_age = mirna_ages[i]
+
+		calc = (float(number_in_agecount[end_age]) / float(start_age - end_age))
+		key = '%f to %f' %(start_age, end_age)
+		fle.write(key + ':' + str(calc) + '\n')
+		rates_lst[key] = calc
+
+	fle.close()
+
+
 
 	
 

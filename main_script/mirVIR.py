@@ -377,6 +377,23 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	plt.savefig('mirna_ages_vs_num_tars.png')
 	plt.close()
 
+def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age):
+	fle = open('mirnas_in_disease.txt','w')
+
+	for mirna in mirna2age:
+		if mirna in mirna2disease:
+			fle.write(mirna + '\n')
+
+	fle.close()
+
+	fle = open('mirnas_not_in_disease.txt','w')
+
+	for mirna in mirna2age:
+		if mirna not in mirna2disease:
+			fle.write(mirna + '\n')
+
+	fle.close()
+
 
 
 
@@ -439,7 +456,7 @@ def main():
 
 	target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age)
 
-
+	enrichment_lists(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age)
 	disease_txt_files(mirna2disease, disease2mirna)
 
 

@@ -1,0 +1,43 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirnas_not_in_disease.txt 2015-01-19 01:13:13.715928
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = mirnas_not_in_disease
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--mirnas_not_in_disease--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--mirnas_not_in_disease--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+# Proteins in mirnas_not_in_disease: 529
+# Proteins in Background: 1025
+#
+# age	label	mirnas_not_in_disease	Background	p-value
+0.0	0.0	142	151	0.000
+6.1	6.1	42	51	0.000
+15.7	15.7	67	107	0.019
+29.6	29.6	142	239	0.006
+44.2	44.2	0	1	0.484
+89.1	89.1	7	13	1.000
+97.4	97.4	92	238	0.000
+176.1	176.1	5	8	0.727
+220.2	220.2	1	4	0.359
+324.5	324.5	6	9	0.508
+361.2	361.2	0	9	0.001
+454.6	454.6	9	29	0.036
+535.7	535.7	11	83	0.000
+797.0	797.0	0	7	0.006
+842.0	842.0	0	5	0.026
+910.0	910.0	5	63	0.000
+937.0	937.0	0	8	0.003
+#
+# Mann-Whitney U test: U = 1.9e+05 (p = 1.05e-20)
+#
+# Average age of mirnas_not_in_disease: 61.8
+# Average age of Background: 169.9
+#
+# Median age of mirnas_not_in_disease: 29.6
+# Median age of Background: 29.6

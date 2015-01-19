@@ -1,9 +1,15 @@
 # easily extendable script that does all of my analyses
+import numpy as np
+from numpy.random import randn
+import pandas as pd
+from scipy import stats
+import matplotlib as mpl
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 import string
 import re
 import scipy
-import matplotlib.pyplot as plt
 import calendar
 import time
 import sys, os
@@ -130,6 +136,16 @@ def break_files(mirna_ages,gene_ages,diseases,family_associations):
 	families = fle4.readlines()
 	fle4.close()
 
+	gene2age = {}
+
+	for line in gene_ages_unparsed:
+		p = breakfile(line)
+		gene2age[p[0]] = p[1]
+
+
+
+
+
 
 
 	mirna2age = {}
@@ -188,7 +204,7 @@ def break_files(mirna_ages,gene_ages,diseases,family_associations):
 
 
 
-	return mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name
+	return mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age
 
 def disease_number_correlations(mirna2disease,mirna2age):
 	age = []
@@ -199,6 +215,20 @@ def disease_number_correlations(mirna2disease,mirna2age):
 		number_disease.append(len(mirna2disease[mirna]))
 	final_corr = spearmanr(age,number_disease)
 	print final_corr
+
+	age2num = {}
+	for mirna in mirna2disease:
+		age2num.setdefault(mirna2age[mirna], []).append(len(mirna2disease[mirna]))
+
+	labels = sorted(age2num.keys())
+	nums = [age2num[i] for i in labels]
+	plt.figure(figsize=(10,7))
+	plt.boxplot(nums,labels=labels)
+	plt.xlabel('miRNA Ages')
+	plt.ylabel('Number of Associated Diseases')
+	plt.title('miRNA Age versus Number of Disease Associations')
+	plt.savefig('mirna_ages_vs_num_dis.png')
+	plt.close()
 
 
 def make_vector(mirna_name,mirna2disease, diseaselst):
@@ -257,17 +287,58 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 		family_average_age.append(mean([mirna2age[mirna] for mirna in family2disease_members[fam_name]]))
 		mirna_max_hamming.append( max(mirna2family_hamming[mirna]))
 
-	print spearmanr(family_average_age, mirna_max_hamming)
+	corr =  spearmanr(family_average_age, mirna_max_hamming)
+	print corr
+
+
+
+def break_target(fle, tipo):
+	fle = open(fle,'r')
+	text = fle.readlines()
+	fle.close()
+
+	mirna2targets = {}
+	targets2mirna = {}
+
+	if tipo == 'verified':
+		for line in text:
+			p = breakfile(line)
+			if '3p' in p[1] or '5p' in p[1]:
+				mir = p[1][:-3].lower()
+			else:
+				mir = p[1].lower()
+			target = p[3]
+
+			mirna2targets.setdefault(mir,[]).append(target)
+			targets2mirna.setdefault(target,[]).append(mir)
+
+		verified_dicts = [mirna2targets, targets2mirna]
+
+
+	
+	return verified_dicts
 
 
 
 
+def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age):
+	mirs_with_tar = []
+	mirna2targets = verified_dicts[0]
+	targets2mirna = verified_dicts[1]
+	for mirna in mirna2age:
+		if mirna in mirna2targets:
+			mirs_with_tar.append(mirna)
+
+	mir_ages = []
+	tar_ages = []
+	for mirna in mirna2targets:
+		for target in mirna2targets[mirna]:
+			if target in gene2age and mirna in mirna2age:
+				mir_ages.append(float(mirna2age[mirna]))
+				tar_ages.append(float(gene2age[target]))
 
 
-
-
-
-
+	print spearmanr(mir_ages, tar_ages)
 
 
 
@@ -288,6 +359,9 @@ def main():
 	gene_ages = ''
 	disease_associations = ''
 	family_associations = ''
+	predicted_targets = ''
+	verified_targets = ''
+
 
 
 	args = sys.argv
@@ -302,11 +376,17 @@ def main():
 		if arg == '-diseases':
 			disease_associations = args[index + 1]
 			continue
-		if arg == '-families' in arg:
+		if arg == '-families':
 			family_associations = args[index + 1]
+		if arg == '-verified_targets':
+			verified_targets = args[index + 1]
+		if arg == '-predicted_targets':
+			predicted_targets = args[index + 1]
+
+
 			
 
-	mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name = break_files(mirna_ages, gene_ages, disease_associations, family_associations)
+	mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age = break_files(mirna_ages, gene_ages, disease_associations, family_associations)
 
 
 	disease_number_correlations(mirna2disease, mirna2age)
@@ -316,10 +396,13 @@ def main():
 
 	a = [dis for alpha in mirna2disease.values() for dis in alpha]
 	diseaselst = sorted(list(set(a)))
-
 	family2hamming_distances = hamming_distance(mirna2age, family2members, member2family_name, diseaselst, mirna2disease)
-
 	mirna_rates(mirna2age)
+	verified_dicts = break_target(verified_targets, 'verified')
+
+	target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age)
+
+
 
 
 

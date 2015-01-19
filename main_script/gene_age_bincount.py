@@ -1,5 +1,3 @@
-import string
-
 import numpy as np
 from numpy.random import randn
 import pandas as pd
@@ -7,6 +5,16 @@ from scipy import stats
 import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
+import string
+import re
+import scipy
+import matplotlib.pyplot as plt
+import calendar
+import time
+import sys, os
+import math
+import random
+
 
 
 def breakfile(line):
@@ -45,23 +53,32 @@ def bincount(xlab,name,lst,filename):
 
 
 
+arrg = sys.argv
+gene_fle = ''
+for index, arg in enumerate(arrg):
+	if arg == '-age_file':
+		gene_fle = arrg[index + 1]
 
-fle = open('mirbase_method2_ages.txt','r')
-ages = fle.readlines()
+
+fle = open(gene_fle, 'r')
+text = fle.readlines()
 fle.close()
-ageslst = []
-for line in ages:
-	if line[0] == '#':
-		continue
+
+gene2age = {}
+
+for line in text:
 	p = breakfile(line)
-	ageslst.append(float(p[1]))
+	gene2age[p[0]] = p[1]
+
+
+age_lst = gene2age.values()
+
+
+bincount('Ages', 'Bincount of Gene Ages (PH)' ,age_lst, 'ph_ages_bincount.png')
 
 
 
-bincount('Ages', 'Bincount of Ages in mirBase Method 2' ,ageslst, 'mirbase_method2_ages_bincount.png')
 
-
-	
 
 
 

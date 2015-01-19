@@ -5,5 +5,8 @@ echo $(python mirVIR.py  -age_file /Users/virpatel/projects/vanderbilt-summer-20
 # 	python /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py  -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt $disease
 # done
 
-python /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py  -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirnas_not_in_disease.txt
-python /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py  -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirnas_in_disease.txt
+
+
+
+# python /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py  -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirnas_not_in_disease.txt
+# python /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py  -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirnas_in_disease.txt

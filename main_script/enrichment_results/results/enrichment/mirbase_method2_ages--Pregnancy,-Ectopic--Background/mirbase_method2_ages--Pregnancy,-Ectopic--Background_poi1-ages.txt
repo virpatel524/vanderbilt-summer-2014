@@ -1,0 +1,18 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Pregnancy,-Ectopic.txt 2015-01-18 21:26:12.441291
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Pregnancy,-Ectopic
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Pregnancy,-Ectopic--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Pregnancy,-Ectopic--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-519d	29.6	29.6
+hsa-mir-517a	29.6	29.6
+hsa-mir-525	29.6	29.6

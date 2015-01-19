@@ -1,0 +1,49 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Schizophrenia.txt 2015-01-18 21:27:52.122995
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Schizophrenia
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Schizophrenia--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Schizophrenia--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-7-2	910.0	910.0
+hsa-mir-198	44.2	44.2
+hsa-mir-195	535.7	535.7
+hsa-mir-30a	535.7	535.7
+hsa-mir-30b	535.7	535.7
+hsa-mir-30d	535.7	535.7
+hsa-mir-30e	535.7	535.7
+hsa-mir-17	535.7	535.7
+hsa-mir-34a	910.0	910.0
+hsa-mir-346	97.4	97.4
+hsa-mir-106b	535.7	535.7
+hsa-mir-24-1	535.7	535.7
+hsa-mir-15a	535.7	535.7
+hsa-mir-15b	535.7	535.7
+hsa-mir-206	910.0	910.0
+hsa-mir-29c	910.0	910.0
+hsa-mir-29a	910.0	910.0
+hsa-let-7g	910.0	910.0
+hsa-mir-132	535.7	535.7
+hsa-mir-137	910.0	910.0
+hsa-mir-212	535.7	535.7
+hsa-mir-92b	910.0	910.0
+hsa-mir-92a-2	910.0	910.0
+hsa-mir-26b	535.7	535.7
+hsa-mir-9-1	910.0	910.0
+hsa-mir-9-3	910.0	910.0
+hsa-mir-7-3	910.0	910.0
+hsa-mir-29b-1	910.0	910.0
+hsa-mir-7-1	910.0	910.0
+hsa-mir-92a-1	910.0	910.0
+hsa-mir-20b	535.7	535.7
+hsa-mir-181b-1	535.7	535.7
+hsa-mir-181b-2	535.7	535.7
+hsa-mir-9-2	910.0	910.0

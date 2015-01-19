@@ -1,0 +1,58 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Retinoblastoma.txt 2015-01-18 21:27:15.321485
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Retinoblastoma
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Retinoblastoma--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Retinoblastoma--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-19a	535.7	535.7
+hsa-let-7f-2	910.0	910.0
+hsa-mir-125a	937.0	937.0
+hsa-mir-192	535.7	535.7
+hsa-mir-29b-2	910.0	910.0
+hsa-mir-17	535.7	535.7
+hsa-mir-34a	910.0	910.0
+hsa-mir-34c	910.0	910.0
+hsa-mir-24-1	535.7	535.7
+hsa-mir-29c	910.0	910.0
+hsa-mir-29a	910.0	910.0
+hsa-mir-124-2	910.0	910.0
+hsa-let-7b	910.0	910.0
+hsa-let-7c	910.0	910.0
+hsa-let-7g	910.0	910.0
+hsa-mir-18a	535.7	535.7
+hsa-let-7d	910.0	910.0
+hsa-mir-20a	535.7	535.7
+hsa-mir-30c-2	535.7	535.7
+hsa-mir-10b	937.0	937.0
+hsa-mir-513a-2	97.4	97.4
+hsa-mir-29b-1	910.0	910.0
+hsa-mir-92a-1	910.0	910.0
+hsa-mir-181b-1	535.7	535.7
+hsa-mir-376a-1	97.4	97.4
+hsa-mir-376a-2	97.4	97.4
+hsa-mir-19b-1	535.7	535.7
+hsa-mir-513a-1	97.4	97.4
+hsa-mir-513c	97.4	97.4
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-mir-124-1	910.0	910.0
+hsa-mir-124-3	910.0	910.0
+hsa-mir-181b-2	535.7	535.7
+hsa-let-7i	910.0	910.0
+hsa-let-7e	910.0	910.0
+hsa-mir-497	176.1	176.1
+hsa-mir-135b	797.0	797.0
+hsa-mir-491	97.4	97.4
+hsa-mir-513b	97.4	97.4
+hsa-mir-142	454.6	454.6
+hsa-let-7f-1	910.0	910.0

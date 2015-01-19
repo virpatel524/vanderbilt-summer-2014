@@ -1,0 +1,39 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Salivary-Gland-Neoplasms.txt 2015-01-18 21:27:30.687389
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Salivary-Gland-Neoplasms
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Salivary-Gland-Neoplasms--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Salivary-Gland-Neoplasms--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-409	97.4	97.4
+hsa-mir-29c	910.0	910.0
+hsa-mir-299	97.4	97.4
+hsa-mir-495	97.4	97.4
+hsa-mir-188	97.4	97.4
+hsa-mir-337	97.4	97.4
+hsa-mir-302c	361.2	361.2
+hsa-mir-21	454.6	454.6
+hsa-mir-154	97.4	97.4
+hsa-mir-449b	842.0	842.0
+hsa-mir-449a	842.0	842.0
+hsa-mir-375	910.0	910.0
+hsa-mir-99b	937.0	937.0
+hsa-mir-144	535.7	535.7
+hsa-mir-20b	535.7	535.7
+hsa-mir-140	454.6	454.6
+hsa-mir-376a-1	97.4	97.4
+hsa-mir-376a-2	97.4	97.4
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-mir-301b	535.7	535.7
+hsa-mir-301a	535.7	535.7
+hsa-mir-23b	535.7	535.7

@@ -1,0 +1,30 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Psoriasis.txt 2015-01-18 21:26:35.292139
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Psoriasis
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Psoriasis--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Psoriasis--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-125b-1	937.0	937.0
+hsa-mir-125b-2	937.0	937.0
+hsa-mir-197	97.4	97.4
+hsa-mir-99a	937.0	937.0
+hsa-mir-423	97.4	97.4
+hsa-mir-150	454.6	454.6
+hsa-mir-21	454.6	454.6
+hsa-mir-146b	535.7	535.7
+hsa-mir-100	937.0	937.0
+hsa-mir-223	454.6	454.6
+hsa-mir-1266	15.7	15.7
+hsa-mir-31	910.0	910.0
+hsa-mir-492	97.4	97.4
+hsa-mir-142	454.6	454.6
+hsa-mir-146a	535.7	535.7

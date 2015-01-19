@@ -1,0 +1,34 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Sarcoma,-Kaposi.txt 2015-01-18 21:27:39.890299
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Sarcoma,-Kaposi
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Sarcoma,-Kaposi--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Sarcoma,-Kaposi--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-let-7f-2	910.0	910.0
+hsa-mir-608	15.7	15.7
+hsa-mir-498	89.1	89.1
+hsa-mir-320d-2	97.4	97.4
+hsa-mir-320d-1	97.4	97.4
+hsa-let-7b	910.0	910.0
+hsa-let-7c	910.0	910.0
+hsa-let-7g	910.0	910.0
+hsa-let-7d	910.0	910.0
+hsa-mir-1293	6.1	6.1
+hsa-mir-222	535.7	535.7
+hsa-mir-221	535.7	535.7
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-let-7i	910.0	910.0
+hsa-let-7e	910.0	910.0
+hsa-mir-98	910.0	910.0
+hsa-let-7f-1	910.0	910.0

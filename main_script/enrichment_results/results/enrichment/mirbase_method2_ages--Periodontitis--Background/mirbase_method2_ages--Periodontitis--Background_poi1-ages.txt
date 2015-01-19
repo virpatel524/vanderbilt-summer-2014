@@ -1,0 +1,32 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Periodontitis.txt 2015-01-18 21:25:31.031495
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Periodontitis
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Periodontitis--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Periodontitis--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-520d	29.6	29.6
+hsa-mir-30a	535.7	535.7
+hsa-mir-17	535.7	535.7
+hsa-let-7c	910.0	910.0
+hsa-mir-548a-3	29.6	29.6
+hsa-mir-548a-2	29.6	29.6
+hsa-mir-548a-1	29.6	29.6
+hsa-mir-181b-1	535.7	535.7
+hsa-mir-19b-2	535.7	535.7
+hsa-mir-19b-1	535.7	535.7
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-mir-130a	535.7	535.7
+hsa-mir-181b-2	535.7	535.7
+hsa-mir-301a	535.7	535.7
+hsa-mir-23a	535.7	535.7

@@ -1,0 +1,17 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Neoplasms,-Glandular-and-Epithelial.txt 2015-01-18 21:23:14.350470
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Neoplasms,-Glandular-and-Epithelial
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Neoplasms,-Glandular-and-Epithelial--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Neoplasms,-Glandular-and-Epithelial--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-153-2	910.0	910.0
+hsa-mir-153-1	910.0	910.0

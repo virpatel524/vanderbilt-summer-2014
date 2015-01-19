@@ -1,0 +1,92 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Esophageal-Neoplasms.txt 2015-01-18 21:14:43.346496
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Esophageal-Neoplasms
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Esophageal-Neoplasms--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Esophageal-Neoplasms--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-1322	15.7	15.7
+hsa-mir-126	797.0	797.0
+hsa-mir-19a	535.7	535.7
+hsa-mir-200a	910.0	910.0
+hsa-mir-30b	535.7	535.7
+hsa-mir-99a	937.0	937.0
+hsa-mir-193a	910.0	910.0
+hsa-mir-145	535.7	535.7
+hsa-mir-141	910.0	910.0
+hsa-mir-34a	910.0	910.0
+hsa-mir-34b	910.0	910.0
+hsa-mir-34c	910.0	910.0
+hsa-mir-1286	15.7	15.7
+hsa-mir-342	97.4	97.4
+hsa-mir-519c	29.6	29.6
+hsa-mir-15a	535.7	535.7
+hsa-mir-205	535.7	535.7
+hsa-mir-29c	910.0	910.0
+hsa-mir-296	97.4	97.4
+hsa-mir-1246	15.7	15.7
+hsa-mir-26a-2	535.7	535.7
+hsa-mir-26a-1	535.7	535.7
+hsa-mir-183	842.0	842.0
+hsa-let-7b	910.0	910.0
+hsa-let-7c	910.0	910.0
+hsa-mir-425	361.2	361.2
+hsa-mir-302f	361.2	361.2
+hsa-mir-150	454.6	454.6
+hsa-mir-155	454.6	454.6
+hsa-mir-20a	535.7	535.7
+hsa-mir-21	454.6	454.6
+hsa-mir-22	842.0	842.0
+hsa-mir-758	97.4	97.4
+hsa-mir-130b	535.7	535.7
+hsa-mir-375	910.0	910.0
+hsa-mir-214	454.6	454.6
+hsa-mir-548d-2	29.6	29.6
+hsa-mir-210	910.0	910.0
+hsa-mir-548d-1	29.6	29.6
+hsa-mir-574	97.4	97.4
+hsa-mir-100	937.0	937.0
+hsa-mir-92a-2	910.0	910.0
+hsa-mir-101-1	454.6	454.6
+hsa-mir-302a	361.2	361.2
+hsa-mir-593	29.6	29.6
+hsa-mir-196b	535.7	535.7
+hsa-mir-196a-2	535.7	535.7
+hsa-mir-28	176.1	176.1
+hsa-mir-617	15.7	15.7
+hsa-mir-200c	910.0	910.0
+hsa-mir-99b	937.0	937.0
+hsa-mir-92a-1	910.0	910.0
+hsa-mir-143	535.7	535.7
+hsa-mir-223	454.6	454.6
+hsa-mir-25	910.0	910.0
+hsa-mir-766	15.7	15.7
+hsa-mir-101-2	454.6	454.6
+hsa-mir-31	910.0	910.0
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-mir-27a	535.7	535.7
+hsa-mir-133a-1	910.0	910.0
+hsa-mir-133a-2	910.0	910.0
+hsa-mir-130a	535.7	535.7
+hsa-mir-518b	29.6	29.6
+hsa-mir-98	910.0	910.0
+hsa-mir-129-2	797.0	797.0
+hsa-mir-135b	797.0	797.0
+hsa-mir-148a	535.7	535.7
+hsa-mir-196a-1	535.7	535.7
+hsa-mir-452	97.4	97.4
+hsa-mir-454	454.6	454.6
+hsa-mir-455	454.6	454.6
+hsa-mir-199a-1	535.7	535.7
+hsa-mir-199a-2	535.7	535.7
+hsa-mir-146a	535.7	535.7

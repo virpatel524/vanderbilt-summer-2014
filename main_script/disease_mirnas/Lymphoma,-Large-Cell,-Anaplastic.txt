@@ -1,0 +1,11 @@
+hsa-mir-19a
+hsa-mir-17
+hsa-mir-18a
+hsa-mir-155
+hsa-mir-20a
+hsa-mir-92a-2
+hsa-mir-101-1
+hsa-mir-92a-1
+hsa-mir-101-2
+hsa-mir-19b-2
+hsa-mir-19b-1

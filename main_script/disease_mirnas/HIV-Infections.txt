@@ -1,0 +1,6 @@
+hsa-mir-125b-1
+hsa-mir-125b-2
+hsa-mir-382
+hsa-mir-150
+hsa-mir-28
+hsa-mir-146a

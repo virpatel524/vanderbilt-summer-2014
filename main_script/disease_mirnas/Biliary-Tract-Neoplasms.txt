@@ -1,0 +1,15 @@
+hsa-let-7f-2
+hsa-mir-145
+hsa-mir-421
+hsa-mir-147b
+hsa-mir-302c
+hsa-mir-942
+hsa-mir-105-2
+hsa-mir-9-1
+hsa-mir-9-3
+hsa-mir-222
+hsa-let-7i
+hsa-mir-105-1
+hsa-mir-199a-1
+hsa-mir-199a-2
+hsa-mir-9-2

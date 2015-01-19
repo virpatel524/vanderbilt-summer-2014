@@ -1,0 +1,16 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Myositis-Ossificans.txt 2015-01-18 21:22:57.258201
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Myositis-Ossificans
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Myositis-Ossificans--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Myositis-Ossificans--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-148a	535.7	535.7

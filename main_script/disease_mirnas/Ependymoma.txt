@@ -1,0 +1,8 @@
+hsa-mir-485
+hsa-mir-135a-2
+hsa-mir-135a-1
+hsa-mir-17
+hsa-mir-383
+hsa-let-7d
+hsa-mir-596
+hsa-mir-367

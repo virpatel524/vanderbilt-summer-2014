@@ -1,0 +1,22 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/HBV-Infection.txt 2015-01-18 21:16:36.607824
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = HBV-Infection
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--HBV-Infection--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--HBV-Infection--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-122	454.6	454.6
+hsa-mir-197	97.4	97.4
+hsa-mir-34b	910.0	910.0
+hsa-mir-34c	910.0	910.0
+hsa-mir-22	842.0	842.0
+hsa-mir-196a-2	535.7	535.7
+hsa-mir-196a-1	535.7	535.7

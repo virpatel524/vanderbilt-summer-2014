@@ -1,0 +1,17 @@
+hsa-mir-520d
+hsa-mir-30a
+hsa-mir-17
+hsa-let-7c
+hsa-mir-548a-3
+hsa-mir-548a-2
+hsa-mir-548a-1
+hsa-mir-181b-1
+hsa-mir-19b-2
+hsa-mir-19b-1
+hsa-let-7a-2
+hsa-let-7a-3
+hsa-let-7a-1
+hsa-mir-130a
+hsa-mir-181b-2
+hsa-mir-301a
+hsa-mir-23a

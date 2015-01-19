@@ -1,0 +1,72 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Lupus-Vulgaris.txt 2015-01-18 21:20:54.431181
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Lupus-Vulgaris
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Lupus-Vulgaris--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Lupus-Vulgaris--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-484	97.4	97.4
+hsa-mir-198	44.2	44.2
+hsa-mir-195	535.7	535.7
+hsa-mir-197	97.4	97.4
+hsa-mir-557	29.6	29.6
+hsa-mir-642a	29.6	29.6
+hsa-mir-30a	535.7	535.7
+hsa-mir-30d	535.7	535.7
+hsa-mir-99a	937.0	937.0
+hsa-mir-601	29.6	29.6
+hsa-mir-602	15.7	15.7
+hsa-mir-608	15.7	15.7
+hsa-mir-346	97.4	97.4
+hsa-mir-516b-1	29.6	29.6
+hsa-mir-296	97.4	97.4
+hsa-mir-494	97.4	97.4
+hsa-mir-637	15.7	15.7
+hsa-mir-184	910.0	910.0
+hsa-mir-185	97.4	97.4
+hsa-mir-500a	97.4	97.4
+hsa-mir-423	97.4	97.4
+hsa-mir-150	454.6	454.6
+hsa-mir-611	29.6	29.6
+hsa-mir-615	97.4	97.4
+hsa-mir-769	97.4	97.4
+hsa-mir-130b	535.7	535.7
+hsa-mir-516a-1	29.6	29.6
+hsa-mir-575	15.7	15.7
+hsa-mir-210	910.0	910.0
+hsa-mir-657	29.6	29.6
+hsa-mir-654	97.4	97.4
+hsa-mir-622	29.6	29.6
+hsa-mir-433	97.4	97.4
+hsa-mir-596	15.7	15.7
+hsa-mir-658	97.4	97.4
+hsa-mir-200c	910.0	910.0
+hsa-mir-223	454.6	454.6
+hsa-mir-583	29.6	29.6
+hsa-mir-134	97.4	97.4
+hsa-mir-208b	454.6	454.6
+hsa-mir-612	29.6	29.6
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-mir-662	29.6	29.6
+hsa-mir-638	29.6	29.6
+hsa-mir-518b	29.6	29.6
+hsa-mir-518c	29.6	29.6
+hsa-let-7e	910.0	910.0
+hsa-mir-516a-2	29.6	29.6
+hsa-mir-516b-2	29.6	29.6
+hsa-mir-23a	535.7	535.7
+hsa-mir-629	6.1	6.1
+hsa-mir-142	454.6	454.6
+hsa-mir-324	97.4	97.4
+hsa-mir-146a	535.7	535.7
+hsa-mir-600	29.6	29.6

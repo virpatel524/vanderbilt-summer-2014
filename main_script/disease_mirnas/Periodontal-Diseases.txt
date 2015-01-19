@@ -1,0 +1,5 @@
+hsa-mir-30e
+hsa-mir-106b
+hsa-mir-155
+hsa-mir-146b
+hsa-mir-146a

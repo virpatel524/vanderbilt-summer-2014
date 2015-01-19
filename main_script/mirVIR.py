@@ -230,6 +230,18 @@ def disease_number_correlations(mirna2disease,mirna2age):
 	plt.savefig('mirna_ages_vs_num_dis.png')
 	plt.close()
 
+def disease_txt_files(mirna2disease, disease2mirna):
+	for disease in disease2mirna:
+		name = disease.split(' ')
+		name = '-'.join(name)
+		newname = 'disease_mirnas/%s.txt' %(name)
+		fle = open(newname,'w')
+
+		for mirna in disease2mirna[disease]:
+			fle.write('%s\n' %(mirna))
+		fle.close()
+	print len(mirna2disease)
+
 
 def make_vector(mirna_name,mirna2disease, diseaselst):
 	bin_vec = []
@@ -403,7 +415,7 @@ def main():
 	target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age)
 
 
-
+	disease_txt_files(mirna2disease, disease2mirna)
 
 
 

@@ -1,0 +1,30 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Biliary-Tract-Neoplasms.txt 2015-01-18 21:09:34.809146
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Biliary-Tract-Neoplasms
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Biliary-Tract-Neoplasms--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Biliary-Tract-Neoplasms--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-let-7f-2	910.0	910.0
+hsa-mir-145	535.7	535.7
+hsa-mir-421	97.4	97.4
+hsa-mir-147b	454.6	454.6
+hsa-mir-302c	361.2	361.2
+hsa-mir-942	29.6	29.6
+hsa-mir-105-2	97.4	97.4
+hsa-mir-9-1	910.0	910.0
+hsa-mir-9-3	910.0	910.0
+hsa-mir-222	535.7	535.7
+hsa-let-7i	910.0	910.0
+hsa-mir-105-1	97.4	97.4
+hsa-mir-199a-1	535.7	535.7
+hsa-mir-199a-2	535.7	535.7
+hsa-mir-9-2	910.0	910.0

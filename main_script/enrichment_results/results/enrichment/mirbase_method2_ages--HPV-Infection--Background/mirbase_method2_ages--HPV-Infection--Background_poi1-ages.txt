@@ -1,0 +1,21 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/HPV-Infection.txt 2015-01-18 21:17:01.224621
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = HPV-Infection
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--HPV-Infection--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--HPV-Infection--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-1287	97.4	97.4
+hsa-mir-1286	15.7	15.7
+hsa-mir-641	6.1	6.1
+hsa-mir-1290	15.7	15.7
+hsa-mir-95	97.4	97.4
+hsa-mir-432	97.4	97.4

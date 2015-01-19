@@ -1,0 +1,13 @@
+hsa-mir-520a
+hsa-mir-520b
+hsa-mir-520e
+hsa-mir-520d
+hsa-mir-520g
+hsa-mir-520h
+hsa-mir-519e
+hsa-mir-519d
+hsa-mir-519c
+hsa-mir-519b
+hsa-mir-520f
+hsa-mir-519a-1
+hsa-mir-519a-2

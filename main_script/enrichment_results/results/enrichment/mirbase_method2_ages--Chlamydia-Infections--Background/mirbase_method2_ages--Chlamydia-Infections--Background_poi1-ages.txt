@@ -1,0 +1,16 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Chlamydia-Infections.txt 2015-01-18 21:12:01.064654
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Chlamydia-Infections
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Chlamydia-Infections--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Chlamydia-Infections--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-146a	535.7	535.7

@@ -1,0 +1,7 @@
+hsa-mir-484
+hsa-mir-200b
+hsa-mir-99a
+hsa-mir-503
+hsa-mir-214
+hsa-mir-210
+hsa-mir-100

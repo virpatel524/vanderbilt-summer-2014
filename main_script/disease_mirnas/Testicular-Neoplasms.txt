@@ -1,0 +1,6 @@
+hsa-mir-133b
+hsa-mir-373
+hsa-mir-372
+hsa-mir-629
+hsa-mir-199a-1
+hsa-mir-199a-2

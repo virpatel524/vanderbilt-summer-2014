@@ -1,0 +1,42 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Hypertrophy.txt 2015-01-18 21:18:15.173976
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Hypertrophy
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Hypertrophy--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Hypertrophy--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-let-7f-2	910.0	910.0
+hsa-mir-208a	454.6	454.6
+hsa-mir-206	910.0	910.0
+hsa-mir-26a-2	535.7	535.7
+hsa-mir-26a-1	535.7	535.7
+hsa-let-7b	910.0	910.0
+hsa-let-7c	910.0	910.0
+hsa-let-7g	910.0	910.0
+hsa-let-7d	910.0	910.0
+hsa-mir-133b	910.0	910.0
+hsa-mir-155	454.6	454.6
+hsa-mir-21	454.6	454.6
+hsa-mir-26b	535.7	535.7
+hsa-mir-221	535.7	535.7
+hsa-mir-1-1	910.0	910.0
+hsa-mir-1-2	910.0	910.0
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-mir-133a-1	910.0	910.0
+hsa-mir-133a-2	910.0	910.0
+hsa-let-7i	910.0	910.0
+hsa-let-7e	910.0	910.0
+hsa-mir-98	910.0	910.0
+hsa-mir-23a	535.7	535.7
+hsa-mir-142	454.6	454.6
+hsa-let-7f-1	910.0	910.0

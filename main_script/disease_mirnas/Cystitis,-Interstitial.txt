@@ -1,0 +1,12 @@
+hsa-mir-320a
+hsa-mir-328
+hsa-mir-320c-1
+hsa-mir-320c-2
+hsa-mir-320d-2
+hsa-mir-320d-1
+hsa-mir-500a
+hsa-mir-320b-1
+hsa-mir-320b-2
+hsa-mir-449b
+hsa-mir-199a-1
+hsa-mir-199a-2

@@ -1,0 +1,8 @@
+hsa-mir-200a
+hsa-mir-106b
+hsa-let-7c
+hsa-mir-137
+hsa-mir-217
+hsa-mir-363
+hsa-mir-93
+hsa-mir-490

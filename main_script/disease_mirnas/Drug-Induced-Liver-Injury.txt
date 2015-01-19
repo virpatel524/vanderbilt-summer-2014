@@ -1,0 +1,2 @@
+hsa-mir-122
+hsa-mir-192

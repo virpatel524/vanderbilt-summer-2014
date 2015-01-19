@@ -1,0 +1,75 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Adrenocortical-Carcinoma.txt 2015-01-18 21:07:30.674772
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Adrenocortical-Carcinoma
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Adrenocortical-Carcinoma--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Adrenocortical-Carcinoma--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-675	97.4	97.4
+hsa-mir-7-2	910.0	910.0
+hsa-mir-126	797.0	797.0
+hsa-mir-125b-1	937.0	937.0
+hsa-mir-125b-2	937.0	937.0
+hsa-mir-484	97.4	97.4
+hsa-mir-195	535.7	535.7
+hsa-mir-192	535.7	535.7
+hsa-mir-200b	910.0	910.0
+hsa-mir-135a-2	797.0	797.0
+hsa-mir-135a-1	797.0	797.0
+hsa-mir-30a	535.7	535.7
+hsa-mir-424	97.4	97.4
+hsa-mir-17	535.7	535.7
+hsa-mir-376b	97.4	97.4
+hsa-mir-376c	97.4	97.4
+hsa-mir-145	535.7	535.7
+hsa-mir-16-2	535.7	535.7
+hsa-mir-106b	535.7	535.7
+hsa-mir-15b	535.7	535.7
+hsa-mir-194-1	535.7	535.7
+hsa-mir-194-2	535.7	535.7
+hsa-let-7b	910.0	910.0
+hsa-let-7c	910.0	910.0
+hsa-let-7d	910.0	910.0
+hsa-mir-335	97.4	97.4
+hsa-mir-132	535.7	535.7
+hsa-mir-155	454.6	454.6
+hsa-mir-137	910.0	910.0
+hsa-mir-449b	842.0	842.0
+hsa-mir-449a	842.0	842.0
+hsa-mir-375	910.0	910.0
+hsa-mir-210	910.0	910.0
+hsa-mir-100	937.0	937.0
+hsa-mir-16-1	535.7	535.7
+hsa-mir-196a-2	535.7	535.7
+hsa-mir-28	176.1	176.1
+hsa-mir-7-3	910.0	910.0
+hsa-mir-7-1	910.0	910.0
+hsa-mir-200c	910.0	910.0
+hsa-mir-143	535.7	535.7
+hsa-mir-222	535.7	535.7
+hsa-mir-1-1	910.0	910.0
+hsa-mir-1-2	910.0	910.0
+hsa-mir-139	454.6	454.6
+hsa-mir-376a-1	97.4	97.4
+hsa-mir-376a-2	97.4	97.4
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-mir-133a-1	910.0	910.0
+hsa-mir-133a-2	910.0	910.0
+hsa-mir-130a	535.7	535.7
+hsa-mir-301b	535.7	535.7
+hsa-mir-301a	535.7	535.7
+hsa-mir-23b	535.7	535.7
+hsa-mir-148a	535.7	535.7
+hsa-mir-196a-1	535.7	535.7
+hsa-mir-491	97.4	97.4
+hsa-mir-146a	535.7	535.7

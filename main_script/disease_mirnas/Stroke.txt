@@ -1,0 +1,16 @@
+hsa-mir-122
+hsa-let-7f-2
+hsa-mir-145
+hsa-mir-298
+hsa-mir-124-2
+hsa-mir-155
+hsa-mir-181a-1
+hsa-mir-1-1
+hsa-mir-1-2
+hsa-mir-362
+hsa-mir-133a-1
+hsa-mir-133a-2
+hsa-mir-124-1
+hsa-mir-124-3
+hsa-mir-497
+hsa-let-7f-1

@@ -1,0 +1,29 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Diabetes-Mellitus,-Type-2.txt 2015-01-18 21:13:37.729302
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Diabetes-Mellitus,-Type-2
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Diabetes-Mellitus,-Type-2--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Diabetes-Mellitus,-Type-2--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-126	797.0	797.0
+hsa-mir-197	97.4	97.4
+hsa-mir-191	361.2	361.2
+hsa-mir-320a	97.4	97.4
+hsa-mir-99a	937.0	937.0
+hsa-mir-24-1	535.7	535.7
+hsa-mir-15a	535.7	535.7
+hsa-mir-21	454.6	454.6
+hsa-mir-107	535.7	535.7
+hsa-mir-144	535.7	535.7
+hsa-mir-20b	535.7	535.7
+hsa-mir-143	535.7	535.7
+hsa-mir-223	454.6	454.6
+hsa-mir-146a	535.7	535.7

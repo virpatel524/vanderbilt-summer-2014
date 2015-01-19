@@ -1,0 +1,71 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Endometrial-Neoplasms.txt 2015-01-18 21:14:21.658524
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Endometrial-Neoplasms
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Endometrial-Neoplasms--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Endometrial-Neoplasms--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-125b-1	937.0	937.0
+hsa-mir-125b-2	937.0	937.0
+hsa-let-7f-2	910.0	910.0
+hsa-mir-200b	910.0	910.0
+hsa-mir-200a	910.0	910.0
+hsa-mir-99a	937.0	937.0
+hsa-mir-193b	910.0	910.0
+hsa-mir-193a	910.0	910.0
+hsa-mir-208a	454.6	454.6
+hsa-mir-18b	535.7	535.7
+hsa-mir-141	910.0	910.0
+hsa-mir-205	535.7	535.7
+hsa-mir-204	535.7	535.7
+hsa-mir-29c	910.0	910.0
+hsa-mir-633	29.6	29.6
+hsa-mir-194-1	535.7	535.7
+hsa-mir-194-2	535.7	535.7
+hsa-mir-182	910.0	910.0
+hsa-mir-183	842.0	842.0
+hsa-mir-186	220.2	220.2
+hsa-mir-124-2	910.0	910.0
+hsa-let-7b	910.0	910.0
+hsa-let-7c	910.0	910.0
+hsa-let-7g	910.0	910.0
+hsa-let-7d	910.0	910.0
+hsa-mir-152	535.7	535.7
+hsa-mir-155	454.6	454.6
+hsa-mir-153-2	910.0	910.0
+hsa-mir-21	454.6	454.6
+hsa-mir-30c-2	535.7	535.7
+hsa-mir-30c-1	535.7	535.7
+hsa-mir-130b	535.7	535.7
+hsa-mir-146b	535.7	535.7
+hsa-mir-210	910.0	910.0
+hsa-mir-100	937.0	937.0
+hsa-mir-625	29.6	29.6
+hsa-mir-9-1	910.0	910.0
+hsa-mir-9-3	910.0	910.0
+hsa-mir-200c	910.0	910.0
+hsa-mir-1-1	910.0	910.0
+hsa-mir-153-1	910.0	910.0
+hsa-let-7a-2	910.0	910.0
+hsa-let-7a-3	910.0	910.0
+hsa-let-7a-1	910.0	910.0
+hsa-mir-27a	535.7	535.7
+hsa-mir-27b	535.7	535.7
+hsa-mir-124-1	910.0	910.0
+hsa-mir-124-3	910.0	910.0
+hsa-let-7i	910.0	910.0
+hsa-let-7e	910.0	910.0
+hsa-mir-199b	535.7	535.7
+hsa-mir-96	910.0	910.0
+hsa-mir-148a	535.7	535.7
+hsa-mir-142	454.6	454.6
+hsa-let-7f-1	910.0	910.0
+hsa-mir-9-2	910.0	910.0

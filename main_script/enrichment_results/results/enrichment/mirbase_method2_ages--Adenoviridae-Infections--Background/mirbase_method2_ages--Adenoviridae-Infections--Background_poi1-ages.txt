@@ -1,0 +1,84 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Adenoviridae-Infections.txt 2015-01-18 21:07:15.565637
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Adenoviridae-Infections
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Adenoviridae-Infections--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Adenoviridae-Infections--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-7-2	910.0	910.0
+hsa-mir-125b-1	937.0	937.0
+hsa-mir-125b-2	937.0	937.0
+hsa-mir-191	361.2	361.2
+hsa-mir-30a	535.7	535.7
+hsa-mir-30b	535.7	535.7
+hsa-mir-505	97.4	97.4
+hsa-mir-1302-7	97.4	97.4
+hsa-mir-18b	535.7	535.7
+hsa-mir-17	535.7	535.7
+hsa-mir-1302-3	97.4	97.4
+hsa-mir-34a	910.0	910.0
+hsa-mir-345	97.4	97.4
+hsa-mir-342	97.4	97.4
+hsa-mir-320c-2	97.4	97.4
+hsa-mir-1247	97.4	97.4
+hsa-mir-1246	15.7	15.7
+hsa-mir-1972-1	0.0	0.0
+hsa-mir-421	97.4	97.4
+hsa-mir-589	97.4	97.4
+hsa-mir-18a	535.7	535.7
+hsa-mir-338	454.6	454.6
+hsa-mir-150	454.6	454.6
+hsa-mir-33a	910.0	910.0
+hsa-mir-30c-2	535.7	535.7
+hsa-mir-30c-1	535.7	535.7
+hsa-mir-942	29.6	29.6
+hsa-mir-146b	535.7	535.7
+hsa-mir-210	910.0	910.0
+hsa-mir-655	97.4	97.4
+hsa-mir-650	29.6	29.6
+hsa-mir-1180	97.4	97.4
+hsa-mir-92a-2	910.0	910.0
+hsa-mir-26b	535.7	535.7
+hsa-mir-627	29.6	29.6
+hsa-mir-101-1	454.6	454.6
+hsa-mir-433	97.4	97.4
+hsa-mir-196b	535.7	535.7
+hsa-mir-7-3	910.0	910.0
+hsa-mir-7-1	910.0	910.0
+hsa-mir-92a-1	910.0	910.0
+hsa-mir-374b	97.4	97.4
+hsa-mir-25	910.0	910.0
+hsa-mir-181b-1	535.7	535.7
+hsa-mir-619	29.6	29.6
+hsa-mir-582	97.4	97.4
+hsa-mir-744	97.4	97.4
+hsa-mir-101-2	454.6	454.6
+hsa-mir-19b-2	535.7	535.7
+hsa-mir-19b-1	535.7	535.7
+hsa-mir-362	97.4	97.4
+hsa-mir-1302-4	97.4	97.4
+hsa-mir-1302-2	97.4	97.4
+hsa-mir-1302-1	97.4	97.4
+hsa-mir-566	15.7	15.7
+hsa-mir-1302-8	97.4	97.4
+hsa-mir-27a	535.7	535.7
+hsa-mir-27b	535.7	535.7
+hsa-mir-519a-1	29.6	29.6
+hsa-mir-635	6.1	6.1
+hsa-mir-181b-2	535.7	535.7
+hsa-let-7e	910.0	910.0
+hsa-mir-1184-1	6.1	6.1
+hsa-mir-1302-6	97.4	97.4
+hsa-mir-148b	535.7	535.7
+hsa-mir-148a	535.7	535.7
+hsa-mir-452	97.4	97.4
+hsa-mir-454	454.6	454.6
+hsa-mir-324	97.4	97.4

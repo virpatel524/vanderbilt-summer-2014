@@ -1,0 +1,48 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Lymphoma,-B-Cell.txt 2015-01-18 21:20:57.492966
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Lymphoma,-B-Cell
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Lymphoma,-B-Cell--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Lymphoma,-B-Cell--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+#protein	age	label
+hsa-mir-19a	535.7	535.7
+hsa-mir-195	535.7	535.7
+hsa-mir-30e	535.7	535.7
+hsa-mir-29b-2	910.0	910.0
+hsa-mir-193b	910.0	910.0
+hsa-mir-17	535.7	535.7
+hsa-mir-145	535.7	535.7
+hsa-mir-34a	910.0	910.0
+hsa-mir-15a	535.7	535.7
+hsa-mir-29c	910.0	910.0
+hsa-mir-29a	910.0	910.0
+hsa-mir-18a	535.7	535.7
+hsa-mir-150	454.6	454.6
+hsa-mir-155	454.6	454.6
+hsa-mir-20a	535.7	535.7
+hsa-mir-21	454.6	454.6
+hsa-mir-22	842.0	842.0
+hsa-mir-181a-1	535.7	535.7
+hsa-mir-214	454.6	454.6
+hsa-mir-16-1	535.7	535.7
+hsa-mir-92a-2	910.0	910.0
+hsa-mir-26b	535.7	535.7
+hsa-mir-9-1	910.0	910.0
+hsa-mir-9-3	910.0	910.0
+hsa-mir-29b-1	910.0	910.0
+hsa-mir-92a-1	910.0	910.0
+hsa-mir-143	535.7	535.7
+hsa-mir-19b-2	535.7	535.7
+hsa-mir-19b-1	535.7	535.7
+hsa-mir-199a-1	535.7	535.7
+hsa-mir-199a-2	535.7	535.7
+hsa-mir-9-2	910.0	910.0
+hsa-mir-146a	535.7	535.7

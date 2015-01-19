@@ -1,0 +1,43 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Lymphoma.txt 2015-01-18 21:21:21.910621
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Lymphoma
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Lymphoma--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Lymphoma--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+# Proteins in Lymphoma: 52
+# Proteins in Background: 1025
+#
+# age	label	Lymphoma	Background	p-value
+0.0	0.0	0	151	0.000
+6.1	6.1	1	51	0.510
+15.7	15.7	0	107	0.004
+29.6	29.6	3	239	0.001
+44.2	44.2	0	1	1.000
+89.1	89.1	0	13	1.000
+97.4	97.4	4	238	0.004
+176.1	176.1	0	8	1.000
+220.2	220.2	0	4	1.000
+324.5	324.5	0	9	1.000
+361.2	361.2	0	9	1.000
+454.6	454.6	8	29	0.000
+535.7	535.7	20	83	0.000
+797.0	797.0	4	7	0.000
+842.0	842.0	0	5	1.000
+910.0	910.0	11	63	0.000
+937.0	937.0	1	8	0.342
+#
+# Mann-Whitney U test: U = 8.7e+03 (p = 4.5e-17)
+#
+# Average age of Lymphoma: 557.1
+# Average age of Background: 169.9
+#
+# Median age of Lymphoma: 535.7
+# Median age of Background: 29.6

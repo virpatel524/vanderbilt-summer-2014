@@ -372,8 +372,8 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	ax1.set_ylim(0, 50)
 	plt.boxplot(nums,labels=labels)
 	plt.xlabel('miRNA Ages')
-	plt.ylabel('Number of Targets ')
-	plt.title('miRNA Age versus Number of Targets ')
+	plt.ylabel('Number of Targets')
+	plt.title('miRNA Age versus Number of Targets')
 	plt.savefig('mirna_ages_vs_num_tars.png')
 	plt.close()
 

@@ -240,7 +240,6 @@ def disease_txt_files(mirna2disease, disease2mirna):
 		for mirna in disease2mirna[disease]:
 			fle.write('%s\n' %(mirna))
 		fle.close()
-	print len(mirna2disease)
 
 
 def make_vector(mirna_name,mirna2disease, diseaselst):
@@ -350,7 +349,33 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 				tar_ages.append(float(gene2age[target]))
 
 
-	print spearmanr(mir_ages, tar_ages)
+
+
+	mir_ages = []
+	tar_nums = []
+
+	for mirna in mirna2targets:
+		if mirna in mirna2age:
+			mir_ages.append(float(mirna2age[mirna]))
+			tar_nums.append(len(mirna2targets[mirna]))
+	print spearmanr(mir_ages, tar_nums)
+
+	age2num = {}
+	for mirna in mirna2targets:
+		if mirna not in mirna2age:
+			continue
+		age2num.setdefault(mirna2age[mirna], []).append(len(mirna2targets[mirna]))
+
+	labels = sorted(age2num.keys())
+	nums = [age2num[i] for i in labels]
+	fig, ax1 = plt.subplots(figsize=(10,7))
+	ax1.set_ylim(0, 50)
+	plt.boxplot(nums,labels=labels)
+	plt.xlabel('miRNA Ages')
+	plt.ylabel('Number of Targets ')
+	plt.title('miRNA Age versus Number of Targets ')
+	plt.savefig('mirna_ages_vs_num_tars.png')
+	plt.close()
 
 
 

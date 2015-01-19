@@ -106,15 +106,16 @@ import random
 import datetime
 import commands
 
+import matplotlib
+import matplotlib.pylab as plt
+import seaborn as sns
+
 import numpy
 try:
     import scipy.stats as stats
 except ValueError:
     import scipy.stats as stats
 
-import matplotlib
-matplotlib.use("Agg")
-import matplotlib.pylab as plt
 
 
 ################################################################################

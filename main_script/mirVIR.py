@@ -391,6 +391,14 @@ def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2dise
 	for mirna in mirna2age:
 		if mirna not in mirna2disease:
 			fle.write(mirna + '\n')
+	fle.close()
+
+
+	diseases = disease2mirna.keys()
+	fle = open('txtfles/diseae_lst.txt','w')
+
+	for dis in diseases:
+		fle.write(dis + '\n')
 
 	fle.close()
 

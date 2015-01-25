@@ -1,0 +1,43 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Aging.txt 2015-01-18 22:37:10.835174
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Aging
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Aging--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Aging--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+# Proteins in Aging: 6
+# Proteins in Background: 1025
+#
+# age	label	Aging	Background	p-value
+0.0	0.0	0	151	0.600
+6.1	6.1	0	51	1.000
+15.7	15.7	0	107	1.000
+29.6	29.6	0	239	0.345
+44.2	44.2	0	1	1.000
+89.1	89.1	0	13	1.000
+97.4	97.4	2	238	0.627
+176.1	176.1	0	8	1.000
+220.2	220.2	0	4	1.000
+324.5	324.5	0	9	1.000
+361.2	361.2	0	9	1.000
+454.6	454.6	1	29	0.159
+535.7	535.7	2	83	0.078
+797.0	797.0	0	7	1.000
+842.0	842.0	0	5	1.000
+910.0	910.0	1	63	0.317
+937.0	937.0	0	8	1.000
+#
+# Mann-Whitney U test: U = 1.2e+03 (p = 0.00371)
+#
+# Average age of Aging: 438.5
+# Average age of Background: 169.9
+#
+# Median age of Aging: 495.2
+# Median age of Background: 29.6

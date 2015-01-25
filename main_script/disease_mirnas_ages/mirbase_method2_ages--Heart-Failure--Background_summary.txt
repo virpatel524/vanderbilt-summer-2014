@@ -1,0 +1,43 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Heart-Failure.txt 2015-01-18 22:48:44.591963
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Heart-Failure
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Heart-Failure--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Heart-Failure--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+# Proteins in Heart-Failure: 130
+# Proteins in Background: 1025
+#
+# age	label	Heart-Failure	Background	p-value
+0.0	0.0	0	151	0.000
+6.1	6.1	0	51	0.002
+15.7	15.7	0	107	0.000
+29.6	29.6	17	239	0.003
+44.2	44.2	0	1	1.000
+89.1	89.1	1	13	1.000
+97.4	97.4	22	238	0.075
+176.1	176.1	2	8	0.269
+220.2	220.2	1	4	0.419
+324.5	324.5	1	9	1.000
+361.2	361.2	4	9	0.019
+454.6	454.6	7	29	0.082
+535.7	535.7	43	83	0.000
+797.0	797.0	4	7	0.006
+842.0	842.0	1	5	0.493
+910.0	910.0	25	63	0.000
+937.0	937.0	2	8	0.269
+#
+# Mann-Whitney U test: U = 2.8e+04 (p = 2.55e-28)
+#
+# Average age of Heart-Failure: 461.1
+# Average age of Background: 169.9
+#
+# Median age of Heart-Failure: 535.7
+# Median age of Background: 29.6

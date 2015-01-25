@@ -1,0 +1,43 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Choriocarcinoma.txt 2015-01-18 22:42:18.554238
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Choriocarcinoma
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Choriocarcinoma--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Choriocarcinoma--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+# Proteins in Choriocarcinoma: 4
+# Proteins in Background: 1025
+#
+# age	label	Choriocarcinoma	Background	p-value
+0.0	0.0	0	151	1.000
+6.1	6.1	0	51	1.000
+15.7	15.7	0	107	1.000
+29.6	29.6	0	239	0.579
+44.2	44.2	0	1	1.000
+89.1	89.1	0	13	1.000
+97.4	97.4	0	238	0.579
+176.1	176.1	0	8	1.000
+220.2	220.2	0	4	1.000
+324.5	324.5	0	9	1.000
+361.2	361.2	0	9	1.000
+454.6	454.6	0	29	1.000
+535.7	535.7	2	83	0.035
+797.0	797.0	0	7	1.000
+842.0	842.0	0	5	1.000
+910.0	910.0	2	63	0.021
+937.0	937.0	0	8	1.000
+#
+# Mann-Whitney U test: U = 3.3e+02 (p = 0.00161)
+#
+# Average age of Choriocarcinoma: 722.8
+# Average age of Background: 169.9
+#
+# Median age of Choriocarcinoma: 722.9
+# Median age of Background: 29.6

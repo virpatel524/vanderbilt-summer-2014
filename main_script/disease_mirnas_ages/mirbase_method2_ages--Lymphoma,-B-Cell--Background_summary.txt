@@ -1,0 +1,43 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Lymphoma,-B-Cell.txt 2015-01-18 22:53:51.211813
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Lymphoma,-B-Cell
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Lymphoma,-B-Cell--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Lymphoma,-B-Cell--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+# Proteins in Lymphoma,-B-Cell: 33
+# Proteins in Background: 1025
+#
+# age	label	Lymphoma,-B-Cell	Background	p-value
+0.0	0.0	0	151	0.010
+6.1	6.1	0	51	0.404
+15.7	15.7	0	107	0.041
+29.6	29.6	0	239	0.000
+44.2	44.2	0	1	1.000
+89.1	89.1	0	13	1.000
+97.4	97.4	0	238	0.000
+176.1	176.1	0	8	1.000
+220.2	220.2	0	4	1.000
+324.5	324.5	0	9	1.000
+361.2	361.2	0	9	1.000
+454.6	454.6	4	29	0.012
+535.7	535.7	17	83	0.000
+797.0	797.0	0	7	1.000
+842.0	842.0	1	5	0.151
+910.0	910.0	11	63	0.000
+937.0	937.0	0	8	1.000
+#
+# Mann-Whitney U test: U = 3.3e+03 (p = 8.28e-16)
+#
+# Average age of Lymphoma,-B-Cell: 659.9
+# Average age of Background: 169.9
+#
+# Median age of Lymphoma,-B-Cell: 535.7
+# Median age of Background: 29.6

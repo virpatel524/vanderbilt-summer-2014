@@ -1,0 +1,43 @@
+# /Users/virpatel/projects/vanderbilt-summer-2014/computing_age/ProteinHistorian/age_enrichment_analysis.py -l /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt /Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas/Gastrointestinal-Neoplasms.txt 2015-01-18 22:46:55.272759
+#
+# AGE_LABEL_FILE = /Users/virpatel/projects/vanderbilt-summer-2014/main_script/mirbase_method2_ages.txt
+# PHYLO_PROFILE_FILE = None
+# POI1_NAME = Gastrointestinal-Neoplasms
+# POI2_NAME = Background
+# OUTPUT_NAME = mirbase_method2_ages--Gastrointestinal-Neoplasms--Background
+# OUTPUT_DIR = results/enrichment/mirbase_method2_ages--Gastrointestinal-Neoplasms--Background/
+#
+# MISSING_POI = error
+# MULTI_CORRECT = False
+# PLOT_TYPE = bar
+# SCALE_X = False
+#
+# Proteins in Gastrointestinal-Neoplasms: 31
+# Proteins in Background: 1025
+#
+# age	label	Gastrointestinal-Neoplasms	Background	p-value
+0.0	0.0	0	151	0.010
+6.1	6.1	0	51	0.397
+15.7	15.7	0	107	0.066
+29.6	29.6	0	239	0.000
+44.2	44.2	0	1	1.000
+89.1	89.1	0	13	1.000
+97.4	97.4	1	238	0.004
+176.1	176.1	1	8	0.218
+220.2	220.2	0	4	1.000
+324.5	324.5	0	9	1.000
+361.2	361.2	0	9	1.000
+454.6	454.6	3	29	0.054
+535.7	535.7	9	83	0.000
+797.0	797.0	1	7	0.194
+842.0	842.0	0	5	1.000
+910.0	910.0	16	63	0.000
+937.0	937.0	0	8	1.000
+#
+# Mann-Whitney U test: U = 2.9e+03 (p = 2.05e-15)
+#
+# Average age of Gastrointestinal-Neoplasms: 703.7
+# Average age of Background: 169.9
+#
+# Median age of Gastrointestinal-Neoplasms: 910.0
+# Median age of Background: 29.6

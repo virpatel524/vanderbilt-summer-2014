@@ -395,12 +395,101 @@ def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2dise
 
 
 	diseases = disease2mirna.keys()
-	fle = open('txtfles/diseae_lst.txt','w')
+	fle = open('txtfles/disease_lst.txt','w')
 
 	for dis in diseases:
 		fle.write(dis + '\n')
 
 	fle.close()
+
+	disease2stats = {}
+
+
+	for dis in diseases:
+
+		fle = open('/Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas_ages/mirbase_method2_ages--' + string.replace(dis,' ', '-')+ '--Background_summary.txt')
+		text = fle.readlines()
+		mirnalst = []
+
+		median = 0
+		avg = 0
+		mann_value_andp = []
+
+		for line in text:
+			
+			if line[0] == '#':
+				if 'Mann-Whitney U test: U =' not in line and 'Average age of' not in line and ' Median age of' not in line :
+					continue
+			if line[0] != '#':
+				p = line.split('\t')
+				mirnalst.append([float(p[0]),int(p[2]),int(p[3]),float(string.replace(p[4],'\n',''))])
+			else:
+				if 'Median' in line:
+					if 'Background' in line:
+						continue
+					p = line.split(':')
+					median = float(string.replace(p[1],' ',''))
+				if 'Average' in line:
+					if 'Background' in line:
+						continue
+					p = line.split(':')
+					avg = float(string.replace(p[1],' ', ''))
+
+				if 'Mann-Whitney U test: U' in line:
+
+					part1 = string.replace(line.split('U = ')[1],')\n','')
+					part2 = part1.split(' (p = ')
+					mann_value_andp = part2[:]
+
+
+					
+
+
+		biglst = [dis,mann_value_andp, median, avg, mirnalst]
+		disease2stats[dis] = biglst
+
+
+		fle.close()
+
+	biggest = ['Inflammation']
+	for dis in diseases:
+		if disease2stats[biggest[0]][3] > disease2stats[dis][3]:
+			continue
+		elif disease2stats[biggest[0]][3] < disease2stats[dis][3]:
+			biggest = [dis]
+		elif disease2stats[biggest[0]][3] == disease2stats[dis][3]:
+			biggest.append(dis)
+	print biggest
+
+
+	smallest = ['Inflammation']
+	for dis in diseases:
+		if disease2stats[smallest[0]][3] < disease2stats[dis][3]:
+			continue
+		elif disease2stats[smallest[0]][3] > disease2stats[dis][3]:
+			smallest = [dis]
+		elif disease2stats[smallest[0]][3] == disease2stats[dis][3]:
+			smallest.append(dis)
+	print smallest
+
+	fle = open('txtfles/disease2avg.txt','w')
+	disease2avgage = {}
+	for dis in diseases:
+		age = disease2stats[dis][3]
+		disease2avgage.setdefault(age,[]).append(dis)
+
+	
+	for age in sorted(disease2avgage):
+		fle.write('%s\t%s\n' % (age, str(disease2avgage[age])))
+	fle.close()
+
+
+
+def stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age):
+	print 'vir'
+
+
+
 
 
 

@@ -470,7 +470,6 @@ def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2dise
 			smallest = [dis]
 		elif disease2stats[smallest[0]][3] == disease2stats[dis][3]:
 			smallest.append(dis)
-	print smallest
 
 	fle = open('txtfles/disease2avg.txt','w')
 	disease2avgage = {}
@@ -487,6 +486,72 @@ def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2dise
 
 def stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age):
 	print 'vir'
+
+def utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age,utr_txt):
+	fle = open('txtfles/3utr.txt','r')
+	txt = fle.readlines()
+	fle.close()
+
+	gene2utr = {}
+
+	for line in txt:
+		p = breakfile(line)
+		length = abs(int(p[1]) - int(p[2]))
+		new =  p[3].split('_')
+		new = new[0] + '_' + new[1]
+		gene2utr.setdefault(new,[]).append(length)
+
+
+	fle = open('txtfles/hgnc_stuff.txt','r')
+	txt = fle.readlines()
+	fle.close()
+
+	nm2hgnc = {}
+
+	for line in txt:
+		p = breakfile(line)
+		nm2hgnc[p[-1]] = p[1]
+
+
+	hgnc2utr = {}
+
+	for gene in gene2utr:
+		if gene in nm2hgnc:
+			hgnc2utr[nm2hgnc[gene]] = gene2utr[gene]
+
+	gene2utr = {}
+	fle = open('txtfles/gene2avg_utr.txt','w')
+	for gene in hgnc2utr:
+		length = np.mean(hgnc2utr[gene])
+		gene2utr[gene] = float(length)
+
+	fle.close()
+
+	mirna2targets = verified_dicts[0]
+	targets2mirna = verified_dicts[1]
+	mirna2utr_lengths = {}
+
+	for mirna in mirna2targets:
+		for target in mirna2targets[mirna]:
+			if target in gene2utr:
+				mirna2utr_lengths.setdefault(mirna,[]).append(gene2utr[target])
+
+	ages = []
+	utr_lens = []
+
+	for mirna in mirna2utr_lengths:
+		if mirna in mirna2age:
+			avg = np.mean(mirna2utr_lengths[mirna])
+			utr_lens.append(avg)
+			ages.append(float(mirna2age[mirna]))
+
+	print spearmanr(ages,utr_lens)
+
+
+
+
+	
+
 
 
 
@@ -555,6 +620,8 @@ def main():
 
 	enrichment_lists(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age)
 	disease_txt_files(mirna2disease, disease2mirna)
+
+	utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age, 'txtfles/3utr.txt')
 
 
 

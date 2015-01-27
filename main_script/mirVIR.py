@@ -310,6 +310,8 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 		family_average_age.append(mean([mirna2age[mirna] for mirna in family2disease_members[fam_name]]))
 		mirna_max_hamming.append( max(mirna2family_hamming[mirna]))
 
+	print list(set(family_average_age))
+
 	mirna_age2hamming = {}
 
 	for mirna in mirna2family_hamming:

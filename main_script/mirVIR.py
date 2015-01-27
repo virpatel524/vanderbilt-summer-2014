@@ -429,6 +429,17 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 		for item in mirna2targets[mirna]:
 			fle.write(item + '\n')
 		fle.close()
+	tarlst = []
+
+	for mirna in mirna2targets:
+		tarlst = tarlst[:] + mirna2targets[mirna]
+	tarlst = list(set(tarlst))
+
+	fle = open('txtfles/tarlst.txt','w')
+	for item in tarlst:
+		fle.write(item + '\n')
+	fle.close()
+
 
 def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age):
 	fle = open('mirnas_in_disease.txt','w')

@@ -15,6 +15,7 @@ import time
 import sys, os
 import math
 import random
+import operator
 
 
 import sys, os, string, numpy, matplotlib.pyplot as plt
@@ -107,6 +108,17 @@ def mirna_rates(mirna2age):
 		rates_lst[key] = calc
 
 	fle.close()
+
+	fle = open('txtfles/mirnas2age.txt','w')
+	
+	sorted_ages = sorted(mirna2age.items(), key=operator.itemgetter(1))
+
+
+	for item in sorted_ages:
+		print item 
+		fle.write(str(item[1]) + '\t' + item[0] + '\n')
+	fle.close()
+
 
 
 
@@ -214,7 +226,7 @@ def disease_number_correlations(mirna2disease,mirna2age):
 		age.append(mirna2age[mirna])
 		number_disease.append(len(mirna2disease[mirna]))
 	final_corr = spearmanr(age,number_disease)
-	print final_corr
+	# print final_corr
 
 	age2num = {}
 	for mirna in mirna2disease:
@@ -298,8 +310,24 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 		family_average_age.append(mean([mirna2age[mirna] for mirna in family2disease_members[fam_name]]))
 		mirna_max_hamming.append( max(mirna2family_hamming[mirna]))
 
+	mirna_age2hamming = {}
+
+	for mirna in mirna2family_hamming:
+		mirna_age2hamming.setdefault(float(mirna2age[mirna]),[]).append(max(mirna2family_hamming[mirna]))
+
+
 	corr =  spearmanr(family_average_age, mirna_max_hamming)
-	print corr
+	# print corr
+	labels = sorted(mirna_age2hamming.keys())
+	nums = [mirna_age2hamming[i] for i in labels]
+	fig, ax1 = plt.subplots(figsize=(10,7))
+	ax1.set_ylim(0, 50)
+	plt.boxplot(nums,labels=labels)
+	plt.xlabel('miRNA Family Age')
+	plt.ylabel('Hamming Vector')
+	plt.title('An Illustration of miRNA Age Versus the Similarity of Diseases It Targets')
+	plt.savefig('mirna_ages_vs_hamming.png')
+	plt.close()
 
 
 
@@ -319,6 +347,8 @@ def break_target(fle, tipo):
 			else:
 				mir = p[1].lower()
 			target = p[3]
+			if target == '':
+				continue
 
 			mirna2targets.setdefault(mir,[]).append(target)
 			targets2mirna.setdefault(target,[]).append(mir)
@@ -358,7 +388,7 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 		if mirna in mirna2age:
 			mir_ages.append(float(mirna2age[mirna]))
 			tar_nums.append(len(mirna2targets[mirna]))
-	print spearmanr(mir_ages, tar_nums)
+	# print spearmanr(mir_ages, tar_nums)
 
 	age2num = {}
 	for mirna in mirna2targets:
@@ -376,6 +406,29 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	plt.title('miRNA Age versus Number of Targets')
 	plt.savefig('mirna_ages_vs_num_tars.png')
 	plt.close()
+
+
+	fle = open('txtfles/enriched.txt','w')
+	tarlst = []
+
+	for mirna in mirna2targets:
+		for item in mirna2targets[mirna]:
+			if item == '':
+				print mirna
+
+	for mirna in disease2mirna['Parkinson Disease']:
+		if mirna in mirna2targets:
+			for target in mirna2targets[mirna]:
+				tarlst.append(target)
+	for item in list(set(tarlst)):
+		fle.write(item + '\n')
+	fle.close()
+
+	for mirna in mirna2targets:
+		fle = open('txtfles/mirna2target/' + mirna + '.txt','w')
+		for item in mirna2targets[mirna]:
+			fle.write(item + '\n')
+		fle.close()
 
 def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age):
 	fle = open('mirnas_in_disease.txt','w')
@@ -459,7 +512,6 @@ def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2dise
 			biggest = [dis]
 		elif disease2stats[biggest[0]][3] == disease2stats[dis][3]:
 			biggest.append(dis)
-	print biggest
 
 
 	smallest = ['Inflammation']
@@ -484,8 +536,43 @@ def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2dise
 
 
 
-def stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age):
-	print 'vir'
+def stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age, stab_text):
+	fle = open(stab_text, 'r')
+	txt = fle.readlines()
+	fle.close()
+
+	line2mirnas = {}
+	mirnas2stab = {}
+	cell_lines = breakfile(txt[0])[1:]
+	for index,cell in enumerate(cell_lines):
+		mirnas2stab = {}
+		for line in txt[1:]:
+			if line[0:3] != 'hsa':
+				continue
+			else:
+				p = breakfile(line)
+				if p[index + 1] == 'N/A':
+					continue
+				if '3p' in p[0] or '5p' in p[0]:
+					name = p[0].split('-')
+					name = '-'.join(name[:-1]).lower()
+					mirnas2stab[name] = float(p[index + 1])
+					continue
+				mirnas2stab[p[0].lower()] = float(p[index + 1])
+		line2mirnas[cell] = mirnas2stab
+	
+	for cell in line2mirnas:
+		ages = []
+		stab = []
+		counter = 0
+		for mirna in line2mirnas[cell]:
+			if mirna not in mirna2age:
+				continue
+			counter += 1
+			ages.append(float(mirna2age[mirna]))
+			stab.append(float(line2mirnas[cell][mirna]))
+
+
 
 def utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age,utr_txt):
 	fle = open('txtfles/3utr.txt','r')
@@ -541,11 +628,12 @@ def utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease
 
 	for mirna in mirna2utr_lengths:
 		if mirna in mirna2age:
+			# print mirna2utr_lengths[mirna]
 			avg = np.mean(mirna2utr_lengths[mirna])
 			utr_lens.append(avg)
 			ages.append(float(mirna2age[mirna]))
 
-	print spearmanr(ages,utr_lens)
+	# print spearmanr(ages,utr_lens)
 
 
 
@@ -623,6 +711,7 @@ def main():
 
 	utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age, 'txtfles/3utr.txt')
 
+	stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age, 'txtfles/MSI.txt')
 
 
 main()

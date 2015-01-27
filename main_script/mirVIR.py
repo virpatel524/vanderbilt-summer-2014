@@ -584,6 +584,8 @@ def stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2di
 			counter += 1
 			ages.append(float(mirna2age[mirna]))
 			stab.append(float(line2mirnas[cell][mirna]))
+		print cell 
+		print spearmanr(ages,stab)
 
 
 

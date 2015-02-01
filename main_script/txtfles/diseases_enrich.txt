@@ -1,0 +1,382 @@
+Name	Average Age	Mann-Whitney U Value	Number of miRNAs
+Leukemia, lymphoblastic, Chronic	910.0	40	1
+Lupus Erythematosus, Systemic	625.5	3.3e+03	26
+Fanconi Anemia	535.7	1.2e+02	1
+Intracranial Aneurysm	910.0	79	2
+HIV Infections	523.0	8.8e+02	6
+Glomerulonephritis, IGA	669.2	5.1e+02	5
+Carcinoma, Ehrlich Tumor	898.7	2.7e+02	6
+Dyspepsia	97.4	3.4e+02	1
+Chordoma	910.0	79	2
+Prostatic Neoplasms	558.2	2.1e+04	120
+Anoxia	535.7	2.5e+02	2
+Arrhythmias, Cardiac	910.0	1.6e+02	4
+Diabetes Complications	454.6	1.8e+02	1
+Astrocytoma	531.3	3.6e+03	22
+Neoplasms, Squamous Cell	506.2	6.3e+03	34
+Biliary Atresia	910.0	79	2
+Osteosarcoma 	454.6	1.8e+02	1
+Stomach Diseases	454.6	3.6e+02	2
+Adrenal Cortex Neoplasms	620.5	9.6e+02	7
+Distal Myopathies	910.0	2e+02	5
+Hepatitis, Chronic	422.1	2.5e+03	13
+Lymphoma, Primary Effusion	856.5	7.2e+02	14
+Child Development Disorders, Pervasive	535.7	2.5e+02	2
+Endothelium, Vascular	535.7	1.2e+02	1
+Eosinophilic Esophagitis	630.5	3.3e+03	27
+Pulmonary Embolism	97.4	3.4e+02	1
+Precursor B-Cell Lymphoblastic Leukemia-Lymphoma	475.2	1.3e+03	6
+RNA Virus Infections	324.5	2.1e+02	1
+Schistosomiasis	910.0	40	1
+HCV	454.6	1.8e+02	1
+Carcinoma, Neuroendocrine	454.6	3.6e+02	2
+Carotid Artery Diseases	535.7	2.5e+02	2
+Acute Coronary Syndrome	749.4	6.8e+02	8
+Lipid Metabolism Disorders	454.6	1.8e+02	1
+Liver Diseases	744.1	4.2e+02	5
+Ependymoma	484.4	1.8e+03	8
+Sarcoma, Ewing's	750.0	4.9e+02	6
+Melanoma	535.8	2.7e+04	148
+Neurilemmoma	910.0	1.2e+02	3
+Kidney Failure, Acute	910.0	40	1
+Pheochromocytoma	583.7	4.3e+02	3
+Neoplasms, Glandular and Epithelial	910.0	79	2
+Small Cell Lung Carcinoma	910.0	1.2e+02	3
+Breast Neoplasms	462.8	5e+04	216
+Choriocarcinoma	722.8	3.3e+02	4
+Helplessness, Learned	900.3	3.1e+02	7
+Liver Cirrhosis	541.8	3.7e+03	22
+Frontotemporal Lobar Degeneration	29.6	2.6e+03	6
+Cholesteatoma	744.1	4.2e+02	5
+Osteolysis	454.6	1.8e+02	1
+Central Nervous System Diseases	97.4	3.4e+02	1
+Biliary Tract Neoplasms	522.0	2.7e+03	15
+Eye Abnormalities	910.0	40	1
+Cholangiocarcinoma	604.4	2.2e+03	14
+Keloid	535.7	2.5e+02	2
+Periodontitis	504.7	3.7e+03	17
+Neoplasms	593.4	1.8e+04	121
+Myeloproliferative Disorders	559.6	8.6e+02	6
+Mouth Neoplasms	713.5	3e+03	27
+Psychotic Disorders	535.7	2.5e+02	2
+Leiomyoma	672.2	8.4e+02	8
+Nervous System Diseases	910.0	79	2
+HIV	624.7	1.3e+03	11
+Cardiomegaly	702.6	7.7e+02	8
+Oligodendroglioma	910.0	40	1
+Myelodysplastic Syndromes	689.4	4.1e+03	39
+Myocardial Ischemia	582.9	7.8e+02	6
+Multiple Sclerosis	483.6	5.6e+03	26
+Cardiomyopathy, Dilated	630.4	6e+02	5
+Sarcoma, Synovial	928.0	48	3
+Myopia	97.4	3.4e+02	1
+Nevus, Pigmented	928.0	48	3
+Aortic Aneurysm, Abdominal	454.6	1.8e+02	1
+Lymphoma, Large-Cell, Anaplastic	581.6	1.4e+03	11
+Toxoplasmosis	535.7	1e+03	8
+Patau Syndrome	535.7	3.7e+02	3
+Encephalomyelitis, Autoimmune, Experimental	454.6	1.8e+02	1
+Mastocytosis, Systemic	97.4	6.9e+02	2
+Psoriasis	523.7	2.8e+03	15
+Lymphoma, T-Cell	622.5	1.7e+03	16
+Gastritis, Atrophic	454.6	1.8e+02	1
+Leukemia, Myelogenous, Chronic, BCR-ABL Positive	355.7	2.9e+03	11
+Kidney Neoplasms	631.1	7.6e+02	7
+Esophageal Neoplasms	560.4	1.5e+04	77
+Hematologic Neoplasms	708.1	7.1e+02	9
+Precursor Cell Lymphoblastic Leukemia-Lymphoma	708.2	2e+03	23
+Leprosy	454.6	1.8e+02	1
+Diabetes Mellitus	532.5	1.5e+03	9
+Obesity	526.7	1.2e+03	9
+Pancreatic Neoplasms	612.8	1.5e+04	106
+Brain Neoplasms	723.2	1e+03	10
+Focal Epithelial Hyperplasia	454.6	1.8e+02	1
+Acquired Immunodeficiency Syndrome	621.4	5.6e+02	3
+Leukemia, B-Cell	620.3	1.3e+03	12
+Liposarcoma	702.6	3.8e+02	4
+Uterine Cervical Neoplasms	571.4	8.3e+03	58
+Huntington Disease	765.7	6.9e+02	9
+Hepatitis	454.6	1.8e+02	1
+Neutropenia	495.2	3.0e+02	2
+Ischemia	564.5	1.7e+03	12
+Mesothelioma	693.9	3.4e+03	33
+Gastric Neoplasms	389.6	5.9e+02	3
+Hepatitis B, Chronic	454.6	1.8e+02	1
+Hearing Loss	910.0	40	1
+Carcinoma	606.1	6.5e+03	46
+Myasthenia Gravis	97.4	3.4e+02	1
+Multiple Endocrine Neoplasia Type 1	535.7	2.5e+02	2
+Lupus Vulgaris	253.2	2.2e+04	57
+Sarcoma	910.0	1.6e+02	4
+Polycystic Kidney Diseases	589.2	7.9e+02	7
+Endometriosis	621.5	1e+04	64
+Alzheimer Disease	721.1	2.3e+03	28
+Salivary Gland Neoplasms	495.8	4.3e+03	24
+Eczema	535.7	1.2e+02	1
+Lymphoma, Large B-Cell, Diffuse	664.2	9e+02	8
+Leiomyosarcoma	910.0	40	1
+Laryngeal Neoplasms	629.5	3.1e+03	24
+Hypertrophy, Left Ventricular	760.3	3.7e+02	5
+Carcinoma, Small Cell	697.2	1.6e+03	13
+Chondrodysplasia Punctata	97.4	3.4e+02	1
+Carcinoma, Squamous Cell	597.3	1.2e+04	87
+Fibrosis	771.7	4.6e+02	6
+Atherosclerosis	619.8	3.4e+03	25
+Mycosis Fungoides	827.0	6.2e+02	10
+Endomyocardial Fibrosis	636.8	6.2e+02	5
+Osteoarthritis	438.3	1.3e+03	7
+Cystic Fibrosis	454.6	1.8e+02	1
+Atrophy	642.4	3.1e+02	3
+Rectal Neoplasms	383.0	7.8e+03	23
+Hypoxia-Ischemia, Brain	535.7	1.2e+02	1
+Sezary Syndrome	481.6	4.9e+02	3
+Leukemia, Promyelocytic, Acute	696.0	8e+02	9
+Autoimmune Diseases	535.7	2.5e+02	2
+Leukemia, Myeloid	619.5	1.7e+03	16
+Irritable Bowel Syndrome	503.7	3.8e+02	2
+Prion Diseases	243.5	8.1e+02	3
+Hamartoma Syndrome, Multiple	495.2	3.0e+02	2
+Cerebral Ischemia	910.0	79	2
+Acute Lung Injury	535.7	2.5e+02	2
+Synapses	910.0	40	1
+Cryptosporidium	515.4	5.5e+02	4
+Aging	438.5	1.2e+03	6
+Autistic Disorder	480.3	6.8e+03	36
+Cardiomyopathies	508.7	8.6e+02	6
+Adenocarcinoma	681.0	4.9e+03	50
+Colitis, Ulcerative	347.2	3.5e+03	8
+Fibrosarcoma	29.6	8.6e+02	2
+HPV Infection	55.0	2.7e+03	6
+Nerve Sheath Neoplasms	535.7	1.2e+02	1
+Retinal Neovascularization	560.4	9.1e+02	6
+Hepatitis C, Chronic	454.6	1.8e+02	1
+Rhinitis, Allergic, Perennial	455.7	1.9e+03	9
+Eclampsia	431.8	9e+02	5
+Lymphoma, Mantle-Cell	569.7	1.3e+03	11
+Glomerulonephritis	15.7	2.6e+02	1
+Toxoplasma	535.7	8.7e+02	7
+Anus Neoplasms	535.7	1.2e+02	1
+Arthritis, Rheumatoid	556.2	2.6e+03	18
+Amyloidosis	535.7	5e+02	4
+Dyslipidemias	535.7	1.2e+02	1
+Fibroblasts	454.6	1.8e+02	1
+Precursor T-Cell Lymphoblastic Leukemia-Lymphoma	454.6	1.8e+02	1
+Brain Injury	910.0	40	1
+Heart Diseases	508.7	4.3e+02	3
+Cervical Intraepithelial Neoplasia	535.7	2.5e+02	2
+Cerebral Infarction	566.5	1.2e+03	8
+Azoospermia	536.1	3.3e+03	18
+Ovary Syndrome	535.7	1.2e+02	1
+Hemangioma	97.4	3.4e+02	1
+Head and Neck Neoplasms	641.0	9e+03	75
+Graft vs Host Disease	454.6	1.8e+02	1
+Glioblastoma 	682.3	2.2e+02	2
+Pituitary Neoplasms	793.0	1.1e+03	16
+Creutzfeldt-Jakob Syndrome	535.7	1.2e+02	1
+Brain Injuries	682.3	2.2e+02	2
+Ischemic Preconditioning	910.0	40	1
+Long QT Syndrome	910.0	79	2
+Fatty Liver, Non-Alcoholic	689.0	4e+02	4
+Nasal Polyps	937.0	8	2
+Amyotrophic Lateral Sclerosis	910.0	40	1
+Cardiovascular Diseases	682.3	2.2e+02	2
+Cocaine-Related Disorders	785.2	4.1e+02	6
+Francisella	454.6	1.8e+02	1
+Cataract	910.0	40	1
+Nephrosclerosis	760.3	3.7e+02	5
+Ovarian Neoplasms	588.0	1.9e+04	123
+Retinal Degeneration	813.3	5.8e+02	9
+Myocarditis	454.6	1.8e+02	1
+Liver Failure	524.1	9.3e+02	7
+Cerebellar Neoplasms	63.5	9.4e+02	2
+Giant Cell Tumors	97.4	3.4e+02	1
+Kidney Failure, Chronic	487.0	8.9e+02	6
+Albuminuria	454.6	1.8e+02	1
+Digestive System Neoplasms	910.0	4.3e+02	11
+Sepsis	530.8	2.4e+03	14
+Heart Defects, Congenital	696.1	6.2e+02	7
+Leukemia-Lymphoma, Adult T-Cell	516.4	2.2e+03	15
+Musculoskeletal Abnormalities	739.9	8.6e+02	11
+Adrenocortical Carcinoma	616.9	7.5e+03	60
+Diabetic Retinopathy	910.0	40	1
+Pregnancy, Ectopic	29.6	1.3e+03	3
+Urinary Bladder Neoplasms	589.0	1.4e+04	93
+Lung Neoplasms	598.5	2e+04	142
+Neuroma, Acoustic	454.6	1.8e+02	1
+HIV-1	829.9	1.7e+02	4
+Hodgkin Disease	679.7	2.6e+03	27
+Carcinoma, Non-Small-Cell Lung	585.2	1.6e+04	102
+Wounds and Injuries	709.3	5.5e+02	6
+Renal Insufficiency	454.6	1.8e+02	1
+Neurofibromatosis 2	910.0	1.2e+02	3
+Drug-Induced Liver Injury	495.2	3.0e+02	2
+Barrett Esophagus	724.3	1.5e+03	17
+Liver Neoplasms	664.2	2.4e+03	17
+Carcinoma, Endometrioid	487.3	5.6e+02	3
+Supranuclear Palsy, Progressive	535.7	1.2e+02	1
+Intervertebral Disk	454.6	1.8e+02	1
+Chlamydia Infections	535.7	1.2e+02	1
+Anemia, Sickle Cell	535.7	1.2e+02	1
+Hypertension	514.1	3.8e+03	20
+Esophagus	495.2	3.0e+02	2
+Fatty Liver	652.3	8.6e+02	7
+Pituitary Adenomas	535.7	2.5e+02	2
+Dermatitis, Atopic	776.2	1.9e+02	3
+Pre-Eclampsia	483.4	5.7e+03	30
+Lung Diseases, Interstitial	629.5	1.2e+03	11
+Coronary Artery Disease	516.7	3.4e+03	18
+Hepatoblastoma	507.2	1.1e+03	7
+Gastrointestinal Neoplasms	703.7	2.9e+03	31
+Pain	821.5	3.2e+02	5
+Vascular Calcification	535.7	3.7e+02	3
+Fatty Liver, Alcoholic	609.0	4.7e+02	4
+Leukemia	559.2	5.6e+03	37
+Pulmonary Fibrosis	682.3	2.2e+02	2
+Scleroderma, Systemic	674.8	1.7e+03	15
+Prostate Neoplasms	714.3	5.5e+02	6
+HEV	535.7	2.5e+02	2
+Hand, Foot and Mouth Disease	273.7	1.8e+03	7
+Carcinoma, Renal Cell	546.5	1.9e+04	109
+Kidney Diseases	712.7	7.6e+02	7
+Polycythemia Vera	460.0	1.5e+03	9
+Odontogenic Tumors	535.7	3.7e+02	3
+Parkinson Disease	625.0	4e+03	33
+Panic Disorder	502.7	6.7e+02	4
+SARS Virus	362.6	6.5e+02	3
+Hyperlipidemias	276.0	5.2e+02	2
+Schizophrenia	684.5	3.4e+03	34
+Sarcoma, Kaposi	647.2	3.5e+03	19
+Moyamoya Disease	535.7	2.5e+02	2
+Reperfusion Injury	481.2	2.2e+03	14
+Asthma	702.3	2e+03	21
+Aortic Valve Insufficiency	535.7	5e+02	4
+Tongue Neoplasms	722.9	3.3e+02	4
+Vascular Diseases	555.7	1.1e+03	9
+Infertility, Male	217.8	4.9e+03	17
+Leukemia, Myeloid, Chronic-Phase	840.5	2.5e+02	5
+Liver Cirrhosis, Biliary	97.4	3.4e+02	1
+Stomach Neoplasms	449.2	4.6e+04	192
+HBV Infection	612.2	9.3e+02	7
+Antiphospholipid Syndrome	535.7	2.5e+02	2
+Tuberculosis, Pulmonary	259.2	1e+04	27
+Heart Failure	461.1	2.8e+04	130
+Myocardial Reperfusion Injury	495.2	3.0e+02	2
+Lung Diseases	535.7	1.2e+02	1
+Cicatrix	910.0	79	2
+Cervical Neoplasms	535.7	2.5e+02	2
+Granulosa Cell Tumor	454.6	1.8e+02	1
+Atrial Fibrillation	571.7	2.8e+03	19
+Down Syndrome	235.2	9.5e+02	2
+Medulloblastoma	548.7	1.2e+04	71
+AIDS Dementia Complex	682.3	2.2e+02	2
+Arthritis, Psoriatic	535.7	2.5e+02	2
+Multiple Myeloma	527.8	5.6e+03	32
+Hepatitis B	565.6	5.4e+03	32
+Hepatitis C	529.0	6.2e+03	36
+Pulmonary Disease, Chronic Obstructive	795.6	1e+03	16
+Hyperglycemia	535.7	1.2e+02	1
+Hemangiosarcoma	598.1	6.6e+02	6
+Muscular Disorders, Atrophic	477.3	8.3e+03	48
+Glioma	560.3	1.1e+04	79
+Leukemia, Acute	535.7	1.2e+02	1
+Alopecia	608.6	6e+02	5
+Stroke	658.3	2e+03	16
+Leukoplakia, Oral	910.0	40	1
+Colorectal Neoplasms, Hereditary Nonpolyposis	454.6	1.8e+02	1
+Lymphoproliferative Disorders	508.7	4.3e+02	3
+Adenoviridae Infections	372.2	1.9e+04	69
+Periodontal Diseases	519.5	6.8e+02	5
+Sjogren's Syndrome	535.7	2.5e+02	2
+Myocardium	758.2	5.2e+02	6
+Myotonic Dystrophy	760.0	1.8e+03	21
+Marek Disease	495.2	6.1e+02	4
+Carcinoma, Oral	535.7	1.2e+02	1
+Leukemia, Myeloid, Acute	595.3	9.4e+03	70
+Vitiligo	535.7	1.2e+02	1
+Muscular Dystrophies	386.0	2.2e+03	10
+Myocardial Infarction	661.8	3.8e+03	33
+Cystitis, Interstitial	232.5	3.4e+03	12
+Cardiomyopathy, Hypertrophic	676.5	2.1e+03	22
+Papilary thyroid carcinoma	535.7	2.5e+02	2
+Adrenocortical Adenoma	514.4	1e+03	6
+Lymphoma, Extranodal NK-T-Cell	495.2	3.0e+02	2
+Demyelinating Diseases	481.6	4.9e+02	3
+Crohn Disease	608.5	2.4e+03	20
+Testicular Neoplasms	352.4	2.1e+03	6
+Intellectual Disability	910.0	40	1
+Skin Neoplasms	361.2	8e+02	4
+Colonic Neoplasms	573.3	1.4e+04	86
+Abortion, Habitual	736.4	1.3e+02	2
+Brain Ischemia	910.0	40	1
+Osteoporosis	611.9	8.5e+02	3
+Leukemia, lymphoblastic, Acute	535.7	1.2e+02	1
+Anxiety Disorders	346.8	1.3e+03	5
+Lichen Planus, Oral	627.2	7.4e+02	7
+Meningioma	613.3	5.5e+02	4
+Liver Diseases, Alcoholic	535.7	1.2e+02	1
+Neurodegenerative Diseases	378.2	1.6e+03	7
+Aortic Aneurysm, Thoracic	729.9	1.2e+03	15
+Carcinoma, Embryonal	361.2	2e+02	1
+Muscular Dystrophy, Duchenne	824.0	8.6e+02	14
+Neuroblastoma	590.3	6.1e+03	46
+HIV Infection	910.0	40	1
+Adenoma	454.6	1.8e+02	1
+Prolactinoma	387.3	4.2e+03	15
+Muscular Dystrophy, Facioscapulohumeral	645.0	7.1e+02	6
+Inflammatory Bowel Diseases	374.3	1.9e+03	7
+Gerstmann-Straussler-Scheinker Disease	535.7	1.2e+02	1
+SIV Infection	454.6	1.8e+02	1
+Metabolic Diseases	910.0	40	1
+Aortic Valve Stenosis	584.6	7.2e+02	6
+Carcinoma, Hepatocellular	439.0	5.3e+04	225
+Fragile X Syndrome	97.4	3.4e+02	1
+Waldenstrom Macroglobulinemia	628.2	1.2e+03	9
+Inflammation	705.5	3.1e+03	28
+Retinoblastoma	661.6	5e+03	43
+Bladder Neoplasms	97.4	3.4e+02	1
+Endometrial Neoplasms	740.9	5.1e+03	56
+Behcet Syndrome	495.2	3.0e+02	2
+Nasopharyngeal Neoplasms	717.3	3.7e+03	41
+Pemphigus, Benign Familial	937.0	4	1
+PRRSV Infection	535.7	5e+02	4
+Colitis	454.6	1.8e+02	1
+Colorectal Neoplasms	522.3	3e+04	156
+Sarcoma, Ewing	447.2	2e+03	9
+Hypertrophy	773.2	2.1e+03	27
+Colon Neoplasms	601.0	4.5e+02	4
+Influenza, Human	816.4	2.4e+02	4
+Myocytes, Cardiac	701.3	1.2e+03	12
+Stomach Neoplasms 	503.3	7.3e+02	5
+HCMV Infection	535.7	2.5e+02	2
+Myositis Ossificans	535.7	1.2e+02	1
+Lymphoma, B-Cell	659.9	3.3e+03	33
+Carcinoma, Ductal, Breast	454.6	1.8e+02	1
+Lymphoma, Non-Hodgkin	481.6	4.9e+02	3
+ACTH-Secreting Pituitary Adenoma	657.1	1.1e+03	11
+Diabetic Nephropathies	745.8	9.3e+02	10
+Thyroid Neoplasms	675.4	5.7e+03	52
+Burkitt Lymphoma	521.2	1.4e+03	10
+Cerebral Hemorrhage	342.5	1.2e+03	5
+Rhabdomyosarcoma	872.6	4.8e+02	10
+Graves Disease	97.4	1e+03	3
+Lupus Nephritis	160.9	1.9e+03	5
+Arthritis	495.2	3.0e+02	2
+Scleroderma, Localized	910.0	40	1
+Radiation Injuries	910.0	40	1
+Lymphoma	557.1	8.7e+03	52
+Diabetes Mellitus, Type 1	97.4	3.4e+02	1
+Diabetes Mellitus, Type 2	496.4	2.2e+03	14
+Angina, Unstable	535.7	1.2e+02	1
+Neoplasms, Germ Cell and Embryonal	63.5	9.4e+02	2
+Leukemia, Lymphocytic, Chronic, B-Cell	595.8	5.9e+03	45
+Hypopharyngeal Neoplasms	454.6	1.8e+02	1
+Trophoblasts	243.5	1.6e+03	6
+Spinal Cord Injuries	684.5	6.7e+02	7
+Gout	29.6	5.6e+03	13
+Leukemia, Biphenotypic, Acute	648.1	3.9e+02	3
+Dementia	535.7	2.5e+02	2
+Osteosarcoma	594.6	6.2e+03	48
+Glioblastoma	554.1	1.6e+04	110
+Keratoconus	910.0	40	1
+Tourette Syndrome	535.7	1.2e+02	1
+Carcinoma, Basal Cell	484.7	4.3e+03	22

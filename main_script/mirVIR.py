@@ -115,7 +115,6 @@ def mirna_rates(mirna2age):
 
 
 	for item in sorted_ages:
-		print item 
 		fle.write(str(item[1]) + '\t' + item[0] + '\n')
 	fle.close()
 
@@ -310,8 +309,6 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 		family_average_age.append(mean([mirna2age[mirna] for mirna in family2disease_members[fam_name]]))
 		mirna_max_hamming.append( max(mirna2family_hamming[mirna]))
 
-	print list(set(family_average_age))
-
 	mirna_age2hamming = {}
 
 	for mirna in mirna2family_hamming:
@@ -322,8 +319,8 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 	# print corr
 	labels = sorted(mirna_age2hamming.keys())
 	nums = [mirna_age2hamming[i] for i in labels]
-	fig, ax1 = plt.subplots(figsize=(10,7))
-	ax1.set_ylim(0, 50)
+	fig, ax1 = plt.subplots(figsize=(10,10))
+	ax1.set_ylim(0, 75)
 	plt.boxplot(nums,labels=labels)
 	plt.xlabel('miRNA Family Age')
 	plt.ylabel('Hamming Vector')
@@ -517,6 +514,17 @@ def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2dise
 
 		fle.close()
 
+	fle = open('txtfles/diseases_enrich.txt','w')
+	fle.write('Name\tAverage Age\tMann-Whitney U Value\tNumber of miRNAs\n')
+	for item in disease2stats:
+		a = disease2stats[item]
+		lst = a[-1]
+		total = 0
+		for el in lst:
+			total += el[1]
+		fle.write('%s\t%.1f\t%s\t%i\n' %(a[0], a[3], a[1][0], total))
+	fle.close()
+
 	biggest = ['Inflammation']
 	for dis in diseases:
 		if disease2stats[biggest[0]][3] > disease2stats[dis][3]:
@@ -584,8 +592,20 @@ def stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2di
 			counter += 1
 			ages.append(float(mirna2age[mirna]))
 			stab.append(float(line2mirnas[cell][mirna]))
-		print cell 
-		print spearmanr(ages,stab)
+		bins_4_pic = {}
+		labels = sorted(list(set(ages)))
+		for index, num in enumerate(stab):
+			bins_4_pic.setdefault(ages[index],[]).append(num)
+	nums = [bins_4_pic[i] for i in labels]
+	plt.figure(figsize=(10,7))
+	plt.boxplot(nums,labels=labels)
+	plt.xlabel('miRNA Ages')
+	plt.ylabel('miRNA Stability')
+	plt.title('miRNA Age versus MSI')
+	plt.savefig('mirna_ages_vs_stability1.png')
+	plt.close()
+
+
 
 
 
@@ -648,9 +668,18 @@ def utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease
 			utr_lens.append(avg)
 			ages.append(float(mirna2age[mirna]))
 
-	# print spearmanr(ages,utr_lens)
-
-
+	labels = sorted(list(set(ages)))
+	bin4vec = {}
+	for index, item in enumerate(utr_lens):
+		bin4vec.setdefault(ages[index],[]).append(item)
+	nums = [bin4vec[i] for i in labels]
+	plt.figure(figsize=(10,7))
+	plt.boxplot(nums,labels=labels)
+	plt.xlabel('miRNA Ages')
+	plt.ylabel('UTR Lengths')
+	plt.title('miRNA Age versus UTR Lengths')
+	plt.savefig('mirna_ages_vs_utr.png')
+	plt.close()
 
 
 	

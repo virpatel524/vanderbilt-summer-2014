@@ -87,6 +87,22 @@ def bincount(xlab,name,lst,filename):
 	return
 
 
+def boxplot(bin_forming_lst,other_lst, title, x_axis, y_axis, save_name):
+
+	bins_4_pic = {}
+
+	for index, item in enumerate(other_lst):
+		
+
+	plt.figure(figsize=(10,7))
+	plt.boxplot(nums,labels=labels)
+	plt.xlabel(x_axis)
+	plt.ylabel(y_axis)
+	plt.title(title)
+	plt.savefig(save_name)
+	plt.close()
+
+
 def mirna_rates(mirna2age):
 	mirna_ages = sorted(list(set(mirna2age.values())))
 	number_in_agecount = {}
@@ -438,6 +454,23 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	for item in tarlst:
 		fle.write(item + '\n')
 	fle.close()
+
+	gene_corr_ages = []
+	mir_ages = []
+	for tar in targets2mirna:
+		if tar in gene2age:
+			mirs = targets2mirna[tar]
+			ages = [mirna2age[i] for i in mirs if i in mirna2age]
+			if len(ages) == 0:
+				continue
+			for item in ages:
+				mir_ages.append(item)
+				gene_corr_ages.append(gene2age[tar])
+
+
+
+
+
 
 
 def enrichment_lists(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age):

@@ -92,15 +92,18 @@ def boxplot(bin_forming_lst,other_lst, title, x_axis, y_axis, save_name):
 	bins_4_pic = {}
 
 	for index, item in enumerate(other_lst):
-		
+		bins_4_pic.setdefault(bin_forming_lst[index], []).append(item)
+	print sorted(bins_4_pic.keys())
 
-	plt.figure(figsize=(10,7))
-	plt.boxplot(nums,labels=labels)
-	plt.xlabel(x_axis)
-	plt.ylabel(y_axis)
-	plt.title(title)
-	plt.savefig(save_name)
-	plt.close()
+
+
+	# plt.figure(figsize=(10,7))
+	# plt.boxplot(nums,labels=labels)
+	# plt.xlabel(x_axis)
+	# plt.ylabel(y_axis)
+	# plt.title(title)
+	# plt.savefig(save_name)
+	# plt.close()
 
 
 def mirna_rates(mirna2age):
@@ -466,6 +469,8 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 			for item in ages:
 				mir_ages.append(item)
 				gene_corr_ages.append(gene2age[tar])
+
+	boxplot(mir_ages, gene_corr_ages, 'hi', 'hey', 'sup', 'si')
 
 
 

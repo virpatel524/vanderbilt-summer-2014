@@ -469,8 +469,8 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 			if len(ages) == 0:
 				continue
 			for item in ages:
-				mir_ages.append(item)
-				gene_corr_ages.append(gene2age[tar])
+				mir_ages.append(float(item))
+				gene_corr_ages.append(float(gene2age[tar]))
 
 	boxplot(mir_ages, gene_corr_ages, 'miRNA Age (MYA) vs Gene Age (MYA)', 'miRNA Age', 'Gene Agae', 'mirna_age_vs_gene_age')
 

@@ -18,6 +18,8 @@ import random
 import operator
 
 
+
+
 import sys, os, string, numpy, matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 from distance import hamming
@@ -94,10 +96,7 @@ def boxplot(bin_forming_lst,other_lst, title, x_axis, y_axis, save_name):
 	for index, item in enumerate(other_lst):
 		bins_4_pic.setdefault(float(bin_forming_lst[index]), []).append(item)
 	labels = sorted(bins_4_pic.keys())
-	print labels
 	nums = [bins_4_pic[i] for i in labels]
-
-
 
 	plt.figure(figsize=(10,7))
 	plt.boxplot(nums,labels= labels )
@@ -473,6 +472,24 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 				gene_corr_ages.append(float(gene2age[tar]))
 
 	boxplot(mir_ages, gene_corr_ages, 'miRNA Age (MYA) vs Gene Age (MYA)', 'miRNA Age', 'Gene Agae', 'mirna_age_vs_gene_age')
+
+	mir_over_tar = []
+	number_over = 0
+	total = 0
+
+	for target in targets2mirna:
+		if target in gene2age:
+			mirs = targets2mirna[target]
+			ages = [mirna2age[i] for i in mirs if i in mirna2age]
+			for a in ages:
+				total += 1
+				if float(a) > float(gene2age[target]):
+					number_over += 1
+
+	print float(number_over) / float(total)
+
+
+
 
 
 

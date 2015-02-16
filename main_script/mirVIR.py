@@ -3,16 +3,13 @@ import numpy as np
 from numpy.random import randn
 import pandas as pd
 from scipy import stats
-import matplotlib as mpl
 import matplotlib.pyplot as plt
 import seaborn as sns
 
 import string
 import re
 import scipy
-import calendar
 import time
-import sys, os
 import math
 import random
 import operator
@@ -24,6 +21,8 @@ import sys, os, string, numpy, matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 from distance import hamming
 from numpy import mean
+
+
 
 def breakfile(line):
 	temp = line
@@ -73,6 +72,7 @@ def bincount(xlab,name,lst,filename):
 
 
 	bins = []
+	print labs
 
 	for el in labs:
 		bins.append(howmany[el])
@@ -103,7 +103,7 @@ def boxplot(bin_forming_lst,other_lst, title, x_axis, y_axis, save_name):
 	plt.xlabel(x_axis)
 	plt.ylabel(y_axis)
 	plt.title(title)
-	plt.savefig(save_name + '.png')
+	plt.savefig("images/"  + save_name + '.png')
 	plt.close()
 
 
@@ -258,7 +258,7 @@ def disease_number_correlations(mirna2disease,mirna2age):
 	plt.xlabel('miRNA Ages')
 	plt.ylabel('Number of Associated Diseases')
 	plt.title('miRNA Age versus Number of Disease Associations')
-	plt.savefig('mirna_ages_vs_num_dis.png')
+	plt.savefig('images/mirna_ages_vs_num_dis.png')
 	plt.close()
 
 def disease_txt_files(mirna2disease, disease2mirna):
@@ -345,7 +345,7 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 	plt.xlabel('miRNA Family Age')
 	plt.ylabel('Hamming Vector')
 	plt.title('An Illustration of miRNA Age Versus the Similarity of Diseases It Targets')
-	plt.savefig('mirna_ages_vs_hamming.png')
+	plt.savefig('images/mirna_ages_vs_hamming.png')
 	plt.close()
 
 
@@ -423,7 +423,7 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	plt.xlabel('miRNA Ages')
 	plt.ylabel('Number of Targets')
 	plt.title('miRNA Age versus Number of Targets')
-	plt.savefig('mirna_ages_vs_num_tars.png')
+	plt.savefig('images/mirna_ages_vs_num_tars.png')
 	plt.close()
 
 
@@ -486,7 +486,15 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 				if float(a) > float(gene2age[target]):
 					number_over += 1
 
-	print float(number_over) / float(total)
+	# print float(number_over) / float(total)
+
+
+
+
+	tarlst = list(set(targets2mirna.keys()))
+
+	bincount('Target Ages', 'Ages of Targets', [float(gene2age[i]) for i in tarlst if i in gene2age], 'images/tar_ages.png')
+
 
 
 
@@ -659,7 +667,7 @@ def stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2di
 	plt.xlabel('miRNA Ages')
 	plt.ylabel('miRNA Stability')
 	plt.title('miRNA Age versus MSI')
-	plt.savefig('mirna_ages_vs_stability1.png')
+	plt.savefig('images/mirna_ages_vs_stability1.png')
 	plt.close()
 
 
@@ -735,7 +743,7 @@ def utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease
 	plt.xlabel('miRNA Ages')
 	plt.ylabel('UTR Lengths')
 	plt.title('miRNA Age versus UTR Lengths')
-	plt.savefig('mirna_ages_vs_utr.png')
+	plt.savefig('images/mirna_ages_vs_utr.png')
 	plt.close()
 
 

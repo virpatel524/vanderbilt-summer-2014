@@ -553,8 +553,15 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 
 	a = np.array(percent_under_lst[:])
 
-	plt.hist(a)
-	plt.show()
+	plt.hist(a,20)
+	plt.xlabel('Percent of Targets Under The miRNA Age')
+	plt.ylabel('Frequency')
+	plt.title('Distribution of Percent of Targets Under The miRNA Age')
+	plt.savefig('images/percent_under_hist.png')
+	
+	plt.close()
+
+
 
 	# counts, bins = np.histogram(a, bins=100, density=True)
 	# cum_counts = np.cumsum(counts)
@@ -574,7 +581,6 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	# plt.hist(b, 100)
 	# plt.show()
 
-	plt.close()
 
 
 

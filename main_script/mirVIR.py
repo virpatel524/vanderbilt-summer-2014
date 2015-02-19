@@ -5,6 +5,7 @@ import pandas as pd
 from scipy import stats
 import matplotlib.pyplot as plt
 import seaborn as sns
+import scipy.interpolate
 
 import string
 import re
@@ -72,7 +73,6 @@ def bincount(xlab,name,lst,filename):
 
 
 	bins = []
-	print labs
 
 	for el in labs:
 		bins.append(howmany[el])
@@ -477,24 +477,104 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	number_over = 0
 	total = 0
 
-	for target in targets2mirna:
-		if target in gene2age:
-			mirs = targets2mirna[target]
-			ages = [mirna2age[i] for i in mirs if i in mirna2age]
-			for a in ages:
-				total += 1
-				if float(a) > float(gene2age[target]):
-					number_over += 1
-
-	# print float(number_over) / float(total)
-
-
-
-
 	tarlst = list(set(targets2mirna.keys()))
+	
+	values4avg = []
+	for mirna in mirna2targets:
+		if mirna not in mirna2age:
+			continue
+		num = 0
+		tars = [i for i in mirna2targets[mirna] if i in gene2age]
+		if len(tars) == 0:
+			continue
+		mirage = float(mirna2age[mirna])
+		for tar in tars:
+			if float(gene2age[tar]) < mirage:
+			 		num += 1
+		values4avg.append(float(num)/ float(len(tars)))
+	avg_under =  mean(values4avg)
+
+
+
+
+
+
+
+
+
 
 	bincount('Target Ages', 'Ages of Targets', [float(gene2age[i]) for i in tarlst if i in gene2age], 'images/tar_ages.png')
 
+
+	# # empirical p-value
+
+	# counter = 0
+	# total_interac = 0
+	# counter_interac = 0
+
+	# for i in range(1000):
+	# 	values4avg = []
+	# 	for mirna in mirna2targets:
+	# 		if mirna not in mirna2age:
+	# 			continue
+	# 		num = 0
+	# 		tars = mirna2targets[mirna]
+	# 		if len(tars) == 0:
+	# 			continue
+	# 		genes = [i for i in random.sample(tarlst, len(tars)) if i in gene2age]
+	# 		if len(genes) == 0:
+	# 			continue
+	# 		mirage = float(mirna2age[mirna])
+	# 		for tar in genes:
+	# 			if float(gene2age[tar]) < mirage:
+	# 			 		num += 1
+	# 		values4avg.append(float(num)/ float(len(genes)))
+	# 	# print mean(values4avg)
+	# 	if mean(values4avg) <= avg_under:
+	# 		counter += 1
+
+
+
+	percent_under_lst = []
+
+
+	for mirna in mirna2targets:
+		if mirna not in mirna2age:
+			continue
+		tar_ages = [float(gene2age[i]) for i in mirna2targets[mirna] if i in gene2age]
+		if len(tar_ages) == 0:
+			continue
+		percent = 0.0
+		counter_under = 0
+		for i in tar_ages:
+			if i <= float(mirna2age[mirna]):
+				counter_under += 1
+		percent_under_lst.append(float(counter_under) / float(len(tar_ages)))
+
+	a = np.array(percent_under_lst[:])
+
+	plt.hist(a)
+	plt.show()
+
+	# counts, bins = np.histogram(a, bins=100, density=True)
+	# cum_counts = np.cumsum(counts)
+	# bin_widths = (bins[1:] - bins[:-1])
+
+	# # generate more values with same distribution
+	# x = cum_counts*bin_widths
+	# y = bins[1:]
+	# inverse_density_function = scipy.interpolate.interp1d(x, y)
+	# b = np.zeros(len(percent_under_lst))
+	# for i in range(len( b )):
+	#     u = random.uniform( x[0], x[-1] )
+	#     b[i] = inverse_density_function( u )
+
+	# # plot both        
+	# plt.hist(a, 100) 
+	# plt.hist(b, 100)
+	# plt.show()
+
+	plt.close()
 
 
 

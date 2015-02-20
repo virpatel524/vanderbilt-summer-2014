@@ -1,11 +1,4 @@
 # easily extendable script that does all of my analyses
-import numpy as np
-from numpy.random import randn
-import pandas as pd
-from scipy import stats
-import matplotlib.pyplot as plt
-import seaborn as sns
-import scipy.interpolate
 
 import string
 import re
@@ -15,7 +8,12 @@ import math
 import random
 import operator
 
-
+import numpy as np
+from numpy.random import randn
+import pandas as pd
+from scipy import stats
+import matplotlib.pyplot as plt
+import seaborn as sns
 
 
 import sys, os, string, numpy, matplotlib.pyplot as plt
@@ -44,23 +42,10 @@ def bincountdict(lst):
 	return countdict
 
 
-
-
-def list_write(fle,lst,para="t"):
-	for index,el in enumerate(lst):
-		if para == "t":
-			if index != len(lst) - 1:
-				fle.write(str(el) + "\t")
-			else:
-				fle.write(str(el) + "\n")
-		if para == "n":
-			fle.write(str(el) + "\n")
-
-
 def bincount(xlab,name,lst,filename):
-	data = lst
-	alldata = sorted(data)
-	labs = sorted(list(set(data)))
+	data = lst[:]
+	alldata = sorted(data[:])
+	labs = sorted(list(set(data[:])))
 	howmany = {}
 	for el in labs:
 		howmany[el] = 0
@@ -89,17 +74,16 @@ def bincount(xlab,name,lst,filename):
 	return
 
 
-def boxplot(bin_forming_lst,other_lst, title, x_axis, y_axis, save_name):
-
+def boxplot(bin_forming_lst,bin_elements, title, x_axis, y_axis, save_name):
 	bins_4_pic = {}
 
-	for index, item in enumerate(other_lst):
+	for index, item in enumerate(bin_elements):
 		bins_4_pic.setdefault(float(bin_forming_lst[index]), []).append(item)
 	labels = sorted(bins_4_pic.keys())
 	nums = [bins_4_pic[i] for i in labels]
 
 	plt.figure(figsize=(10,7))
-	plt.boxplot(nums,labels= labels )
+	plt.boxplot(nums,labels=labels)
 	plt.xlabel(x_axis)
 	plt.ylabel(y_axis)
 	plt.title(title)
@@ -114,7 +98,7 @@ def mirna_rates(mirna2age):
 		number_in_agecount[age] = 0
 
 	for age in mirna2age.values():
-		number_in_agecount[age] = number_in_agecount[age] + 1
+		number_in_agecount[age] += 1
 
 	rates_lst = {}
 	fle = open('rates.txt','w')
@@ -171,12 +155,7 @@ def break_files(mirna_ages,gene_ages,diseases,family_associations):
 
 	for line in gene_ages_unparsed:
 		p = breakfile(line)
-		gene2age[p[0]] = p[1]
-
-
-
-
-
+		gene2age[p[0]] = float(p[1])
 
 
 	mirna2age = {}
@@ -212,7 +191,7 @@ def break_files(mirna_ages,gene_ages,diseases,family_associations):
 		diseaselst = []
 		for mirna in mirnalst:
 			if mirna in mirna2disease:
-				diseaselst = diseaselst + mirna2disease[mirna]
+				diseaselst += mirna2disease[mirna]
 		age2disease[age] = list(set(diseaselst))
 
 	family2members = {}
@@ -244,8 +223,11 @@ def disease_number_correlations(mirna2disease,mirna2age):
 	for mirna in mirna2disease:
 		age.append(mirna2age[mirna])
 		number_disease.append(len(mirna2disease[mirna]))
+
 	final_corr = spearmanr(age,number_disease)
-	# print final_corr
+	fle = open('txtfles/corrs.txt','a')
+	fle.write(str(final_corr) + '\n')
+	fle.close()
 
 	age2num = {}
 	for mirna in mirna2disease:
@@ -317,9 +299,9 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 				vec1 = ''.join(mirna2bin_vec[mirna])
 				vec2 = ''.join(mirna2bin_vec[other])
 				mir_spec_vec.append(hamming(vec1, vec2))
-			mirna2family_hamming[mirna] = mir_spec_vec
-			family_vec.append(mir_spec_vec)
-		family2hamming_distances[fam] = family_vec
+			mirna2family_hamming[mirna] = mir_spec_vec[:]
+			family_vec.append(mir_spec_vec[:])
+		family2hamming_distances[fam] = family_vec[:]
 
 	family_average_age = []
 	mirna_max_hamming = []
@@ -385,9 +367,7 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	mirs_with_tar = []
 	mirna2targets = verified_dicts[0]
 	targets2mirna = verified_dicts[1]
-	for mirna in mirna2age:
-		if mirna in mirna2targets:
-			mirs_with_tar.append(mirna)
+	mirs_with_tar = mirna2targets.keys()
 
 	mir_ages = []
 	tar_ages = []
@@ -426,23 +406,6 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	plt.savefig('images/mirna_ages_vs_num_tars.png')
 	plt.close()
 
-
-	fle = open('txtfles/enriched.txt','w')
-	tarlst = []
-
-	for mirna in mirna2targets:
-		for item in mirna2targets[mirna]:
-			if item == '':
-				print mirna
-
-	for mirna in disease2mirna['Parkinson Disease']:
-		if mirna in mirna2targets:
-			for target in mirna2targets[mirna]:
-				tarlst.append(target)
-	for item in list(set(tarlst)):
-		fle.write(item + '\n')
-	fle.close()
-
 	for mirna in mirna2targets:
 		fle = open('txtfles/mirna2target/' + mirna + '.txt','w')
 		for item in mirna2targets[mirna]:
@@ -463,8 +426,7 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	mir_ages = []
 	for tar in targets2mirna:
 		if tar in gene2age:
-			mirs = targets2mirna[tar]
-			ages = [mirna2age[i] for i in mirs if i in mirna2age]
+			ages = [mirna2age[i] for i in targets2mirna[tar] if i in mirna2age]
 			if len(ages) == 0:
 				continue
 			for item in ages:
@@ -492,46 +454,49 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 			if float(gene2age[tar]) < mirage:
 			 		num += 1
 		values4avg.append(float(num)/ float(len(tars)))
-	avg_under =  mean(values4avg)
+	avg_under = mean(values4avg)
+	# print avg_under
+
+
+	interac_under = 0
+	total_interac = 0
+
+	for tar in targets2mirna:
+		if tar in gene2age:
+			mirna_ages = [float(mirna2age[i]) for i in targets2mirna[tar] if i in mirna2age]
+			interac_under += int(len([i for i in mirna_ages if i >= float(gene2age[tar])]))
+			total_interac += len(targets2mirna[tar])
+
+	print float(interac_under) / float(total_interac)
 
 
 
 
 
+	num = 0
 
-
-
-
+	for i in range(1000):
+		interac_under_ran = 0
+		total_interac_ran = 0
+		for mirna in mirna2targets:
+			if mirna in mirna2age:
+				tars = [i for i in mirna2targets[mirna] if i in gene2age]
+				total_interac_ran += len(tars)
+				ran_samp = [i for i in random.sample(gene2age.keys(),len(tars)) if float(gene2age[i]) <= mirna2age[mirna]]
+				interac_under_ran += len(ran_samp)
+		print float(interac_under_ran) / float(total_interac_ran) 
+		if float(interac_under_ran) / float(total_interac_ran) <= .16:
+			num += 1
+	print num
 
 	bincount('Target Ages', 'Ages of Targets', [float(gene2age[i]) for i in tarlst if i in gene2age], 'images/tar_ages.png')
-
-
-	# # empirical p-value
-
-	# counter = 0
-	# total_interac = 0
-	# counter_interac = 0
-
-	# for i in range(1000):
-	# 	values4avg = []
-	# 	for mirna in mirna2targets:
-	# 		if mirna not in mirna2age:
-	# 			continue
-	# 		num = 0
-	# 		tars = mirna2targets[mirna]
-	# 		if len(tars) == 0:
-	# 			continue
-	# 		genes = [i for i in random.sample(tarlst, len(tars)) if i in gene2age]
-	# 		if len(genes) == 0:
-	# 			continue
-	# 		mirage = float(mirna2age[mirna])
-	# 		for tar in genes:
-	# 			if float(gene2age[tar]) < mirage:
-	# 			 		num += 1
-	# 		values4avg.append(float(num)/ float(len(genes)))
-	# 	# print mean(values4avg)
-	# 	if mean(values4avg) <= avg_under:
-	# 		counter += 1
+	secondlst = []
+	for tar in targets2mirna:
+		if tar in gene2age:
+			mirna_ages = [float(mirna2age[i]) for i in targets2mirna[tar] if i in mirna2age]
+			if  len([i for i in mirna_ages if i >= float(gene2age[tar])]) != 0:
+				secondlst.append(tar)
+	bincount('Target Ages', 'Ages of Targets with Older miRNA Target ', [float(gene2age[i]) for i in secondlst], 'images/tar_ages_younger.png')
 
 
 
@@ -561,25 +526,6 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	
 	plt.close()
 
-
-
-	# counts, bins = np.histogram(a, bins=100, density=True)
-	# cum_counts = np.cumsum(counts)
-	# bin_widths = (bins[1:] - bins[:-1])
-
-	# # generate more values with same distribution
-	# x = cum_counts*bin_widths
-	# y = bins[1:]
-	# inverse_density_function = scipy.interpolate.interp1d(x, y)
-	# b = np.zeros(len(percent_under_lst))
-	# for i in range(len( b )):
-	#     u = random.uniform( x[0], x[-1] )
-	#     b[i] = inverse_density_function( u )
-
-	# # plot both        
-	# plt.hist(a, 100) 
-	# plt.hist(b, 100)
-	# plt.show()
 
 
 
@@ -883,10 +829,13 @@ def main():
 			predicted_targets = args[index + 1]
 
 
+	fle = open('txtfles/corrs.txt',"w")
+	fle.close()
+
+
 			
 
 	mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age = break_files(mirna_ages, gene_ages, disease_associations, family_associations)
-
 
 	disease_number_correlations(mirna2disease, mirna2age)
 
@@ -895,6 +844,7 @@ def main():
 
 	a = [dis for alpha in mirna2disease.values() for dis in alpha]
 	diseaselst = sorted(list(set(a)))
+
 	family2hamming_distances = hamming_distance(mirna2age, family2members, member2family_name, diseaselst, mirna2disease)
 	mirna_rates(mirna2age)
 	verified_dicts = break_target(verified_targets, 'verified')
@@ -907,7 +857,6 @@ def main():
 	utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age, 'txtfles/3utr.txt')
 
 	stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age, 'txtfles/MSI.txt')
-
 
 main()
 

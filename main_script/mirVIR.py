@@ -101,7 +101,7 @@ def mirna_rates(mirna2age):
 		number_in_agecount[age] += 1
 
 	rates_lst = {}
-	fle = open('rates.txt','w')
+	fle = open('txtfles/rates.txt','w')
 	for i in range(1,len(mirna_ages)):
 		end_age = mirna_ages[i-1]
 		start_age = mirna_ages[i]
@@ -226,6 +226,7 @@ def disease_number_correlations(mirna2disease,mirna2age):
 
 	final_corr = spearmanr(age,number_disease)
 	fle = open('txtfles/corrs.txt','a')
+	fle.write('miRNA Age vs Number of Associated Diseases\t')
 	fle.write(str(final_corr) + '\n')
 	fle.close()
 
@@ -318,7 +319,10 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 
 
 	corr =  spearmanr(family_average_age, mirna_max_hamming)
-	# print corr
+	fle = open('txtfles/corrs.txt','a')
+	fle.write('miRNA Family Age vs The Maximum Hamming Distance\t')
+	fle.write(str(corr) + '\n')
+	fle.close()
 	labels = sorted(mirna_age2hamming.keys())
 	nums = [mirna_age2hamming[i] for i in labels]
 	fig, ax1 = plt.subplots(figsize=(10,10))
@@ -387,8 +391,12 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 		if mirna in mirna2age:
 			mir_ages.append(float(mirna2age[mirna]))
 			tar_nums.append(len(mirna2targets[mirna]))
-	# print spearmanr(mir_ages, tar_nums)
+	corr =  spearmanr(mir_ages, tar_nums)
 
+	fle = open('txtfles/corrs.txt','a')
+	fle.write('miRNA Age vs Number of Targets\t')
+	fle.write(str(corr) + '\n')
+	fle.close()
 	age2num = {}
 	for mirna in mirna2targets:
 		if mirna not in mirna2age:
@@ -455,7 +463,9 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 			 		num += 1
 		values4avg.append(float(num)/ float(len(tars)))
 	avg_under = mean(values4avg)
-	# print avg_under
+	fle = open('txtfles/corrs.txt','a')
+	fle.write('Average Number of miRNAs That Are Younger\t')
+	fle.write(str(avg_under) + '\n')
 
 
 	interac_under = 0
@@ -467,27 +477,32 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 			interac_under += int(len([i for i in mirna_ages if i >= float(gene2age[tar])]))
 			total_interac += len(targets2mirna[tar])
 
-	print float(interac_under) / float(total_interac)
+	per = float(interac_under) / float(total_interac)
+
+	fle.write('Percentage of miRNA Target Interactions With Age Below\t')
+	fle.write(str(per) + '\n')
+	fle.close()
 
 
 
 
 
-	num = 0
 
-	for i in range(1000):
-		interac_under_ran = 0
-		total_interac_ran = 0
-		for mirna in mirna2targets:
-			if mirna in mirna2age:
-				tars = [i for i in mirna2targets[mirna] if i in gene2age]
-				total_interac_ran += len(tars)
-				ran_samp = [i for i in random.sample(gene2age.keys(),len(tars)) if float(gene2age[i]) <= mirna2age[mirna]]
-				interac_under_ran += len(ran_samp)
-		print float(interac_under_ran) / float(total_interac_ran) 
-		if float(interac_under_ran) / float(total_interac_ran) <= .16:
-			num += 1
-	print num
+	# num = 0
+
+	# for i in range(1000):
+	# 	interac_under_ran = 0
+	# 	total_interac_ran = 0
+	# 	for mirna in mirna2targets:
+	# 		if mirna in mirna2age:
+	# 			tars = [i for i in mirna2targets[mirna] if i in gene2age]
+	# 			total_interac_ran += len(tars)
+	# 			ran_samp = [i for i in random.sample(gene2age.keys(),len(tars)) if float(gene2age[i]) <= mirna2age[mirna]]
+	# 			interac_under_ran += len(ran_samp)
+	# 	print float(interac_under_ran) / float(total_interac_ran) 
+	# 	if float(interac_under_ran) / float(total_interac_ran) <= .16:
+	# 		num += 1
+	# print num
 
 	bincount('Target Ages', 'Ages of Targets', [float(gene2age[i]) for i in tarlst if i in gene2age], 'images/tar_ages.png')
 	secondlst = []
@@ -760,7 +775,6 @@ def utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease
 
 	for mirna in mirna2utr_lengths:
 		if mirna in mirna2age:
-			# print mirna2utr_lengths[mirna]
 			avg = np.mean(mirna2utr_lengths[mirna])
 			utr_lens.append(avg)
 			ages.append(float(mirna2age[mirna]))

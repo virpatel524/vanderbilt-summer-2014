@@ -20,6 +20,7 @@ import sys, os, string, numpy, matplotlib.pyplot as plt
 from scipy.stats import spearmanr
 from distance import hamming
 from numpy import mean
+import pylab
 
 
 
@@ -220,6 +221,10 @@ def disease_number_correlations(mirna2disease,mirna2age):
 	age = []
 	number_disease = []
 
+
+	print len([i for i in mirna2disease.keys() if i in mirna2age])
+	print len(mirna2age)
+
 	for mirna in mirna2disease:
 		age.append(mirna2age[mirna])
 		number_disease.append(len(mirna2disease[mirna]))
@@ -237,10 +242,11 @@ def disease_number_correlations(mirna2disease,mirna2age):
 	labels = sorted(age2num.keys())
 	nums = [age2num[i] for i in labels]
 	plt.figure(figsize=(10,7))
+	pylab.ylim([0,60])
 	plt.boxplot(nums,labels=labels)
-	plt.xlabel('miRNA Ages')
+	plt.xlabel('miRNA Ages (MYA)')
 	plt.ylabel('Number of Associated Diseases')
-	plt.title('miRNA Age versus Number of Disease Associations')
+	plt.title('Plot of miRNA Age Versus Number of Disease Associations')
 	plt.savefig('images/mirna_ages_vs_num_dis.png')
 	plt.close()
 
@@ -299,7 +305,7 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 			for other in members:
 				vec1 = ''.join(mirna2bin_vec[mirna])
 				vec2 = ''.join(mirna2bin_vec[other])
-				mir_spec_vec.append(hamming(vec1, vec2))
+				mir_spec_vec.append(hamming(vec1, vec2, normalized=True))
 			mirna2family_hamming[mirna] = mir_spec_vec[:]
 			family_vec.append(mir_spec_vec[:])
 		family2hamming_distances[fam] = family_vec[:]
@@ -326,11 +332,11 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 	labels = sorted(mirna_age2hamming.keys())
 	nums = [mirna_age2hamming[i] for i in labels]
 	fig, ax1 = plt.subplots(figsize=(10,10))
-	ax1.set_ylim(0, 75)
+	ax1.set_ylim(0, 0.2)
 	plt.boxplot(nums,labels=labels)
-	plt.xlabel('miRNA Family Age')
+	plt.xlabel('miRNA Family Age (MYA)')
 	plt.ylabel('Hamming Vector')
-	plt.title('An Illustration of miRNA Age Versus the Similarity of Diseases It Targets')
+	plt.title('Plot of miRNA Family Age Versus Homogeneity of Member Disease Assocations')
 	plt.savefig('images/mirna_ages_vs_hamming.png')
 	plt.close()
 
@@ -392,6 +398,11 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 			mir_ages.append(float(mirna2age[mirna]))
 			tar_nums.append(len(mirna2targets[mirna]))
 	corr =  spearmanr(mir_ages, tar_nums)
+
+
+	
+
+
 
 	fle = open('txtfles/corrs.txt','a')
 	fle.write('miRNA Age vs Number of Targets\t')
@@ -483,6 +494,16 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	fle.write(str(per) + '\n')
 	fle.close()
 
+	agetmp = 0.0
+	for mirna in mirna2age:
+		agetmp += float(mirna2age[mirna])
+	print agetmp / float(len(mirna2age.keys()))
+
+
+	agetmp = 0.0
+	for gene in gene2age:
+		agetmp += float(gene2age[gene])
+	print agetmp / float(len(gene2age.keys()))
 
 
 
@@ -504,7 +525,7 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	# 		num += 1
 	# print num
 
-	bincount('Target Ages', 'Ages of Targets', [float(gene2age[i]) for i in tarlst if i in gene2age], 'images/tar_ages.png')
+	bincount('HGNC Gene Ages (MYA)', 'Histogram of Human Gene Ages from HGNC', [float(gene2age[i]) for i in tarlst if i in gene2age], 'images/tar_ages.png')
 	secondlst = []
 	for tar in targets2mirna:
 		if tar in gene2age:
@@ -534,9 +555,8 @@ def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2di
 	a = np.array(percent_under_lst[:])
 
 	plt.hist(a,20)
-	plt.xlabel('Percent of Targets Under The miRNA Age')
-	plt.ylabel('Frequency')
-	plt.title('Distribution of Percent of Targets Under The miRNA Age')
+	plt.xlabel('Percent of Targets Respective miRNA Age')
+	plt.title('Frequency Distributution of Percent Younger Targets for Each miRNA')
 	plt.savefig('images/percent_under_hist.png')
 	
 	plt.close()

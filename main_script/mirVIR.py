@@ -813,7 +813,53 @@ def utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease
 	plt.close()
 
 
-	
+def extrathings(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age):
+	percenta = []
+	os.chdir('/Users/virpatel/projects/vanderbilt-summer-2014/main_script/disease_mirnas_ages')
+	for i in os.listdir(os.getcwd()):
+		if i[-3:] != 'txt':
+			continue
+		fle = open(i)
+		txt = fle.readlines()
+		numlst  = []
+		the97 = 0
+		totnum = 0 
+		for line in txt:
+			if '# Proteins in' in line and 'Background' not in line:
+				# print line
+				a = line.split(' ')[-1]
+				a = float(string.replace(a, '\n', ''))
+				if a < 50.0:
+					break
+			if line[0] == '#':
+				continue
+			numlst.append(line)
+		if len(numlst) > 0:
+			for i in numlst:
+				a = i.split('\t')
+				if a[0] == '97.4':
+					the97 = int(a[-3])
+				totnum += int(a[-3])
+
+			percenta.append(float(the97) / float(totnum))
+
+
+
+
+
+
+			# if '97.4' in line:
+			# 	p = line.split('\t')[-3:-1]
+			# 	p = float(p[0]) / float(p[1])
+			# 	print i + '\n'
+			# 	percenta.append(p)
+
+
+	print np.mean(percenta)
+
+
+
+
 
 
 
@@ -891,6 +937,8 @@ def main():
 	utr_stuff(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age, 'txtfles/3utr.txt')
 
 	stability_test(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age, 'txtfles/MSI.txt')
+
+	extrathings(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age)
 
 main()
 

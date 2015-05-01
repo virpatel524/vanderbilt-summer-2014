@@ -374,6 +374,7 @@ def break_target(fle, tipo):
 
 
 def target_mirna_corrs(verified_dicts,mirna2age,age2mirna,disease2mirna,mirna2disease,age2disease, disease2age, family2members, member2family_name, gene2age):
+	print len(mirna2age)
 	mirs_with_tar = []
 	mirna2targets = verified_dicts[0]
 	targets2mirna = verified_dicts[1]

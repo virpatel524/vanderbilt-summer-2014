@@ -1,5 +1,5 @@
 miRNA Age vs Number of Associated Diseases	(0.78052919802633713, 7.3721282082780588e-103)
-miRNA Family Age vs The Maximum Hamming Distance	(0.80271440279638551, 7.0756405978458192e-32)
+miRNA Family Age vs The Average Hamming Distance	(0.71741498041906471, 8.7594958656614975e-23)
 miRNA Age vs Number of Targets	(0.50504218940046697, 5.0601211254217213e-25)
 Average Number of miRNAs That Are Younger	0.100331609661
 Percentage of miRNA Target Interactions With Age Below	0.164782690803

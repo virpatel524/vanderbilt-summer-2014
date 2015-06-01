@@ -223,7 +223,7 @@ def disease_number_correlations(mirna2disease,mirna2age):
 
 
 	print len([i for i in mirna2disease.keys() if i in mirna2age])
-	print len(mirna2age)
+	print len([prim for prim in mirna2age if float(mirna2age[prim]) >= 44.2])
 
 	for mirna in mirna2disease:
 		age.append(mirna2age[mirna])
@@ -311,22 +311,22 @@ def hamming_distance(mirna2age, family2members, member2family_name,diseaselst, m
 		family2hamming_distances[fam] = family_vec[:]
 
 	family_average_age = []
-	mirna_max_hamming = []
+	mirna_avg_hamming = []
 
 	for mirna in mirna2family_hamming:
 		fam_name = member2family_name[mirna]	
 		family_average_age.append(mean([mirna2age[mirna] for mirna in family2disease_members[fam_name]]))
-		mirna_max_hamming.append( max(mirna2family_hamming[mirna]))
+		mirna_avg_hamming.append( mean(mirna2family_hamming[mirna]))
 
 	mirna_age2hamming = {}
 
 	for mirna in mirna2family_hamming:
-		mirna_age2hamming.setdefault(float(mirna2age[mirna]),[]).append(max(mirna2family_hamming[mirna]))
+		mirna_age2hamming.setdefault(float(mirna2age[mirna]),[]).append(mean(mirna2family_hamming[mirna]))
 
 
-	corr =  spearmanr(family_average_age, mirna_max_hamming)
+	corr =  spearmanr(family_average_age, mirna_avg_hamming)
 	fle = open('txtfles/corrs.txt','a')
-	fle.write('miRNA Family Age vs The Maximum Hamming Distance\t')
+	fle.write('miRNA Family Age vs The Average Hamming Distance\t')
 	fle.write(str(corr) + '\n')
 	fle.close()
 	labels = sorted(mirna_age2hamming.keys())
@@ -858,8 +858,21 @@ def extrathings(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disea
 
 	print np.mean(percenta)
 
+	disease_mirnas_ages = [float(mirna2age[i]) for i in mirna2disease if i in mirna2age]
+	nondisease_mirnas_ages = [float(mirna2age[i]) for i in mirna2age if i not in mirna2disease]
+	print 'dis num', len(disease_mirnas_ages)
+	print 'non dis', len(nondisease_mirnas_ages)
+
+	print stats.mannwhitneyu(disease_mirnas_ages, nondisease_mirnas_ages)
 
 
+
+
+
+
+def figures(verified_dicts, mirna2age, age2mirna, disease2mirna, mirna2disease, age2disease, disease2age, family2members, member2family_name, gene2age):
+	print 'vir'
+	
 
 
 
